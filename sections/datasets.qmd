@@ -3,5 +3,12 @@ title: "Data Sets"
 format: html
 ---
 
+**[Tour de France](https://github.com/thomascamminady/LeTourDataSet)**
 
+Every cyclist and stage of the Tour de France (up to including 2022) in two CSV files.
+
+
+**[Alltime Athletics](https://github.com/thomascamminady/alltime_athletics_python)**
+
+Scrapes Peter Larsson's website Alltime Athletics.
 
