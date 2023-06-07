@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.306">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Thomas Camminady">
+<meta name="dcterms.date" content="2023-03-05">
+
+<title>DRTC - Comparing polars with pandas; my personal case study</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-fixed fullcontent">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">DRTC</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../datasets.html" rel="" target="">
+ <span class="menu-text">Data Sets</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html" rel="" target="">
+ <span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/thomascamminady" rel="" target=""><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/camminady/" rel="" target=""><i class="bi bi-linkedin" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Comparing polars with pandas; my personal case study</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">data science</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Thomas Camminady </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">March 5, 2023</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+<section id="preface" class="level2">
+<h2 class="anchored" data-anchor-id="preface">Preface</h2>
+<p>A couple of weeks ago I came across <code>polars</code>, a “<a href="https://www.pola.rs">Lightning-fast DataFrame library for Rust and Python</a>.” Since then, I have been playing around with it, trying to do some of my daily data analyses tasks with <code>polars</code> instead of <code>pandas</code>.</p>
+<p>I wanted to summarize my experience using <code>polars</code> for some of the work that I am doing by comparing my <code>polars</code> implementation of a data analysis pipeline to the equivalent pipeline using <code>pandas</code>. The emphasis here is on the fact that it is <em>my</em> implementation. I am sure that both the <code>polars</code> and the <code>pandas</code> implementation can be improved or are not necessarily following best practices. Moreover, I am barely fluent in <code>polars</code> at this point.</p>
+<p>Nevertheless, I think that I learned something for myself and have formed some opinion on things I like and dislike.</p>
+</section>
+<section id="setup" class="level2">
+<h2 class="anchored" data-anchor-id="setup">Setup</h2>
+<p>I want to briefly discuss the data that I am encountering for this case study, as well as the steps in the analysis that I am performing.</p>
+<p>The data I am using here is stored in a <code>parquet</code> file and the resulting data frame as approximately 40k rows with some 100 columns.</p>
+<p>In a simplified way, that data looks like the following frame. There are two keys which contain measurements (thing of the first key of measurements with recording device A and B, and the second key of different days of the recordings.) Each measurement is a time series with columns <code>t</code> and <code>time</code> representing the local and global time, respectively. At those points in time, signals <code>y1</code>, <code>y2</code>, <code>y3</code>, … are recorded.</p>
+<table class="table">
+<colgroup>
+<col style="width: 5%">
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 6%">
+<col style="width: 12%">
+<col style="width: 13%">
+<col style="width: 12%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: right;"></th>
+<th style="text-align: left;">key1</th>
+<th style="text-align: left;">key2</th>
+<th style="text-align: right;">t</th>
+<th style="text-align: right;">y1</th>
+<th style="text-align: right;">y2</th>
+<th style="text-align: right;">y3</th>
+<th style="text-align: left;">time</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: right;">0</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">U</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0.342872</td>
+<td style="text-align: right;">0.731905</td>
+<td style="text-align: right;">0.341766</td>
+<td style="text-align: left;">02/02/2023 15:07:21.68</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">V</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">0.25941</td>
+<td style="text-align: right;">0.493496</td>
+<td style="text-align: right;">0.434559</td>
+<td style="text-align: left;">02/02/2023 15:07:21.88</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">2</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">W</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">0.485956</td>
+<td style="text-align: right;">0.550383</td>
+<td style="text-align: right;">0.521913</td>
+<td style="text-align: left;">02/02/2023 15:07:22.28</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">3</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">X</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">0.210544</td>
+<td style="text-align: right;">0.406669</td>
+<td style="text-align: right;">0.540021</td>
+<td style="text-align: left;">02/02/2023 15:07:22.58</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">4</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">U</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">0.830654</td>
+<td style="text-align: right;">0.0386757</td>
+<td style="text-align: right;">0.635353</td>
+<td style="text-align: left;">02/02/2023 15:07:22.88</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">5</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">V</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">0.187675</td>
+<td style="text-align: right;">0.919848</td>
+<td style="text-align: right;">0.648574</td>
+<td style="text-align: left;">02/02/2023 15:07:23.28</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">6</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">W</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">0.506172</td>
+<td style="text-align: right;">0.93743</td>
+<td style="text-align: right;">0.554965</td>
+<td style="text-align: left;">02/02/2023 15:07:23.58</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">7</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">X</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">0.21009</td>
+<td style="text-align: right;">0.829689</td>
+<td style="text-align: right;">0.857681</td>
+<td style="text-align: left;">02/02/2023 15:07:23.88</td>
+</tr>
+</tbody>
+</table>
+<p>The code below obfuscates the real column names because I don’t want to give away sensitive information. However, It is worth outlining the steps that I am doing in the analysis. These steps include: - The conversion of time stamps to <code>datetime</code> formats. - Grouping data over keys and taking the mean value of the initial <code>N</code> samples of some columns. - Subtracting those means from different columns. - Computing rolling means of some columns and using those computed means to replace data in those rows where the mean is below a certain threshold. - Compute a bunch of derived columns that use one or more of the existing columns in some transformation. Those are row wise operations that require no grouping or anything fancy.</p>
+</section>
+<section id="using-polars" class="level2">
+<h2 class="anchored" data-anchor-id="using-polars">Using <code>polars</code></h2>
+<p>Here’s my implementation using <code>polars</code> for a total of 50 lines of code (LOC). I scan the data instead of reading it directly to run the whole pipeline in a lazy way. Only the call to <code>collect</code> at the end actually forces a computation. Internally, the operations can be optimized and made more efficient. I really like the chaining of operations. While it is somewhat verbose, it is consistent: Every new operation just gets chained to the existing operations with the <code>.keyword()</code> syntax. Computing averages over groups with the <code>.median().over()</code> syntax feels nicer than the <code>pandas</code> equivalent of <code>.groupby().transform()</code>.</p>
+<p>Creating new columns with the <code>.with_columns()</code> syntax has the downside, that you need to chain multiple calls to <code>.with_columns()</code> after another if you want to access a column that was created in a prior computation. This is also the reason why my <code>polars</code> implementation has roughly twice the number of LOC when compared with the <code>pandas</code> implementation.</p>
+<p>One downside that I saw is that, different from <code>pandas</code>, I do not get any kind of auto-complete for the columns that are in a data frame when using the <code>pl.col("column name")</code> syntax. In pandas, VSCode will allow you to auto-complete the column name if you start typing <code>df["column</code> and <code>column_name</code> will pop up as a suggestion if it is an element of the data frame.</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>lazy_frame <span class="op">=</span> (</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>    pl.scan_parquet(path)</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>    .rename(mapping<span class="op">=</span>{<span class="st">"column1"</span>: <span class="st">"criteria2"</span>})</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>    .with_columns(</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>        [</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>            pl.col(<span class="st">"time"</span>).<span class="bu">str</span>.strptime(pl.Datetime, fmt<span class="op">=</span><span class="st">"%m/</span><span class="sc">%d</span><span class="st">/%Y %H:%M:%S%.f"</span>),</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>            (pl.col(<span class="st">"y1"</span>) <span class="op">*</span> <span class="fl">16.7</span>).alias(<span class="st">"z1"</span>),</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>        ]</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>    )</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>    .with_columns(</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>        [</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>            pl.col(<span class="st">"y2"</span>).head(<span class="dv">20</span>).median().over(<span class="st">"criteria1"</span>, <span class="st">"criteria2"</span>).alias(<span class="st">"z3"</span>),</span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>            pl.col(<span class="st">"z1"</span>).head(<span class="dv">20</span>).median().over(<span class="st">"criteria1"</span>, <span class="st">"criteria2"</span>).alias(<span class="st">"z4"</span>),</span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>            pl.col(<span class="st">"t"</span>).<span class="bu">min</span>().over(<span class="st">"criteria1"</span>, <span class="st">"criteria2"</span>).alias(<span class="st">"z5"</span>),</span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>        ]</span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>    )</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>    .with_columns((pl.col(<span class="st">"z4"</span>) <span class="op">-</span> pl.col(<span class="st">"z3"</span>)).alias(<span class="st">"z6"</span>))</span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>    .with_columns(</span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>        [</span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>            (pl.col(<span class="st">"z1"</span>) <span class="op">-</span> pl.col(<span class="st">"z6"</span>)).alias(<span class="st">"y8"</span>),</span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>            (pl.col(<span class="st">"y2"</span>).rolling_min(<span class="dv">8</span>, center<span class="op">=</span><span class="va">True</span>) <span class="op">&lt;</span> <span class="dv">10</span>).alias(<span class="st">"z10"</span>),</span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>            (pl.col(<span class="st">"t"</span>) <span class="op">-</span> pl.col(<span class="st">"z5"</span>)).alias(<span class="st">"t"</span>),</span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>            pl.when(pl.col(<span class="st">"y2"</span>).rolling_min(<span class="dv">8</span>, center<span class="op">=</span><span class="va">True</span>) <span class="op">&lt;</span> <span class="dv">10</span>)</span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>            .then(<span class="bu">float</span>(<span class="st">"nan"</span>))</span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>            .otherwise(pl.col(<span class="st">"y2"</span>))</span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>            .alias((<span class="st">"z2"</span>)),</span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>        ]</span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a>    )</span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>    .with_columns(</span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a>        [</span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a>            (<span class="dv">2</span> <span class="op">*</span> <span class="fl">3.14159</span> <span class="op">/</span> <span class="dv">60</span> <span class="op">*</span> pl.col(<span class="st">"y2"</span>) <span class="op">*</span> pl.col(<span class="st">"y4"</span>)).alias(<span class="st">"z8"</span>),</span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>            (<span class="dv">2</span> <span class="op">*</span> <span class="fl">3.14159</span> <span class="op">/</span> <span class="dv">60</span> <span class="op">*</span> pl.col(<span class="st">"z2"</span>) <span class="op">*</span> pl.col(<span class="st">"y4"</span>)).alias((<span class="st">"z7"</span>)),</span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>            (<span class="dv">2</span> <span class="op">*</span> <span class="fl">3.14159</span> <span class="op">/</span> <span class="dv">60</span> <span class="op">*</span> pl.col(<span class="st">"y8"</span>) <span class="op">*</span> pl.col(<span class="st">"y4"</span>)).alias(<span class="st">"y9"</span>),</span>
+<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a>        ]</span>
+<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a>    )</span>
+<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a>    .with_columns((pl.col(<span class="st">"y9"</span>) <span class="op">-</span> pl.col(<span class="st">"z7"</span>)).alias(<span class="st">"Error"</span>))</span>
+<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a>    .with_columns(</span>
+<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a>        (<span class="dv">100</span> <span class="op">*</span> pl.col(<span class="st">"Error"</span>) <span class="op">/</span> pl.col(<span class="st">"z7"</span>)).alias(<span class="st">"Percentage Error"</span>),</span>
+<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a>    )</span>
+<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a>    .with_columns(((<span class="fl">0.5</span> <span class="op">*</span> pl.col(<span class="st">"y10"</span>) <span class="op">+</span> <span class="fl">0.5</span> <span class="op">*</span> pl.col(<span class="st">"y11"</span>))).alias(<span class="st">"z13"</span>))</span>
+<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a>    .with_columns((<span class="dv">313</span> <span class="op">*</span> pl.col(<span class="st">"y12"</span>) <span class="op">/</span> (pl.col(<span class="st">"z13"</span>) <span class="op">+</span> <span class="dv">273</span>)).alias(<span class="st">"z12"</span>))</span>
+<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a>    .select([<span class="st">"a list of some 10 columns that we want to preserve"</span>])</span>
+<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a>frame <span class="op">=</span> lazy_frame.collect()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="using-pandas" class="level2">
+<h2 class="anchored" data-anchor-id="using-pandas">Using <code>pandas</code></h2>
+<p>And here’s the <code>pandas</code> implementation for a total of 26 LOC. The data frames are equal up to a small difference in the way <code>rolling</code> is treated between <code>polars</code> and <code>pandas</code>. Overall, this implementation is much more dense. This implementation is not making use of laziness.</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> pd.read_parquet(path)</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>df[<span class="st">"time"</span>] <span class="op">=</span> pd.to_datetime(df[<span class="st">"time"</span>], <span class="bu">format</span><span class="op">=</span><span class="st">"%m/</span><span class="sc">%d</span><span class="st">/%Y %H:%M:%S.</span><span class="sc">%f</span><span class="st">"</span>)</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>df.rename(columns<span class="op">=</span>{<span class="st">"column1"</span>: <span class="st">"criteria2"</span>}, inplace<span class="op">=</span><span class="va">True</span>)</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>df[<span class="st">"z1"</span>] <span class="op">=</span> <span class="fl">16.7</span> <span class="op">*</span> df[<span class="st">"y1"</span>]</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>df[[<span class="st">"z3"</span>, <span class="st">"z4"</span>]] <span class="op">=</span> df.groupby([<span class="st">"criteria1"</span>, <span class="st">"criteria2"</span>])[[<span class="st">"y2"</span>, <span class="st">"z1"</span>]].transform(</span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>    <span class="kw">lambda</span> x: x.head(<span class="dv">20</span>).median()</span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>)[[<span class="st">"y2"</span>, <span class="st">"z1"</span>]]</span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>df[<span class="st">"z5"</span>] <span class="op">=</span> df.groupby([<span class="st">"criteria1"</span>, <span class="st">"criteria2"</span>])[<span class="st">"t"</span>].transform(<span class="kw">lambda</span> x: x.<span class="bu">min</span>())</span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>df[<span class="st">"z6"</span>] <span class="op">=</span> df[<span class="st">"z4"</span>] <span class="op">-</span> df[<span class="st">"z3"</span>]</span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>df[<span class="st">"y8"</span>] <span class="op">=</span> df[<span class="st">"z1"</span>] <span class="op">-</span> df[<span class="st">"z6"</span>]</span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>df[<span class="st">"z10"</span>] <span class="op">=</span> df[<span class="st">"y2"</span>].rolling(<span class="dv">8</span>, center<span class="op">=</span><span class="va">True</span>).<span class="bu">min</span>() <span class="op">&lt;</span> <span class="dv">10</span></span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>df[<span class="st">"z2"</span>] <span class="op">=</span> df[<span class="st">"y2"</span>].copy()</span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>df.loc[</span>
+<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>    df[<span class="st">"y2"</span>].rolling(<span class="dv">8</span>, center<span class="op">=</span><span class="va">True</span>).<span class="bu">min</span>() <span class="op">&lt;</span> <span class="dv">10</span>,</span>
+<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>    <span class="st">"z2"</span>,</span>
+<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a>] <span class="op">=</span> <span class="bu">float</span>(<span class="st">"nan"</span>)</span>
+<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a>df[<span class="st">"t"</span>] <span class="op">-=</span> df[<span class="st">"z5"</span>]</span>
+<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a>df[<span class="st">"z8"</span>] <span class="op">=</span> <span class="dv">2</span> <span class="op">*</span> <span class="fl">3.14159</span> <span class="op">/</span> <span class="dv">60</span> <span class="op">*</span> df[<span class="st">"y2"</span>] <span class="op">*</span> df[<span class="st">"y4"</span>]</span>
+<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a>df[<span class="st">"z7"</span>] <span class="op">=</span> <span class="dv">2</span> <span class="op">*</span> <span class="fl">3.14159</span> <span class="op">/</span> <span class="dv">60</span> <span class="op">*</span> df[<span class="st">"z2"</span>] <span class="op">*</span> df[<span class="st">"y4"</span>]</span>
+<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a>df[<span class="st">"y9"</span>] <span class="op">=</span> <span class="dv">2</span> <span class="op">*</span> <span class="fl">3.14159</span> <span class="op">/</span> <span class="dv">60</span> <span class="op">*</span> df[<span class="st">"y8"</span>] <span class="op">*</span> df[<span class="st">"y4"</span>]</span>
+<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a>df[<span class="st">"Error"</span>] <span class="op">=</span> df[<span class="st">"y9"</span>] <span class="op">-</span> df[<span class="st">"z7"</span>]</span>
+<span id="cb2-22"><a href="#cb2-22" aria-hidden="true" tabindex="-1"></a>df[<span class="st">"Percentage Error"</span>] <span class="op">=</span> <span class="dv">100</span> <span class="op">*</span> df[<span class="st">"Error"</span>] <span class="op">/</span> df[<span class="st">"z7"</span>]</span>
+<span id="cb2-23"><a href="#cb2-23" aria-hidden="true" tabindex="-1"></a>df[<span class="st">"z13"</span>] <span class="op">=</span> <span class="fl">0.5</span> <span class="op">*</span> df[<span class="st">"y10"</span>] <span class="op">+</span> <span class="fl">0.5</span> <span class="op">*</span> df[<span class="st">"y11"</span>]</span>
+<span id="cb2-24"><a href="#cb2-24" aria-hidden="true" tabindex="-1"></a>df[<span class="st">"z12"</span>] <span class="op">=</span> <span class="dv">313</span> <span class="op">*</span> df[<span class="st">"y12"</span>] <span class="op">/</span> (df[<span class="st">"z13"</span>] <span class="op">+</span> <span class="dv">273</span>)</span>
+<span id="cb2-25"><a href="#cb2-25" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> df[[<span class="st">"a list of some 10 columns that we want to preserve"</span>]]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="timing-results" class="level2">
+<h2 class="anchored" data-anchor-id="timing-results">Timing results</h2>
+<p>Ultimately, a promise of <code>polars</code> is its speed. Running both examples 10 times gives the following timing results:</p>
+<pre><code>polars: 0.021s +- 0.001s
+pandas: 0.181s +- 0.006s
+ratios: 8.700  +- 0.375</code></pre>
+<p>That is, the <code>polars</code> implementation runs about 8 to 9 times faster on my 2022 MacBook Pro with an M1 Max chip and 32 GB of RAM. I am using <code>python 3.10</code>, <code>pandas 1.4.3</code> and <code>polars 0.16.9</code>. Additionally, I created a larger <code>parquet</code> file by just concatenating the original data frame together for one hundred times, i.e.</p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> pd.read_parquet(<span class="st">"./parquet/reduced_data.parquet"</span>)</span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>largedf <span class="op">=</span> pd.concat([df]<span class="op">*</span><span class="dv">100</span>)</span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>largedf.to_parquet(<span class="st">"./parquet/100reduced_data.parquet"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>This is of course not representing an actual dataset that is 100 times larger, but it at least shows a trend of the performance for a potentially larger dataset. Here we’re getting the following timings</p>
+<pre><code>polars: 1.028s +- 0.026s
+pandas: 18.813s +- 0.403s
+ratios: 18.315  +- 0.490</code></pre>
+<p>The ratio between both implementations has grown when going from 40k rows to 4.4M rows. (Interestingly, the files sizes of the <code>parquet</code> files are 11MB and 421MB, respectively. Not an increase by 100x.)</p>
+</section>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>I want to summarize two things, performance and writing code.</p>
+<p>Performance wise, <em>my</em> <code>polars</code> implementation is a factor 8 to 9 faster for <em>my</em> example. It seems like this might be a lower bound when moving to larger files but I will keep an eye on that. Given that I am only writing <code>polars</code> code since a month, I am happy with this performance gain.</p>
+<p>From an implementation point of view, I was much faster using <code>pandas</code>. I have been using <code>pandas</code> for two years now and I guess that’s just showing here. I really appreciate the auto complete feature for the column names which is a feature that I miss when using <code>polars</code>.</p>
+<p>I do like the chaining of operations, but it makes the code longer and it is a bit annoying having to write code like this (using <code>pandas</code>):</p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>df[<span class="st">"y"</span>] <span class="op">=</span> <span class="dv">123</span> <span class="op">+</span> df[<span class="st">"x"</span>]</span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>df[<span class="st">"z"</span>] <span class="op">=</span> <span class="dv">456</span> <span class="op">+</span> df[<span class="st">"y"</span>]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>in this way (using <code>polars</code>):</p>
+<div class="sourceCode" id="cb7"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>df.with_columns((pl.col(<span class="st">"x"</span>) <span class="op">+</span> <span class="dv">123</span>).alias(<span class="st">"y"</span>))</span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>    .with_columns((pl.col(<span class="st">"y"</span>) <span class="op">+</span> <span class="dv">456</span>).alias(<span class="st">"z"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Especially with long column names and <code>black</code> formatting, this can double the number of LOC.</p>
+<p>Overall I am quite happy with my <code>polars</code> experience and I will continue using it for project in the futures. One thing I hope for, is that <code>altair</code> can be used with <code>polars</code> data frames instead of needing to call <code>.to_pandas()</code> when passing the data to a chart.</p>
+<p>Thanks for reading :)</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
