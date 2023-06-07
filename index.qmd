@@ -1,5 +1,5 @@
 ---
-title: "CV -- Thomas Camminady"
+title: "CV"
 about:
   template: solana
 ---

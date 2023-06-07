@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "DRTC"
+  title: "Thomas Camminady"
   navbar:
     right:
       - blog.qmd
