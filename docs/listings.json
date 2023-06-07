@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/world-records/world_records.html",
       "/posts/polars-vs-pandas/index.html",
       "/posts/logitech-issue/index.html"
     ]

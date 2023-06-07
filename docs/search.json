@@ -42,6 +42,13 @@
     "text": "References / Ressources\nI looked for this issue and found some recent posts / threads on reddit: - MX mechanical sleeps - MX keys randomly disconnecting\nThis website explains how to factory reset your keyboard such that all previously paired devices are forgotten: - Factory reset Logitech MX Keys Keyboard (Note: The sequence is esc O esc O esc B, where O is the fifteenth letter of the alphabet, not the number 0.)"
   },
   {
+    "objectID": "posts/world-records/world_records.html",
+    "href": "posts/world-records/world_records.html",
+    "title": "Track and Field World Record Progression",
+    "section": "",
+    "text": "An overview of how various track and field world records have progressed over time."
+  },
+  {
     "objectID": "posts/polars-vs-pandas/index.html",
     "href": "posts/polars-vs-pandas/index.html",
     "title": "Comparing polars with pandas; my personal case study",
@@ -95,6 +102,6 @@
     "href": "index.html",
     "title": "Blog",
     "section": "",
-    "text": "Comparing polars with pandas; my personal case study\n\n\n\n\n\n\n\n\n\n\n\n\nMar 5, 2023\n\n\nThomas Camminady\n\n\n\n\n\n\n  \n\n\n\n\nLogitech MX Mechanical Mini for Mac: Issues with M1 Mac\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 22, 2023\n\n\nThomas Camminady\n\n\n\n\n\n\nNo matching items"
+    "text": "Track and Field World Record Progression\n\n\n\n\n\n\n\n\n\n\n\n\nJun 7, 2023\n\n\nThomas Camminady\n\n\n\n\n\n\n  \n\n\n\n\nComparing polars with pandas; my personal case study\n\n\n\n\n\n\n\n\n\n\n\n\nMar 5, 2023\n\n\nThomas Camminady\n\n\n\n\n\n\n  \n\n\n\n\nLogitech MX Mechanical Mini for Mac: Issues with M1 Mac\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 22, 2023\n\n\nThomas Camminady\n\n\n\n\n\n\nNo matching items"
   }
 ]
