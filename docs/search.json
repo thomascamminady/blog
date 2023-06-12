@@ -28,13 +28,6 @@
     "text": "References / Ressources\nI looked for this issue and found some recent posts / threads on reddit: - MX mechanical sleeps - MX keys randomly disconnecting\nThis website explains how to factory reset your keyboard such that all previously paired devices are forgotten: - Factory reset Logitech MX Keys Keyboard (Note: The sequence is esc O esc O esc B, where O is the fifteenth letter of the alphabet, not the number 0.)"
   },
   {
-    "objectID": "posts/world-records/world_records.html",
-    "href": "posts/world-records/world_records.html",
-    "title": "Track and Field World Record Progression",
-    "section": "",
-    "text": "An overview of how various track and field world records have progressed over time."
-  },
-  {
     "objectID": "posts/polars-vs-pandas/index.html",
     "href": "posts/polars-vs-pandas/index.html",
     "title": "Comparing polars with pandas; my personal case study",
@@ -103,5 +96,12 @@
     "title": "Blog",
     "section": "",
     "text": "Track and Field World Record Progression\n\n\n\n\n\n\n\n\n\n\n\n\nJun 7, 2023\n\n\nThomas Camminady\n\n\n\n\n\n\n  \n\n\n\n\nComparing polars with pandas; my personal case study\n\n\n\n\n\n\n\n\n\n\n\n\nMar 5, 2023\n\n\nThomas Camminady\n\n\n\n\n\n\n  \n\n\n\n\nLogitech MX Mechanical Mini for Mac: Issues with M1 Mac\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 22, 2023\n\n\nThomas Camminady\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/world-records/records.html",
+    "href": "posts/world-records/records.html",
+    "title": "Track and Field World Record Progression",
+    "section": "",
+    "text": "Code\nimport altair as alt\nimport polars as pl\nfrom alltime_athletics_python.io import download_data\nfrom alltime_athletics_python.io import import_running_only_events\n\n# download_data()\ndf = import_running_only_events(\"./data\")\n\n\n\n\nCode\nworld_records = (\n    df.filter(pl.col(\"event\").str.contains(\"walk\") == False)\n    .filter(pl.col(\"event type\") == \"standard\")\n    .sort(\"sex\", \"distance\", \"event\", \"date of event\")\n    .with_columns(\n        pl.col(\"result seconds\")\n        .cummin()\n        .over(\"sex\", \"event\")\n        .alias(\"world record time\")\n    )\n    .filter(pl.col(\"result seconds\") == pl.col(\"world record time\"))\n    .groupby(\"sex\", \"event\", \"result seconds\", maintain_order=True)\n    .first()\n    .with_columns(\n        (\n            100\n            * pl.col(\"result seconds\")\n            / pl.col(\"result seconds\").min().over(\"sex\", \"event\")\n        ).alias(\"percent of wr\")\n    )\n)\n\nworld_records = pl.concat(\n    [\n        world_records,\n        world_records.filter(pl.col(\"rank\") == 1).with_columns(\n            [\n                pl.lit(\"2023-06-07\")\n                .str.strptime(pl.Date, format=\"%Y-%m-%d\")\n                .alias(\"date of event\"),\n                pl.lit(-1).cast(pl.Int64).alias(\"rank\"),\n            ]\n        ),\n    ]\n).with_columns(pl.col(\"sex\").apply(lambda s: s.title()))\n\ndata = world_records.select(\n    \"date of event\", \"percent of wr\", \"event\", \"sex\", \"name\", \"rank\"\n).to_pandas()\nlegend_selection = alt.selection_point(fields=[\"event\"], bind=\"legend\")\nlegend_selection_empty = alt.selection_point(\n    fields=[\"event\"], bind=\"legend\", empty=False\n)\n\nbase = (\n    alt.Chart(data)\n    .encode(\n        x=alt.X(\"date of event:T\")\n        .scale(domain=(\"1950-01-01\", \"2026-01-01\"))\n        .title(\"Year\"),\n        y=alt.Y(\"percent of wr:Q\")\n        .scale(domain=(100, 110))\n        .axis(values=list(range(100, 120, 2)))\n        .title(\"Time in % of current WR\"),\n        color=alt.Color(\n            \"event:N\",\n            sort=world_records.sort(\"distance\")[\"event\"]\n            .unique(maintain_order=True)\n            .to_list(),\n        )\n        .scale(scheme=\"dark2\")\n        .title(\"Event\"),\n        # strokeDash=\"sex:N\",\n        opacity=alt.condition(legend_selection, alt.value(1), alt.value(0)),\n    )\n    .properties(width=800, height=500)\n    .add_params(legend_selection)\n    .add_params(legend_selection_empty)\n)\n\nbase_no_endpoint = base.transform_filter(alt.datum[\"rank\"] &gt; 0)\n\ntext = base_no_endpoint.encode(\n    text=\"name:N\",\n    opacity=alt.condition(legend_selection_empty, alt.value(0.9), alt.value(0.0)),\n)\n\n\nchart = (\n    alt.layer(\n        base.mark_line(interpolate=\"step-after\", clip=True, strokeWidth=3),\n        base_no_endpoint.mark_point(filled=True, clip=True, size=100),\n        text.mark_text(clip=True, fontSize=14, angle=270 + 45, align=\"left\", dx=15),\n    )\n    .facet(\n        row=alt.Row(\"sex:N\").title(\"\").header(labelAngle=0),\n        title=\"World Record Progression\",\n    )\n    .resolve_scale(x=\"independent\")\n)\nchart\n\n\n\n\n\n\n\nFigure 1: Progression of world records.\n\n\n\nThis is some text. Some more text"
   }
 ]

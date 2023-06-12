@@ -1,0 +1,646 @@
+,0,1,2,3,4,5,6,7,8
+0,1,8.99A,4.4,Mike Powell,USA,10.11.63,1,Sestriere,21.07.1992
+1,2,8.96A@,1.2,Iván Pedroso,CUB,17.12.72,1,Sestriere,29.07.1995
+2,3,8.95A,3.9,Mike Powell,USA,10.11.63,1,Sestriere,31.07.1994
+3,4,8.92,3.3,Juan Miguel Echevarría,CUB,11.08.98,1,La Habana,10.03.2019
+4,5,8.91,3.0,Carl Lewis,USA,01.07.61,2,Tokyo,30.08.1991
+5,6,8.90,3.7,Mike Powell,USA,10.11.63,1,Modesto,16.05.1992
+6,7,8.83,2.1,Juan Miguel Echevarría,CUB,11.08.98,1,Stockholm,10.06.2018
+7,8,8.79,3.0,Iván Pedroso,CUB,17.12.72,1,La Habana,21.05.1992
+8,9,8.78,3.1,Fabrice Lapierre,AUS,17.10.83,1,Perth,18.04.2010
+9,10,8.77,3.9,Carl Lewis,USA,01.07.61,1,Westwood,18.05.1985
+10,10,8.77,3.4,Carl Lewis,USA,01.07.61,1,Walnut,26.04.1987
+11,12,8.75,2.1,Carl Lewis,USA,01.07.61,1,Indianapolis,16.08.1987
+12,13,8.73,4.6,Carl Lewis,USA,01.07.61,q,Sacramento,19.06.1981
+13,13,8.73,3.2,Carl Lewis,USA,01.07.61,q,Indianapolis,17.06.1983
+14,13,8.73A,2.6,Mike Powell,USA,10.11.63,1,Sestriere,31.07.1991
+15,13,8.73,4.8,Iván Pedroso,CUB,17.12.72,1,Madrid,20.06.1995
+16,17,8.72,2.2,Carl Lewis,USA,01.07.61,1,New York City,24.05.1992
+17,17,8.72A,3.9,Carl Lewis,USA,01.07.61,2,Sestriere,31.07.1994
+18,19,8.70,2.5,Iván Pedroso,CUB,17.12.72,1,Padova,16.07.1995
+19,20,8.68,4.1,Mike Powell,USA,10.11.63,1,Knoxville,18.06.1994
+20,20,8.68,4.9,James Beckford,JAM,09.01.75,1,Odessa,20.05.1995
+21,20,8.68,3.7,Marquis Dendy,USA,23.02.92,1,Eugene,25.06.2015
+22,23,8.67,3.3,Carl Lewis,USA,01.07.61,1,Eugene,20.06.1986
+23,24,8.66,2.4,Larry Myricks,USA,10.03.56,1,Walnut,22.04.1989
+24,24,8.66A,4.0,Joe Greene,USA,17.02.67,2,Sestriere,21.07.1992
+25,26,8.65,3.3,Irving Saladino,PAN,23.01.83,1,Athínai,03.07.2006
+26,27,8.64A,3.1,Larry Myricks,USA,10.03.56,1,Air Force Academy,02.07.1983
+27,27,8.64,3.1,Mike Powell,USA,10.11.63,1,Modesto,14.05.1994
+28,27,8.64,3.5,Kareem Streete-Thompson,USA,30.03.73,2,Knoxville,18.06.1994
+29,30,8.63,2.1,Carl Lewis,USA,01.07.61,1,Westwood,10.05.1981
+30,30,8.63,3.9,Mike Conley,USA,05.10.62,2,Eugene,20.06.1986
+31,32,8.61,3.2,Larry Myricks,USA,10.03.56,1,Shizuoka,03.05.1987
+32,32,8.61,2.6,James Beckford,JAM,09.01.75,1,Rio de Janeiro,04.05.1997
+33,32,8.61,6.3,James Beckford,JAM,09.01.75,1,Marrubia,12.09.1998
+34,35,8.59,3.3,Dwight Phillips,USA,01.10.77,q,Helsinki,12.08.2005
+35,35,8.59,2.9,Jeffrey Henderson,USA,19.02.89,1,Eugene,03.07.2016
+36,37,8.58,2.4,Larry Myricks,USA,10.03.56,2,Indianapolis,16.08.1987
+37,37,8.58,3.7,Erick Walder,USA,05.11.71,1,Starkville,16.05.1992
+38,37,8.58A,2.7,Kareem Streete-Thompson,USA,30.03.73,3,Sestriere,31.07.1994
+39,40,8.57,5.2,Jason Grimes,USA,10.09.59,1,Durham,27.06.1982
+40,40,8.57,,Joe Greene,USA,17.02.67,2,Modesto,16.05.1992
+41,40,8.57,2.2,Dwight Phillips,USA,01.10.77,1,Eugene,27.06.2009
+42,40,8.57,3.6,Fabrice Lapierre,AUS,17.10.83,1,Madrid,04.07.2009
+43,44,8.56,8.9,Carl Lewis,USA,01.07.61,1,Sacramento,21.07.1984
+44,45,8.55,2.2,Larry Myricks,USA,10.03.56,1,Modesto,10.05.1986
+45,45,8.55A,2.9,Mike Conley,USA,05.10.62,3,San José,26.06.1987
+46,45,8.55A,4.3,Mike Powell,USA,10.11.63,1,San José,27.05.1989
+47,45,8.55,3.6,Mike Powell,USA,10.11.63,1,Sacramento,18.06.1995
+48,45,8.55,2.3,Tajay Gayle,JAM,02.08.96,1,Stockholm,04.07.2021
+49,50,8.54,2.9,Iván Pedroso,CUB,17.12.72,1,São Paulo,14.05.1995
+50,50,8.54,4.0,Iván Pedroso,CUB,17.12.72,1,San Juan,27.06.1997
+51,50,8.54,2.2,Erick Walder,USA,05.11.71,1,Salamanca,10.07.1998
+52,50,8.54,4.1,Jeffrey Henderson,USA,19.02.89,1,Toronto,22.07.2015
+53,54,8.53,2.7,Mike Conley,USA,05.10.62,1,Indianapolis,16.06.1985
+54,54,8.53,4.8,Mike Powell,USA,10.11.63,q,Eugene,18.06.1993
+55,54,8.53,2.2,Mike Powell,USA,10.11.63,1,Eugene,19.06.1993
+56,54,8.53,4.9,Kevin Dilworth,USA,14.02.74,1,Fort-de-France,27.04.2002
+57,58,8.52,3.6,Mike Powell,USA,10.11.63,2,Houston,17.06.1989
+58,58,8.52,3.5,Jeffrey Henderson,USA,19.02.89,1,Sacramento,29.06.2014
+59,58,8.52,4.5,Tajay Gayle,JAM,02.08.96,1,Kingston,11.07.2020
+60,61,8.51,5.3,Jason Grimes,USA,10.09.59,1,Indianapolis,03.07.1982
+61,61,8.51,2.3,Irving Saladino,PAN,23.01.83,1,São Paulo,02.04.2005
+62,61,8.51,3.7,Ignisious Gaisah,GHA,20.06.83,1,Bambous,09.08.2006
+63,64,8.50,2.4,Carl Lewis,USA,01.07.61,1,Westwood,07.08.1982
+64,64,8.50,4.4,Jason Grimes,USA,10.09.59,2,Indianapolis,16.06.1985
+65,64,8.50,2.3,Mike Powell,USA,10.11.63,1,Alcorcón,03.06.1993
+66,64,8.50,3.7,Mike Powell,USA,10.11.63,1,Azusa,23.04.1994
+67,64,8.50,2.4,Erick Walder,USA,05.11.71,1,Oslo,30.06.1999
+68,64,8.50,4.4,Greg Rutherford,GBR,17.11.86,1,Austin,29.04.2017
+69,70,8.49,2.6,Ralph Boston,USA,09.05.39,1,Los Angeles,12.09.1964
+70,70,8.49,2.2,Mike Powell,USA,10.11.63,1,Modesto,11.05.1991
+71,70,8.49,4.1,Mike Powell,USA,10.11.63,1,Sevilla,03.06.1995
+72,70,8.49,4.5,Stanislav Tarasenko,RUS,23.07.66,2,Madrid,20.06.1995
+73,70,8.49,3.7,Jarrion Lawson,USA,06.05.94,1,Sacramento,25.06.2017
+74,75,8.48,4.6,Llewellyn Starks,USA,10.02.67,3,Houston,17.06.1989
+75,75,8.48,2.2,Kirill Sosunov,RUS,01.11.75,1,Oristano,18.09.1995
+76,75,8.48,3.4,Peter Burge,AUS,03.07.74,1,Gold Coast,10.09.2000
+77,75,8.48,5.6,Miguel Pate,USA,13.06.79,1,Fort Worth,21.04.2001
+78,75,8.48,2.1,Brian Johnson,USA,25.03.80,1,Fort-de-France,08.05.2008
+79,75,8.48,2.8,Lamont Marcell Jacobs,ITA,26.09.94,1,Bressanone,10.06.2016
+80,81,8.47,3.4,Larry Myricks,USA,10.03.56,3,Eugene,20.06.1986
+81,81,8.47,4.5,Iván Pedroso,CUB,17.12.72,q,Mar Del Plata,18.03.1995
+82,81,8.47,2.5,Savanté Stringfellow,USA,06.11.78,1,Eugene,22.06.2001
+83,81,8.47,3.9,Dwight Phillips,USA,01.10.77,2,Fort-de-France,08.05.2008
+84,85,8.46,3.4,Randy Williams,USA,23.08.53,1,Eugene,18.05.1973
+85,85,8.46,,Vernon George,USA,06.10.64,1,Houston,21.05.1989
+86,85,8.46,,Vernon George,USA,06.10.64,1,Blaine,23.06.1990
+87,85,8.46,3.1,Erick Walder,USA,05.11.71,2,Eugene,19.06.1993
+88,85,8.46,2.1,James Beckford,JAM,09.01.75,1,Salamanca,05.07.1996
+89,85,8.46,2.1,James Beckford,JAM,09.01.75,1,Padova,07.07.1996
+90,85,8.46,3.2,Irving Saladino,PAN,23.01.83,1,Eugene,03.07.2010
+91,92,8.45,2.3,Carl Lewis,USA,01.07.61,1,New York City,22.05.1994
+92,92,8.45,2.4,Mike Powell,USA,10.11.63,1,Sankt Peterburg,26.07.1994
+93,92,8.45,6.0,Carl Lewis,USA,01.07.61,2,Sacramento,18.06.1995
+94,92,8.45,4.2,Godfrey Khotso Mokoena,RSA,06.03.85,2,Bambous,09.08.2006
+95,92,8.45,3.6,Jacob Fincham-Dukes,GBR,12.01.97,1cA,Austin,26.03.2022
+96,97,8.44,,Keith Talley,USA,28.01.64,q,Odessa,16.05.1985
+97,97,8.44,2.6,Mike Powell,USA,10.11.63,q,Indianapolis,17.07.1988
+98,97,8.44,3.9,Mike Powell,USA,10.11.63,1,Sapporo,03.09.1988
+99,97,8.44,2.2,Joe Greene,USA,17.02.67,2,Villeneuve d'Ascq,29.06.1997
+100,10,8.43,3.1,Cheikh Tidiane Touré,FRA,25.01.70,1,Nice,06.08.2000
+101,10,8.43,4.0,Irving Saladino,PAN,23.01.83,3,Madrid,04.07.2009
+102,10,8.43,2.3,Marquis Dendy,USA,23.02.92,1,Eugene,10.06.2015
+103,10,8.43,2.4,Thobias Montler,SWE,15.02.96,1,Torremolinos,23.05.2019
+104,10,8.42,,Anthony Bailous,USA,06.04.65,q,Odessa,16.05.1985
+105,10,8.42,2.3,Llewellyn Starks,USA,10.02.67,1,Bologna,07.09.1991
+106,10,8.42A,4.5,Milan Gombala,CZE,29.01.68,3,Sestriere,21.07.1992
+107,10,8.42,4.5,Kareem Streete-Thompson,USA,30.03.73,1,Philadelphia,28.04.1995
+108,10,8.42,2.8,Dwight Phillips,USA,01.10.77,1,Hengelo,30.05.2010
+109,10,8.42,2.5,Mike Hartfield,USA,29.03.90,3,Eugene,25.06.2015
+110,10,8.42,5.0,Will Claye,USA,13.06.91,3,Eugene,03.07.2016
+111,11,8.41,4.3,Shamil Abbyasov,KGZ,16.04.57,2,Indianapolis,03.07.1982
+112,11,8.41,2.9,Lutz Dombrowski,GDR,25.06.59,1,Athínai,09.09.1982
+113,11,8.41A,2.2,Jason Grimes,USA,10.09.59,2,Air Force Academy,02.07.1983
+114,11,8.41,3.3,André Ester,USA,27.04.65,1,Austin,04.04.1987
+115,11,8.41A,2.1,Larry Myricks,USA,10.03.56,2,San José,27.05.1989
+116,11,8.41A,2.1,Joe Greene,USA,17.02.67,1,Provo,02.06.1989
+117,11,8.41,3.2,Jaime Jefferson,CUB,17.01.62,2,Salamanca,13.07.1992
+118,11,8.41,2.2,Iván Pedroso,CUB,17.12.72,2,Alcorcón,03.06.1993
+119,11,8.41A,3.2,Nelson Carlos Ferreira,BRA,01.01.73,1,Medellín,10.05.1996
+120,11,8.41,2.6,Hussein Taher Al-Sabee,KSA,14.11.79,1,Carson,22.05.2004
+121,11,8.41,3.8,Tommy Evilä,FIN,06.04.80,1,Göteborg,08.09.2007
+122,11,8.41,3.5,Kim Duk-hyung,KOR,08.12.85,1,Beograd,12.07.2009
+123,11,8.41A,2.1,Luvo Manyonga,RSA,18.11.91,1,Pretoria,17.03.2018
+124,12,8.40,4.3,Henry Hines,USA,12.02.49,1,Modesto,27.05.1972
+125,12,8.40,,Jason Grimes,USA,10.09.59,1,Knoxville,19.05.1984
+126,12,8.40,2.6,Mike Powell,USA,10.11.63,1,Modesto,05.05.1990
+127,12,8.40,3.2,Kareem Streete-Thompson,CAY,30.03.73,1,Houston,05.05.1991
+128,12,8.40,2.8,Mike Powell,USA,10.11.63,1,Helsinki,27.06.1991
+129,12,8.40,2.1,Anthuan Maybank,USA,30.12.69,1,Des Moines,24.04.1993
+130,12,8.40,3.4,Konstandínos Koukodimos,GRE,14.09.69,1,Valencia,11.06.1994
+131,12,8.40,,Joe Greene,USA,17.02.67,3,New York City,21.05.1995
+132,12,8.40,2.5,Erick Walder,USA,05.11.71,3,Fukuoka,13.09.1997
+133,12,8.40,3.9,Savanté Stringfellow,USA,06.11.78,1cA,Austin,06.04.2001
+134,12,8.40,3.3,Darvis Patton,USA,04.12.77,1,Fort Worth,20.04.2002
+135,12,8.40,2.6,John Moffitt,USA,12.12.80,1,Austin,10.06.2004
+136,12,8.40,2.4,Andrew Howe,ITA,12.05.85,1,Padova,27.07.2007
+137,12,8.40,4.0,Ngonidzashe Makusha,ZIM,11.03.87,1,Austin,08.04.2011
+138,12,8.40,2.5,Yahya Berrabah,MAR,13.10.81,2,Stockholm,29.07.2011
+139,12,8.40,2.9,Ruswahl Samaai,RSA,25.09.91,1,Durban,23.06.2016
+140,12,8.40,2.7,Luvo Manyonga,RSA,18.11.91,,Taipei,26.05.2018
+141,14,8.39A,3.2,Bob Beamon,USA,29.08.46,1,Echo Summit,14.09.1968
+142,14,8.39,2.7,Nenad Stekic,SRB,07.03.51,1,Torino,02.06.1976
+143,14,8.39,6.2,Gary Honey,AUS,26.07.59,2,Sacramento,21.07.1984
+144,14,8.39,3.5,Edrick Floréal,CAN,05.10.66,1,Fayetteville,22.04.1989
+145,14,8.39,3.3,Mike Powell,USA,10.11.63,1,Birmingham,23.06.1989
+146,14,8.39,5.7,Yussuf Alli,NGR,28.07.60,1,Auckland,01.02.1990
+147,14,8.39,2.4,Chen Zunrong,CHN,25.08.62,1,Shizuoka,05.05.1992
+148,14,8.39,2.3,Kareem Streete-Thompson,USA,30.03.73,q,Austin,03.06.1992
+149,14,8.39,2.5,Mike Powell,USA,10.11.63,2,Lausanne,06.07.1994
+150,14,8.39,2.8,James Beckford,JAM,09.01.75,1,Jena,05.06.1999
+151,14,8.39,2.5,James Beckford,JAM,09.01.75,1,Malles Venosta,15.07.2000
+152,14,8.39,3.3,Yago Lamela,ESP,24.07.77,1,Rivas-Viciamadrid,12.06.2003
+153,14,8.39,3.1,Miguel Pate,USA,13.06.79,3,Fort-de-France,08.05.2008
+154,14,8.39,3.2,Mike Hartfield,USA,29.03.90,5,Eugene,03.07.2016
+155,14,8.39,3.1,Marquis Dendy,USA,23.02.92,2,Sacramento,25.06.2017
+156,14,8.39,3.4,Jeffrey Henderson,USA,19.02.89,2,Stockholm,10.06.2018
+157,15,8.38,2.6,Mike Conley,USA,05.10.62,3,Indianapolis,19.06.1983
+158,15,8.38,2.3,Robert Emmiyan,ARM,16.02.65,1,Oslo,17.07.1985
+159,15,8.38,2.6,Mike Powell,USA,10.11.63,2,Walnut,22.04.1989
+160,15,8.38,3.3,Erick Walder,USA,05.11.71,1,Knoxville,15.05.1993
+161,15,8.38,2.8,Mitchell Watt,AUS,25.03.88,4,Madrid,04.07.2009
+162,15,8.38,3.1,Irving Saladino,PAN,23.01.83,1,Hengelo,29.05.2011
+163,15,8.38,2.2,Christian Reif,GER,24.10.84,1,Bad Langensalza,02.07.2011
+164,16,8.37,2.6,Ralph Boston,USA,09.05.39,1,New York City,03.07.1964
+165,16,8.37A,3.8,Ralph Boston,USA,09.05.39,1,Flagstaff,29.09.1968
+166,16,8.37,3.5,Arnie Robinson,USA,07.04.48,1,Eugene,25.06.1976
+167,16,8.37,2.8,Jacques Rousseau,FRA,10.03.51,1,Lille,26.06.1976
+168,16,8.37,,Sergey Rodin,RUS,28.05.63,1,Moskva,06.07.1984
+169,16,8.37,3.3,Larry Myricks,USA,10.03.56,2,Walnut,26.04.1987
+170,16,8.37,5.1,Giovanni Evangelisti,ITA,11.09.61,1,San Giovanni Vald,21.05.1988
+171,16,8.37,,André Ester,USA,27.04.65,2,Blaine,23.06.1990
+172,16,8.37,,Mike Powell,USA,10.11.63,1,Walnut,20.04.1991
+173,16,8.37,3.6,Iván Pedroso,CUB,17.12.72,1,Alcala de Henares,10.07.1993
+174,16,8.37A,3.8,Larry Myricks,USA,10.03.56,1,Sestriere,28.07.1993
+175,16,8.37,2.1,Mike Powell,USA,10.11.63,1,Oslo,22.07.1994
+176,16,8.37,3.7,Robert Howard,USA,26.11.75,1,Amherst,04.06.1998
+177,16,8.37,3.0,Louis Tsátoumas,GRE,12.02.82,1,Haniá,28.06.2004
+178,16,8.37,5.2,Issam Nima,ALG,08.04.79,3,Bambous,09.08.2006
+179,16,8.37,2.4,Dwight Phillips,USA,01.10.77,1,Zaragoza,28.07.2007
+180,16,8.37,3.6,Marquise Goodwin,USA,19.11.90,4,Eugene,25.06.2015
+181,16,8.37,2.8,Jarvis Gotch,USA,25.03.92,1,Chula Vista,27.05.2017
+182,16,8.37,4.1,J. Jeswin Aldrin,IND,24.12.01,1,Thenhipalam,03.04.2022
+183,18,8.36,5.2,Ralph Spry,USA,16.06.60,1,Houston,03.06.1983
+184,18,8.36,3.0,Larry Myricks,USA,10.03.56,1,Walnut,29.04.1984
+185,18,8.36,2.8,Mike Powell,USA,10.11.63,3,Indianapolis,18.07.1988
+186,18,8.36,8.5,Kareem Streete-Thompson,USA,30.03.73,3,Sacramento,18.06.1995
+187,18,8.36,3.1,James Beckford,JAM,09.01.75,1,Glasgow,27.08.2005
+188,18,8.36,2.3,Dwight Phillips,USA,01.10.77,1c2,Indianapolis,22.06.2007
+189,18,8.36,2.8,Louis Tsátoumas,GRE,12.02.82,1,Thessaloníki,09.07.2008
+190,18,8.36,3.4,Raymond Higgs,BAH,24.01.91,1,Baton Rouge,12.05.2012
+191,18,8.36,2.4,Jarrion Lawson,USA,06.05.94,5,Eugene,25.06.2015
+192,18,8.36,2.8,Greg Rutherford,GBR,17.11.86,1,Paradise Valley,15.05.2016
+193,18,8.36,5.2,Fabrice Lapierre,AUS,17.10.83,2,Rabat,22.05.2016
+194,18,8.36,3.3,Luvo Manyonga,RSA,18.11.91,1,Stockholm,18.06.2017
+195,18,8.36,5.0,Damarcus Simpson,USA,14.07.93,3,Sacramento,25.06.2017
+196,19,8.35,2.1,Arnie Robinson,USA,07.04.48,1,Fresno,10.05.1975
+197,19,8.35,2.2,Carl Lewis,USA,01.07.61,1,Austin,06.06.1980
+198,19,8.35,4.3,Larry Myricks,USA,10.03.56,4,Indianapolis,19.06.1983
+199,19,8.35,4.4,Giovanni Evangelisti,ITA,11.09.61,2,Bologna,07.09.1991
+200,19,8.35A,5.5,Reggie Jones III,USA,08.05.71,2,Sestriere,28.07.1993
+201,19,8.35A,2.8,Joe Greene,USA,17.02.67,3,Sestriere,28.07.1993
+202,19,8.35,2.2,Ivaylo Mladenov,BUL,06.10.73,1,Sofia,01.08.1993
+203,19,8.35,,Roland McGhee,USA,15.10.71,1,Knoxville,09.04.1994
+204,19,8.35,2.9,Erick Walder,USA,05.11.71,1,Fayetteville,14.05.1994
+205,19,8.35,3.3,Roland McGhee,USA,15.10.71,4,Sacramento,18.06.1995
+206,19,8.35,4.4,Shane Hair,AUS,24.10.75,1,La Laguna,05.06.1999
+207,19,8.35,2.5,Miguel Pate,USA,13.06.79,2,Eugene,22.06.2001
+208,19,8.35,5.4,Danila Burkenya,RUS,20.07.78,1,Lisboa,25.05.2002
+209,19,8.35,3.9,Tony Allmond,USA,08.10.82,2,Austin,10.06.2004
+210,19,8.35,4.8,Ibrahín Camejo,CUB,28.06.82,1,La Habana,03.02.2006
+211,19,8.35,2.2,Dwight Phillips,USA,01.10.77,2,Eugene,10.06.2007
+212,19,8.35,5.4,Tareq Bougtaïb,MAR,30.04.81,1,Khémisset,14.07.2007
+213,19,8.35,2.3,Godfrey Khotso Mokoena,RSA,06.03.85,2,Hengelo,24.05.2008
+214,19,8.35,2.6,Ngonidzashe Makusha,ZIM,11.03.87,1,Tallahassee,07.05.2011
+215,19,8.35,2.9,Damar Forbes,JAM,18.09.90,1,Eugene,06.06.2013
+216,19,8.35,2.7,Jarvis Gotch,USA,25.03.92,1cA,Baton Rouge,23.04.2016
+217,19,8.35,3.0,Steffin McCarter,USA,19.01.97,1,Manhattan KS,15.05.2021
+218,21,8.34,5.5,Randy Williams,USA,23.08.53,1,Sacramento,28.07.1972
+219,21,8.34,,Mike McRae,USA,09.07.55,1,Modesto,12.05.1984
+220,21,8.34,3.6,Carl Lewis,USA,01.07.61,q,Eugene,19.06.1986
+221,21,8.34,2.3,Mike Powell,USA,10.11.63,q,Seoul,25.09.1988
+222,21,8.34,2.7,Jarmo Kärnä,FIN,04.08.58,1,Riga,04.06.1989
+223,21,8.34,,Joe Greene,USA,17.02.67,2,Walnut,20.04.1991
+224,21,8.34,2.5,Kareem Streete-Thompson,USA,30.03.73,2,New York City,22.05.1994
+225,21,8.34,2.4,Huang Geng,CHN,10.07.70,1,Hiroshima,11.10.1994
+226,21,8.34,3.4,Ivaylo Mladenov,BUL,06.10.73,3,Madrid,20.06.1995
+227,21,8.34A,,Erick Walder,USA,05.11.71,1,El Paso,13.04.1996
+228,21,8.34,4.8,Carl Lewis,USA,01.07.61,1,Houston,04.05.1996
+229,21,8.34,2.3,Joe Greene,USA,17.02.67,2,Atlanta,19.06.1996
+230,21,8.34A,2.9,Cheikh Tidiane Touré,SEN,25.01.70,3,Sestriere,07.08.1996
+231,21,8.34,3.0,Masaki Morinaga,JPN,27.03.72,1,Shizuoka,03.05.2000
+232,21,8.34,2.5,Gable Garenamotse,BOT,28.02.77,1,Bad Langensalza,07.07.2007
+233,21,8.34,2.4,Sebastian Bayer,GER,11.06.86,q,Helsinki,29.06.2012
+234,21,8.34,2.3,Damar Forbes,JAM,18.09.90,1,Columbia,11.05.2013
+235,21,8.34,2.3,Juan Miguel Echevarría,CUB,11.08.98,1,Padova,16.07.2017
+236,23,8.33,4.0,Bob Beamon,USA,29.08.46,1,Walnut,27.04.1968
+237,23,8.33,2.1,Charlton Ehizuelen,NGR,30.11.53,1,Lawrence,19.04.1975
+238,23,8.33,2.8,Jacques Rousseau,FRA,10.03.51,1,Wolverhampton,02.07.1977
+239,23,8.33,2.2,Arnie Robinson,USA,07.04.48,1,Westwood,09.06.1978
+240,23,8.33,3.7,Andrzej Klimaszewski,POL,14.05.60,1,Warszawa,13.06.1980
+241,23,8.33,3.0,Carl Lewis,USA,01.07.61,1,Walnut,27.04.1986
+242,23,8.33,3.6,Sergey Vasilyenko,KAZ,27.09.65,q,Leningrad,11.06.1988
+243,23,8.33,5.6,David Culbert,AUS,17.03.67,1,Melbourne,11.11.1989
+244,23,8.33,6.8,André Ester,USA,27.04.65,1,Walnut,22.04.1990
+245,23,8.33,,Mike Powell,USA,10.11.63,1,Westwood,20.05.1990
+246,23,8.33A,2.8,Larry Myricks,USA,10.03.56,2,Sestriere,31.07.1991
+247,23,8.33,5.7,Huang Geng,CHN,10.07.70,1,Maebashi,28.04.1996
+248,23,8.33,2.9,Huang Geng,CHN,10.07.70,1,Hiroshima,29.04.1997
+249,23,8.33,4.1,Kader Klouchi,FRA,01.06.69,1,Dijon,05.07.1998
+250,23,8.33,2.3,James Beckford,JAM,09.01.75,1,Salamanca,10.07.1998
+251,23,8.33,2.5,Yago Lamela,ESP,24.07.77,1,Jerez de la Front,22.05.1999
+252,23,8.33,5.2,Hussein Taher Al-Sabee,KSA,14.11.79,1,Guadix,18.06.2000
+253,23,8.33,3.7,Brian Johnson,USA,25.03.80,1,New Orleans,16.03.2002
+254,23,8.33,2.7,Miguel Pate,USA,13.06.79,1,Modesto,11.05.2002
+255,23,8.33,2.9,Dwight Phillips,USA,01.10.77,1,London,25.07.2009
+256,23,8.33,2.4,Fabrice Lapierre,AUS,17.10.83,1,Thessaloníki,13.09.2009
+257,23,8.33,3.6,Pavel Shalin,RUS,15.04.87,1,Yerino,05.06.2011
+258,23,8.33,2.1,Marquise Goodwin,USA,19.11.90,1,Eugene,25.06.2011
+259,23,8.33,3.0,Damarcus Simpson,USA,14.07.93,1,Palo Alto,12.05.2018
+260,23,8.33,2.5,Eusebio Cáceres,ESP,10.09.91,1,Soria,04.08.2019
+261,26,8.32,2.4,Nenad Stekic,SRB,07.03.51,2,Wolverhampton,02.07.1977
+262,26,8.32,3.8,David Giralt,CUB,28.06.59,1,Quebec,11.08.1979
+263,26,8.32,,Mike McRae,USA,09.07.55,1,Modesto,16.05.1981
+264,26,8.32,,Ralph Spry,USA,16.06.60,1,Jonesboro,24.04.1983
+265,26,8.32A,3.1,Francois Fouché,RSA,05.06.63,1,Johannesburg,15.05.1989
+266,26,8.32,2.5,Mike Powell,USA,10.11.63,1,New York City,29.07.1990
+267,26,8.32,3.6,Erick Walder,USA,05.11.71,q,Eugene,18.06.1993
+268,26,8.32,2.7,Obinna Eregbu,NGR,11.09.69,1,Durban,27.06.1993
+269,26,8.32,3.6,Stanislav Tarasenko,RUS,23.07.66,1,Villeneuve d'Ascq,24.06.1995
+270,26,8.32,6.4,Nicola Trentin,ITA,20.06.74,1,Santiago de Compo,20.07.1996
+271,26,8.32,2.3,Carlos Calado,POR,05.10.75,1,Turku,13.07.1997
+272,26,8.32,3.7,Emmanuel Bangué,FRA,21.07.71,1,Pierre-Bénite,11.06.1999
+273,26,8.32,2.1,Joan Lino Martínez,CUB,17.01.78,1,Arona,26.07.2003
+274,26,8.32,2.3,Ignisious Gaisah,GHA,20.06.83,1,Helsinki,26.07.2006
+275,26,8.32A,4.0,Rogerio Bispo,BRA,16.11.85,1,Tunja,01.10.2006
+276,26,8.32,2.6,Godfrey Khotso Mokoena,RSA,06.03.85,1,Dakar,28.04.2007
+277,26,8.32,2.1,Greg Rutherford,GBR,17.11.86,1,Eugene,04.06.2011
+278,26,8.32,2.2,Roni Ollikainen,FIN,27.08.90,1cA,Jämsä,16.06.2012
+279,26,8.32,3.6,KeAndre Bates,USA,24.05.96,6,Eugene,03.07.2016
+280,26,8.32,2.9,Grant Holloway,USA,19.11.97,1,Knoxville,12.05.2018
+281,26,8.32,2.6,Darcy Roper,AUS,31.03.98,1,Perth,16.03.2019
+282,26,8.32,5.0,Shontaro Shiroyama,JPN,06.03.95,1,Heusden-Zolder,20.07.2019
+283,26,8.32,2.3,Miltiádis Tentóglou,GRE,18.03.98,1,Thessaloníki,26.06.2022
+284,28,8.31,,Mike Davis,USA,05.01.64,1,Houston,18.05.1986
+285,28,8.31A,3.0,Larry Myricks,USA,10.03.56,1,San José,30.05.1987
+286,28,8.31,3.1,Gordon Laine,USA,24.02.58,4,Indianapolis,18.07.1988
+287,28,8.31,4.9,Gordon McKee,USA,12.10.66,1,San Angelo,12.04.1990
+288,28,8.31A,3.8,Llewellyn Starks,USA,10.02.67,3,Sestriere,31.07.1991
+289,28,8.31,4.9,Stanislav Tarasenko,RUS,23.07.66,1,Nurmijärvi,02.07.1994
+290,28,8.31A,3.0,Milko Campus,ITA,02.04.69,4,Sestriere,31.07.1994
+291,28,8.31,,Kareem Streete-Thompson,USA,30.03.73,1,Austin,08.04.1995
+292,28,8.31,3.6,Tim Bryant,USA,11.01.74,1,College Station,11.04.1998
+293,28,8.31,3.4,Dwight Phillips,USA,01.10.77,2,Osaka,11.05.2002
+294,28,8.31A,2.8,Petr Lampart,CZE,31.03.83,1,Sestriere,01.08.2004
+295,28,8.31,2.6,Godfrey Khotso Mokoena,RSA,06.03.85,2,Eugene,04.06.2011
+296,28,8.31,2.1,Eusebio Cáceres,ESP,10.09.91,1,Toledo,21.07.2012
+297,28,8.31,3.3,Jeremy Hicks,USA,19.09.86,1,Baton Rouge,20.04.2013
+298,28,8.31,4.0,Jarvis Gotch,USA,25.03.92,1,Dakar,25.05.2016
+299,28,8.31,4.7,Yugo Sakai,JPN,01.05.99,1,Sagamihara,25.05.2018
+300,30,8.30,3.9,Ralph Boston,USA,09.05.39,2,Modesto,25.05.1963
+301,30,8.30,2.2,Carl Lewis,USA,01.07.61,q,Los Angeles,05.08.1984
+302,30,8.30A,,Yussuf Alli,NGR,28.07.60,1,El Paso,12.04.1987
+303,30,8.30,2.6,Jens-Uwe Hirschberg,GER,06.05.64,1,Berlin,25.08.1987
+304,30,8.30,5.8,Gary Honey,AUS,26.07.59,1,Perth,27.03.1988
+305,30,8.30,,Eric Metcalf,USA,23.01.68,1,Knoxville,21.05.1988
+306,30,8.30,,Larry Myricks,USA,10.03.56,3,Walnut,20.04.1991
+307,30,8.30,4.0,Dietmar Haaf,GER,06.03.67,1,Frankfurt,29.06.1991
+308,30,8.30,,Stacy Brown,USA,26.02.72,1,Abilene,08.05.1993
+309,30,8.30,3.3,Iván Pedroso,CUB,17.12.72,1,La Habana,09.03.1996
+310,30,8.30A,2.5,Kareem Streete-Thompson,USA,30.03.73,1,El Paso,12.04.1997
+311,30,8.30,,Kevin Dilworth,USA,14.02.74,1,Abilene,28.03.1998
+312,30,8.30,,Hatem Mersal,EGY,20.01.75,1,El Maadi,01.10.1999
+313,30,8.30,2.5,Dwight Phillips,USA,01.10.77,1,Portland,25.06.2000
+314,30,8.30,2.4,Hussein Taher Al-Sabee,KSA,14.11.79,1,Amman,06.09.2003
+315,30,8.30A,3.1,Ndiss Kaba Badji,SEN,21.09.83,2,Sestriere,01.08.2004
+316,30,8.30A,3.3,Gregor Cankar,SLO,25.01.75,3,Sestriere,01.08.2004
+317,30,8.30,2.4,Dwight Phillips,USA,01.10.77,2,Athínai,03.07.2006
+318,30,8.30,2.9,Brian Johnson,USA,25.03.80,2,Eugene,29.06.2008
+319,30,8.30,2.2,Chris Tomlinson,GBR,15.09.81,2,London,05.08.2011
+320,30,8.30,4.8,Charles Brown,USA,28.05.97,1,Fort Worth,15.04.2017
+321,30,8.30,2.4,Jarvis Gotch,USA,25.03.92,4,Sacramento,25.06.2017
+322,30,8.30,3.4,Yuki Hashioka,JPN,23.01.99,2,Sagamihara,25.05.2018
+323,30,8.30,3.4,Maykel Demetrio Massó,CUB,08.05.99,2,La Habana,10.03.2019
+324,32,8.29,,Ralph Boston,USA,09.05.39,1,Modesto,27.05.1967
+325,32,8.29,2.6,Jason Grimes,USA,10.09.59,q,Helsinki,09.08.1983
+326,32,8.29,3.0,Vladimir Bobylyov,UKR,15.07.66,2,Bryansk,19.07.1987
+327,32,8.29A,3.6,Giovanni Evangelisti,ITA,11.09.61,4,Sestriere,21.07.1992
+328,32,8.29,3.5,Kareem Streete-Thompson,USA,30.03.73,4,Eugene,19.06.1993
+329,32,8.29,2.2,James Beckford,JAM,09.01.75,1,Tempe,02.04.1994
+330,32,8.29,4.2,Percy Knox,USA,14.10.69,5,Sacramento,18.06.1995
+331,32,8.29A,2.9,Spiridon Vasdekis,GRE,23.01.70,5,Sestriere,07.08.1996
+332,32,8.29,2.2,Kirill Sosunov,RUS,01.11.75,3,Villeneuve d'Ascq,29.06.1997
+333,32,8.29,2.5,Aleksandr Glavatskiy,BLR,02.05.70,4,Villeneuve d'Ascq,29.06.1997
+334,32,8.29,2.1,James Beckford,JAM,09.01.75,1,Osaka,08.05.1999
+335,32,8.29,2.4,James Beckford,JAM,09.01.75,2,München,11.09.1999
+336,32,8.29,4.3,Peter Burge,AUS,03.07.74,1,Gold Coast,05.08.2000
+337,32,8.29,3.8,Savanté Stringfellow,USA,06.11.78,2,Gold Coast,10.09.2000
+338,32,8.29,3.7,Petar Dachev,BUL,15.06.79,1,Villeneuve d'Ascq,16.06.2002
+339,32,8.29A,3.3,Jonathan Chimier,MRI,06.08.82,,Sestriere,19.07.2003
+340,32,8.29,3.1,Salim Sdiri,FRA,26.10.78,1,Narbonne,25.07.2003
+341,32,8.29,2.7,Ahmad Fayaz Marzouk,KSA,06.09.79,2,Sotteville-lès-Ro,02.07.2006
+342,32,8.29,2.3,Ndiss Kaba Badji,SEN,21.09.83,1,Dakar,18.04.2009
+343,32,8.29,3.5,Li Jinzhe,CHN,01.09.89,3,Eugene,03.07.2010
+344,32,8.29,2.3,Marquis Dendy,USA,23.02.92,2,Columbia,11.05.2013
+345,32,8.29,4.1,Will Claye,USA,13.06.91,3,Chula Vista,24.04.2014
+346,32,8.29,6.5,Pavel Shalin,RUS,15.04.87,1,Gwangju,12.07.2015
+347,34,8.28,5.0,Larry Myricks,USA,10.03.56,1,Walnut,16.06.1979
+348,34,8.28,,Larry Myricks,USA,10.03.56,1,Hiroshima,29.04.1980
+349,34,8.28,,Jason Grimes,USA,10.09.59,2,Walnut,29.04.1984
+350,34,8.28,4.0,Mike Powell,USA,10.11.63,3,Indianapolis,16.06.1985
+351,34,8.28,2.8,Jaime Jefferson,CUB,17.01.62,1,Ravenna,03.07.1985
+352,34,8.28,4.4,Gary Honey,AUS,26.07.59,1,Melbourne,07.02.1987
+353,34,8.28,,André Ester,USA,27.04.65,1,Denton,24.04.1987
+354,34,8.28,3.3,Eric Metcalf,USA,23.01.68,1,Eugene,03.06.1988
+355,34,8.28,,Joe Greene,USA,17.02.67,1,Champaign,19.05.1990
+356,34,8.28A,3.2,Gordon Laine,USA,24.02.58,5,Sestriere,21.07.1992
+357,34,8.28,3.0,Kareem Streete-Thompson,USA,30.03.73,1,Austin,08.05.1993
+358,34,8.28,2.9,Stanislav Tarasenko,RUS,23.07.66,1,Göteborg,24.08.1994
+359,34,8.28,2.1,Mike Powell,USA,10.11.63,2,Lausanne,05.07.1995
+360,34,8.28A,4.1,Jaime Jefferson,CUB,17.01.62,2,Medellín,10.05.1996
+361,34,8.28,2.4,Kevin Dilworth,USA,14.02.74,q,Indianapolis,14.06.1997
+362,34,8.28,3.0,Leevan Sands,BAH,16.08.81,1,Columbus,31.05.2003
+363,34,8.28,3.3,Chris Tomlinson,GBR,15.09.81,1,Bydgoszcz,19.06.2004
+364,34,8.28,3.0,James Beckford,JAM,09.01.75,2,Madrid,16.07.2005
+365,34,8.28A,4.1,Arnaud Casquette,MRI,16.04.78,1,Sestriere,24.07.2005
+366,34,8.28,3.0,Dwight Phillips,USA,01.10.77,1,Modesto,05.05.2007
+367,34,8.28,3.1,Salim Sdiri,FRA,26.10.78,1,Valence,10.07.2010
+368,34,8.28,3.4,Chris Tomlinson,GBR,15.09.81,1,Vila Real de Sant,28.05.2011
+369,34,8.28,5.6,Yahaya Barrabah,MAR,13.10.81,1,Bilbao,18.06.2011
+370,37,8.27A,,Larry Myricks,USA,10.03.56,1,Colorado Springs,28.07.1979
+371,37,8.27,3.0,Nenad Stekic,SRB,07.03.51,1,Athínai,11.08.1979
+372,37,8.27,,Jason Grimes,USA,10.09.59,1,Knoxville,14.04.1984
+373,37,8.27A,,Mike McRae,USA,09.07.55,1,San José,21.04.1984
+374,37,8.27A,,Frans Maas,NED,13.07.64,1,El Paso,17.04.1988
+375,37,8.27,4.0,André Ester,USA,27.04.65,4,Houston,17.06.1989
+376,37,8.27,2.9,Marco Delonge,GER,16.06.66,1,Neubrandenburg,23.07.1989
+377,37,8.27,2.6,Gordon Laine,USA,24.02.58,1,Padova,17.09.1989
+378,37,8.27,5.5,Jaime Jefferson,CUB,17.01.62,2,New York City,29.07.1990
+379,37,8.27A,3.2,Francois Fouché,RSA,05.06.63,1,Johannesburg,30.03.1991
+380,37,8.27,3.0,Robert Emmiyan,ARM,16.02.65,3,Bologna,07.09.1991
+381,37,8.27,3.8,Gregor Cankar,SLO,25.01.75,2,Pula,04.09.1996
+382,37,8.27,3.0,Kevin Dilworth,USA,14.02.74,1,Abilene,15.05.1997
+383,37,8.27,4.8,Erick Walder,USA,05.11.71,1,Salamanca,14.07.1997
+384,37,8.27,2.2,Cheikh Tidiane Touré,SEN,25.01.70,4,Villeneuve d'Ascq,11.07.1998
+385,37,8.27,2.2,Danial Jahic,SRB,01.07.79,1,Réthymno,29.05.1999
+386,37,8.27,5.4,Kareem Streete-Thompson,CAY,30.03.73,3,Gold Coast,10.09.2000
+387,37,8.27,2.6,James Beckford,JAM,09.01.75,1,Leverkusen,03.08.2003
+388,37,8.27,2.4,Tommy Evilä,FIN,06.04.80,1,Lapinlahti,03.07.2005
+389,37,8.27,2.7,George Kitchens,USA,16.01.83,1,Athens GA,24.03.2012
+390,37,8.27,4.5,Marquise Goodwin,USA,19.11.90,2,Toronto,22.07.2015
+391,39,8.26A,5.0,Ralph Boston,USA,09.05.39,2,Echo Summit,14.09.1968
+392,39,8.26,3.8,Larry Myricks,USA,10.03.56,2,Eugene,25.06.1976
+393,39,8.26,4.0,Carl Williams,USA,09.01.57,1,Abilene,19.05.1978
+394,39,8.26,3.4,Larry Doubley,USA,16.03.58,1,Los Angeles,15.03.1980
+395,39,8.26,3.1,Larry Myricks,USA,10.03.56,1,Walnut,14.06.1980
+396,39,8.26,,Jason Grimes,USA,10.09.59,1,Knoxville,09.04.1983
+397,39,8.26,,Carl Lewis,USA,01.07.61,1,Houston,04.05.1986
+398,39,8.26A,3.4,Yussuf Alli,NGR,28.07.60,3,Sestriere,11.08.1988
+399,39,8.26,2.4,Mike Powell,USA,10.11.63,1,Helsinki,27.06.1990
+400,39,8.26A,3.1,Jesús Oliván,ESP,05.07.68,1,Soria,10.08.1991
+401,39,8.26,,Robert Thomas,USA,07.08.73,1,Ames,15.05.1995
+402,39,8.26,2.4,Percy Knox,USA,14.10.69,2,Padova,16.07.1995
+403,39,8.26A,3.8,Cheikh Tidiane Touré,SEN,25.01.70,2,Sestriere,29.07.1995
+404,39,8.26,2.2,Kirill Sosunov,RUS,01.11.75,1,Cagliari,20.09.1995
+405,39,8.26,5.7,Nicola Trentin,ITA,20.06.74,1,Carbonia,19.07.1997
+406,39,8.26,3.5,Kirill Sosunov,RUS,01.11.75,4,Fukuoka,13.09.1997
+407,39,8.26,5.6,Jai Taurima,AUS,26.06.72,1,Canberra,08.02.1998
+408,39,8.26,2.8,Erick Walder,USA,05.11.71,2,New Orleans,19.06.1998
+409,39,8.26,2.2,Cheikh Tidiane Touré,SEN,25.01.70,1,La Chaux-de-Fonds,13.08.2000
+410,39,8.26,3.2,Miguel Pate,USA,13.06.79,1,Clemson,07.04.2001
+411,39,8.26,4.9,Gable Garenamotse,BOT,28.02.77,1,Ashford,11.08.2001
+412,39,8.26,2.2,Kader Klouchi,FRA,01.06.69,1,Pierre-Bénite,13.06.2003
+413,39,8.26,2.2,Godfrey Khotso Mokoena,RSA,06.03.85,1,Durban,15.04.2005
+414,39,8.26,2.1,Miguel Pate,USA,13.06.79,1,Modesto,06.05.2006
+415,39,8.26,2.5,Louis Tsátoumas,GRE,12.02.82,3,Athínai,03.07.2006
+416,39,8.26,3.9,Godfrey Khotso Mokoena,RSA,06.03.85,1,Lappeenranta,13.07.2006
+417,39,8.26,3.1,Jadel Gregório,BRA,16.09.80,2,Dakar,28.04.2007
+418,39,8.26,2.8,Trevell Quinley,USA,16.01.83,2,Zaragoza,28.07.2007
+419,39,8.26,2.7,Keenen Watson,RSA,03.03.88,1,Stellenbosch,14.03.2008
+420,39,8.26,4.0,Brian Johnson,USA,25.03.80,2,Eugene,27.06.2009
+421,39,8.26,3.3,Hussein Taher Al-Sabee,KSA,14.11.79,5,Madrid,04.07.2009
+422,39,8.26,2.5,Pavel Shalin,RUS,15.04.87,1,Bergen,19.06.2010
+423,39,8.26,2.5,Stepán Wagner,CZE,05.10.81,1,Brno,04.07.2012
+424,39,8.26,3.7,Mitchell Watt,AUS,25.03.88,1,Madrid,07.07.2012
+425,39,8.26,3.6,Maykel Demetrio Massó,CUB,08.05.99,1,La Habana,17.05.2019
+426,39,8.26,2.3,Hibiki Tsuha,JPN,21.01.98,1,Yokohama,24.05.2019
+427,39,8.26,3.3,Chris Mitrevski,AUS,12.07.96,1,Sydney,02.04.2022
+428,42,8.25,,LaMonte King,USA,18.12.59,1,Tempe,26.05.1979
+429,42,8.25,3.0,László Szalma,HUN,21.10.57,1,Budapest,17.07.1980
+430,42,8.25,,Yussuf Alli,NGR,28.07.60,1,Calabar,26.06.1982
+431,42,8.25,3.5,Gary Honey,AUS,26.07.59,1,Melbourne,11.02.1984
+432,42,8.25,3.0,Jaime Jefferson,CUB,17.01.62,1,Leningrad,11.06.1988
+433,42,8.25,4.0,Carl Lewis,USA,01.07.61,q,Indianapolis,17.07.1988
+434,42,8.25,4.5,Vernon George,USA,06.10.64,5,Houston,17.06.1989
+435,42,8.25,,André Ester,USA,27.04.65,2,Modesto,05.05.1990
+436,42,8.25,4.2,Roland McGhee,USA,15.10.71,3,Lausanne,05.07.1995
+437,42,8.25A,3.0,Joe Greene,USA,17.02.67,1,Pietersburg,27.03.1997
+438,42,8.25,3.3,Sinisa Ergotic,CRO,14.09.68,1,Ljubljana,01.06.2002
+439,42,8.25,3.1,James Beckford,JAM,09.01.75,1,Kingston,21.06.2002
+440,42,8.25,2.9,Dwight Phillips,USA,01.10.77,3,Palo Alto,21.06.2002
+441,42,8.25,2.3,Yago Lamela,ESP,24.07.77,1,San Sebastián,20.08.2002
+442,42,8.25,3.7,James Beckford,JAM,09.01.75,1,La Laguna,10.07.2004
+443,42,8.25,3.3,Martin McClintock,RSA,30.06.75,2,Durban,15.04.2005
+444,42,8.25,2.6,Arnaud Casquette,MRI,16.04.78,2,Angers,15.07.2005
+445,42,8.25,2.9,Tommy Evilä,FIN,06.04.80,3,Helsinki,13.08.2005
+446,42,8.25,2.5,Viktor Kuznetsov,UKR,17.07.86,q,Göteborg,07.08.2006
+447,42,8.25,3.2,Louis Tsátoumas,GRE,12.02.82,1,Tallinn,21.06.2014
+448,42,8.25,3.8,Will Williams,USA,31.01.95,2,Knoxville,12.05.2018
+449,42,8.25,4.2,Yuki Hashioka,JPN,23.01.99,1,Austin,30.03.2019
+450,42,8.25,4.5,William Williams,USA,31.01.95,1,Miramar,08.04.2023
+451,45,8.24,3.8,Ralph Spry,USA,16.06.60,q,Indianapolis,17.06.1983
+452,45,8.24,,Gordon Laine,USA,24.02.58,2,Knoxville,19.05.1984
+453,45,8.24,3.2,Juan Felipe Ortiz,CUB,13.08.64,1,Santiago de Cuba,28.02.1987
+454,45,8.24,3.3,Robert Emmiyan,ARM,16.02.65,2,Volgograd,11.06.1989
+455,45,8.24,,Gordon McKee,USA,12.10.66,3,Modesto,05.05.1990
+456,45,8.24A,3.2,Ivaylo Mladenov,BUL,06.10.73,5,Sestriere,31.07.1994
+457,45,8.24,4.2,Milan Gombala,CZE,29.01.68,1,Nitra,26.08.1995
+458,45,8.24,2.3,Mike Conley,USA,05.10.62,1,Villeneuve d'Ascq,25.05.1996
+459,45,8.24,2.4,Kirill Sosunov,RUS,01.11.75,1,Paris,25.06.1997
+460,45,8.24,2.7,Savanté Stringfellow,USA,06.11.78,2,Baton Rouge,13.05.2000
+461,45,8.24,3.7,Jai Taurima,AUS,26.06.72,2,Gold Coast,05.08.2000
+462,45,8.24,2.9,Kader Klouchi,FRA,01.06.69,1,Saint-Étienne,01.07.2001
+463,45,8.24,3.1,Yann Doménech,FRA,17.03.79,2,Saint-Étienne,01.07.2001
+464,45,8.24,2.2,James Beckford,JAM,09.01.75,1,Padova,26.08.2001
+465,45,8.24,2.7,Lao Jianfeng,CHN,24.05.75,,Shizuoka,03.05.2002
+466,45,8.24,3.6,Peter Burge,AUS,03.07.74,1,Perth,08.02.2003
+467,45,8.24,2.9,Joan Lino Martínez,ESP,17.01.78,4,Helsinki,13.08.2005
+468,45,8.24,2.2,Trevell Quinley,USA,16.01.83,3c2,Indianapolis,22.06.2007
+469,45,8.24,2.5,Salim Sdiri,FRA,26.10.78,1,Nouméa,17.10.2009
+470,45,8.24,2.3,Louis Tsátoumas,GRE,12.02.82,1,Göteborg,15.06.2013
+471,45,8.24,2.2,Jeffrey Henderson,USA,19.02.89,1,Long Beach,20.04.2018
+472,45,8.24,4.5,Dodley Thermitus,USA,08.10.98,1,Hobbs,16.05.2019
+473,45,8.24,2.2,Lester Lescay,CUB,15.10.01,1,Castellón,16.06.2022
+474,47,8.23,,Ralph Boston,USA,09.05.39,1,Long Beach,07.06.1966
+475,47,8.23A,2.1,Norman Tate,USA,02.12.42,1,El Paso,22.05.1971
+476,47,8.23,2.2,Nenad Stekic,SRB,07.03.51,1,El Djezair,29.08.1975
+477,47,8.23,3.4,László Szalma,HUN,21.10.57,1,Bucuresti,24.07.1981
+478,47,8.23,3.2,Jason Grimes,USA,10.09.59,1,Walnut,24.04.1983
+479,47,8.23,2.6,Jason Grimes,USA,10.09.59,1,Modesto,14.05.1983
+480,47,8.23,5.2,Mike Conley,USA,05.10.62,1,Eugene,01.06.1984
+481,47,8.23,,Kenny Harrison,USA,13.02.65,1,Ames,14.05.1988
+482,47,8.23,4.4,Pelller Phillips,USA,23.06.70,1,Sacramento,11.06.1988
+483,47,8.23,3.2,Robert Emmiyan,ARM,16.02.65,q,Gorkiy,23.07.1989
+484,47,8.23A,5.5,Francois Fouché,RSA,05.06.63,1,Johannesburg,31.03.1990
+485,47,8.23,,Vernon George,USA,06.10.64,4,Modesto,05.05.1990
+486,47,8.23,2.5,Roland McGhee,USA,15.10.71,2,Austin,05.06.1992
+487,47,8.23,2.4,Carl Lewis,USA,01.07.61,1,Gateshead,17.07.1992
+488,47,8.23,2.9,Kareem Streete-Thompson,USA,30.03.73,1,Granada,01.06.1994
+489,47,8.23,2.7,Konstandínos Koukodimos,GRE,14.09.69,2,Lisboa,17.06.1995
+490,47,8.23,,James Beckford,JAM,09.01.75,1,Knoxville,13.04.1996
+491,47,8.23,2.1,Richard Duncan,CAN,25.12.73,1,Austin,03.04.1997
+492,47,8.23,3.0,Joe Greene,USA,17.02.67,q,Indianapolis,14.06.1997
+493,47,8.23,4.7,Shane Hair,AUS,24.10.75,1,Sydney,13.02.2000
+494,47,8.23,,Savanté Stringfellow,USA,06.11.78,1,Oxford MS,22.04.2000
+495,47,8.23,6.3,Gregor Cankar,SLO,25.01.75,4,Gold Coast,10.09.2000
+496,47,8.23,3.0,Dwight Phillips,USA,01.10.77,3,Eugene,22.06.2001
+497,47,8.23,2.8,Arnaud Casquette,MRI,16.04.78,2,Narbonne,25.07.2003
+498,47,8.23,3.3,Walter Davis,USA,02.07.79,1,Baton Rouge,17.04.2004
+499,47,8.23,2.5,Tony Allmond,USA,08.10.82,1,Azusa,17.07.2005
+500,47,8.23,2.6,Mohamed Salman Al-Khuwa,KSA,19.06.81,1,Ad-Dawhah,27.04.2007
+501,47,8.23,4.0,Tommy Evilä,FIN,06.04.80,1,Joensuu,16.07.2008
+502,47,8.23,2.3,Godfrey Khotso Mokoena,RSA,06.03.85,1,Stellenbosch,13.03.2009
+503,47,8.23,3.2,George Kitchens,USA,16.01.83,3,Eugene,27.06.2009
+504,47,8.23,3.6,Raymond Higgs,BAH,24.01.91,q,Austin,24.05.2012
+505,47,8.23,2.3,Will Claye,USA,13.06.91,2,Eugene,24.06.2012
+506,47,8.23,2.8,George Kitchens,USA,16.01.83,1,Des Moines,23.06.2013
+507,47,8.23,2.9,Kim Duk-hyung,KOR,08.12.85,1,Mungyeong,01.05.2016
+508,47,8.23,4.2,Luvo Manyonga,RSA,18.11.91,2,Durban,23.06.2016
+509,47,8.23,3.2,Zarck Visser,RSA,15.09.89,3,Madrid,14.07.2017
+510,51,8.22,5.9,Darrell Horn,USA,05.08.39,2,New York City,03.07.1964
+511,51,8.22,3.0,Jerry Proctor,USA,04.05.49,1,Knoxville,20.06.1969
+512,51,8.22,3.0,Jacques Pani,FRA,21.05.46,1,Colombes,05.07.1969
+513,51,8.22,,James Lofton,USA,05.07.56,1,Eugene,02.06.1978
+514,51,8.22,,Liu Yuhuang,CHN,25.07.59,1,Beijing,21.09.1981
+515,51,8.22,3.0,Mike Powell,USA,10.11.63,2,Walnut,27.04.1986
+516,51,8.22,,Paul Emordi,NGR,25.12.65,1,Houston,09.05.1986
+517,51,8.22,5.6,Gary Honey,AUS,26.07.59,1,Sydney,29.03.1987
+518,51,8.22,2.7,Giovanni Evangelisti,ITA,11.09.61,1,Mogliano Veneto,04.06.1988
+519,51,8.22,,Joe Greene,USA,17.02.67,1,Indianapolis,20.05.1989
+520,51,8.22,3.2,Dietmar Haaf,GER,06.03.67,1,Hamburg,13.08.1989
+521,51,8.22A,3.7,Gordon Laine,USA,24.02.58,2,Sestriere,08.08.1990
+522,51,8.22A,,Festus Igbinoghene,NGR,21.10.69,1,El Paso,13.04.1991
+523,51,8.22,3.3,Dietmar Haaf,GER,06.03.67,4,Tokyo,30.08.1991
+524,51,8.22,3.2,Franck Lestage,FRA,20.04.68,1,Aix-les-Bains,10.05.1992
+525,51,8.22,2.8,Kareem Streete-Thompson,USA,30.03.73,1,Buffalo,18.07.1993
+526,51,8.22,3.0,Erki Nool,EST,25.06.70,D,Tallinn,15.06.1996
+527,51,8.22A,3.7,Sean Robbins,USA,09.10.72,7,Sestriere,07.08.1996
+528,51,8.22,3.4,Emmanuel Bangué,FRA,21.07.71,1,Toulouse,20.07.1997
+529,51,8.22A,2.1,Kareem Streete-Thompson,CAY,30.03.73,1,El Paso,10.04.1999
+530,51,8.22,2.4,Roman Shchurenko,UKR,14.09.76,2,Réthymno,29.05.1999
+531,51,8.22,2.2,Andrey Ignatov,RUS,03.02.68,2,Lisboa,19.06.1999
+532,51,8.22,2.2,James Beckford,JAM,09.01.75,1,Tokyo,15.09.1999
+533,51,8.22,2.1,Schahriar Bigdell,GER,26.03.80,1,Bad Camberg,10.06.2000
+534,51,8.22,3.1,Savanté Stringfellow,USA,06.11.78,1,Baton Rouge,14.04.2001
+535,51,8.22,3.9,Tommy Evilä,FIN,06.04.80,2,Helsinki,25.07.2005
+536,51,8.22,2.3,James Beckford,JAM,09.01.75,q,Osaka,29.08.2007
+537,51,8.22,5.7,Godfrey Khotso Mokoena,RSA,06.03.85,1,Durban,26.02.2010
+538,51,8.22,3.9,JaRod Tobler,USA,30.09.82,1,Chula Vista,16.06.2011
+539,51,8.22,4.0,Kafétien Gomis,FRA,20.03.80,1,Albi,30.07.2011
+540,51,8.22,2.2,Mauro Vinicius da Silva,BRA,26.12.86,2,Eugene,31.05.2013
+541,51,8.22,3.0,Kanstansin Barycheuski,BLR,29.05.90,1,Grodno,25.07.2015
+542,51,8.22,2.4,Jeffrey Henderson,USA,19.02.89,q,Eugene,02.07.2016
+543,51,8.22,4.4,Mike Hartfield,USA,29.03.90,2,Chula Vista,27.05.2017
+544,51,8.22,3.4,Raihau Maiau,FRA,01.08.92,1,Marseille,16.07.2017
+545,51,8.22A,2.2,Kafétien Gomis,FRA,20.03.80,2,Tignes,16.08.2017
+546,51,8.22,3.5,Damarcus Simpson,USA,14.07.93,q,Sacramento,24.05.2018
+547,54,8.21,,Bob Beamon,USA,29.08.46,1,Modesto,25.05.1968
+548,54,8.21,,Danny Seay,USA,08.02.53,2,Modesto,24.05.1975
+549,54,8.21A,,Arnie Robinson,USA,07.04.48,1,San José,01.05.1976
+550,54,8.21,2.9,Andrzej Klimaszewski,POL,14.05.60,1,Warszawa,04.07.1981
+551,54,8.21,3.5,Uwe Lange,GDR,13.12.54,2,Erfurt,02.08.1981
+552,54,8.21,2.6,Giovanni Evangelisti,ITA,11.09.61,1,Colombes,29.05.1982
+553,54,8.21,3.9,Yussuf Alli,NGR,28.07.60,3,Houston,03.06.1983
+554,54,8.21A,,Joe Greene,USA,17.02.67,1,El Paso,20.04.1985
+555,54,8.21,2.1,Atanas Chochev,BUL,17.01.57,1,Sofia,31.05.1986
+556,54,8.21,2.3,Tyrus Jefferson,USA,02.02.65,4,Eugene,20.06.1986
+557,54,8.21,2.2,Ron Beer,GDR,29.08.65,2,Berlin,25.08.1987
+558,54,8.21,2.5,Emiel Mellaard,NED,21.03.66,1,Tel Aviv,08.05.1988
+559,54,8.21,,Mike Powell,USA,10.11.63,2,Modesto,06.05.1989
+560,54,8.21,3.3,Robert Emmiyan,ARM,16.02.65,2,Helsinki,29.06.1989
+561,54,8.21,2.4,Mike Powell,USA,10.11.63,1,Edinburgh,07.07.1989
+562,54,8.21,6.6,Joe Greene,USA,17.02.67,2,Walnut,22.04.1990
+563,54,8.21,,Alan Turner,USA,19.03.69,2,Champaign,19.05.1990
+564,54,8.21,4.5,Glenroy Gilbert,CAN,31.08.68,1,Knoxville,13.04.1991
+565,54,8.21,2.8,Masaki Morinaga,JPN,27.03.72,1,Hamamatsu,07.09.1991
+566,54,8.21,2.1,Kareem Streete-Thompson,USA,30.03.73,2,Des Moines,23.04.1993
+567,54,8.21,,Sean Robbins,USA,09.10.72,1,Berea,19.05.1995
+568,54,8.21,3.1,Emmanuel Bangué,FRA,21.07.71,2,Albi,19.05.1997
+569,54,8.21,2.3,Roland McGhee,USA,15.10.71,6,Villeneuve d'Ascq,29.06.1997
+570,54,8.21,2.8,Roland McGhee,USA,15.10.71,1,Modesto,09.05.1998
+571,54,8.21,2.7,Miguel Pate,USA,13.06.79,4,Edmonton,11.08.2001
+572,54,8.21,,Miguel Pate,USA,13.06.79,1,Lignano Sabbiador,14.07.2002
+573,54,8.21,2.4,Salim Sdiri,FRA,26.10.78,5,Helsinki,13.08.2005
+574,54,8.21,3.4,Dwight Phillips,USA,01.10.77,2,Oslo,02.06.2006
+575,54,8.21,3.6,Issam Nima,ALG,08.04.79,4,Athínai,03.07.2006
+576,54,8.21,2.8,Godfrey Khotso Mokoena,RSA,06.03.85,q,El Djezair,20.07.2007
+577,54,8.21,2.1,Reindell Cole,USA,16.02.88,q,Fayetteville,10.06.2009
+578,54,8.21,2.3,Chris Tomlinson,GBR,15.09.81,2,London,25.07.2009
+579,54,8.21,3.4,Michel Tornéus,SWE,26.05.86,1,Lapinlahti,18.07.2010
+580,54,8.21,2.2,Zarck Visser,RSA,15.09.89,1,Port Elizabeth,13.04.2012
+581,54,8.21,3.5,Luis Felipe Méliz Linar,ESP,11.08.79,1,Vila Real de Sant,26.05.2012
+582,54,8.21,2.3,Gao Xinglong,CHN,12.03.94,1,Suzhou,10.10.2014
+583,54,8.21,2.5,Fabrice Lapierre,AUS,17.10.83,1,Marseille,06.06.2015
+584,54,8.21,2.8,Damar Forbes,JAM,18.09.90,1,Montreuil,07.06.2016
+585,54,8.21,2.1,Michel Tornéus,SWE,26.05.86,2,Amsterdam,07.07.2016
+586,58,8.20,,Ralph Boston,USA,09.05.39,1,London,12.08.1967
+587,58,8.20,4.4,Jacques Pani,FRA,21.05.46,1,Colombes,22.06.1968
+588,58,8.20A,6.0,Jacques Pani,FRA,21.05.46,1,Font-Romeu,09.08.1970
+589,58,8.20A,,Joshua Owusu,GHA,02.10.48,2,El Paso,22.05.1971
+590,58,8.20,,Arnie Robinson,USA,07.04.48,1,Eugene,25.06.1971
+591,58,8.20,3.6,Valeriy Podluzhniy,UKR,22.08.52,1,Edinburgh,08.09.1973
+592,58,8.20,2.2,Rolf Bernhard,SUI,13.12.49,1,Zofingen,30.05.1977
+593,58,8.20,2.4,Arnie Robinson,USA,07.04.48,1,Modesto,20.05.1978
+594,58,8.20,,Moses Kiayi,KEN,60,1,Lawrence,19.04.1985
+595,58,8.20,,Yussuf Alli,NGR,28.07.60,2,Lawrence,19.04.1985
+596,58,8.20,,Moses Kiayi,KEN,60,1,Des Moines,25.04.1986
+597,58,8.20,,Larry Myricks,USA,10.03.56,3,Walnut,27.04.1986
+598,58,8.20,4.6,Mike Conley,USA,05.10.62,1,Eugene,07.06.1986
+599,58,8.20,,Kenny Harrison,USA,13.02.65,1,Modesto,07.05.1988
+600,58,8.20,,Ralph Spry,USA,16.06.60,2,Modesto,07.05.1988
+601,58,8.20,2.3,Jaime Jefferson,CUB,17.01.62,1,Madrid,09.06.1989
+602,58,8.20,3.3,Redzinaldas Stasaitis,LTU,05.04.67,3,Volgograd,11.06.1989
+603,58,8.20,2.3,Emiel Mellaard,NED,21.03.66,1,Hechtel,22.07.1989
+604,58,8.20,2.2,David Culbert,AUS,17.03.67,2,Auckland,01.02.1990
+605,58,8.20,2.1,Luis Alberto Bueno,CUB,22.05.69,1,Madrid,09.06.1990
+606,58,8.20,7.1,Yutaka Fukazawa,JPN,16.07.66,1,Hiratsuka,23.05.1992
+607,58,8.20,4.8,Neil Chance,USA,14.02.73,1,Chapel Hill,16.04.1993
+608,58,8.20,2.1,Gabriel Lessor,NGR,23.10.69,1,Abilene,11.05.1995
+609,58,8.20A,4.4,Kareem Streete-Thompson,USA,30.03.73,3,Sestriere,29.07.1995
+610,58,8.20,3.3,Yevgeniy Semenyuk,UKR,11.12.68,2,Nitra,26.08.1995
+611,58,8.20,,Mike Powell,USA,10.11.63,1,Azusa,13.04.1996
+612,58,8.20A,2.6,Kareem Streete-Thompson,USA,30.03.73,1,Ciudad de México,09.06.1996
+613,58,8.20,4.8,Cheikh Tidiane Touré,SEN,25.01.70,2,Salamanca,14.07.1997
+614,58,8.20,3.7,Yago Lamela,ESP,24.07.77,1,La Laguna,06.06.1998
+615,58,8.20,2.1,Kirill Sosunov,RUS,01.11.75,1,Lisboa,20.06.1998
+616,58,8.20,2.4,James Beckford,JAM,09.01.75,1,Avezzano,29.08.1998
+617,58,8.20,2.3,Cheikh Tidiane Touré,FRA,25.01.70,2,Pierre-Bénite,11.06.1999
+618,58,8.20,3.0,Gregor Cankar,SLO,25.01.75,3,Lisboa,19.06.1999
+619,58,8.20,6.8,Andrey Ignatov,RUS,03.02.68,1,Thessaloníki,23.06.1999
+620,58,8.20,6.1,Aaron Langdon,NZL,19.07.71,3,Gold Coast,05.08.2000
+621,58,8.20,3.1,Joan Lino Martínez,CUB,17.01.78,4,Padova,06.07.2003
+622,58,8.20,3.0,Walter Davis,USA,02.07.79,1,Fort-de-France,24.04.2004
+623,58,8.20,2.7,Dimitrios Filindras,GRE,09.02.73,1,Nicosia,06.08.2004
+624,58,8.20,4.1,Tim Parravicini,AUS,25.04.81,1,Brisbane,13.02.2005
+625,58,8.20,2.8,Irving Saladino,PAN,23.01.83,6,Helsinki,13.08.2005
+626,58,8.20,2.9,Tommy Evilä,FIN,06.04.80,1,Göteborg,27.08.2005
+627,58,8.20,2.2,Dwight Phillips,USA,01.10.77,2,Eugene,28.05.2006
+628,58,8.20,5.4,Louis Tsátoumas,GRE,12.02.82,3,Dakar,28.04.2007
+629,58,8.20,3.3,Roman Novotný,CZE,05.01.86,1,Praha,07.06.2008
+630,58,8.20,2.2,Dwight Phillips,USA,01.10.77,4,Eugene,29.06.2008
+631,58,8.20,2.3,Marcin Starzak,POL,20.10.85,1,Szczecin,04.07.2008
+632,58,8.20,,Mauro Vinicius da Silva,BRA,26.12.86,1,Pircacicaba,15.11.2008
+633,58,8.20A,3.2,Jeremy Hicks,USA,19.09.86,1,El Paso,10.04.2010
+634,58,8.20,2.4,Greg Rutherford,GBR,17.11.86,1,Milton Keyes,21.05.2011
+635,58,8.20,3.3,Luis Felipe Méliz Linar,ESP,11.08.79,2,Vila Real de Sant,28.05.2011
+636,58,8.20,6.6,Sergey Nikolayev,RUS,01.09.87,2,Yerino,05.06.2011
+637,58,8.20,2.3,Chris Tomlinson,GBR,15.09.81,2,Bad Langensalza,02.07.2011
+638,58,8.20,3.0,Mitchell Watt,AUS,25.03.88,3,Bad Langensalza,02.07.2011
+639,58,8.20,3.8,Sergey Morgunov,RUS,09.02.93,q,Krasnodar,18.05.2012
+640,58,8.20,5.3,Ngonidzashe Makusha,ZIM,11.03.87,1,Hengelo,08.06.2013
+641,58,8.20,2.4,Tyron Stewart,USA,08.07.89,2,Baie-Mahault,10.05.2014
+642,58,8.20,2.4,Jarvis Gotch,USA,25.03.92,1,Austin,31.03.2018
+643,58,8.20,2.1,Darcy Roper,AUS,31.03.98,1,Canberra,09.02.2019
+644,58,8.20,,Anthony Williams,USA,21.04.98,1,Los Angeles,22.02.2019

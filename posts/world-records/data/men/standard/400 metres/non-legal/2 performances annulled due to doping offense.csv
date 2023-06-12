@@ -1,0 +1,90 @@
+,0,1,2,3,4,5,6,7
+0,1,44.17,Randolph Ross,USA,01.01.01,,Eugene,25.06.2022
+1,2,44.21,Antonio Pettigrew,USA,03.11.67,,Nassau,26.05.1999
+2,3,44.23,Antonio Pettigrew,USA,03.11.67,,Kingston,19.09.1997
+3,4,44.24,Jerome Young,USA,14.08.76,,Eugene,26.06.1999
+4,5,44.33,Jerome Young,USA,14.08.76,r2,Zürich,11.08.1999
+5,6,44.34,Jerome Young,USA,14.08.76,r2,Lausanne,02.07.1999
+6,7,44.36,Jerome Young,USA,14.08.76,,Raleigh,12.06.1999
+7,7,44.36,Jerome Young,USA,14.08.76,,Sevilla,26.08.1999
+8,7,44.36,Randolph Ross,USA,01.01.01,s1,Eugene,24.06.2022
+9,10,44.40,Antonio Pettigrew,USA,03.11.67,,New Orleans,21.06.1998
+10,11,44.45,Jerome Young,USA,14.08.76,,London,07.08.1999
+11,12,44.47,Antonio Pettigrew,USA,03.11.67,,Tokyo,06.09.1997
+12,13,44.48,Alvin Harrison,USA,20.01.74,r2,Réthymno,07.07.2002
+13,14,44.49,Antonio Pettigrew,USA,03.11.67,,Osaka,09.05.1998
+14,15,44.50,Jerome Young,USA,14.08.76,,Saint-Denis,26.08.2003
+15,16,44.54A,Antonio Pettigrew,USA,03.11.67,,Roodepoort,19.03.1999
+16,16,44.54,Antonio Pettigrew,USA,03.11.67,,Sevilla,26.08.1999
+17,18,44.55,Jerome Young,USA,14.08.76,s2,Sevilla,24.08.1999
+18,19,44.57,Antonio Pettigrew,USA,03.11.67,,Athínai,05.08.1997
+19,19,44.57,Antonio Pettigrew,USA,03.11.67,,Yokohama,09.09.2000
+20,19,44.57,Alvin Harrison,USA,20.01.74,rA,Stockholm,16.07.2002
+21,22,44.59,Antonio Pettigrew,USA,03.11.67,,Eugene,26.06.1999
+22,23,44.60,Antonio Pettigrew,USA,03.11.67,s1,Indianapolis,13.06.1997
+23,24,44.62,Alvin Harrison,USA,20.01.74,,Palo Alto,23.06.2002
+24,24,44.62,Calvin Harrison,USA,20.01.74,,Palo Alto,21.06.2003
+25,26,44.64,Antonio Pettigrew,USA,03.11.67,r2,Jena,05.06.1999
+26,26,44.64,Jerome Young,USA,14.08.76,,Stockholm,30.07.1999
+27,28,44.65,Antonio Pettigrew,USA,03.11.67,,Indianapolis,14.06.1997
+28,28,44.65,Antonio Pettigrew,USA,03.11.67,,Raleigh,17.06.2000
+29,30,44.66,Antonio Pettigrew,USA,03.11.67,,Knoxville,24.05.1997
+30,30,44.66,Antonio Pettigrew,USA,03.11.67,,Sacramento,16.07.2000
+31,32,44.70,Antonio Pettigrew,USA,03.11.67,r3,Walnut,19.04.1998
+32,32,44.70,Jerome Young,USA,14.08.76,,Sacramento,16.07.2000
+33,32,44.70,Jerome Young,USA,14.08.76,s1,Saint-Denis,24.08.2003
+34,35,44.71,Mark Rowe,USA,28.07.60,,Houston,17.06.1989
+35,35,44.71,Antonio Pettigrew,USA,03.11.67,,Oslo,09.07.1998
+36,35,44.71,Jerome Young,USA,14.08.76,,Roma,11.07.2003
+37,35,44.71,Calvin Harrison,USA,20.01.74,s1,Saint-Denis,24.08.2003
+38,39,44.72,Antonio Pettigrew,USA,03.11.67,r2,Zürich,11.08.1999
+39,39,44.72,Antonio Pettigrew,USA,03.11.67,,Osaka,11.05.2002
+40,41,44.75,Antonio Pettigrew,USA,03.11.67,,Portland,16.05.1998
+41,41,44.75,Antonio Pettigrew,USA,03.11.67,s2,New Orleans,20.06.1998
+42,41,44.75,Alvin Harrison,USA,20.01.74,,Newcastle,23.02.2002
+43,44,44.76,Antonio Pettigrew,USA,03.11.67,,Roma,14.07.1998
+44,45,44.78,Antonio Pettigrew,USA,03.11.67,,Uniondale,21.07.1998
+45,46,44.79,Jerome Young,USA,14.08.76,,Palo Alto,21.06.2003
+46,47,44.81A,Jerome Young,USA,14.08.76,,Roodepoort,19.03.1999
+47,48,44.83,Mark Rowe,USA,28.07.60,,Westwood,10.06.1989
+48,49,44.84,Antonio Pettigrew,USA,03.11.67,s2,Sacramento,15.07.2000
+49,50,44.85,Calvin Harrison,USA,20.01.74,,Sacramento,15.07.2004
+50,51,44.86,Antonio Pettigrew,USA,03.11.67,r3,Walnut,20.04.1997
+51,51,44.86,Antonio Pettigrew,USA,03.11.67,,Paris,25.06.1997
+52,53,44.87,Antonio Pettigrew,USA,03.11.67,s1,Athínai,04.08.1997
+53,54,44.88,Antonio Pettigrew,USA,03.11.67,q1,Athínai,03.08.1997
+54,54,44.88,Antonio Pettigrew,USA,03.11.67,,Padova,07.06.1998
+55,56,44.91,Antonio Pettigrew,USA,03.11.67,,Portland,15.05.1999
+56,57,44.92,Antonio Pettigrew,USA,03.11.67,,Paris,29.07.1998
+57,58,44.93,Jerome Young,USA,14.08.76,h2,Sacramento,11.07.2004
+58,59,44.94,Antonio Pettigrew,USA,03.11.67,,London,17.08.1997
+59,59,44.94,Jerome Young,USA,14.08.76,q3,Sevilla,23.08.1999
+60,59,44.94,Jerome Young,USA,14.08.76,,Thessaloníki,03.08.2003
+61,62,44.96,Calvin Harrison,USA,20.01.74,,Saint-Denis,26.08.2003
+62,63,44.98,Antonio Pettigrew,USA,03.11.67,s2,Sevilla,24.08.1999
+63,63,44.98,Calvin Harrison,USA,20.01.74,s2,Sacramento,12.07.2004
+64,65,44.99,Antonio Pettigrew,USA,03.11.67,,Edmonton,06.08.2001
+65,66,45.00,Antonio Pettigrew,USA,03.11.67,s1,Edmonton,05.08.2001
+66,67,45.02,Antonio Pettigrew,USA,03.11.67,,London,07.08.1999
+67,67,45.02,Alvin Harrison,USA,20.01.74,rA,Poznan,18.08.2002
+68,69,45.04,Jerome Young,USA,14.08.76,,Monaco,13.09.2003
+69,70,45.05,Antonio Pettigrew,USA,03.11.67,,Portland,03.06.2001
+70,70,45.05,Alvin Harrison,USA,20.01.74,rA,Thessaloníki,24.07.2002
+71,72,45.06,Antonio Pettigrew,USA,03.11.67,,Malmö,20.08.1997
+72,72,45.06,Antonio Pettigrew,USA,03.11.67,,Tokyo,19.09.1998
+73,72,45.06,Jerome Young,USA,14.08.76,s1,Sacramento,15.07.2000
+74,75,45.07,Calvin Harrison,USA,20.01.74,,Spokane,27.06.1993
+75,76,45.08,Antonio Pettigrew,USA,03.11.67,,Malmö,03.08.1998
+76,76,45.08,Antonio Pettigrew,USA,03.11.67,,Eugene,23.06.2001
+77,78,45.09,Antonio Pettigrew,USA,03.11.67,,Villeneuve d'Ascq,29.06.1997
+78,79,45.10,Mark Rowe,USA,28.07.60,s2,Houston,16.06.1989
+79,79,45.10,Calvin Harrison,USA,20.01.74,h1,Spokane,26.06.1993
+80,81,45.11,Jerome Young,USA,14.08.76,,Berlin,10.08.2003
+81,82,45.12,Antonio Pettigrew,USA,03.11.67,,Athínai,28.06.2000
+82,82,45.12,Antonio Pettigrew,USA,03.11.67,rA,Stockholm,16.07.2002
+83,84,45.13,Mark Rowe,USA,28.07.60,,Westwood,06.08.1989
+84,85,45.14,Antonio Pettigrew,USA,03.11.67,,Eugene,26.05.2002
+85,86,45.15,Alvin Harrison,USA,20.01.74,h1,Palo Alto,21.06.2002
+86,87,45.17,Antonio Pettigrew,USA,03.11.67,,Inging,29.05.1997
+87,87,45.17,Antonio Pettigrew,USA,03.11.67,,Bellinzona,01.09.1999
+88,87,45.17,Antonio Pettigrew,USA,03.11.67,,Palo Alto,23.06.2002

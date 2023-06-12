@@ -1,0 +1,183 @@
+,index,url,event,mark,event type,sex
+0,0,http://www.alltime-athletics.com/m_100ok.htm,100 metres,legal,standard,men
+1,1,http://www.alltime-athletics.com/m_200ok.htm,200 metres,legal,standard,men
+2,2,http://www.alltime-athletics.com/m100mno.htm,100 metres,non-legal,standard,men
+3,3,http://www.alltime-athletics.com/m_200no.htm,200 metres,non-legal,standard,men
+4,4,http://www.alltime-athletics.com/m_400ok.htm,400 metres,legal,standard,men
+5,5,http://www.alltime-athletics.com/m_800ok.htm,800 metres,legal,standard,men
+6,6,http://www.alltime-athletics.com/m_400no.htm,400 metres,non-legal,standard,men
+7,7,http://www.alltime-athletics.com/m_800no.htm,800 metres,non-legal,standard,men
+8,8,http://www.alltime-athletics.com/m_1500ok.htm,1500 metres,legal,standard,men
+9,9,http://www.alltime-athletics.com/m_mileok.htm,1 Mile,legal,standard,men
+10,10,http://www.alltime-athletics.com/m_1500no.htm,1500 metres,non-legal,standard,men
+11,11,http://www.alltime-athletics.com/m_mileno.htm,1 Mile,non-legal,standard,men
+12,12,http://www.alltime-athletics.com/m_3000ok.htm,3000 metres,legal,standard,men
+13,13,http://www.alltime-athletics.com/m_3000no.htm,3000 metres,non-legal,standard,men
+14,14,http://www.alltime-athletics.com/m_5000ok.htm,5000 metres,legal,standard,men
+15,15,http://www.alltime-athletics.com/m_10kok.htm,10000 metres,legal,standard,men
+16,16,http://www.alltime-athletics.com/m_5000no.htm,5000 metres,non-legal,standard,men
+17,17,http://www.alltime-athletics.com/m_10kno.htm,10000 metres,non-legal,standard,men
+18,18,http://www.alltime-athletics.com/mhmaraok.htm,half-marathon,legal,standard,men
+19,19,http://www.alltime-athletics.com/mmaraok.htm,marathon,legal,standard,men
+20,20,http://www.alltime-athletics.com/mhmarano.htm,half-marathon,non-legal,standard,men
+21,21,http://www.alltime-athletics.com/mmarano.htm,marathon,non-legal,standard,men
+22,22,http://www.alltime-athletics.com/m3000hok.htm,3000m steeplechase,legal,standard,men
+23,23,http://www.alltime-athletics.com/m3000hno.htm,3000m steeplechase,non-legal,standard,men
+24,24,http://www.alltime-athletics.com/m_110hok.htm,110m hurdles,legal,standard,men
+25,25,http://www.alltime-athletics.com/m_400hok.htm,400m hurdles,legal,standard,men
+26,26,http://www.alltime-athletics.com/m_110hno.htm,110m hurdles,non-legal,standard,men
+27,27,http://www.alltime-athletics.com/m_400hno.htm,400m hurdles,non-legal,standard,men
+28,28,http://www.alltime-athletics.com/m4x100ok.htm,4x100m relay,legal,standard,men
+29,29,http://www.alltime-athletics.com/m4x100no.htm,4x100m relay,non-legal,standard,men
+30,30,http://www.alltime-athletics.com/m4x400ok.htm,4x400m relay,legal,standard,men
+31,31,http://www.alltime-athletics.com/m4x400no.htm,4x400m relay,non-legal,standard,men
+32,32,http://www.alltime-athletics.com/mhighok.htm,High jump,legal,standard,men
+33,33,http://www.alltime-athletics.com/mpoleok.htm,Pole vault,legal,standard,men
+34,34,http://www.alltime-athletics.com/mhighno.htm,High jump,non-legal,standard,men
+35,35,http://www.alltime-athletics.com/mpoleno.htm,Pole vault,non-legal,standard,men
+36,36,http://www.alltime-athletics.com/mlongok.htm,Long jump,legal,standard,men
+37,37,http://www.alltime-athletics.com/mtripok.htm,Triple jump,legal,standard,men
+38,38,http://www.alltime-athletics.com/mlongno.htm,Long jump,non-legal,standard,men
+39,39,http://www.alltime-athletics.com/mtripno.htm,Triple jump,non-legal,standard,men
+40,40,http://www.alltime-athletics.com/mshotok.htm,Shot put,legal,standard,men
+41,41,http://www.alltime-athletics.com/mdiscok.htm,Discus throw,legal,standard,men
+42,42,http://www.alltime-athletics.com/mshotno.htm,Shot put,non-legal,standard,men
+43,43,http://www.alltime-athletics.com/mdiscno.htm,Discus throw,non-legal,standard,men
+44,44,http://www.alltime-athletics.com/mhammok.htm,Hammer throw,legal,standard,men
+45,45,http://www.alltime-athletics.com/mhammno.htm,Hammer throw,non-legal,standard,men
+46,46,http://www.alltime-athletics.com/mjaveok.htm,Javelin throw,legal,standard,men
+47,47,http://www.alltime-athletics.com/mjaveoldok.htm,Old specs,legal,standard,men
+48,48,http://www.alltime-athletics.com/mjaveno.htm,Javelin throw,non-legal,standard,men
+49,49,http://www.alltime-athletics.com/mjaveoldno.htm,Old specs,non-legal,standard,men
+50,50,http://www.alltime-athletics.com/mdecaok.htm,Decathlon,legal,standard,men
+51,51,http://www.alltime-athletics.com/mdecano.htm,Decathlon,non-legal,standard,men
+52,52,http://www.alltime-athletics.com/m20kwok.htm,20 km race walk,legal,standard,men
+53,53,http://www.alltime-athletics.com/m20kwno.htm,20 km race walk,non-legal,standard,men
+54,54,http://www.alltime-athletics.com/m50kwok.htm,50 km race walk,legal,standard,men
+55,55,http://www.alltime-athletics.com/m50kwno.htm,50 km race walk,non-legal,standard,men
+56,56,http://www.alltime-athletics.com/m60mok.htm,60 metres,legal,special,men
+57,57,http://www.alltime-athletics.com/m_100yok.htm,100 yards,legal,special,men
+58,58,http://www.alltime-athletics.com/m60mno.htm,60 metres,non-legal,special,men
+59,59,http://www.alltime-athletics.com/m_100yno.htm,100 yards,non-legal,special,men
+60,60,http://www.alltime-athletics.com/m_300ok.htm,300 metres,legal,special,men
+61,61,http://www.alltime-athletics.com/m_600ok.htm,600 metres,legal,special,men
+62,62,http://www.alltime-athletics.com/m_300no.htm,300 metres,non-legal,special,men
+63,63,http://www.alltime-athletics.com/m_600no.htm,600 metres,non-legal,special,men
+64,64,http://www.alltime-athletics.com/m_1000ok.htm,1000 metres,legal,special,men
+65,65,http://www.alltime-athletics.com/m_2000ok.htm,2000 metres,legal,special,men
+66,66,http://www.alltime-athletics.com/m_1000no.htm,1000 metres,non-legal,special,men
+67,67,http://www.alltime-athletics.com/m_2miok.htm,2 Miles,legal,special,men
+68,68,http://www.alltime-athletics.com/m1hourok.htm,One hour run,legal,special,men
+69,69,http://www.alltime-athletics.com/m25kok.htm,25 000m track,legal,special,men
+70,70,http://www.alltime-athletics.com/m1hourno.htm,One hour run,non-legal,special,men
+71,71,http://www.alltime-athletics.com/m30kok.htm,30 000m track,legal,special,men
+72,72,http://www.alltime-athletics.com/m10kroad.htm,10km road,legal,special,men
+73,73,http://www.alltime-athletics.com/m15kroad.htm,15km road,legal,special,men
+74,74,http://www.alltime-athletics.com/m10kroadno.htm,10km road,non-legal,special,men
+75,75,http://www.alltime-athletics.com/m15kroadno.htm,15km road,non-legal,special,men
+76,76,http://www.alltime-athletics.com/m10milesroad.htm,10 miles road,legal,special,men
+77,77,http://www.alltime-athletics.com/m20kroad.htm,20km road,legal,special,men
+78,78,http://www.alltime-athletics.com/m10milesroadno.htm,10 miles road,non-legal,special,men
+79,79,http://www.alltime-athletics.com/m20kroadno.htm,20km road,non-legal,special,men
+80,80,http://www.alltime-athletics.com/m30kroad.htm,30km road,legal,special,men
+81,81,http://www.alltime-athletics.com/m100km.htm,100km road,legal,special,men
+82,82,http://www.alltime-athletics.com/m30kroadno.htm,30km road,non-legal,special,men
+83,83,http://www.alltime-athletics.com/m2000hok.htm,2000m steeplechase,legal,special,men
+84,84,http://www.alltime-athletics.com/m2000hno.htm,2000m steeplechase,non-legal,special,men
+85,85,http://www.alltime-athletics.com/m_60mhok.htm,60m hurdles,legal,special,men
+86,86,http://www.alltime-athletics.com/m_200hok.htm,200m hurdles,legal,special,men
+87,87,http://www.alltime-athletics.com/m_60mhno.htm,60m hurdles,non-legal,special,men
+88,88,http://www.alltime-athletics.com/m_200hno.htm,200m hurdles,non-legal,special,men
+89,89,http://www.alltime-athletics.com/m4x200ok.htm,4x200m relay,legal,special,men
+90,90,http://www.alltime-athletics.com/m4x800ok.htm,4x800m relay,legal,special,men
+91,91,http://www.alltime-athletics.com/m4x200no.htm,4x200m relay,non-legal,special,men
+92,92,http://www.alltime-athletics.com/m4x800no.htm,4x800m relay,non-legal,special,men
+93,93,http://www.alltime-athletics.com/m4x1500ok.htm,4x1500m relay,legal,special,men
+94,94,http://www.alltime-athletics.com/m_4xmileok.htm,4xOne Mile relay,legal,special,men
+95,95,http://www.alltime-athletics.com/m10kwok.htm,10000 meters track walk,legal,special,men
+96,96,http://www.alltime-athletics.com/m10kwno.htm,10000 meters track walk,non-legal,special,men
+97,0,http://www.alltime-athletics.com/w_100ok.htm,100 metres,legal,standard,women
+98,1,http://www.alltime-athletics.com/w_200ok.htm,200 metres,legal,standard,women
+99,2,http://www.alltime-athletics.com/w_100no.htm,100 metres,non-legal,standard,women
+100,3,http://www.alltime-athletics.com/w_200no.htm,200 metres,non-legal,standard,women
+101,4,http://www.alltime-athletics.com/w_400ok.htm,400 metres,legal,standard,women
+102,5,http://www.alltime-athletics.com/w_800ok.htm,800 metres,legal,standard,women
+103,6,http://www.alltime-athletics.com/w_400no.htm,400 metres,non-legal,standard,women
+104,7,http://www.alltime-athletics.com/w_800no.htm,800 metres,non-legal,standard,women
+105,8,http://www.alltime-athletics.com/w_1500ok.htm,1500 metres,legal,standard,women
+106,9,http://www.alltime-athletics.com/w_mileok.htm,1 Mile,legal,standard,women
+107,10,http://www.alltime-athletics.com/w_1500no.htm,1500 metres,non-legal,standard,women
+108,11,http://www.alltime-athletics.com/w_mileno.htm,1 Mile,non-legal,standard,women
+109,12,http://www.alltime-athletics.com/w_3000ok.htm,3000 metres,legal,standard,women
+110,13,http://www.alltime-athletics.com/w_3000no.htm,3000 metres,non-legal,standard,women
+111,14,http://www.alltime-athletics.com/w_5000ok.htm,5000 metres,legal,standard,women
+112,15,http://www.alltime-athletics.com/w_10kok.htm,10000 metres,legal,standard,women
+113,16,http://www.alltime-athletics.com/w_5000no.htm,5000 metres,non-legal,standard,women
+114,17,http://www.alltime-athletics.com/w_10kno.htm,10000 metres,non-legal,standard,women
+115,18,http://www.alltime-athletics.com/whmaraok.htm,half-marathon,legal,standard,women
+116,19,http://www.alltime-athletics.com/wmaraok.htm,marathon,legal,standard,women
+117,20,http://www.alltime-athletics.com/whmarano.htm,half-marathon,non-legal,standard,women
+118,21,http://www.alltime-athletics.com/wmarano.htm,marathon,non-legal,standard,women
+119,22,http://www.alltime-athletics.com/w3000hok.htm,3000m steeplechase,legal,standard,women
+120,23,http://www.alltime-athletics.com/w3000hno.htm,3000m steeplechase,non-legal,standard,women
+121,24,http://www.alltime-athletics.com/w_100hok.htm,100m hurdles,legal,standard,women
+122,25,http://www.alltime-athletics.com/w_400hok.htm,400m hurdles,legal,standard,women
+123,26,http://www.alltime-athletics.com/w_100hno.htm,100m hurdles,non-legal,standard,women
+124,27,http://www.alltime-athletics.com/w_400hno.htm,400m hurdles,non-legal,standard,women
+125,28,http://www.alltime-athletics.com/w4x100ok.htm,4x100m relay,legal,standard,women
+126,29,http://www.alltime-athletics.com/w4x100no.htm,4x100m relay,non-legal,standard,women
+127,30,http://www.alltime-athletics.com/w4x400ok.htm,4x400m relay,legal,standard,women
+128,31,http://www.alltime-athletics.com/w4x400no.htm,4x400m relay,non-legal,standard,women
+129,32,http://www.alltime-athletics.com/whighok.htm,High jump,legal,standard,women
+130,33,http://www.alltime-athletics.com/wpoleok.htm,Pole vault,legal,standard,women
+131,34,http://www.alltime-athletics.com/whighno.htm,High jump,non-legal,standard,women
+132,35,http://www.alltime-athletics.com/wpoleno.htm,Pole vault,non-legal,standard,women
+133,36,http://www.alltime-athletics.com/wlongok.htm,Long jump,legal,standard,women
+134,37,http://www.alltime-athletics.com/wtripleok.htm,Triple jump,legal,standard,women
+135,38,http://www.alltime-athletics.com/wlongno.htm,Long jump,non-legal,standard,women
+136,39,http://www.alltime-athletics.com/wtripleno.htm,Triple jump,non-legal,standard,women
+137,40,http://www.alltime-athletics.com/wshotok.htm,Shot put,legal,standard,women
+138,41,http://www.alltime-athletics.com/wdiscok.htm,Discus throw,legal,standard,women
+139,42,http://www.alltime-athletics.com/wshotno.htm,Shot put,non-legal,standard,women
+140,43,http://www.alltime-athletics.com/wdiscno.htm,Discus throw,non-legal,standard,women
+141,44,http://www.alltime-athletics.com/whammok.htm,Hammer throw,legal,standard,women
+142,45,http://www.alltime-athletics.com/whammno.htm,Hammer throw,non-legal,standard,women
+143,46,http://www.alltime-athletics.com/wjaveok.htm,Javelin throw,legal,standard,women
+144,47,http://www.alltime-athletics.com/wjaveoldok.htm,Old specs,legal,standard,women
+145,48,http://www.alltime-athletics.com/wjaveno.htm,Javelin throw,non-legal,standard,women
+146,49,http://www.alltime-athletics.com/wjaveoldno.htm,Old specs,non-legal,standard,women
+147,50,http://www.alltime-athletics.com/whepaok.htm,Heptathlon,legal,standard,women
+148,51,http://www.alltime-athletics.com/whepano.htm,Heptathlon,non-legal,standard,women
+149,52,http://www.alltime-athletics.com/w20kwok.htm,20 km race walk,legal,standard,women
+150,53,http://www.alltime-athletics.com/w20kwno.htm,20 km race walk,non-legal,standard,women
+151,54,http://www.alltime-athletics.com/w50kwok.htm,50 km race walk,legal,standard,women
+152,55,http://www.alltime-athletics.com/w60mok.htm,60 metres,legal,special,women
+153,56,http://www.alltime-athletics.com/w60mno.htm,60 metres,non-legal,special,women
+154,57,http://www.alltime-athletics.com/w_300ok.htm,300 metres,legal,special,women
+155,58,http://www.alltime-athletics.com/w_600ok.htm,600 metres,legal,special,women
+156,59,http://www.alltime-athletics.com/w_300no.htm,300 metres,non-legal,special,women
+157,60,http://www.alltime-athletics.com/w_1000ok.htm,1000 metres,legal,special,women
+158,61,http://www.alltime-athletics.com/w_2000ok.htm,2000 metres,legal,special,women
+159,62,http://www.alltime-athletics.com/w_1000no.htm,1000 metres,non-legal,special,women
+160,63,http://www.alltime-athletics.com/w_2000no.htm,2000 metres,non-legal,special,women
+161,64,http://www.alltime-athletics.com/w2milesok.htm,2 Miles,legal,special,women
+162,65,http://www.alltime-athletics.com/w10kroad.htm,10km road,legal,special,women
+163,66,http://www.alltime-athletics.com/w15kroad.htm,15km road,legal,special,women
+164,67,http://www.alltime-athletics.com/w10kroadno.htm,10km road,non-legal,special,women
+165,68,http://www.alltime-athletics.com/w15kroadno.htm,15km road,non-legal,special,women
+166,69,http://www.alltime-athletics.com/w10milesroad.htm,10 miles road,legal,special,women
+167,70,http://www.alltime-athletics.com/w20kroad.htm,20km road,legal,special,women
+168,71,http://www.alltime-athletics.com/w30kroad.htm,30km road,legal,special,women
+169,72,http://www.alltime-athletics.com/w20kroadno.htm,20km road,non-legal,special,women
+170,73,http://www.alltime-athletics.com/w30kroadno.htm,30km road,non-legal,special,women
+171,74,http://www.alltime-athletics.com/w2000hok.htm,2000m steeplechase,legal,special,women
+172,75,http://www.alltime-athletics.com/w2000hno.htm,2000m steeplechase,non-legal,special,women
+173,76,http://www.alltime-athletics.com/w_60mhok.htm,60m hurdles,legal,special,women
+174,77,http://www.alltime-athletics.com/w_60mhno.htm,60m hurdles,non-legal,special,women
+175,78,http://www.alltime-athletics.com/w4x800ok.htm,4x800m relay,legal,special,women
+176,79,http://www.alltime-athletics.com/w4x1500ok.htm,4x1500m relay,legal,special,women
+177,80,http://www.alltime-athletics.com/w4x800no.htm,4x800m relay,non-legal,special,women
+178,81,http://www.alltime-athletics.com/w5kwok.htm,5000 metres track walk,legal,special,women
+179,82,http://www.alltime-athletics.com/w5kwno.htm,5000 metres track walk,non-legal,special,women
+180,83,http://www.alltime-athletics.com/w10kwok.htm,10 km race walk,legal,special,women
+181,84,http://www.alltime-athletics.com/w10kwno.htm,10 km race walk,non-legal,special,women

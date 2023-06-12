@@ -1,0 +1,169 @@
+,0,1,2,3,4,5,6,7
+0,1,43.9,Michael Johnson,USA,13.09.67,1,Cape Town,31.03.2000
+1,2,44.1,Wayne Collett,USA,20.10.49,1,Eugene,09.07.1972
+2,3,44.2y,John Smith,USA,05.08.50,1,Eugene,26.06.1971
+3,3,44.2,Fred Newhouse,USA,08.11.48,1s1,Eugene,07.07.1972
+4,5,44.3,John Smith,USA,05.08.50,2,Eugene,09.07.1972
+5,5,44.3A,Roberto Hernández,CUB,06.03.67,1,Bogotá,12.08.1989
+6,7,44.4A,Vince Matthews,USA,16.12.47,1,Echo Summit,31.08.1968
+7,7,44.4y,Wayne Collett,USA,20.10.49,2,Eugene,26.06.1971
+8,7,44.4yA,John Smith,USA,05.08.50,1,El Paso,22.05.1976
+9,7,44.4A,Alberto Juantorena,CUB,03.12.50,1,Ciudad de México,03.07.1976
+10,7,44.4,Trevor Stewart,USA,20.05.97,1h1,Greensboro,03.05.2019
+11,12,44.5+,Tommie Smith,USA,12.06.44,1,San José,20.05.1967
+12,12,44.5A,Lee Evans,USA,25.02.47,1,South Lake Tahoe,12.09.1969
+13,12,44.5,John Smith,USA,05.08.50,1,Eugene,03.06.1972
+14,12,44.5A,Kennedy Ochieng,KEN,30.12.71,1,Nairobi,03.07.1993
+15,16,44.6y,Adolph Plummer,USA,03.01.38,1,Tempe,25.05.1963
+16,16,44.6+,Lee Evans,USA,25.02.47,1,Westwood,15.04.1972
+17,16,44.6A,Kennedy Ochieng,KEN,30.12.71,1,Nairobi,19.05.1993
+18,16,44.6A,Kennedy Ochieng,KEN,30.12.71,1,Kasarani,26.06.1999
+19,16,44.6,Angelo Taylor,USA,29.12.78,1,Beograd,29.05.2007
+20,21,44.7y,Wayne Collett,USA,20.10.49,2,Westwood,15.04.1972
+21,21,44.7y,John Smith,USA,05.08.50,1,Los Angeles,09.06.1972
+22,21,44.7y,Lee Evans,USA,25.02.47,2,Los Angeles,09.06.1972
+23,21,44.7,Vince Matthews,USA,16.12.47,1,München,24.08.1972
+24,21,44.7y,Benny Brown,USA,27.09.53,1,Westwood,05.05.1973
+25,21,44.7,Alberto Juantorena,CUB,03.12.50,1,Torino,24.07.1974
+26,21,44.7,Alberto Juantorena,CUB,03.12.50,1,La Habana,25.04.1976
+27,21,44.7y,John Smith,USA,05.08.50,1,Atlanta,25.04.1976
+28,21,44.7,Antonio Pettigrew,USA,03.11.67,1,San Angelo,25.05.1991
+29,21,44.7A,Simon Kemboi,KEN,01.03.67,2,Nairobi,03.07.1993
+30,21,44.7A,Samson Kitur,KEN,25.02.66,1,Nairobi,29.07.1993
+31,21,44.7A,Samson Kitur,KEN,25.02.66,1h1,Nairobi,30.06.1995
+32,21,44.7,Tyree Washington,USA,28.08.76,1rA,London,08.08.2003
+33,34,44.8+,Lee Evans,USA,25.02.47,2,San José,20.05.1967
+34,34,44.8,Vince Matthews,USA,16.12.47,1,Los Angeles,04.06.1972
+35,34,44.8y,Vince Matthews,USA,16.12.47,3,Los Angeles,09.06.1972
+36,34,44.8,Wayne Collett,USA,20.10.49,1s2,Eugene,07.07.1972
+37,34,44.8,Vince Matthews,USA,16.12.47,2s1,Eugene,07.07.1972
+38,34,44.8,Lee Evans,USA,25.02.47,2,München,24.08.1972
+39,34,44.8y,Ken Randle,USA,12.10.54,1,Westwood,03.05.1975
+40,34,44.8y,Warren Edmondson,USA,27.10.50,2,Atlanta,25.04.1976
+41,34,44.8A,Alonzo Babers,USA,31.10.61,1,Colorado Springs,04.06.1984
+42,34,44.8,Gabriel Tiacoh,CIV,10.09.63,1,Abidjan,18.06.1989
+43,34,44.8,Alvin Daniel,TTO,30.08.68,1,Port of Spain,09.05.1992
+44,34,44.8A,Simon Kemboi,KEN,01.03.67,1,Nairobi,13.06.1992
+45,34,44.8A,Kennedy Ochieng,KEN,30.12.71,2,Nairobi,29.07.1993
+46,34,44.8A,Simon Kemboi,KEN,01.03.67,3,Nairobi,29.07.1993
+47,34,44.8A,Samson Kitur,KEN,25.02.66,1s1,Nairobi,28.06.1996
+48,34,44.8A,Charles Gitonga,KEN,05.10.71,1s2,Nairobi,28.06.1996
+49,34,44.8A,Alvin Harrison,USA,20.01.74,1,Pietersburg,11.03.1998
+50,34,44.8,Michael Blackwood,JAM,29.08.76,2rA,London,08.08.2003
+51,34,44.8,Michael Blackwood,JAM,29.08.76,2,London,28.08.2003
+52,53,44.9,Mike Larrabee,USA,02.12.33,1,Los Angeles,12.09.1964
+53,53,44.9y,Theron Lewis,USA,10.07.44,1,Sioux Falls,04.06.1966
+54,53,44.9y,Larry James,USA,06.11.47,1,Knoxville,06.04.1968
+55,53,44.9A,Lee Evans,USA,25.02.47,1,Echo Summit,17.08.1968
+56,53,44.9,Lee Evans,USA,25.02.47,1,Stuttgart,30.07.1969
+57,53,44.9,Wayne Collett,USA,20.10.49,1,Colombes,09.07.1970
+58,53,44.9yA,Steve Williams,USA,13.11.53,1,El Paso,13.05.1972
+59,53,44.9y,Lee Evans,USA,25.02.47,1,Fresno,13.05.1972
+60,53,44.9,Wayne Collett,USA,20.10.49,1,Bakersfield,20.05.1972
+61,53,44.9y,Wayne Collett,USA,20.10.49,4,Los Angeles,09.06.1972
+62,53,44.9,Vince Matthews,USA,16.12.47,3,Eugene,09.07.1972
+63,53,44.9+,Maurice Peoples,USA,17.12.50,1,Bakersfield,16.06.1973
+64,53,44.9y,Darwin Bond,USA,17.08.51,1,Knoxville,11.05.1974
+65,53,44.9,Alberto Juantorena,CUB,03.12.50,1,Siena,21.07.1974
+66,53,44.9y,Benny Brown,USA,27.09.53,2,Westwood,03.05.1975
+67,53,44.9y,John Smith,USA,05.08.50,1,Boston,13.06.1975
+68,53,44.9,John Smith,USA,05.08.50,1,London,20.06.1975
+69,53,44.9yA,Warren Edmondson,USA,27.10.50,2,El Paso,22.05.1976
+70,53,44.9,Antonio McKay,USA,09.02.64,1,Atlanta,05.04.1986
+71,53,44.9A,David Kitur,KEN,12.10.62,1,Kisumu,03.05.1986
+72,53,44.9,Mohamed Al Malky,OMA,01.12.62,1,Al Qâhirah,03.10.1989
+73,53,44.9,Ian Morris,TTO,30.11.61,1,Port of Spain,10.05.1991
+74,53,44.9A,Simon Kemboi,KEN,01.03.67,1,Nairobi,01.07.1992
+75,53,44.9A,Simon Kemboi,KEN,01.03.67,1h1,Nairobi,02.07.1993
+76,53,44.9A,Abednego Matilu,KEN,21.11.68,2h1,Nairobi,02.07.1993
+77,53,44.9,Sunday Bada,NGR,22.06.69,1,Lagos,28.06.1997
+78,53,44.9A,Arnaud Malherbe,RSA,20.11.72,2,Pietersburg,11.03.1998
+79,53,44.9,Eric Milazar,MRI,01.06.75,1,Torino,09.06.2001
+80,53,44.9,Derrick Brew,USA,28.12.77,1,Nitra,25.08.2001
+81,53,44.9,Eric Milazar,MRI,01.06.75,1,El Djezair,24.06.2004
+82,53,44.9,Young Talkmore Nyangani,ZIM,02.09.83,2,El Djezair,24.06.2004
+83,84,45.0,Ulis Williams,USA,24.10.41,2,Los Angeles,12.09.1964
+84,84,45.0y,Lee Evans,USA,25.02.47,1,Bakersfield,23.06.1967
+85,84,45.0,Vince Matthews,USA,16.12.47,1,Montréal,09.08.1967
+86,84,45.0,Lee Evans,USA,25.02.47,1,Berkeley,15.06.1968
+87,84,45.0,Lee Evans,USA,25.02.47,1,Sacramento,21.06.1968
+88,84,45.0,Vince Matthews,USA,16.12.47,2,Sacramento,21.06.1968
+89,84,45.0,John Smith,USA,05.08.50,2,Colombes,09.07.1970
+90,84,45.0y,John Smith,USA,05.08.50,1,Seattle,19.06.1971
+91,84,45.0y,John Smith,USA,05.08.50,1,Los Angeles,06.05.1972
+92,84,45.0,Wayne Collett,USA,20.10.49,2rA,Los Angeles,04.06.1972
+93,84,45.0,Lee Evans,USA,25.02.47,1,Seattle,17.06.1972
+94,84,45.0,Lee Evans,USA,25.02.47,2s2,Eugene,07.07.1972
+95,84,45.0,Lee Evans,USA,25.02.47,1rA,Oslo,02.08.1972
+96,84,45.0,Lee Evans,USA,25.02.47,1,Roma,13.09.1972
+97,84,45.0,Vince Matthews,USA,16.12.47,1,Rieti,17.09.1972
+98,84,45.0y,Fred Newhouse,USA,08.11.48,1,Durham,12.05.1973
+99,84,45.0,Alfons Brijdenbach,BEL,12.10.54,1,Bruxelles,15.05.1974
+100,84,45.0,Evis Jennings,USA,11.07.55,1,Atlanta,22.05.1976
+101,84,45.0,Alfons Brijdenbach,BEL,12.10.54,1,Bruxelles,26.06.1976
+102,84,45.0,Leslie Kerr,USA,17.09.58,1,Laredo,07.03.1981
+103,84,45.0A,Bill Green,USA,01.05.61,1,El Paso,18.04.1981
+104,84,45.0,Charles Phillips,USA,18.08.59,1,Los Angeles,15.05.1983
+105,84,45.0,Michael Paul,TTO,28.03.57,1,Port of Spain,13.07.1985
+106,84,45.0,Ian Morris,TTO,30.11.61,1,Port of Spain,06.05.1988
+107,84,45.0A,Simon Kipkemboi,KEN,15.04.60,1h2,Nairobi,12.08.1988
+108,84,45.0A,Simon Kipkemboi,KEN,15.04.60,1,Nairobi,23.12.1989
+109,84,45.0,Robson Caetano da Silva,BRA,04.09.64,1h1,Rio de Janeiro,31.08.1990
+110,84,45.0,Alvin Daniel,TTO,30.08.68,1,Port of Spain,09.05.1992
+111,84,45.0A,Abednego Matilu,KEN,21.11.68,3,Nairobi,03.07.1993
+112,84,45.0A,Abednego Matilu,KEN,21.11.68,2h1,Nairobi,30.06.1995
+113,84,45.0,Calvin Harrison,USA,20.01.74,1,Los Angeles,04.05.1996
+114,84,45.0,Clement Chukwu,NGR,07.07.73,2,Lagos,28.06.1997
+115,84,45.0A,Ezra Sambu,KEN,04.09.78,1,Nairobi,12.05.2001
+116,11,45.1y,Vince Matthews,USA,16.12.47,1,Sioux Falls,10.06.1967
+117,11,45.1,Lee Evans,USA,25.02.47,2,Montréal,09.08.1967
+118,11,45.1,Lee Evans,USA,25.02.47,1,Toronto,02.09.1968
+119,11,45.1y,Lee Evans,USA,25.02.47,1s2,Knoxville,20.06.1969
+120,11,45.1,John Smith,USA,05.08.50,1,Stuttgart,15.07.1970
+121,11,45.1,Jean-Claude Nallet,FRA,15.03.47,1,Colombes,19.07.1970
+122,11,45.1y,Wayne Collett,USA,20.10.49,1,Seattle,22.05.1971
+123,11,45.1y,Tommie Turner,USA,17.01.47,1,Seattle,18.06.1971
+124,11,45.1y,Edesel Garrison,USA,17.08.50,2,Seattle,19.06.1971
+125,11,45.1y,Edesel Garrison,USA,17.08.50,1,Palo Alto,20.05.1972
+126,11,45.1,Larance Jones,USA,04.03.51,2,Eugene,03.06.1972
+127,11,45.1,Vince Matthews,USA,16.12.47,2,Seattle,17.06.1972
+128,11,45.1,Lee Evans,USA,25.02.47,4,Eugene,09.07.1972
+129,11,45.1,Lee Evans,USA,25.02.47,1,Stockholm,14.08.1972
+130,11,45.1,Bernd Herrmann,FRG,22.11.51,1,Bonn,02.06.1974
+131,11,45.1yA,Warren Edmondson,USA,27.10.50,1,El Paso,10.05.1975
+132,11,45.1,Fred Newhouse,USA,08.11.48,2,Atlanta,22.05.1976
+133,11,45.1yA,Larry James,USA,06.11.47,3,El Paso,22.05.1976
+134,13,45.2,Louis Jones,USA,15.01.32,1,Los Angeles,30.06.1956
+135,13,45.2,Lee Evans,USA,25.02.47,1,Los Angeles,23.07.1966
+136,13,45.2,Vince Matthews,USA,16.12.47,1,Viareggio,19.08.1967
+137,13,45.2y,Dave Morton,USA,07.07.49,1,Fort Worth,04.05.1968
+138,13,45.2y,Larry James,USA,06.11.47,1,Philadelphia,01.06.1968
+139,13,45.2A,Emmett Taylor,USA,26.01.47,2,Echo Summit,31.08.1968
+140,13,45.2A,James Kemp,USA,25.11.44,5,Echo Summit,14.09.1968
+141,13,45.2A,Harold Francis,USA,29.07.45,6,Echo Summit,14.09.1968
+142,13,45.2,Tommie Smith,USA,12.06.44,1,Victoria,28.09.1968
+143,13,45.2y,Edesel Garrison,USA,17.08.50,2s2,Knoxville,20.06.1969
+144,13,45.2y,Tommie Turner,USA,17.01.47,3s2,Knoxville,20.06.1969
+145,13,45.2A,Lee Evans,USA,25.02.47,1,Nairobi,11.10.1969
+146,13,45.2,Fred Newhouse,USA,08.11.48,1,Colombes,10.06.1970
+147,13,45.2y,Curtis Mills,USA,06.10.48,1,Wichita,13.06.1970
+148,13,45.2,Larry James,USA,06.11.47,1,Des Moines,20.06.1970
+149,13,45.2+,Edesel Garrison,USA,17.08.50,1,Westwood,08.05.1971
+150,13,45.2y,John Smith,USA,05.08.50,2,Westwood,08.05.1971
+151,13,45.2y,John Smith,USA,05.08.50,2,Seattle,22.05.1971
+152,13,45.2,Lee Evans,USA,25.02.47,1q3,Eugene,06.07.1972
+153,13,45.2,John Smith,USA,05.08.50,3s1,Eugene,07.07.1972
+154,13,45.2,Tommie Turner,USA,17.01.47,3s2,Eugene,07.07.1972
+155,13,45.2,Curtis Mills,USA,06.10.48,4s2,Eugene,07.07.1972
+156,13,45.2,John Smith,USA,05.08.50,2,Stockholm,14.08.1972
+157,13,45.2,Vince Matthews,USA,16.12.47,2,Roma,13.09.1972
+158,13,45.2y,Benny Brown,USA,27.09.53,1,Eugene,14.04.1973
+159,13,45.2,David Jenkins,GBR,25.05.52,1,Oslo,04.08.1973
+160,13,45.2y,Larance Jones,USA,04.03.51,1,Des Moines,26.04.1974
+161,13,45.2yA,Warren Edmondson,USA,27.10.50,1,El Paso,27.04.1974
+162,13,45.2,Maurice Peoples,USA,17.12.50,1,Westwood,22.06.1974
+163,13,45.2,Alfons Brijdenbach,BEL,12.10.54,1,Oslo,20.08.1974
+164,13,45.2,Stephen Chepkwony,KEN,15.11.54,1,Melbourne,04.02.1975
+165,13,45.2y,Ken Randle,USA,12.10.54,1,Pullman,17.05.1975
+166,13,45.2y,Benny Brown,USA,27.09.53,2,Pullman,17.05.1975
+167,13,45.2,Ken Randle,USA,12.10.54,1,Philadelphia,05.06.1976

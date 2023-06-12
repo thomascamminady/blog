@@ -1,0 +1,80 @@
+,0,1,2,3,4,5,6,7,8
+0,1,10.75,-0.4,Marion Jones,USA,12.10.75,,Sydney,23.09.2000
+1,2,10.78,+0.1,Marion Jones,USA,12.10.75,r1,Berlin,01.09.2000
+2,3,10.82,+0.8,Shelly-Ann Fraser-Pryce,JAM,27.12.86,,Eugene,03.07.2010
+3,4,10.83,+1.0,Marion Jones,USA,12.10.75,q2,Sydney,22.09.2000
+4,5,10.84,+0.5,Marion Jones,USA,12.10.75,,Saint-Denis,06.07.2001
+5,5,10.84,+1.1,Marion Jones,USA,12.10.75,,Brisbane,04.09.2001
+6,5,10.84,+0.3,Marion Jones,USA,12.10.75,,Monaco,19.07.2002
+7,5,10.84,+0.9,Sha'Carri Richardson,USA,25.03.00,h4,Eugene,18.06.2021
+8,9,10.85,-0.3,Marion Jones,USA,12.10.75,,Edmonton,06.08.2001
+9,9,10.85,+0.3,Kelli White,USA,01.04.77,q3,Saint-Denis,23.08.2003
+10,9,10.85,+0.9,Kelli White,USA,01.04.77,,Saint-Denis,24.08.2003
+11,12,10.86,+0.1,Marion Jones,USA,12.10.75,,Bruxelles,24.08.2001
+12,12,10.86,-1.0,Sha'Carri Richardson,USA,25.03.00,,Eugene,19.06.2021
+13,14,10.87,-0.1,Kelli White,USA,01.04.77,,Bruxelles,05.09.2003
+14,15,10.88,-0.5,Marion Jones,USA,12.10.75,rA,Zürich,16.08.2002
+15,15,10.88,+1.0,Marion Jones,USA,12.10.75,,Bruxelles,30.08.2002
+16,15,10.88,+1.4,Marion Jones,USA,12.10.75,,Paris,14.09.2002
+17,18,10.89,+0.1,Marion Jones,USA,12.10.75,,Saint-Denis,05.07.2002
+18,18,10.89,+0.7,Marion Jones,USA,12.10.75,rA,Roma,12.07.2002
+19,20,10.90,+1.8,Marion Jones,USA,12.10.75,,Eugene,26.05.2002
+20,20,10.90,-0.3,Marion Jones,USA,12.10.75,,Madrid,20.09.2002
+21,22,10.91,+0.3,Marion Jones,USA,12.10.75,rA,Roma,14.07.2006
+22,23,10.92,+0.6,Zhanna Block,UKR,06.07.72,rA,Stockholm,16.07.2002
+23,23,10.92,+0.1,Marion Jones,USA,12.10.75,,Saint-Denis,08.07.2006
+24,25,10.93,-0.2,Marion Jones,USA,12.10.75,h6,Edmonton,05.08.2001
+25,25,10.93,-1.1,Kelli White,USA,01.04.77,,Palo Alto,20.06.2003
+26,25,10.93,+1.3,Kelli White,USA,01.04.77,,London,08.08.2003
+27,28,10.94,-0.1,Marion Jones,USA,12.10.75,,Oslo,13.07.2001
+28,28,10.94,-1.0,Marion Jones,USA,12.10.75,rA,Zürich,17.08.2001
+29,28,10.94,+1.1,Marion Jones,USA,12.10.75,rA,Lausanne,11.07.2006
+30,31,10.95,-2.3,Marion Jones,USA,12.10.75,s1,Edmonton,06.08.2001
+31,32,10.96,+0.1,Marion Jones,USA,12.10.75,rA,Roma,29.06.2001
+32,32,10.96,-1.0,Marion Jones,USA,12.10.75,rA,Oslo,28.06.2002
+33,32,10.96,+0.7,Kelli White,USA,01.04.77,,Eugene,24.05.2003
+34,32,10.96,+0.8,Kelli White,USA,01.04.77,s1,Saint-Denis,24.08.2003
+35,36,10.97,±0.0,Angela Issajenko,CAN,28.09.58,,Köln,16.08.1987
+36,36,10.97,+1.0,Merlene Ottey,JAM,10.05.60,,Luzern,05.07.1999
+37,36,10.97,±0.0,Marion Jones,USA,12.10.75,q1,Edmonton,05.08.2001
+38,36,10.97,-0.5,Marion Jones,USA,12.10.75,,London,23.08.2002
+39,36,10.97,+0.8,Kelli White,USA,01.04.77,,Walnut,19.04.2003
+40,36,10.97,+0.3,Kelli White,USA,01.04.77,,Oslo,27.06.2003
+41,42,10.98,-2.3,Marion Jones,USA,12.10.75,s2,Palo Alto,21.06.2002
+42,43,10.99,+1.6,Angela Issajenko,CAN,28.09.58,q2,Roma,29.08.1987
+43,43,10.99,+0.6,Kelli White,USA,01.04.77,r2,Athínai,11.06.2001
+44,43,10.99,±0.0,Kelli White,USA,01.04.77,rA,Roma,11.07.2003
+45,46,11.00,+1.4,Angela Issajenko,CAN,28.09.58,,Brisbane,04.10.1982
+46,46,11.00,+1.6,Marion Jones,USA,12.10.75,,Ad-Dawhah,05.10.2000
+47,46,11.00,-0.3,Marion Jones,USA,12.10.75,r1,London,22.07.2001
+48,46,11.00,-0.1,Torri Edwards,USA,31.01.77,s1,Sacramento,10.07.2004
+49,50,11.01,+0.8,Angela Issajenko,CAN,28.09.58,,Ottawa,06.08.1988
+50,50,11.01,±0.0,Merlene Ottey,JAM,10.05.60,,Cuxhaven,23.07.1999
+51,50,11.01,-1.1,Marion Jones,USA,12.10.75,s2,Sydney,23.09.2000
+52,50,11.01,-1.0,Marion Jones,USA,12.10.75,,Palo Alto,22.06.2002
+53,50,11.01,+0.3,Marion Jones,USA,12.10.75,,Berlin,06.09.2002
+54,55,11.02,+0.1,Torri Edwards,USA,31.01.77,,Sacramento,10.07.2004
+55,56,11.03A,+1.3,Angela Issajenko,CAN,28.09.58,,Colorado Springs,20.07.1982
+56,56,11.03,-1.2,Angela Issajenko,CAN,28.09.58,,Zürich,19.08.1987
+57,58,11.04,-1.5,Marion Jones,USA,12.10.75,rB,Lausanne,04.07.2001
+58,58,11.04,-0.4,Marion Jones,USA,12.10.75,rA,Lausanne,02.07.2002
+59,58,11.04,+1.5,Marion Jones,USA,12.10.75,,Kingston,07.05.2004
+60,58,11.04,+1.5,Shelly-Ann Fraser-Pryce,JAM,27.12.86,,Ostrava,27.05.2010
+61,58,11.04,+1.5,Semoy Hackett,TTO,27.11.88,h6,London,03.08.2012
+62,63,11.05,+1.1,Torri Edwards,USA,31.01.77,r1,Osaka,08.05.2004
+63,63,11.05,-1.2,Marion Jones,USA,12.10.75,,London,28.07.2006
+64,65,11.06,+1.6,Chioma Ajunwa,NGR,25.12.70,,Lapinlahti,21.06.1992
+65,65,11.06,-2.1,Kelli White,USA,01.04.77,s1,Palo Alto,20.06.2003
+66,65,11.06,+1.6,Chryste Gaines,USA,14.09.70,,Eugene,19.06.2004
+67,65,11.06A,-0.5,Marion Jones,USA,12.10.75,,Xalapa,13.05.2006
+68,65,11.06,-0.5,Marion Jones,USA,12.10.75,,New York City,03.06.2006
+69,70,11.07,+0.7,Angela Issajenko,CAN,28.09.58,,Ottawa,31.07.1982
+70,70,11.07,-1.1,Kelli White,USA,01.04.77,,Osaka,10.05.2003
+71,72,11.08,+1.8,Angela Issajenko,CAN,28.09.58,s1,Ottawa,31.07.1982
+72,72,11.08,+1.5,Angela Issajenko,CAN,28.09.58,s1,Ottawa,06.08.1988
+73,72,11.08,+1.2,Kelli White,USA,01.04.77,,Monaco,14.09.2003
+74,75,11.09,-1.5,Angela Issajenko,CAN,28.09.58,h2,Zürich,19.08.1987
+75,75,11.09,-0.5,Angela Issajenko,CAN,28.09.58,,Roma,30.08.1987
+76,75,11.09,+0.8,Angela Issajenko,CAN,28.09.58,,Lausanne,15.09.1987
+77,75,11.09,+1.2,Kelli White,USA,01.04.77,,Sevilla,08.06.2001
+78,75,11.09,-0.4,Kelli White,USA,01.04.77,,Saint-Denis,04.07.2003

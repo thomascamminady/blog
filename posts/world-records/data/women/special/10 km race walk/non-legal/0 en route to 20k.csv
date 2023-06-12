@@ -1,0 +1,75 @@
+,0,1,2,3,4,5,6,7
+0,1,42:05,Margarita Turova,BLR,28.12.80,1,Adler,12.03.2005
+1,2,42:12,Svetlana Vasilyeva,RUS,24.07.92,1=,Sochi,27.02.2015
+2,2,42:12,Elmira Alembekova,RUS,30.06.90,1=,Sochi,27.02.2015
+3,2,42:12,Marina Pandakova,RUS,01.03.89,1=,Sochi,27.02.2015
+4,5,42:15,Tatyana Sibileva,RUS,17.05.80,1=,Adler,23.02.2008
+5,5,42:15,Anisya Kirdyapkina,RUS,23.10.89,1=,Adler,23.02.2008
+6,5,42:15,Olga Kaniskina,RUS,19.01.85,1=,Adler,23.02.2008
+7,5,42:15,Tatyana Shemyakina,RUS,03.09.87,1=,Adler,23.02.2008
+8,9,42:19,Irayda Pudovkina,RUS,02.11.80,2,Adler,12.03.2005
+9,10,42:20,Yelena Lashmanova,RUS,12.11.92,1,Sochi,17.02.2019
+10,11,42:24,Tatyana Sibileva,RUS,17.05.80,1=,Cheboksary,11.05.2008
+11,11,42:24,Olga Kaniskina,RUS,19.01.85,1=,Cheboksary,11.05.2008
+12,11,42:24,Anisya Kirdyapkina,RUS,23.10.89,3,Cheboksary,11.05.2008
+13,14,42:34,Olimpiada Ivanova,RUS,05.05.70,1,Adler,04.03.2001
+14,15,42:38,Vera Vasilyeva,RUS,08.06.87,4,Sochi,27.02.2015
+15,16,42:39,Liu Hong,CHN,12.05.87,1,La Coruña,06.06.2015
+16,17,42:42,Nadezhda Ryashkina,RUS,22.01.67,1=,Moskva,19.05.2000
+17,17,42:42,Tatyana Gudkova,RUS,23.12.78,1=,Moskva,19.05.2000
+18,17,42:42,Tamara Kovalenko,RUS,05.06.64,1=,Moskva,19.05.2000
+19,20,42:43,Olimpiada Ivanova,RUS,05.05.70,4=,Moskva,19.05.2000
+20,20,42:43,Olga Polyakova,RUS,23.09.80,4=,Moskva,19.05.2000
+21,20,42:43,Olga Kaniskina,RUS,19.01.85,1,Beijing,21.08.2008
+22,23,42:44,Irina Stankina,RUS,25.03.77,6,Moskva,19.05.2000
+23,24,42:47,Margarita Turova,BLR,28.12.80,1,Göteborg,09.08.2006
+24,25,42:50,Liu Hong,CHN,12.05.87,1,London,11.08.2012
+25,26,42:51,Olena Shumkina,RUS,24.01.88,5,Adler,23.02.2008
+26,27,42:54,Susana Feitor,POR,28.01.75,1,Rio Maior,07.04.2001
+27,27,42:54,Olimpiada Ivanova,RUS,05.05.70,1,Helsinki,07.08.2005
+28,27,42:54,Raisa Shiviryova,RUS,31.08.78,6,Adler,23.02.2008
+29,30,42:55,Olimpiada Ivanova,RUS,05.05.70,1=,Dudince,19.05.2001
+30,30,42:55,Yelena Nikolayeva,RUS,01.02.66,1=,Dudince,19.05.2001
+31,32,42:56,Olimpiada Ivanova,RUS,05.05.70,1,Eisenhüttenstadt,17.06.2000
+32,33,42:58,Susana Feitor,POR,28.01.75,3,Dudince,19.05.2001
+33,34,43:03,Kerry Saxby-Junna,AUS,02.06.61,1,Hawkesbury,10.07.1993
+34,35,43:05,Yelena Nikolayeva,RUS,01.02.66,1,Mézidon-Canon,02.05.1999
+35,36,43:10,Ana Cabechina,POR,29.04.84,1,La Coruña,02.06.2018
+36,37,43:12,Nadezhda Ryashkina,RUS,22.01.67,1,Adler,07.02.1999
+37,37,43:12,Olga Kaniskina,RUS,19.01.85,1=,Adler,19.02.2006
+38,37,43:12,Irina Petrova,RUS,26.05.85,1=,Adler,19.02.2006
+39,37,43:12,Lyudmila Yefimkina,RUS,22.08.81,1=,Adler,19.02.2006
+40,41,43:13,Valentina Savchuk,UKR,19.01.75,2,Adler,04.03.2001
+41,42,43:15,Lyudmyla Olyanovska,UKR,20.02.93,1,Dudince,21.03.2015
+42,43,43:16,Irina Petrova,RUS,26.05.85,1=,Saransk,11.06.2005
+43,43,43:16,Olga Kaniskina,RUS,19.01.85,1=,Saransk,11.06.2005
+44,43,43:16,Lu Xiuzhi,CHN,26.10.93,2=,London,11.08.2012
+45,43,43:16,Qieyang Shenjie,CHN,11.11.90,2=,London,11.08.2012
+46,43,43:16,Eleonora Giorgio,ITA,14.09.89,2,Dudince,21.03.2015
+47,48,43:17,Tatyana Gudkova,RUS,23.12.78,3,Adler,04.03.2001
+48,49,43:18,Anisya Kirdyapkina,RUS,23.10.89,1=,Saransk,29.09.2007
+49,49,43:18,Olga Kaniskina,RUS,19.01.85,1=,Saransk,29.09.2007
+50,51,43:20,Olga Lukyanchuk,UKR,07.12.76,4,Adler,04.03.2001
+51,51,43:20,Natalya Fedoskina,RUS,25.06.80,5,Adler,04.03.2001
+52,51,43:20,Yelena Nikolayeva,RUS,01.02.66,1,Cheboksary,25.05.2002
+53,54,43:22,Anisya Kirdyapkina,RUS,23.10.89,5,Sochi,27.02.2015
+54,55,43:23,Yelena Nikolayeva,RUS,01.02.66,2,Adler,07.02.1999
+55,55,43:23,Qieyang Shenjie,CHN,11.11.90,2,La Coruña,06.06.2015
+56,57,43:24,Irina Petrova,RUS,26.05.85,1,La Coruña,13.05.2006
+57,57,43:24,Margarita Turova,BLR,28.12.80,2,La Coruña,13.05.2006
+58,59,43:25,Olimpiada Ivanova,RUS,05.05.70,1,Miskolc,21.05.2005
+59,60,43:26,Olimpiada Ivanova,RUS,05.05.70,1,München,07.08.2002
+60,60,43:26,Yelena Nikolayeva,RUS,01.02.66,1,Saint-Denis,24.08.2003
+61,62,43:27,Wang Na,CHN,29.05.95,1,Huangshan,04.03.2017
+62,63,43:28,Gabrielle Blythe,AUS,09.03.69,2,Hawkesbury,10.07.1993
+63,63,43:28,Tamara Kovalenko,RUS,05.06.64,3,Adler,07.02.1999
+64,63,43:28,Margarita Turova,BLR,28.12.80,2,Beijing,21.08.2008
+65,63,43:28,Liu Hong,CHN,12.05.87,3,Beijing,21.08.2008
+66,63,43:28,Tatyana Kalmykova,RUS,10.01.90,4,Beijing,21.08.2008
+67,63,43:28,Yang Jiayu,CHN,18.02.96,2,Huangshan,04.03.2017
+68,69,43:29,Yelena Nikolayeva,RUS,01.02.66,1,Naumburg,02.05.2004
+69,69,43:29,Kjersti Plätzer,NOR,18.01.72,5,Beijing,21.08.2008
+70,69,43:29,Yang Mingxia,CHN,13.01.90,6,Beijing,21.08.2008
+71,69,43:29,Elisa Rigaudo,ITA,17.06.80,4,London,11.08.2012
+72,69,43:29,Lu Xiuzhi,CHN,26.10.93,3=,Huangshan,04.03.2017
+73,69,43:29,Ni Yuanyuan,CHN,06.04.95,3=,Huangshan,04.03.2017

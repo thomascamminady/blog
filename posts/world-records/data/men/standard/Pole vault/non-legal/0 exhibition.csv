@@ -1,0 +1,96 @@
+,0,1,2,3,4,5,6,7
+0,1,6.0,Jean Galfione,FRA,09.06.71,1,Besancon,23.05.1997
+1,1,6.0,Jeff Hartwig,USA,25.09.67,1,Köln,04.08.2000
+2,3,5.9,Jeff Hartwig,USA,25.09.67,1,Norderney,01.08.2000
+3,4,5.85,Sergey Bubka,UKR,04.12.63,1,Saint-Ghislain,07.07.1985
+4,4,5.85,Nick Hysong,USA,09.12.71,2,Norderney,01.08.2000
+5,4,5.85,Jeff Hartwig,USA,25.09.67,1,Berlin,30.08.2000
+6,7,5.82,Danny Ecker,GER,21.07.77,1,Köln,13.09.1999
+7,8,5.81,Okkert Brits,RSA,22.08.73,2,Köln,04.08.2000
+8,8,5.81,Okkert Brits,RSA,22.08.73,1,Hof,22.06.2002
+9,10,5.8,Philippe Houvion,FRA,15.10.57,1,Rémiremont,04.10.1980
+10,10,5.8,Vasiliy Bubka,UKR,26.11.60,1,Iglesias,09.09.1993
+11,10,5.8,Pat Manson,USA,29.11.67,1,New Orleans,06.08.1994
+12,10,5.8,Gianni Iapichino,ITA,02.03.69,1,Iglesias,11.09.1994
+13,10,5.8,Alain Andji,FRA,20.11.74,2,Besancon,23.05.1997
+14,10,5.8,Sergey Bubka,UKR,04.12.63,1,Prostejov,10.07.1997
+15,10,5.8,Dmitriy Markov,AUS,14.03.75,1,Milano,08.06.1999
+16,10,5.8,Nick Hysong,USA,09.12.71,1,Santa Barbara,19.06.1999
+17,10,5.8,Tim Lobinger,GER,03.09.72,3,Norderney,01.08.2000
+18,10,5.8,Danny Ecker,GER,21.07.77,2,Berlin,30.08.2000
+19,10,5.8,Danny Ecker,GER,21.07.77,1,Hof,23.06.2001
+20,10,5.8,Michael Stolle,GER,17.12.74,1,Köln,05.09.2001
+21,10,5.8,Okkert Brits,RSA,22.08.73,1,Norderney,28.07.2003
+22,10,5.8,Tim Lobinger,GER,03.09.72,1,Norderney,13.07.2004
+23,10,5.8,Pavel Gerasimov,RUS,29.05.79,1,Norderney,28.07.2008
+24,10,5.8,Renaud Lavillenie,FRA,18.09.86,1,Paris,21.09.2016
+25,10,5.8,KC Lightfoot,USA,11.11.99,1,Port Aransas,15.06.2019
+26,27,5.76,Andrej Tiwontschik,GER,13.07.70,2,Köln,13.09.1999
+27,27,5.76,Tim Lobinger,GER,03.09.72,3,Köln,13.09.1999
+28,27,5.76,Tim Lobinger,GER,03.09.72,3,Köln,04.08.2000
+29,27,5.76,Danny Ecker,GER,21.07.77,4,Köln,04.08.2000
+30,31,5.75,Thierry Vigneron,FRA,09.03.60,1,Bruxelles,03.04.1981
+31,31,5.75,Thierry Vigneron,FRA,09.03.60,1,Nice,10.04.1982
+32,31,5.75,Thierry Vigneron,FRA,09.03.60,1,Bologna,06.09.1984
+33,31,5.75,Grigoriy Yegorov,KAZ,12.01.67,1,Fort-de-France,28.04.1990
+34,31,5.75,Rodion Gataullin,RUS,23.11.65,2,Fort-de-France,28.04.1990
+35,31,5.75,Sergey Bubka,UKR,04.12.63,1,Saint-Yorre,01.01.1991
+36,31,5.75,Denis Petushinskiy,RUS,29.01.67,1,Bydgoszcz,20.07.1992
+37,31,5.75,Gérald Baudouin,FRA,15.11.72,1,Lons-le-Saunier,01.05.1994
+38,31,5.75,Valeri Bukreyev,EST,15.06.64,2,Iglesias,11.09.1994
+39,31,5.75,Lars Börgeling,GER,16.04.79,4,Norderney,01.08.2000
+40,31,5.75,Nick Hysong,USA,09.12.71,3,Berlin,30.08.2000
+41,31,5.75,Lars Börgeling,GER,16.04.79,1,Norderney,13.08.2002
+42,31,5.75,Ilian Efremov,BUL,02.08.70,1,Ostrava,11.06.2003
+43,31,5.75,Brad Walker,USA,21.06.81,1,Stockton,26.04.2008
+44,45,5.74,Dean Starkey,USA,27.03.67,1,Recklinghausen,31.05.1996
+45,45,5.74,Jeremy Scott,USA,21.05.81,1,Hot Springs,30.06.2007
+46,45,5.74,Jeff Hartwig,USA,25.09.67,1,Saint Charles,04.07.2008
+47,48,5.73,Yevgeniy Bondarenko,RUS,08.10.66,1,Recklinghausen,04.06.1993
+48,48,5.73,Lars Börgeling,GER,16.04.79,1,Recklinghausen,08.06.2003
+49,50,5.72,Pyotr Bochkaryov,RUS,03.11.67,1,Recklinghausen,31.05.1991
+50,50,5.72,Denis Petushinskiy,RUS,29.01.67,1,Bern,20.08.1992
+51,50,5.72,Andrea Pegoraro,ITA,24.10.66,2,Iglesias,09.09.1993
+52,50,5.72,Scott Huffman,USA,30.11.64,1,Karlskrona,15.07.1995
+53,54,5.71,Marian Kolasa,POL,12.08.59,1,Sopot,02.08.1986
+54,54,5.71,Björn Otto,GER,16.10.77,5,Köln,04.08.2000
+55,54,5.71,Michael Stolle,GER,17.12.74,6,Köln,04.08.2000
+56,54,5.71,Jeff Hartwig,USA,25.09.67,1,Berlin,01.09.2000
+57,54,5.71,Danny Ecker,GER,21.07.77,2,Berlin,01.09.2000
+58,54,5.71,Lars Börgeling,GER,16.04.79,2,Hof,22.06.2002
+59,54,5.71,Okkert Brits,RSA,22.08.73,1,Hof,21.06.2003
+60,54,5.71,Oscar Janson,SWE,22.07.75,2,Hof,21.06.2003
+61,54,5.71,Björn Otto,GER,16.10.77,1,Norderney,04.08.2009
+62,63,5.7,Ivo Yanchev,BUL,05.09.60,2,Bologna,06.09.1984
+63,63,5.7,Mike Tully,USA,21.10.56,1,Bologna,02.09.1985
+64,63,5.7,Ryszard Kolasa,POL,17.04.64,2,Sopot,02.08.1986
+65,63,5.7,Dave Kenworthy,USA,27.06.60,1,Mirano,14.09.1986
+66,63,5.7,Marco Andreini,ITA,08.10.61,1,Bisceglie,17.08.1989
+67,63,5.7,Sergey Bubka,UKR,04.12.63,1,Sabadell,29.03.1992
+68,63,5.7,Andrea Pegoraro,ITA,24.10.66,1,Chiari,20.06.1992
+69,63,5.7,Denis Petushinskiy,RUS,29.01.67,1,Sopot,17.07.1992
+70,63,5.7,Aleksandr Korchagin,KAZ,25.01.72,1,Sopot,03.07.1993
+71,63,5.7,Bill Payne,USA,21.12.67,2,New Orleans,06.08.1994
+72,63,5.7,Bill Deering,USA,20.07.71,3,New Orleans,06.08.1994
+73,63,5.7,Tim Bright,USA,28.07.60,4,New Orleans,06.08.1994
+74,63,5.7,Andrea Pegoraro,ITA,24.10.66,3,Iglesias,11.09.1994
+75,63,5.7,Maksim Tarasov,RUS,02.12.70,1,Pamplona,21.05.1995
+76,63,5.7,Dmitriy Markov,BLR,14.03.75,1,Praha,18.06.1997
+77,63,5.7,Danny Ecker,GER,21.07.77,1,Norderney,02.08.1998
+78,63,5.7,Tim Lobinger,GER,03.09.72,1,Köln,08.09.1998
+79,63,5.7,Tim Lobinger,GER,03.09.72,1,Norderney,01.08.1999
+80,63,5.7,Michael Stolle,GER,17.12.74,2,Norderney,01.08.1999
+81,63,5.7,Pavel Gerasimov,RUS,29.05.79,1,Catania,12.09.1999
+82,63,5.7,Michael Stolle,GER,17.12.74,4,Köln,13.09.1999
+83,63,5.7,Dmitriy Markov,AUS,14.03.75,1,Perth,11.03.2001
+84,63,5.7,Richard Spiegelburg,GER,12.08.77,1,Norderney,22.07.2001
+85,63,5.7,Tim Lobinger,GER,03.09.72,2,Norderney,13.08.2002
+86,63,5.7,Pavel Gerasimov,RUS,29.05.79,1,Carbonia,11.09.2002
+87,63,5.7,Martin Kysela,CZE,25.03.74,2,Ostrava,11.06.2003
+88,63,5.7,Denis Yurchenko,UKR,27.01.78,2,Norderney,28.07.2003
+89,63,5.7,Toby Stevenson,USA,19.11.76,1,Szczecin,16.08.2003
+90,63,5.7,Aleksandr Korchmyd,UKR,22.01.82,1,Miedzydzroje,17.08.2003
+91,63,5.7,Adam Kolasa,POL,02.08.75,2,Miedzydzroje,17.08.2003
+92,63,5.7,Richard Spiegelburg,GER,12.08.77,2,Norderney,13.07.2004
+93,63,5.7,Daichi Sawano,JPN,16.09.80,1,Yokohama,24.09.2006
+94,63,5.7,Maksim Mazurik,UKR,02.04.83,1,Kyiv,21.06.2008

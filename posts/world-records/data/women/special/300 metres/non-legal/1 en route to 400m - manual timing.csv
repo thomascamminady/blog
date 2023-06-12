@@ -1,0 +1,75 @@
+,0,1,2,3,4,5,6,7
+0,1,34.8,Marita Koch,GDR,18.02.57,1,Praha,31.08.1978
+1,1,34.8,Marita Koch,GDR,18.02.57,1,Athínai,08.09.1982
+2,3,35.0,Marita Koch,GDR,18.02.57,1,Torino,04.08.1979
+3,4,35.1,Marie-José Pérec,FRA,09.05.68,1,Paris,28.06.1996
+4,4,35.1,Marie-José Pérec,FRA,09.05.68,1,Atlanta,29.07.1996
+5,4,35.1,Cathy Freeman,AUS,16.02.73,2,Atlanta,29.07.1996
+6,7,35.2,Olga Bryzgina,UKR,30.06.63,1,Barcelona,05.08.1992
+7,8,35.4,Christina Lathan,GDR,28.02.58,1,Montréal,29.07.1976
+8,8,35.4,Irena Szewinska,POL,24.05.46,2,Montréal,29.07.1976
+9,8,35.4,Mariya Pinigina,UKR,09.02.58,3,Helsinki,10.08.1983
+10,8,35.4,Pauline Davis-Thompson,BAH,09.07.66,3,Atlanta,29.07.1996
+11,8,35.4,Shaunae Miller-Uibo,BAH,15.04.94,1,Monaco,10.08.2022
+12,13,35.5,Shaunae Miller-Uibo,BAH,15.04.94,1,London,09.08.2017
+13,13,35.5,Marileidy Paulino,DOM,25.10.96,1rA,Zürich,08.09.2022
+14,15,35.6,Falilat Ogunkoya,NGR,05.12.68,4=,Atlanta,29.07.1996
+15,15,35.6,Fatima Yusuf,NGR,02.05.71,4=,Atlanta,29.07.1996
+16,15,35.6,Tonique Williams-Darling,BAH,17.01.76,1,Athínai,24.08.2004
+17,15,35.6,Sanya Richards-Ross,USA,26.02.85,1,Helsinki,10.08.2005
+18,19,35.7,Cathy Freeman,AUS,16.02.73,1=,Göteborg,08.08.1995
+19,19,35.7,Marie-José Pérec,FRA,09.05.68,1=,Göteborg,08.08.1995
+20,19,35.7,Maicel Malone,USA,12.06.69,2,Paris,28.06.1996
+21,19,35.7,Ana Guevara,MEX,04.03.77,1,Saint-Denis,27.08.2003
+22,19,35.7,Ana Guevara,MEX,04.03.77,2,Athínai,24.08.2004
+23,19,35.7,Tonique Williams-Darling,BAH,17.01.76,2,Helsinki,10.08.2005
+24,19,35.7,Amantle Montsho,BOT,04.07.83,1,Daegu,29.08.2011
+25,26,35.8,Kathy Cook,GBR,03.05.60,1,London,17.09.1982
+26,26,35.8,Chandra Cheeseborough,USA,10.01.59,1,Los Angeles,06.08.1984
+27,26,35.8,Jillian Richardson,CAN,10.03.65,2=,Barcelona,05.08.1992
+28,26,35.8,Ximena Restrepo,COL,10.03.69,2=,Barcelona,05.08.1992
+29,26,35.8,Pauline Davis-Thompson,BAH,09.07.66,3,Göteborg,08.08.1995
+30,26,35.8,Monique Hennagan,USA,26.05.76,1,Sacramento,11.06.2005
+31,26,35.8,Svetlana Pospelova,RUS,24.12.79,3,Helsinki,10.08.2005
+32,26,35.8,Dee Dee Trotter,USA,08.12.82,1,Indianapolis,23.06.2007
+33,26,35.8,Sanya Richards-Ross,USA,26.02.85,1,Beijing,19.08.2008
+34,26,35.8,Allyson Felix,USA,18.11.85,2,London,09.08.2017
+35,26,35.8,Shaunae Miller-Uibo,BAH,15.04.94,1,Paris,18.06.2022
+36,37,35.9,Lorraine Fenton,JAM,08.09.73,1,Sydney,25.09.2000
+37,37,35.9,Lorraine Fenton,JAM,08.09.73,2,Saint-Denis,27.08.2003
+38,37,35.9,Natasha Hastings,USA,23.07.86,2=,Indianapolis,23.06.2007
+39,37,35.9,Sanya Richards-Ross,USA,26.02.85,2=,Indianapolis,23.06.2007
+40,37,35.9,Natalya Anisimova,RUS,08.05.73,4,Osaka,29.08.2007
+41,37,35.9,Allyson Felix,USA,18.11.85,2,Daegu,29.08.2011
+42,37,35.9,Sada Williams,BAR,01.12.97,2rA,Zürich,08.09.2022
+43,44,36.0,Katharine Merry,GBR,21.09.74,2,Sydney,25.09.2000
+44,44,36.0,Ami Mbacké Thiam,SEN,10.11.76,3,Saint-Denis,27.08.2003
+45,44,36.0,Natalya Antyukh,RUS,26.06.81,3,Athínai,24.08.2004
+46,44,36.0,Yuliya Gushchina,RUS,04.03.83,2,Beijing,19.08.2008
+47,44,36.0,Natasha Hastings,USA,23.07.86,1,Eugene,03.07.2016
+48,44,36.0,Natasha Hastings,USA,23.07.86,1,Sacramento,24.06.2017
+49,44,36.0,Phyllis Francis,USA,04.05.92,3,London,09.08.2017
+50,44,36.0,Candice McLeod,JAM,15.11.96,3rA,Zürich,08.09.2022
+51,52,36.1,Jearl Miles-Clark,USA,04.09.66,1,Indianapolis,14.06.1997
+52,52,36.1,Cathy Freeman,AUS,16.02.73,3,Sydney,25.09.2000
+53,52,36.1,Ana Guevara,MEX,04.03.77,4,Helsinki,10.08.2005
+54,52,36.1,Francena McCorory,USA,20.10.88,3,Daegu,29.08.2011
+55,52,36.1,Francena McCorory,USA,20.10.88,2,Eugene,03.07.2016
+56,52,36.1,Shaunae Miller-Uibo,BAH,15.04.94,1,Monaco,20.07.2018
+57,52,36.1,Salwa Eid Naser,BRN,23.05.98,1,Lausanne,05.07.2019
+58,52,36.1,Lieke Klaver,NED,20.08.98,2,Paris,18.06.2022
+59,60,36.2,Quanera Hayes,USA,07.03.92,2=,Sacramento,24.06.2017
+60,60,36.2,Phyllis Francis,USA,04.05.92,2=,Sacramento,24.06.2017
+61,60,36.2,Salwa Eid Naser,BRN,23.05.98,2,Monaco,20.07.2018
+62,60,36.2,Sada Williams,BAR,01.12.97,1,Birmingham,07.08.2022
+63,60,36.2,Sada Williams,BAR,01.12.97,2,Monaco,10.08.2022
+64,60,36.2,Candice McLeod,JAM,15.11.96,3,Monaco,10.08.2022
+65,66,36.3,Jearl Miles-Clark,USA,04.09.66,4,Göteborg,08.08.1995
+66,66,36.3,Natalya Nazarova,RUS,22.05.79,4,Saint-Denis,27.08.2003
+67,66,36.3,Monique Henderson,USA,18.02.83,4=,Indianapolis,23.06.2007
+68,66,36.3,Mary Wineberg,USA,03.01.80,4=,Indianapolis,23.06.2007
+69,66,36.3,Dee Dee Trotter,USA,08.12.82,5,Osaka,29.08.2007
+70,66,36.3,Novlene Williams-Mills,JAM,26.04.82,4,Daegu,29.08.2011
+71,66,36.3,Salwa Eid Naser,BRN,23.05.98,4,London,09.08.2017
+72,66,36.3,Salwa Eid Naser,BRN,23.05.98,1,Rabat,16.06.2019
+73,66,36.3,Femke Bol,NED,23.02.00,1,Chorzów,06.08.2022

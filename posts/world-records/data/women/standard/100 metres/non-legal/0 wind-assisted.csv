@@ -1,0 +1,896 @@
+,0,1,2,3,4,5,6,7,8
+0,1,10.54,3.0,Florence Griffith-Joyner,USA,21.12.59,1,Seoul,25.09.1988
+1,2,10.57,4.1,Sha'Carri Richardson,USA,25.03.00,1rA,Miramar,08.04.2023
+2,3,10.60,3.2,Florence Griffith-Joyner,USA,21.12.59,1h1,Indianapolis,16.07.1988
+3,4,10.63,2.7,Blessing Okagbare,NGR,09.10.88,1,Lagos,17.06.2021
+4,5,10.66,3.2,Brittany Brown,USA,18.04.95,1r7,Waco,23.04.2022
+5,6,10.68,2.2,Marion Jones,USA,12.10.75,1rA,Stockholm,01.08.2000
+6,7,10.69,2.9,Melissa Jefferson,USA,21.02.01,1,Eugene,24.06.2022
+7,8,10.70,2.6,Florence Griffith-Joyner,USA,21.12.59,1s2,Seoul,25.09.1988
+8,9,10.71,2.2,Shelly-Ann Fraser-Pryce,JAM,27.12.86,1,Eugene,01.06.2013
+9,9,10.71,2.4,Elaine Thompson-Herah,JAM,28.06.92,1,Kingston,07.05.2016
+10,11,10.72,3.0,Carmelita Jeter,USA,24.11.79,1s1,Eugene,26.06.2009
+11,11,10.72,3.2,Tori Bowie,USA,27.08.90,1s2,Eugene,26.06.2015
+12,11,10.72,4.5,Tawanna Meadows,USA,04.08.86,1r1,Lubbock,06.05.2017
+13,11,10.72,2.7,Blessing Okagbare,NGR,09.10.88,1r1,Austin,31.03.2018
+14,11,10.72,2.9,Aleia Hobbs,USA,24.02.96,2,Eugene,24.06.2022
+15,11,10.72,2.4,Julien Alfred,LCA,10.06.01,1r1,Gainesville,15.04.2023
+16,17,10.73,4.3,Sha'Carri Richardson,USA,25.03.00,1r1,Montverde,04.06.2022
+17,18,10.74,2.7,Carmelita Jeter,USA,24.11.79,1,Eugene,24.06.2011
+18,18,10.74,3.1,Tori Bowie,USA,27.08.90,1s1,Eugene,03.07.2016
+19,18,10.74,2.5,English Gardner,USA,22.04.92,1s3,Eugene,03.07.2016
+20,18,10.74,2.2,Cambrea Sturgis,USA,27.03.99,1,Eugene,12.06.2021
+21,18,10.74,2.9,Twanisha Terry,USA,24.01.99,3,Eugene,24.06.2022
+22,18,10.74,3.4,Julien Alfred,LCA,10.06.01,1h2,Norman,14.05.2023
+23,24,10.75,4.1,Marion Jones,USA,12.10.75,1h3,New Orleans,19.06.1998
+24,24,10.75,2.2,Blessing Okagbare,NGR,09.10.88,2,Eugene,01.06.2013
+25,24,10.75,2.2,Elaine Thompson-Herah,JAM,28.06.92,1rA,Kingston,15.04.2017
+26,24,10.75,4.3,Jenna Prandini,USA,20.11.92,2r1,Montverde,04.06.2022
+27,24,10.75,2.8,Sha'Carri Richardson,USA,25.03.00,1h3,Miramar,08.04.2023
+28,29,10.76,3.4,Marshevet Hooker,USA,25.09.84,1q1,Eugene,27.06.2008
+29,29,10.76,3.2,Carmelita Jeter,USA,24.11.79,2s2,Eugene,26.06.2015
+30,29,10.76,5.4,English Gardner,USA,22.04.92,1h3,Lausanne,09.07.2015
+31,29,10.76,3.6,Elaine Thompson-Herah,JAM,28.06.92,1h1,Clermont,02.05.2021
+32,33,10.77A,2.3,Gail Devers,USA,19.11.66,1,San José,28.05.1994
+33,33,10.77,2.1,Marion Jones,USA,12.10.75,1,Eugene,31.05.1998
+34,33,10.77,2.3,Ekateríni Thánou,GRE,01.02.75,1,Réthymno,29.05.1999
+35,33,10.77,3.3,Twanisha Terry,USA,24.01.99,1,Walnut,16.04.2022
+36,37,10.78,3.1,Evelyn Ashford,USA,15.04.57,1,Modesto,12.05.1984
+37,37,10.78,5.0,Gwen Torrence,USA,12.06.65,1q3,Indianapolis,16.07.1988
+38,37,10.78,2.3,Merlene Ottey,JAM,10.05.60,1s2,Tokyo,27.08.1991
+39,37,10.78,3.3,Carmelita Jeter,USA,24.11.79,1,Eugene,26.06.2009
+40,37,10.78,3.3,Muna Lee,USA,30.10.81,2,Eugene,26.06.2009
+41,37,10.78,2.2,Veronica Campbell-Brown,JAM,16.05.82,3,Eugene,01.06.2013
+42,37,10.78,2.9,Tamari Davis,USA,15.02.03,4,Eugene,24.06.2022
+43,44,10.79,3.3,Marlies Göhr,GDR,21.03.58,1,Cottbus,16.07.1980
+44,44,10.79,2.5,Tianna Bartoletta,USA,30.08.85,2s3,Eugene,03.07.2016
+45,44,10.79,2.7,Sha'Carri Richardson,USA,25.03.00,1rA,Fort Worth,23.07.2020
+46,44,10.79,2.2,Twanisha Terry,USA,24.01.99,2,Eugene,12.06.2021
+47,48,10.80,2.9,Pam Marshall,USA,16.08.60,1,Eugene,20.06.1986
+48,48,10.80,2.8,Heike Drechsler,GER,16.12.64,1,Oslo,05.07.1986
+49,48,10.80,2.1,Murielle Ahouré,CIV,23.08.87,1h1,Montverde,11.06.2016
+50,48,10.80,3.3,Tori Bowie,USA,27.08.90,1h2,Clermont,15.04.2017
+51,48,10.80,3.3,Aleia Hobbs,USA,24.02.96,2,Walnut,16.04.2022
+52,48,10.80,3.2,Gabrielle Thomas,USA,07.12.96,2r7,Waco,23.04.2022
+53,48,10.80,2.4,Julien Alfred,LCA,10.06.01,1,Lubbock,15.05.2022
+54,48,10.80,2.2,Julien Alfred,LCA,10.06.01,1q3,Fayetteville,28.05.2022
+55,48,10.80,3.8,Daryll Neita,GBR,29.08.96,1,Manchester,25.06.2022
+56,48,10.80,3.5,McKenzie Long,USA,11.07.00,1h1,Austin,31.03.2023
+57,58,10.81,2.4,Irina Privalova,RUS,12.11.68,1,Rieti,06.09.1992
+58,58,10.81,3.8,Irina Privalova,RUS,12.11.68,1,Rieti,05.09.1993
+59,58,10.81,3.5,Veronica Campbell-Brown,JAM,16.05.82,1,Clermont,23.05.2009
+60,58,10.81,3.6,Jenna Prandini,USA,20.11.92,1h4,Eugene,02.07.2016
+61,58,10.81,3.2,Tamara Clark,USA,09.01.99,3r7,Waco,23.04.2022
+62,63,10.82,2.2,Silke Möller,GER,20.06.64,1s1,Roma,30.08.1987
+63,63,10.82A,2.8,Gwen Torrence,USA,12.06.65,1,Sestriere,21.07.1992
+64,63,10.82,2.2,Gail Devers,USA,19.11.66,1,Eugene,17.06.1993
+65,63,10.82,3.5,Christine Arron,FRA,13.09.73,1h1,Castres,26.07.2005
+66,63,10.82,2.8,Celera Barnes,USA,02.12.98,1r2,Austin,26.03.2022
+67,63,10.82,2.6,Rosemary Chukwuma,NGR,05.12.01,1q1,Fayetteville,28.05.2022
+68,63,10.82,3.5,Sha'Carri Richardson,USA,25.03.00,1h1,Montverde,04.06.2022
+69,63,10.82,2.9,Tamara Clark,USA,09.01.99,5,Eugene,24.06.2022
+70,71,10.83,3.9,Sheila Echols,USA,02.10.64,1h2,Indianapolis,16.07.1988
+71,71,10.83,3.0,Evelyn Ashford,USA,15.04.57,2,Seoul,25.09.1988
+72,71,10.83A,5.1,Gwen Torrence,USA,12.06.65,1,Sestriere,29.07.1995
+73,71,10.83,2.7,Marshevet Hooker,USA,25.09.84,2,Eugene,24.06.2011
+74,71,10.83,4.5,Candyce McGrone,USA,24.03.89,2r1,Lubbock,06.05.2017
+75,71,10.83,2.8,Aleia Hobbs,USA,24.02.96,1r2,Baton Rouge,20.04.2019
+76,71,10.83,2.1,Sha'Carri Richardson,USA,25.03.00,1,Montverde,10.08.2020
+77,71,10.83,2.5,Javianne Oliver,USA,26.12.94,1s2,Eugene,19.06.2021
+78,71,10.83,2.8,Jada Baylark,USA,17.10.97,2r2,Austin,26.03.2022
+79,71,10.83,2.4,Kevona Davis,JAM,20.12.01,2,Lubbock,15.05.2022
+80,71,10.83,5.2,Tamari Davis,USA,15.02.03,1rA,Gainesville,01.04.2023
+81,71,10.83,4.1,Twanisha Terry,USA,24.01.99,2rA,Miramar,08.04.2023
+82,83,10.84,2.9,Alice Brown,USA,20.09.60,2,Eugene,20.06.1986
+83,83,10.84,2.4,Gwen Torrence,USA,12.06.65,2,Rieti,06.09.1992
+84,83,10.84,2.5,Inger Miller,USA,12.06.72,1,Walnut,19.04.1998
+85,83,10.84,2.9,Ekateríni Thánou,GRE,01.02.75,1,Gateshead,15.07.2000
+86,83,10.84,2.6,Teahna Daniels,USA,25.03.97,1s1,Eugene,19.06.2021
+87,83,10.84,4.2,Aleia Hobbs,USA,24.02.96,1r1,Baton Rouge,23.04.2022
+88,89,10.85,5.2,Evelyn Ashford,USA,15.04.57,1,Norwalk,14.06.1981
+89,89,10.85,2.4,Evelyn Ashford,USA,15.04.57,1,Modesto,14.05.1983
+90,89,10.85,2.9,Evelyn Ashford,USA,15.04.57,3,Eugene,20.06.1986
+91,89,10.85,4.7,Gail Devers,USA,19.11.66,1s1,Indianapolis,09.08.1987
+92,89,10.85,3.0,Heike Drechsler,GER,16.12.64,3,Seoul,25.09.1988
+93,89,10.85,2.3,Gwen Torrence,USA,12.06.65,2s2,Tokyo,27.08.1991
+94,89,10.85,2.3,Torri Edwards,USA,31.01.77,1q3,Eugene,27.06.2008
+95,89,10.85,2.6,Veronica Campbell-Brown,JAM,16.05.82,1r1,Thessaloníki,09.07.2008
+96,89,10.85,2.8,Carmelita Jeter,USA,24.11.79,1r1,New York City,30.05.2009
+97,89,10.85,3.2,Carmelita Jeter,USA,24.11.79,1,Eugene,07.06.2009
+98,89,10.85,2.4,English Gardner,USA,22.04.92,2,Kingston,07.05.2016
+99,89,10.85,2.6,Kemba Nelson,JAM,23.02.00,2q1,Fayetteville,28.05.2022
+100,89,10.85,4.3,Twanisha Terry,USA,24.01.99,3r1,Montverde,04.06.2022
+101,89,10.85,2.4,Rosemary Chukwuma,NGR,05.12.01,2r1,Gainesville,15.04.2023
+102,10,10.86,3.0,Gail Devers,USA,19.11.66,1,Eugene,04.06.1988
+103,10,10.86,2.8,Chryste Gaines,USA,14.09.70,1,Berlin,10.08.2003
+104,10,10.86,2.2,Torri Edwards,USA,31.01.77,1,Réthymno,21.07.2006
+105,10,10.86,3.4,Lauryn Williams,USA,11.09.83,2q1,Eugene,27.06.2008
+106,10,10.86,2.9,Murielle Ahouré,CIV,23.08.87,1rA,Clermont,04.06.2011
+107,10,10.86,3.2,Jasmine Todd,USA,23.12.93,3s2,Eugene,26.06.2015
+108,10,10.86,4.5,Jenna Prandini,USA,20.11.92,1s2,Eugene,03.07.2016
+109,10,10.86,3.7,Aleia Hobbs,USA,24.02.96,1r2,Austin,31.03.2018
+110,10,10.86,3.3,Gabrielle Thomas,USA,07.12.96,3,Walnut,16.04.2022
+111,10,10.86,3.5,Natalliah Whyte,JAM,09.08.97,1r2,Montverde,04.06.2022
+112,10,10.86,2.9,Celera Barnes,USA,02.12.98,6,Eugene,24.06.2022
+113,10,10.86A,2.5,Twanisha Terry,USA,24.01.99,1,Nairobi,13.05.2023
+114,11,10.87,3.5,Gwen Torrence,USA,12.06.65,1,Eugene,02.07.1988
+115,11,10.87,3.0,Me'Lisa Barber,USA,04.10.80,1s1,Carson,25.06.2005
+116,11,10.87,3.7,Michelle-Lee Ahye,TTO,10.04.92,1rA,Austin,28.03.2015
+117,11,10.87,4.5,Carmelita Jeter,USA,24.11.79,1rA,Clermont,16.05.2015
+118,11,10.87,3.7,Jasmine Todd,USA,23.12.93,1q1,Austin,29.05.2015
+119,11,10.87,4.5,Carmelita Jeter,USA,24.11.79,1h2,Eugene,25.06.2015
+120,11,10.87,4.5,Jasmine Todd,USA,23.12.93,2h2,Eugene,25.06.2015
+121,11,10.87,2.7,Tamara Clark,USA,09.01.99,1,College Stati,15.05.2021
+122,11,10.87,4.3,Symone Darius,USA,01.03.98,4r1,Montverde,04.06.2022
+123,11,10.87,3.8,Dina Asher-Smith,GBR,04.12.95,2,Manchester,25.06.2022
+124,12,10.88,3.0,Evelyn Ashford,USA,15.04.57,1,Walnut,29.04.1984
+125,12,10.88,3.9,Alice Brown,USA,20.09.60,2h2,Indianapolis,16.07.1988
+126,12,10.88,2.8,Chandra Sturrup,BAH,12.09.71,2,Berlin,10.08.2003
+127,12,10.88,2.8,Muna Lee,USA,30.10.81,2r1,New York City,30.05.2009
+128,12,10.88,3.1,Carmelita Jeter,USA,24.11.79,1h3,Eugene,25.06.2009
+129,12,10.88,5.9,Alexandra Anderson,USA,28.01.87,1r1,Austin,14.04.2012
+130,12,10.88,2.3,Shelly-Ann Fraser-Pryce,JAM,27.12.86,1h4,Beijing,23.08.2015
+131,12,10.88,2.4,Aleia Hobbs,USA,24.02.96,1r1,Baton Rouge,17.04.2021
+132,12,10.88,2.2,Tamara Clark,USA,09.01.99,3,Eugene,12.06.2021
+133,12,10.88,2.4,Rosemary Chukwuma,NGR,05.12.01,3,Lubbock,15.05.2022
+134,12,10.88,2.6,Marie-Josée Ta Lou,CIV,18.11.88,1h1,Clermont,14.05.2023
+135,13,10.89,2.2,Merlene Ottey,JAM,10.05.60,2s1,Roma,30.08.1987
+136,13,10.89,3.1,Marlies Göhr,GDR,21.03.58,1,Berlin,13.09.1988
+137,13,10.89,3.1,Kerstin Behrendt,GER,02.09.67,2,Berlin,13.09.1988
+138,13,10.89,2.7,Juliet Cuthbert,JAM,09.04.64,1r2,Austin,09.05.1992
+139,13,10.89,3.4,Christine Arron,FRA,13.09.73,1r4,Montauban,15.08.2000
+140,13,10.89,3.5,Chryste Gaines,USA,14.09.70,1,Eugene,22.06.2001
+141,13,10.89,2.4,Veronica Campbell-Brown,JAM,16.05.82,1,Sheffield,21.08.2005
+142,13,10.89,2.3,Muna Lee,USA,30.10.81,2q3,Eugene,27.06.2008
+143,13,10.89,3.2,Marshevet Hooker,USA,25.09.84,1s1,Eugene,28.06.2008
+144,13,10.89,2.9,Sanya Richards-Ross,USA,26.02.85,1r1,Austin,31.03.2012
+145,13,10.89,4.0,Jasmine Todd,USA,23.12.93,1h4,Austin,28.05.2015
+146,13,10.89,4.5,Tianna Bartoletta,USA,30.08.85,3h2,Eugene,25.06.2015
+147,13,10.89,2.9,Deajah Stevens,USA,19.05.95,1q2,Austin,26.05.2017
+148,13,10.89,2.2,Aleia Hobbs,USA,24.02.96,1s2,Des Moines,22.06.2018
+149,13,10.89,2.7,Celera Barnes,USA,02.12.98,1q2,Fayetteville,28.05.2022
+150,13,10.89,3.5,Jenna Prandini,USA,20.11.92,2h1,Montverde,04.06.2022
+151,13,10.89,3.4,Zoe Hobbs,NZL,11.09.97,1,Wellington,03.03.2023
+152,13,10.89,4.5,Twanisha Terry,USA,24.01.99,1h1,Miramar,08.04.2023
+153,15,10.90A,2.3,Diane Williams,USA,14.12.60,1,San José,27.06.1987
+154,15,10.90,2.7,Chryste Gaines,USA,14.09.70,2r2,Austin,09.05.1992
+155,15,10.90,3.0,Chryste Gaines,USA,14.09.70,1s1,Austin,05.06.1992
+156,15,10.90,3.2,Kerron Stewart,JAM,16.04.84,2,Eugene,07.06.2009
+157,15,10.90,3.2,Marshevet Hooker,USA,25.09.84,1r1,Austin,09.04.2011
+158,15,10.90,4.6,Shalonda Solomon,USA,19.12.85,1h1,Clermont,04.06.2011
+159,15,10.90,2.9,Shalonda Solomon,USA,19.12.85,2rA,Clermont,04.06.2011
+160,15,10.90,2.3,Marshevet Hooker,USA,25.09.84,1s2,Eugene,24.06.2011
+161,15,10.90,2.5,Oludamola Osayomi,NGR,26.06.86,1,Maputo,12.09.2011
+162,15,10.90,3.9,Dafne Schippers,NED,15.06.92,1rA,Clermont,18.04.2015
+163,15,10.90,3.0,Jenna Prandini,USA,20.11.92,1h1,Eugene,25.06.2015
+164,15,10.90,3.2,Tianna Bartoletta,USA,30.08.85,4s2,Eugene,26.06.2015
+165,15,10.90,2.2,Kemba Nelson,JAM,23.02.00,4,Eugene,12.06.2021
+166,15,10.90,4.2,Favour Ofili,NGR,31.12.02,2r1,Baton Rouge,23.04.2022
+167,15,10.90,4.2,Mikiah Brisco,USA,14.07.96,3r1,Baton Rouge,23.04.2022
+168,16,10.91,5.0,Evelyn Ashford,USA,15.04.57,2q3,Indianapolis,16.07.1988
+169,16,10.91,2.6,Heike Drechsler,GER,16.12.64,2s2,Seoul,25.09.1988
+170,16,10.91,5.1,Carlette Guidry,USA,04.09.68,1,Eugene,01.06.1991
+171,16,10.91,4.6,Carlette Guidry,USA,04.09.68,1s1,Eugene,31.05.1994
+172,16,10.91,2.5,Debbie Ferguson-McKenzie,BAH,16.01.76,1,Nassau,18.06.1999
+173,16,10.91,2.4,Merlene Ottey,JAM,10.05.60,1,Gold Coast,10.09.2000
+174,16,10.91,3.2,Muna Lee,USA,30.10.81,2s1,Eugene,28.06.2008
+175,16,10.91,2.8,Veronica Campbell-Brown,JAM,16.05.82,3r1,New York City,30.05.2009
+176,16,10.91,2.8,Kelliann Baptiste,TTO,14.10.86,4r1,New York City,30.05.2009
+177,16,10.91,3.2,Alexandra Anderson,USA,28.01.87,2r1,Austin,09.04.2011
+178,16,10.91,4.5,Laverne Jones-Ferrette,ISV,16.09.81,1,Tomblaine,08.07.2012
+179,16,10.91,3.2,Candyce McGrone,USA,24.03.89,5s2,Eugene,26.06.2015
+180,16,10.91,5.4,Verena Sailer,GER,16.10.85,2h3,Lausanne,09.07.2015
+181,16,10.91,3.0,Ashley Henderson,USA,04.12.95,1h4,Des Moines,21.06.2018
+182,16,10.91,2.4,Murielle Ahouré,CIV,23.08.87,1rA,Sotteville-lè,17.07.2018
+183,16,10.91,4.3,Sha'Carri Richardson,USA,25.03.00,1r1,Austin,30.03.2019
+184,16,10.91,2.1,Kemba Nelson,JAM,23.02.00,1h5,College Stati,27.05.2021
+185,16,10.91,3.0,Briana Williams,JAM,21.03.02,1h2,Walnut,16.04.2022
+186,16,10.91,3.3,Teahna Daniels,USA,27.03.97,4,Walnut,16.04.2022
+187,16,10.91,3.5,Twanisha Terry,USA,24.01.99,3h1,Montverde,04.06.2022
+188,18,10.92,3.3,Bärbel Wöckel,GDR,21.03.55,2,Cottbus,16.07.1980
+189,18,10.92,4.3,Bärbel Wöckel,GDR,21.03.55,1,Cottbus,21.08.1982
+190,18,10.92,4.1,Marlies Göhr,GDR,21.03.58,1,Birmingham,06.07.1985
+191,18,10.92,2.9,Diane Williams,USA,14.12.60,4,Eugene,20.06.1986
+192,18,10.92,4.2,Gail Devers,USA,19.11.66,1h2,Eugene,16.06.1993
+193,18,10.92,3.1,Inger Miller,USA,12.06.72,1,Walnut,18.04.1999
+194,18,10.92,3.4,Torri Edwards,USA,31.01.77,1rA,Malmö,07.08.2000
+195,18,10.92,3.2,Lauryn Williams,USA,11.09.83,3s1,Eugene,28.06.2008
+196,18,10.92,3.2,Angela Williams,USA,30.01.80,4s1,Eugene,28.06.2008
+197,18,10.92,3.2,Alexandra Anderson,USA,28.01.87,1h1,Eugene,25.06.2009
+198,18,10.92,2.9,Alexandra Anderson,USA,28.01.87,1,Clermont,02.06.2012
+199,18,10.92,2.1,English Gardner,USA,22.04.92,1h3,Eugene,25.06.2015
+200,18,10.92,2.6,Blessing Okagbare,NGR,09.10.88,1,Székesfehérvá,18.07.2016
+201,18,10.92,3.0,Elaine Thompson-Herah,JAM,28.06.92,1h3,Miramar,05.06.2021
+202,18,10.92,2.9,Gabrielle Thomas,USA,07.12.96,1r1,Austin,26.03.2022
+203,18,10.92,3.0,Teahna Daniels,USA,27.03.97,2h2,Walnut,16.04.2022
+204,18,10.92,5.5,Shaunae Miller-Uibo,BAH,15.04.94,1h1,Clermont,01.05.2022
+205,18,10.92,3.0,Daryll Neita,GBR,29.08.96,1s1,Manchester,25.06.2022
+206,18,10.92,2.3,Murielle Ahouré,CIV,23.08.87,1h3,Port of Spain,25.06.2022
+207,18,10.92,4.1,Talitha Diggs,USA,22.08.02,1r1,Gainesville,01.04.2023
+208,18,10.92,2.4,McKenzie Long,USA,11.07.00,3r1,Gainesville,15.04.2023
+209,21,10.93,3.8,Sonia Lannaman,GBR,24.03.56,1,Dublin,17.07.1977
+210,21,10.93,3.3,Ingrid Auerswald,GDR,02.09.57,3,Cottbus,16.07.1980
+211,21,10.93A,2.3,Alice Brown,USA,20.09.60,2,San José,27.06.1987
+212,21,10.93,2.7,Gwen Torrence,USA,12.06.65,1h3,Indianapolis,16.07.1988
+213,21,10.93A,3.0,Dawn Sowell,USA,27.03.66,1,San José,27.05.1989
+214,21,10.93,4.2,Holli Hyche,USA,06.09.71,2h2,Eugene,16.06.1993
+215,21,10.93,2.6,Marion Jones,USA,12.10.75,1,Eugene,24.06.2000
+216,21,10.93A,3.1,Virginia Crawford,USA,07.09.83,1h1,Provo,26.05.2006
+217,21,10.93,5.9,LaShauntea Moore,USA,31.07.83,2r1,Austin,14.04.2012
+218,21,10.93,2.2,Ana Cláudia Lemos Silva,BRA,06.11.88,1h1,Campinas,04.05.2013
+219,21,10.93,2.2,Aleia Hobbs,USA,24.02.96,1h1,Austin,30.03.2018
+220,21,10.93,3.6,Briana Williams,JAM,21.03.02,1h1,Miramar,05.06.2021
+221,21,10.93,2.4,Kevona Davis,JAM,20.12.01,4r1,Gainesville,15.04.2023
+222,21,10.93,3.9,Natasha Morrison,JAM,17.11.92,1rA,Irvine,29.04.2023
+223,21,10.93,3.4,Ezinne Abba,USA,01.11.00,2h2,Norman,14.05.2023
+224,22,10.94,3.9,Jackie Washington,USA,17.07.62,1,Houston,18.05.1986
+225,22,10.94,3.7,Diane Williams,USA,14.12.60,1s2,Indianapolis,09.08.1987
+226,22,10.94A,3.0,Evette de Klerk,RSA,21.08.65,1h2,Germiston,20.04.1990
+227,22,10.94,2.1,Chryste Gaines,USA,14.09.70,1,Eugene,22.05.1992
+228,22,10.94A,2.8,Evelyn Ashford,USA,15.04.57,2,Sestriere,21.07.1992
+229,22,10.94,4.0,Debbie Ferguson-McKenzie,BAH,16.01.76,1,Amherst,06.06.1998
+230,22,10.94,2.5,Chandra Sturrup,BAH,12.09.71,2,Nassau,18.06.1999
+231,22,10.94,2.8,Lauryn Williams,USA,11.09.83,1h4,Austin,10.06.2004
+232,22,10.94,2.2,Marshevet Hooker,USA,25.09.84,1h5,Eugene,27.06.2008
+233,22,10.94,2.8,Lauryn Williams,USA,11.09.83,5r1,New York City,30.05.2009
+234,22,10.94,3.1,Marshevet Hooker,USA,25.09.84,2h3,Eugene,25.06.2009
+235,22,10.94,3.6,Alexandra Anderson,USA,28.01.87,1s2,Eugene,26.06.2009
+236,22,10.94,3.0,Marshevet Hooker,USA,25.09.84,2s1,Eugene,26.06.2009
+237,22,10.94,3.6,Muna Lee,USA,30.10.81,2s2,Eugene,26.06.2009
+238,22,10.94,2.3,Kelly-Ann Baptiste,TTO,14.10.86,1h1,Clermont,05.06.2010
+239,22,10.94,2.9,Jeneba Tarmoh,USA,27.09.89,1r3,Austin,09.04.2011
+240,22,10.94,3.0,Kimberlyn Duncan,USA,02.08.91,1rA,Austin,31.03.2012
+241,22,10.94,2.9,Samantha Henry-Robinson,JAM,25.09.88,2,Clermont,02.06.2012
+242,22,10.94,5.1,Morolake Akinosun,USA,17.05.94,1rB,Austin,28.03.2015
+243,22,10.94,2.2,Tori Bowie,USA,27.08.90,1h2,Clermont,18.04.2015
+244,22,10.94,2.7,Dafne Schippers,NED,15.06.92,1,Manchester,20.05.2016
+245,22,10.94,2.1,Veronica Campbell-Brown,JAM,16.05.82,2h1,Montverde,11.06.2016
+246,22,10.94,2.1,Morolake Akinosun,USA,17.05.94,1,Eugene,27.05.2017
+247,22,10.94,2.8,Sha'Carri Richardson,USA,25.03.00,1h2,Montverde,04.07.2020
+248,22,10.94,2.5,Gabrielle Thomas,USA,07.12.96,1h1,Jacksonville,31.05.2021
+249,22,10.94,2.9,Tamara Clark,USA,09.01.99,2r1,Austin,26.03.2022
+250,22,10.94,2.4,Rosemary Chukwuma,NGR,05.12.01,1h3,Lubbock,14.05.2022
+251,22,10.94,3.5,Teahna Daniels,USA,27.03.97,4h1,Montverde,04.06.2022
+252,22,10.94,2.9,Javianne Oliver,USA,26.12.94,7,Eugene,24.06.2022
+253,22,10.94,3.2,Rosemary Chukwuma,NGR,05.12.01,1h1,Norman,14.05.2023
+254,22,10.94,2.4,Rayniah Jones,USA,28.09.01,1,Tampa,14.05.2023
+255,22,10.94,3.2,Kennedy Blackmon,USA,02.10.99,2h1,Norman,14.05.2023
+256,22,10.94,3.2,Kevona Davis,JAM,20.12.01,3h1,Norman,14.05.2023
+257,25,10.95,2.8,Evelyn Ashford,USA,15.04.57,1s1,Eugene,20.06.1986
+258,25,10.95A,2.1,Juliet Cuthbert,JAM,09.04.64,1h2,San José,25.06.1987
+259,25,10.95A,2.3,Pam Marshall,USA,16.08.60,3,San José,27.06.1987
+260,25,10.95,2.5,Anelia Nuneva,BUL,30.06.62,1,Schwechat,15.06.1988
+261,25,10.95,3.1,Chandra Sturrup,BAH,12.09.71,2,Walnut,18.04.1999
+262,25,10.95,3.1,Chandra Sturrup,BAH,12.09.71,1,Walnut,16.04.2000
+263,25,10.95,4.0,Peta-Gaye Dowdie,JAM,18.01.77,1,Houston,06.07.2000
+264,25,10.95,2.5,Christine Arron,FRA,13.09.73,1,Narbonne,25.07.2003
+265,25,10.95,2.6,Me'Lisa Barber,USA,04.10.80,1h1,Indianapolis,21.06.2007
+266,25,10.95,3.4,Mechelle Lewis,USA,20.09.80,3q1,Eugene,27.06.2008
+267,25,10.95,2.6,Montell Douglas,GBR,24.01.86,1h2,Loughborough,17.07.2008
+268,25,10.95,2.5,Gloria Asumnu,USA,22.05.85,1,Zaragoza,18.07.2009
+269,25,10.95,4.5,Charonda Williams,USA,27.03.87,2,Tomblaine,08.07.2012
+270,25,10.95,2.3,Remona Burchell,JAM,15.09.91,1h1,Eugene,11.06.2014
+271,25,10.95,2.3,Marie-Josée Ta Lou,CIV,18.11.88,2h4,Beijing,23.08.2015
+272,25,10.95,2.6,Ariana Washington,USA,04.09.96,1,Eugene,11.06.2016
+273,25,10.95,2.6,Marie-Josée Ta Lou,CIV,18.11.88,2,Székesfehérvá,18.07.2016
+274,25,10.95,4.4,Alexandra Anderson,USA,28.01.87,1r1,Austin,29.04.2017
+275,25,10.95,4.4,Michelle-Lee Ahye,TTO,10.04.92,2r1,Austin,29.04.2017
+276,25,10.95,3.0,Jenna Prandini,USA,20.11.92,2h4,Des Moines,21.06.2018
+277,25,10.95,2.4,Mikiah Brisco,USA,14.07.96,2r1,Baton Rouge,17.04.2021
+278,25,10.95,2.5,Gabrielle Thomas,USA,07.12.96,2s2,Eugene,19.06.2021
+279,25,10.95,3.0,Twanisha Terry,USA,24.01.99,3h2,Walnut,16.04.2022
+280,25,10.95,2.7,Ezinne Abba,USA,01.11.00,2q2,Fayetteville,28.05.2022
+281,25,10.95,3.5,Shania Collins,USA,14.11.96,2r2,Montverde,04.06.2022
+282,25,10.95,2.6,Kaila Jackson,USA,30.06.04,1h5,Jacksonville,25.05.2023
+283,28,10.96,2.9,Brenda Morehead,USA,05.10.57,1s2,Walnut,16.06.1979
+284,28,10.96A,3.4,Evelyn Ashford,USA,15.04.57,1,San José,28.05.1983
+285,28,10.96,2.9,Florence Griffith-Joyner,USA,21.12.59,1,Zürich,24.08.1983
+286,28,10.96,2.8,Gail Devers,USA,19.11.66,2s1,Eugene,20.06.1986
+287,28,10.96,2.5,Juliet Cuthbert,JAM,09.04.64,1r1,Zürich,17.08.1988
+288,28,10.96,4.2,Olga Bogoslovskaya,RUS,20.05.64,1,Volgograd,11.06.1989
+289,28,10.96A,2.5,Michelle Burrell,USA,08.05.65,1,Sestriere,08.08.1990
+290,28,10.96,2.9,Angela Williams,USA,30.01.80,1,Las Vegas,03.04.1999
+291,28,10.96,5.5,Kelli White,USA,01.04.77,r1,Knoxville,09.04.1999
+292,28,10.96,2.5,Inger Miller,USA,12.06.72,1,Eugene,25.06.1999
+293,28,10.96,2.6,Ekateríni Thánou,GRE,01.02.75,1,Rieti,05.09.1999
+294,28,10.96,2.3,Torri Edwards,USA,31.01.77,1,Carson,01.06.2003
+295,28,10.96,3.3,Lauryn Williams,USA,11.09.83,3,Eugene,26.06.2009
+296,28,10.96,2.7,Mikele Barber,USA,04.10.80,3,Eugene,24.06.2011
+297,28,10.96,2.9,Lauryn Williams,USA,11.09.83,3,Clermont,02.06.2012
+298,28,10.96,4.0,Dezerea Bryant,USA,27.04.93,1rA,Austin,03.05.2014
+299,28,10.96,3.8,Morolake Akinosun,USA,17.05.94,1,Lubbock,18.05.2014
+300,28,10.96,3.0,Morolake Akinosun,USA,17.05.94,1h2,Eugene,11.06.2015
+301,28,10.96,3.1,Jenna Prandini,USA,20.11.92,1,Eugene,13.06.2015
+302,28,10.96,4.0,Ana Cláudia Lemos Silva,BRA,06.11.88,1h3,Toronto,21.07.2015
+303,28,10.96,2.2,Barbara Pierre,USA,28.04.87,1s2,Toronto,22.07.2015
+304,28,10.96,2.6,Ashley Henderson,USA,04.12.95,2,Eugene,11.06.2016
+305,28,10.96,2.6,Murielle Ahouré,CIV,23.08.87,1rA,Gainesville,31.03.2017
+306,28,10.96,2.6,Tatjana Pinto,GER,02.07.92,1rA,Weinheim,27.05.2017
+307,28,10.96,2.1,Murielle Ahouré,CIV,23.08.87,2,Eugene,27.05.2017
+308,28,10.96,2.6,Twanisha Terry,USA,24.01.99,1,Palo Alto,13.05.2018
+309,28,10.96,4.0,Marie-Josée Ta Lou,CIV,18.11.88,1rB,Castiglione d,19.05.2021
+310,28,10.96,3.0,Michelle-Lee Ahye,TTO,10.04.92,2h3,Miramar,05.06.2021
+311,28,10.96,2.6,Jenna Prandini,USA,20.11.92,2s1,Eugene,19.06.2021
+312,28,10.96,2.5,English Gardner,USA,22.04.92,3s2,Eugene,19.06.2021
+313,28,10.96,5.3,Briana Williams,JAM,21.03.02,1h3,Clermont,01.05.2022
+314,28,10.96,5.0,Twanisha Terry,USA,24.01.99,1h4,Clermont,01.05.2022
+315,28,10.96,3.8,Dina Asher-Smith,GBR,04.12.95,1s2,Manchester,25.06.2022
+316,28,10.96,2.4,Talitha Diggs,USA,22.08.02,5r1,Gainesville,15.04.2023
+317,31,10.97,3.3,Gesine Walther,GDR,06.10.62,4,Cottbus,16.07.1980
+318,31,10.97,4.4,Merlene Ottey,JAM,10.05.60,1h2,Austin,28.05.1981
+319,31,10.97A,3.1,Merlene Ottey,JAM,10.05.60,1,Provo,04.06.1982
+320,31,10.97,3.9,Juliet Cuthbert,JAM,09.04.64,2,Houston,18.05.1986
+321,31,10.97,2.6,Alice Brown,USA,20.09.60,1s2,Eugene,20.06.1986
+322,31,10.97,2.1,Gail Devers,USA,19.11.66,1h1,Westwood,21.05.1988
+323,31,10.97,3.0,Grace Jackson,JAM,14.06.61,4,Seoul,25.09.1988
+324,31,10.97,3.0,Gwen Torrence,USA,12.06.65,5,Seoul,25.09.1988
+325,31,10.97,3.1,Merlene Ottey,JAM,10.05.60,1,Saint-Denis,04.06.1992
+326,31,10.97A,2.8,Michelle Burrell,USA,08.05.65,3,Sestriere,21.07.1992
+327,31,10.97A,2.3,Carlette Guidry,USA,04.09.68,2,San José,28.05.1994
+328,31,10.97,2.2,Merlene Ottey,JAM,10.05.60,1,København,28.08.1994
+329,31,10.97,2.3,Marion Jones,USA,12.10.75,1,Knoxville,24.05.1997
+330,31,10.97,2.5,Gail Devers,USA,19.11.66,2,Eugene,25.06.1999
+331,31,10.97,3.1,Muna Lee,USA,30.10.81,1,Austin,05.04.2003
+332,31,10.97,3.4,Christine Arron,FRA,13.09.73,1s1,Narbonne,25.07.2003
+333,31,10.97,2.8,Torri Edwards,USA,31.01.77,3,Berlin,10.08.2003
+334,31,10.97,3.5,Kelly-Ann Baptiste,TTO,14.10.86,1,Fayetteville,31.05.2008
+335,31,10.97,2.4,Samantha Henry-Robinson,JAM,25.09.88,1,Montverde,01.06.2013
+336,31,10.97,2.2,Kerron Stewart,JAM,16.04.84,4,Eugene,01.06.2013
+337,31,10.97,3.0,Shalonda Solomon,USA,19.12.85,1,Naimette-Xhov,10.07.2013
+338,31,10.97,3.8,Shalonda Solomon,USA,19.12.85,1h1,Clermont,18.04.2015
+339,31,10.97,3.1,Morolake Akinosun,USA,17.05.94,2,Eugene,13.06.2015
+340,31,10.97,2.1,Jeneba Tarmoh,USA,27.09.89,2h3,Eugene,25.06.2015
+341,31,10.97,3.2,Morolake Akinosun,USA,17.05.94,6s2,Eugene,26.06.2015
+342,31,10.97,3.5,Morolake Akinosun,USA,17.05.94,1r2,Baton Rouge,23.04.2016
+343,31,10.97,5.3,Alexandra Anderson,USA,28.01.87,1,Austin,07.05.2016
+344,31,10.97,3.1,Morolake Akinosun,USA,17.05.94,2s1,Eugene,03.07.2016
+345,31,10.97,4.5,Ariana Washington,USA,04.09.96,2s2,Eugene,03.07.2016
+346,31,10.97,5.2,Ariana Washington,USA,04.09.96,1h3,Austin,25.05.2017
+347,31,10.97,2.1,Michelle-Lee Ahye,TTO,10.04.92,3,Eugene,27.05.2017
+348,31,10.97,3.5,Twanisha Terry,USA,24.01.99,1r1,Westwood,24.03.2018
+349,31,10.97,3.4,Kortnei Johnson,USA,11.08.97,1h3,Austin,30.03.2018
+350,31,10.97,2.5,Briana Williams,JAM,21.03.02,2h1,Jacksonville,31.05.2021
+351,31,10.97,4.9,Bassant Hemida,EGY,28.09.96,1,El Maadi,28.03.2022
+352,31,10.97,3.3,Briana Williams,JAM,21.03.02,5,Walnut,16.04.2022
+353,31,10.97,4.3,Liang Xiaojing,CHN,07.04.97,5r1,Montverde,04.06.2022
+354,31,10.97A,2.5,Zoe Hobbs,NZL,11.09.97,2,Nairobi,13.05.2023
+355,31,10.97,2.6,Jacious Sears,USA,14.08.01,1h3,Jacksonville,25.05.2023
+356,31,10.97,3.3,Destiny Smith-Barnett,USA,26.07.96,1,Chula Vista,28.05.2023
+357,35,10.98,2.9,Merlene Ottey,JAM,10.05.60,2,Zürich,24.08.1983
+358,35,10.98,3.0,Pam Marshall,USA,16.08.60,1,Modesto,10.05.1986
+359,35,10.98,3.8,Angela Williams,USA,30.01.80,1,Norwalk,24.05.1997
+360,35,10.98,2.6,Mercy Nku,NGR,17.07.76,2,Rieti,05.09.1999
+361,35,10.98,2.2,Zhanna Block,UKR,06.07.72,2rA,Stockholm,01.08.2000
+362,35,10.98,2.9,Nora Güner,TUR,01.06.77,1h1,Tunis,11.09.2001
+363,35,10.98,2.8,Veronica Campbell-Brown,JAM,16.05.82,1,Walnut,17.04.2005
+364,35,10.98,3.4,Alexandra Anderson,USA,28.01.87,4q1,Eugene,27.06.2008
+365,35,10.98,3.0,Lauryn Williams,USA,11.09.83,3s1,Eugene,26.06.2009
+366,35,10.98,2.8,Blessing Okagbare,NGR,09.10.88,1,Eugene,11.06.2010
+367,35,10.98,2.9,Semoy Hackett,TTO,27.11.88,2r3,Austin,09.04.2011
+368,35,10.98,2.2,Murielle Ahouré,CIV,23.08.87,5,Eugene,01.06.2013
+369,35,10.98,3.6,LaShauntea Moore,USA,31.07.83,1rA,Edmonton,29.06.2013
+370,35,10.98A,2.3,Michelle-Lee Ahye,TTO,10.04.92,1h2,"San José, CRC",07.08.2015
+371,35,10.98,2.4,Michelle-Lee Ahye,TTO,10.04.92,3,Kingston,07.05.2016
+372,35,10.98,3.4,Rebekka Haase,GER,02.01.93,1r3,Mannheim,29.07.2016
+373,35,10.98,2.8,Michelle-Lee Ahye,TTO,10.04.92,1,Eugene,29.07.2016
+374,35,10.98,3.5,Deanna Hill,USA,13.04.96,2r1,Westwood,24.03.2018
+375,35,10.98,3.7,Kortnei Johnson,USA,11.08.97,2r2,Austin,31.03.2018
+376,35,10.98,3.6,Tianna Bartoletta,USA,30.08.85,2h1,Miramar,05.06.2021
+377,35,10.98,2.6,Kayla White,USA,24.09.96,3s1,Eugene,19.06.2021
+378,35,10.98,3.3,Tamara Clark,USA,09.01.99,6,Walnut,16.04.2022
+379,35,10.98,2.4,Mikiah Brisco,USA,14.07.96,1r2,Baton Rouge,30.04.2022
+380,35,10.98,3.5,Javianne Oliver,USA,26.12.94,5h1,Montverde,04.06.2022
+381,35,10.98,3.5,Anthaya Charlton,BAH,01.01.03,2h1,Austin,31.03.2023
+382,35,10.98,9.9,Erin Kinney,USA,,1r1,Vermillion,08.04.2023
+383,35,10.98,3.2,Cambrea Sturgis,USA,27.03.99,1rB,Miramar,08.04.2023
+384,35,10.98,3.9,Melissa Jefferson,USA,21.02.01,2rA,Irvine,29.04.2023
+385,38,10.99,6.2,Merlene Ottey,JAM,10.05.60,1,Baton Rouge,17.04.1983
+386,38,10.99,2.4,Chandra Cheeseborough,USA,10.01.59,2,Modesto,14.05.1983
+387,38,10.99,2.9,Diane Williams,USA,14.12.60,3,Zürich,24.08.1983
+388,38,10.99A,2.3,Gail Devers,USA,19.11.66,4,San José,27.06.1987
+389,38,10.99A,2.3,Evette de Klerk,RSA,21.08.65,1,Pietersburg,08.04.1989
+390,38,10.99,2.1,Galina Malchugina,RUS,17.12.62,1h3,Volgograd,11.06.1989
+391,38,10.99A,3.4,Evette de Klerk,RSA,21.08.65,1,Johannesburg,31.03.1990
+392,38,10.99A,2.5,Evelyn Ashford,USA,15.04.57,2,Sestriere,08.08.1990
+393,38,10.99,5.1,Esther Jones,USA,07.04.69,2,Eugene,01.06.1991
+394,38,10.99,2.3,Irina Privalova,RUS,12.11.68,3s2,Tokyo,27.08.1991
+395,38,10.99,5.1,Mary Onyali,NGR,03.02.68,1,Modesto,08.05.1993
+396,38,10.99,4.0,Cheryl Taplin,USA,02.09.72,1,Austin,08.04.1994
+397,38,10.99,7.9,Inger Miller,USA,12.06.72,1,Las Vegas,09.04.1994
+398,38,10.99,,Chryste Gaines,USA,14.09.70,1,Abilene,12.05.1994
+399,38,10.99,3.2,D'Andre Hill,USA,19.04.73,1r2,Austin,06.04.1996
+400,38,10.99,2.7,Li Xuemei,CHN,05.01.77,1h1,Bangkok,13.12.1998
+401,38,10.99,3.0,Muna Lee,USA,30.10.81,2s1,Carson,25.06.2005
+402,38,10.99,4.4,Samantha Henry-Robinson,JAM,25.09.88,1h3,Clermont,02.06.2012
+403,38,10.99,2.5,Barbara Pierre,USA,28.04.87,1,Lynchburg,01.05.2013
+404,38,10.99,3.6,Samantha Henry-Robinson,JAM,25.09.88,1h2,Montverde,01.06.2013
+405,38,10.99,2.8,Octavious Freeman,USA,20.04.92,1h2,Eugene,05.06.2013
+406,38,10.99,4.5,Franciela Krasucki,BRA,26.04.88,1h1,São Paulo,05.04.2014
+407,38,10.99,4.5,Samantha Henry-Robinson,JAM,25.09.88,2rA,Clermont,16.05.2015
+408,38,10.99,3.0,Dezerea Bryant,USA,27.04.93,2h2,Eugene,11.06.2015
+409,38,10.99,3.6,Joanna Atkins,USA,31.01.89,2h4,Eugene,02.07.2016
+410,38,10.99,3.6,Alexandra Anderson,USA,28.01.87,3h4,Eugene,02.07.2016
+411,38,10.99,4.5,Stephanie Kalu,NGR,05.08.93,3r1,Lubbock,06.05.2017
+412,38,10.99,2.7,Mikiah Brisco,USA,14.07.96,2r1,Austin,31.03.2018
+413,38,10.99,2.8,Gabrielle Thomas,USA,07.12.96,1s1,Tampa,25.05.2018
+414,38,10.99,2.1,Twanisha Terry,USA,24.01.99,1,Los Angeles,28.04.2019
+415,38,10.99,3.6,Rebekka Haase,GER,02.01.93,1rA,Vecindario,10.04.2021
+416,38,10.99,4.3,Javianne Oliver,USA,26.12.94,6r1,Montverde,04.06.2022
+417,38,10.99,2.4,Ewa Swoboda,POL,26.07.97,1,Suwalki,10.06.2022
+418,38,10.99,4.1,Samirah Moody,USA,08.11.02,2r1,Gainesville,01.04.2023
+419,38,10.99,2.4,Ezinne Abba,USA,01.11.00,6r1,Gainesville,15.04.2023
+420,42,11.00,3.8,Marlies Göhr,GDR,21.03.58,1s2,Cottbus,16.07.1980
+421,42,11.00,2.8,Merlene Ottey,JAM,10.05.60,1h2,Brisbane,03.10.1982
+422,42,11.00,2.9,Gail Devers,USA,19.11.66,5,Eugene,20.06.1986
+423,42,11.00,3.0,Natalya Voronova,RUS,09.07.65,6,Seoul,25.09.1988
+424,42,11.00,2.1,Laurence Bily,FRA,05.05.63,1,Dijon,24.06.1990
+425,42,11.00,4.6,Esther Jones,USA,07.04.69,2s1,Eugene,31.05.1994
+426,42,11.00,2.2,Irina Privalova,RUS,12.11.68,1,Rieti,01.09.1996
+427,42,11.00,5.6,Sevatheda Fynes,BAH,17.10.74,1h1,Champaign,24.05.1997
+428,42,11.00,4.0,Glory Alozie,ESP,30.12.77,1,Valencia,08.07.2001
+429,42,11.00,3.1,Torri Edwards,USA,31.01.77,1h3,Palo Alto,19.06.2003
+430,42,11.00,2.5,Muriel Hurtis,FRA,25.03.79,2,Narbonne,25.07.2003
+431,42,11.00,4.9,Muna Lee,USA,30.10.81,1,Baton Rouge,29.05.2004
+432,42,11.00,5.7,Tremedia Brice,USA,22.07.81,1r1,Austin,09.04.2005
+433,42,11.00,3.6,Shalonda Solomon,USA,19.12.85,3s2,Eugene,26.06.2009
+434,42,11.00,3.3,Alexandra Anderson,USA,28.01.87,4,Eugene,26.06.2009
+435,42,11.00,2.2,Jeneba Tarmoh,USA,27.09.89,1,Miramar,09.07.2010
+436,42,11.00,2.5,English Gardner,USA,22.04.92,1,Eugene,13.05.2012
+437,42,11.00,2.6,Aurieyall Scott,USA,18.05.92,1h1,Eugene,05.06.2013
+438,42,11.00,2.8,English Gardner,USA,22.04.92,2h2,Eugene,05.06.2013
+439,42,11.00,2.9,Carrie Russel,JAM,18.10.90,1rA,Dubnica nad V,21.08.2013
+440,42,11.00,3.5,Morolake Akinosun,USA,17.05.94,1,Ames,17.05.2015
+441,42,11.00,3.0,Barbara Pierre,USA,28.04.87,2h1,Eugene,25.06.2015
+442,42,11.00,4.0,Khamica Bingham,CAN,15.06.94,2h3,Toronto,21.07.2015
+443,42,11.00,5.2,Deajah Stevens,USA,19.05.95,1h4,Austin,25.05.2017
+444,42,11.00,2.1,Veronica Campbell-Brown,JAM,16.05.82,4,Eugene,27.05.2017
+445,42,11.00,2.1,Sha'Carri Richardson,USA,25.03.00,1,Fayetteville,11.05.2019
+446,42,11.00,3.3,Javianne Oliver,USA,26.12.94,7,Walnut,16.04.2022
+447,44,11.01,2.1,Evelyn Ashford,USA,15.04.57,1,Walnut,16.06.1979
+448,44,11.01,4.0,Heather Oakes,GBR,14.08.59,1,London,21.05.1980
+449,44,11.01,3.2,Evelyn Ashford,USA,15.04.57,1,Syracuse,25.07.1981
+450,44,11.01,4.3,Gesine Walther,GDR,06.10.62,2,Cottbus,21.08.1982
+451,44,11.01A,2.6,Valerie Brisco,USA,06.07.60,1,San José,25.05.1985
+452,44,11.01,5.8,Gwen Torrence,USA,12.06.65,1,Gainesville,29.03.1986
+453,44,11.01,3.7,Gail Devers,USA,19.11.66,1h1,Indianapolis,09.08.1987
+454,44,11.01,3.5,Evelyn Ashford,USA,15.04.57,1h4,Indianapolis,16.07.1988
+455,44,11.01,2.8,Kerry Johnson,AUS,23.10.63,1h3,Sydney,02.12.1989
+456,44,11.01,,Beatrice Utondu,NGR,23.11.69,1,Springfield,01.05.1993
+457,44,11.01,3.2,Melanie Paschke,GER,29.06.70,1,Duisburg,12.06.1996
+458,44,11.01,3.3,Beverly McDonald,JAM,15.02.70,1h4,Waco,18.04.1998
+459,44,11.01,2.5,Chandra Sturrup,BAH,12.09.71,2,Walnut,19.04.1998
+460,44,11.01,3.2,Angela Williams,USA,30.01.80,1,Los Angeles,01.05.1999
+461,44,11.01,2.2,Angela Williams,USA,30.01.80,1,Eugene,21.05.2000
+462,44,11.01,3.4,Natasha Mayers,VIN,10.03.79,1,Azusa,14.04.2001
+463,44,11.01,3.5,Angela Williams,USA,30.01.80,2,Eugene,22.06.2001
+464,44,11.01,3.5,Muna Lee,USA,30.10.81,1h1,Austin,10.06.2004
+465,44,11.01,2.7,Kelly-Ann Baptiste,TTO,14.10.86,1,Port of Spain,21.06.2008
+466,44,11.01,3.5,Allyson Felix,USA,18.11.85,1h2,Eugene,27.06.2008
+467,44,11.01,3.3,Muna Lee,USA,30.10.81,1h2,Eugene,25.06.2009
+468,44,11.01,3.2,Shalonda Solomon,USA,19.12.85,2h1,Eugene,25.06.2009
+469,44,11.01,2.4,Semoy Hackett,TTO,27.11.88,1,Athens GA,15.05.2011
+470,44,11.01,2.2,Ivet Lalova-Collio,BUL,18.05.84,1,Oslo,09.06.2011
+471,44,11.01,2.5,Blessing Okagbare,NGR,09.10.88,2,Maputo,12.09.2011
+472,44,11.01,2.3,LaShauntea Moore,USA,31.07.83,1,Saint-Martin,05.05.2012
+473,44,11.01,2.9,Lauryn Williams,USA,11.09.83,1h2,Clermont,02.06.2012
+474,44,11.01,4.5,Ivet Lalova-Collio,BUL,18.05.84,3,Tomblaine,08.07.2012
+475,44,11.01,2.2,Allyson Felix,USA,18.11.85,1h5,London,03.08.2012
+476,44,11.01,3.5,Kelly-Ann Baptiste,TTO,14.10.86,1s1,Port of Spain,22.06.2013
+477,44,11.01,3.1,Dezerea Bryant,USA,27.04.93,3,Eugene,13.06.2015
+478,44,11.01,5.4,Kaylin Whitney,USA,09.03.98,3h3,Lausanne,09.07.2015
+479,44,11.01,2.2,Rosângela Santos,BRA,20.12.90,2s2,Toronto,22.07.2015
+480,44,11.01,4.0,Ashley Henderson,USA,04.12.95,1h2,Fresno,13.05.2016
+481,44,11.01,2.5,Barbara Pierre,USA,28.04.87,3s3,Eugene,03.07.2016
+482,44,11.01,4.6,Naomi Sedney,NED,17.12.94,1r1,Clermont,15.04.2017
+483,44,11.01,4.7,Deanna Hill,USA,13.04.96,1h6,Austin,25.05.2017
+484,44,11.01,2.2,Murielle Ahouré,CIV,23.08.87,1h2,Montverde,10.06.2017
+485,48,11.02,3.2,Merlene Ottey,JAM,10.05.60,1s1,Brisbane,04.10.1982
+486,48,11.02,2.3,Valerie Brisco,USA,06.07.60,1,Walnut,03.06.1984
+487,48,11.02A,2.6,Merlene Ottey,JAM,10.05.60,2,San José,25.05.1985
+488,48,11.02,,Alice Brown,USA,20.09.60,1,Irvine,03.05.1986
+489,48,11.02,2.6,Pam Marshall,USA,16.08.60,2s2,Eugene,20.06.1986
+490,48,11.02,2.8,Anelia Nuneva,BUL,30.06.62,1,Oslo,04.07.1987
+491,48,11.02,2.3,Heike Drechsler,GER,16.12.64,1h1,Roma,29.08.1987
+492,48,11.02,5.0,Jennifer Inniss,USA,21.11.59,3q3,Indianapolis,16.07.1988
+493,48,11.02,4.4,Merlene Ottey,JAM,10.05.60,1,Auckland,28.01.1990
+494,48,11.02,3.1,Juliet Cuthbert,JAM,09.04.64,2,Saint-Denis,04.06.1992
+495,48,11.02,2.1,Nikole Mitchell,JAM,05.06.74,1,Kingston,06.09.1992
+496,48,11.02,2.8,Irina Privalova,RUS,12.11.68,1,Rieti,28.08.1994
+497,48,11.02,3.2,Merlene Ottey,JAM,10.05.60,1,Hengelo,27.05.1996
+498,48,11.02,3.2,Juliet Cuthbert,JAM,09.04.64,2,Duisburg,12.06.1996
+499,48,11.02,2.1,Chryste Gaines,USA,14.09.70,2,Eugene,31.05.1998
+500,48,11.02A,3.0,Melinda Gainsford-Taylor,AUS,01.10.71,1,Pietersburg,18.03.2000
+501,48,11.02,2.9,Christine Arron,FRA,13.09.73,2,Gateshead,15.07.2000
+502,48,11.02,2.1,Rachelle Smith,USA,30.06.81,1s2,Carson,25.06.2005
+503,48,11.02,3.5,Cydonie Mothersill,CAY,19.03.78,1,La Laguna,08.07.2006
+504,48,11.02,2.2,Tahesia Harrigan-Scott,IVB,15.02.82,1rA,La Chaux-de-F,20.08.2006
+505,48,11.02,2.6,Lauryn Williams,USA,11.09.83,2h1,Indianapolis,21.06.2007
+506,48,11.02,2.3,Gloria Asumnu,USA,22.05.85,3q3,Eugene,27.06.2008
+507,48,11.02,3.2,Muna Lee,USA,30.10.81,3,Eugene,07.06.2009
+508,48,11.02,3.3,Marshevet Hooker,USA,25.09.84,5,Eugene,26.06.2009
+509,48,11.02,4.4,LaShauntea Moore,USA,31.07.83,1r1,Fort Worth,19.03.2010
+510,48,11.02,2.4,LaKya Brookins,USA,28.07.89,2,Athens GA,15.05.2011
+511,48,11.02,2.4,Kimberlyn Duncan,USA,02.08.91,3,Athens GA,15.05.2011
+512,48,11.02,5.9,Porscha Lucas,USA,18.06.88,3r1,Austin,14.04.2012
+513,48,11.02,2.3,Lauryn Williams,USA,11.09.83,1r2,Austin,30.03.2013
+514,48,11.02,2.3,Kimberlyn Duncan,USA,02.08.91,1h3,Eugene,05.06.2013
+515,48,11.02,3.4,Verena Sailer,GER,16.10.85,1h1,Ulm,26.07.2014
+516,48,11.02,3.7,Samantha Henry-Robinson,JAM,25.09.88,1h2,Clermont,16.05.2015
+517,48,11.02,2.2,Sherone Simpson,JAM,12.08.84,3s2,Toronto,22.07.2015
+518,48,11.02,2.6,Tianna Bartoletta,USA,30.08.85,3,Székesfehérvá,18.07.2016
+519,48,11.02,2.9,Kerron Stewart,JAM,16.04.84,1,Auburn,22.04.2017
+520,48,11.02,2.6,Lisa Mayer,GER,02.05.96,2rA,Weinheim,27.05.2017
+521,48,11.02,3.4,Ángela Tenorio,ECU,27.01.96,1,Asunción,23.06.2017
+522,48,11.02,5.8,Jada Baylark,USA,17.10.97,1r4,Fayetteville,13.04.2018
+523,48,11.02,2.8,Kianna Gray,USA,30.12.96,2s1,Tampa,25.05.2018
+524,48,11.02,2.6,Twanisha Terry,USA,24.01.99,1h3,Los Angeles,15.05.2021
+525,48,11.02,2.8,Cassondra Hall,USA,23.09.97,1h6,College Stati,27.05.2021
+526,48,11.02,2.6,Candace Hill,USA,11.02.99,4s1,Eugene,19.06.2021
+527,48,11.02,3.0,Javianne Oliver,USA,26.12.94,4h2,Walnut,16.04.2022
+528,48,11.02,3.2,TyNia Gaither,BAH,16.03.93,4r7,Waco,23.04.2022
+529,48,11.02,2.2,Michelle-Lee Ahye,TTO,10.04.92,1h2,San Juan Capi,07.05.2022
+530,48,11.02,4.3,Teahna Daniels,USA,27.03.97,7r1,Montverde,04.06.2022
+531,48,11.02,4.4,Gina Bass,GAM,03.05.95,1,Dakar,25.06.2022
+532,48,11.02,3.5,Iyana Gray,USA,27.02.03,3h1,Austin,31.03.2023
+533,53,11.03,3.8,Romy Müller,GDR,26.07.58,1h1,Berlin,28.05.1980
+534,53,11.03,3.8,Ingrid Auerswald,GDR,02.09.57,2s2,Cottbus,16.07.1980
+535,53,11.03,3.0,Merlene Ottey,JAM,10.05.60,2rB,Walnut,29.04.1984
+536,53,11.03,2.6,Natalya Voronova,RUS,09.07.65,3s2,Seoul,25.09.1988
+537,53,11.03,2.2,Gwen Torrence,USA,12.06.65,2,Eugene,17.06.1993
+538,53,11.03,4.5,Melinda Gainsford-Taylor,AUS,01.10.71,1,Perth,24.01.1998
+539,53,11.03,2.5,Angela Williams,USA,30.01.80,3,Eugene,25.06.1999
+540,53,11.03,3.1,Angela Williams,USA,30.01.80,2,Walnut,16.04.2000
+541,53,11.03,2.2,Mary Onyali,NGR,03.02.68,1,Lisboa,05.08.2000
+542,53,11.03,2.2,Fana Ashby,TTO,15.06.81,1,Port of Spain,19.06.2004
+543,53,11.03,5.7,Marshevet Hooker,USA,25.09.84,2r1,Austin,09.04.2005
+544,53,11.03,2.3,LaTasha Colander,USA,23.08.76,1h1,Clemson,15.04.2006
+545,53,11.03,2.7,Laverne Jones-Ferrette,ISV,16.09.81,1r1,Austin,04.04.2009
+546,53,11.03,3.3,Shalonda Solomon,USA,19.12.85,6,Eugene,26.06.2009
+547,53,11.03,2.2,Carrie Russel,JAM,18.10.90,1rA,Sundsvall,28.07.2013
+548,53,11.03,2.2,Dina Asher-Smith,GBR,04.12.95,1u2,Mannheim,05.07.2014
+549,53,11.03,2.3,Jasmine Todd,USA,23.12.93,1r2,Walnut,18.04.2015
+550,53,11.03,2.2,Dafne Schippers,NED,15.06.92,2h2,Clermont,18.04.2015
+551,53,11.03,4.5,Tiffany Townsend,USA,24.06.89,3s2,Eugene,03.07.2016
+552,53,11.03,3.5,Ángela Tenorio,ECU,27.01.96,1h2,Asunción,23.06.2017
+553,53,11.03,2.8,Crystal Emmanuel,CAN,27.11.91,2r2,Baton Rouge,20.04.2019
+554,53,11.03A,3.3,Teahna Daniels,USA,25.03.97,1u2,Queretaro,05.07.2019
+555,53,11.03,2.1,Mujinga Kambundji,SUI,17.06.92,1rA,Weinheim,22.05.2021
+556,53,11.03,2.6,Michelle-Lee Ahye,TTO,10.04.92,1,Chula Vista,30.05.2021
+557,53,11.03,2.5,Dezerea Bryant,USA,27.04.93,4s2,Eugene,19.06.2021
+558,53,11.03,4.3,Maia McCoy,USA,09.12.96,8r1,Montverde,04.06.2022
+559,53,11.03,3.8,Imani Lansiquot,GBR,17.12.97,3,Manchester,25.06.2022
+560,56,11.04,3.8,Monika Hamann,GDR,08.06.54,2,Dublin,17.07.1977
+561,56,11.04,3.3,Romy Müller,GDR,26.07.58,5,Cottbus,16.07.1980
+562,56,11.04,2.4,Merlene Ottey,JAM,10.05.60,1,Houston,03.06.1983
+563,56,11.04,3.0,Michelle Burrell,USA,08.05.65,1,Austin,01.06.1985
+564,56,11.04,5.8,Michelle Burrell,USA,08.05.65,2,Gainesville,29.03.1986
+565,56,11.04,3.1,Ingrid Auerswald,GDR,02.09.57,3,Berlin,13.09.1988
+566,56,11.04A,2.3,Juliet Cuthbert,JAM,09.04.64,3,San José,28.05.1994
+567,56,11.04,2.3,Merlene Ottey,JAM,10.05.60,2,Réthymno,29.05.1999
+568,56,11.04,2.6,Petya Pendareva,BUL,20.01.71,3,Rieti,05.09.1999
+569,56,11.04,2.2,Chryste Gaines,USA,14.09.70,3rA,Stockholm,01.08.2000
+570,56,11.04,3.4,Eldece Clarke-Lewis,BAH,13.02.65,2r4,Montauban,15.08.2000
+571,56,11.04,2.3,LaTasha Jenkins,USA,19.12.77,2,Carson,01.06.2003
+572,56,11.04,2.6,Inger Miller,USA,12.06.72,1,Palo Alto,07.06.2003
+573,56,11.04,2.1,Inger Miller,USA,12.06.72,1cA,Walnut,18.04.2004
+574,56,11.04,5.6,Kelliann Baptiste,TTO,14.10.86,1r2,Austin,09.04.2005
+575,56,11.04,2.9,Ivet Lalova-Collio,BUL,18.05.84,1,Lagos,28.05.2005
+576,56,11.04,2.2,Rachelle Smith,USA,30.06.81,2,Réthymno,21.07.2006
+577,56,11.04,2.3,Kim Gevaert,BEL,05.08.78,1r2,Heusden-Zolde,28.07.2007
+578,56,11.04,4.7,Samantha Henry-Robinson,JAM,25.09.88,1h2,Fayetteville,30.05.2008
+579,56,11.04,2.3,LaShauntea Moore,USA,31.07.83,4q3,Eugene,27.06.2008
+580,56,11.04,2.8,Sherone Simpson,JAM,12.08.84,1,Rovereto,01.09.2009
+581,56,11.04,3.4,Shalonda Solomon,USA,19.12.85,1r1,Coral Gables,10.04.2010
+582,56,11.04,2.7,LaShauntea Moore,USA,31.07.83,4,Eugene,24.06.2011
+583,56,11.04,3.7,Alexandra Anderson,USA,28.01.87,1h1,Montverde,01.06.2013
+584,56,11.04,3.6,Tori Bowie,USA,27.08.90,2rA,Edmonton,29.06.2013
+585,56,11.04,3.1,Desirèe Henry,GBR,26.08.95,1r1,Clermont,26.04.2014
+586,56,11.04,3.9,Simone Facey,JAM,07.05.85,2rA,Clermont,18.04.2015
+587,56,11.04,3.1,Deajah Stevens,USA,19.05.95,3s1,Eugene,03.07.2016
+588,56,11.04,3.4,Lisa Mayer,GER,02.05.96,2r3,Mannheim,29.07.2016
+589,56,11.04,4.1,Jamile Samuel,NED,24.04.92,1h3,Clermont,15.04.2017
+590,56,11.04,3.7,Gabrielle Thomas,USA,07.12.96,3r2,Austin,31.03.2018
+591,56,11.04,3.5,Javianne Oliver,USA,26.12.94,1rA,Knoxville,14.04.2018
+592,56,11.04,2.3,Ashley Henderson,USA,04.12.95,1,Fresno,12.05.2018
+593,56,11.04,2.2,Mikiah Brisco,USA,14.07.96,2s2,Des Moines,22.06.2018
+594,56,11.04,2.3,Jonielle Smith,JAM,30.01.96,1,Barranquilla,30.07.2018
+595,56,11.04,2.3,Kayla White,USA,24.09.96,1rA,Gainesville,29.03.2019
+596,56,11.04,3.6,Natalliah Whyte,JAM,09.08.97,2h1,Clermont,02.05.2021
+597,56,11.04,2.5,Twanisha Terry,USA,24.01.99,5s2,Eugene,19.06.2021
+598,56,11.04,2.2,Kevona Davis,JAM,20.12.01,2q3,Fayetteville,28.05.2022
+599,56,11.04,2.6,Jada Baylark,USA,17.10.97,3q1,Fayetteville,28.05.2022
+600,56,11.04,2.8,Daryll Neita,GBR,29.08.96,1h3,Manchester,24.06.2022
+601,56,11.04,2.9,Brittany Brown,USA,18.04.95,8,Eugene,24.06.2022
+602,56,11.04,2.2,Kaila Jackson,USA,30.06.04,1r3,Walnut,15.04.2023
+603,56,11.04,2.7,Shannon Ray,USA,31.12.95,1r2,Devonshire,21.05.2023
+604,60,11.05,3.8,Monika Hamann,GDR,08.06.54,1s3,Dresden,01.07.1977
+605,60,11.05A,2.2,Silvia Chivás,CUB,10.09.54,1,Guadalajara,12.08.1977
+606,60,11.05,2.4,Merlene Ottey,JAM,10.05.60,1,Budapest,30.06.1982
+607,60,11.05,3.9,Marlies Göhr,GDR,21.03.58,1s1,Dresden,01.07.1982
+608,60,11.05A,3.4,Chandra Cheeseborough,USA,10.01.59,2,San José,28.05.1983
+609,60,11.05,2.4,Diane Williams,USA,14.12.60,2,Houston,03.06.1983
+610,60,11.05,2.5,Kerstin Behrendt,GER,02.09.67,1,Berlin,25.08.1987
+611,60,11.05,2.5,Ulrike Sarvari,GER,22.06.64,2r2,Zürich,17.08.1988
+612,60,11.05A,4.1,Tina Iheagwam,NGR,03.04.68,1,El Paso,16.04.1989
+613,60,11.05,4.2,Natalya Voronova,RUS,09.07.65,2,Volgograd,11.06.1989
+614,60,11.05,3.6,Sheila Echols,USA,02.10.64,1h3,Houston,15.06.1989
+615,60,11.05,2.1,Chryste Gaines,USA,14.09.70,1,Austin,06.06.1992
+616,60,11.05,6.1,Beverly McDonald,JAM,15.02.70,1,Arlingtom,10.04.1993
+617,60,11.05,2.3,Gail Devers,USA,19.11.66,1s2,Eugene,16.06.1993
+618,60,11.05,4.9,Chryste Gaines,USA,14.09.70,1,Mar del Plata,18.03.1995
+619,60,11.05,2.5,Torri Edwards,USA,31.01.77,3,Walnut,19.04.1998
+620,60,11.05,2.3,Li Xuemei,CHN,05.01.77,1,Bangkok,14.12.1998
+621,60,11.05,2.5,Torri Edwards,USA,31.01.77,4,Eugene,25.06.1999
+622,60,11.05,2.2,Sevatheda Fynes,BAH,17.10.74,4rA,Stockholm,01.08.2000
+623,60,11.05,2.9,Angela Williams,USA,30.01.80,1,Eugene,02.06.2001
+624,60,11.05,2.6,Muriel Hurtis,FRA,25.03.79,1s2,Narbonne,25.07.2003
+625,60,11.05,3.0,Lauryn Williams,USA,11.09.83,3s1,Carson,25.06.2005
+626,60,11.05,2.7,LaTasha Colander,USA,23.08.76,1,Clemson,15.04.2006
+627,60,11.05A,3.1,Carol Rodriguez,PUR,16.12.85,2h1,Provo,26.05.2006
+628,60,11.05,2.3,Carmelita Jeter,USA,24.11.79,2r2,Heusden-Zolde,28.07.2007
+629,60,11.05,2.8,Marshevet Hooker,USA,25.09.84,6r1,New York City,30.05.2009
+630,60,11.05,4.0,Gloria Asumnu,USA,22.05.85,1h2,Zaragoza,18.07.2009
+631,60,11.05,2.3,Alexandra Anderson,USA,28.01.87,2h1,Clermont,05.06.2010
+632,60,11.05,2.7,Jeneba Tarmoh,USA,27.09.89,1h3,Eugene,09.06.2010
+633,60,11.05,3.8,Aurieyall Scott,USA,18.05.92,1s1,Greensboro,24.05.2013
+634,60,11.05,3.9,Kimberlyn Duncan,USA,02.08.91,1s2,Greensboro,24.05.2013
+635,60,11.05,2.5,Kelly-Ann Baptiste,TTO,14.10.86,1s1,Toronto,22.07.2015
+636,60,11.05,3.6,Octavious Freeman,USA,20.04.92,4h4,Eugene,02.07.2016
+637,60,11.05,4.5,Joanna Atkins,USA,31.01.89,4s2,Eugene,03.07.2016
+638,60,11.05,4.5,Shalonda Solomon,USA,19.12.85,5s2,Eugene,03.07.2016
+639,60,11.05,4.6,Madiea Ghafoor,NED,09.09.92,2r1,Clermont,15.04.2017
+640,60,11.05,5.2,Aaliyah Brown,USA,06.01.95,2h3,Austin,25.05.2017
+641,60,11.05,2.4,Veronica Campbell-Brown,JAM,16.05.82,1h1,Montverde,10.06.2017
+642,60,11.05,2.6,Carina Horn,RSA,09.03.89,1,Sotteville-lè,07.07.2017
+643,60,11.05,2.8,Natalliah Whyte,JAM,09.08.97,3s1,Tampa,25.05.2018
+644,60,11.05,4.5,Ivet Lalova-Collio,BUL,18.05.84,1rA,Bursa,20.08.2019
+645,60,11.05,2.6,Cambrea Sturgis,USA,27.03.99,5s1,Eugene,19.06.2021
+646,60,11.05,2.5,Mikiah Brisco,USA,14.07.96,6s2,Eugene,19.06.2021
+647,60,11.05,5.5,Kortnei Johnson,USA,11.08.97,2h1,Clermont,01.05.2022
+648,60,11.05,2.7,Lasarah Hargrove,USA,,3q2,Fayetteville,28.05.2022
+649,60,11.05,3.5,Symone Darius,USA,01.03.98,1h3,Montverde,04.06.2022
+650,60,11.05,3.5,Asha Phillip,GBR,25.10.90,3r2,Montverde,04.06.2022
+651,60,11.05,3.2,Aminatou Seyni,NIG,24.10.96,1s2,Saint Pierre,08.06.2022
+652,60,11.05,4.1,Natasha Morrison,JAM,17.11.92,3rA,Miramar,08.04.2023
+653,60,11.05,2.9,Celera Barnes,USA,02.12.98,1rA,Gainesville,15.04.2023
+654,60,11.05,2.2,Autumn Wilson,USA,16.12.03,2r3,Walnut,15.04.2023
+655,60,11.05,2.6,Yanique Dayle,JAM,31.12.98,2h3,Jacksonville,25.05.2023
+656,65,11.06,2.2,Brenda Morehead,USA,05.10.57,1s2,Eugene,21.06.1976
+657,65,11.06,4.0,Sonia Lannaman,GBR,24.03.56,2,London,21.05.1980
+658,65,11.06A,2.5,Merlene Ottey,JAM,10.05.60,1h1,Provo,02.06.1982
+659,65,11.06,3.7,Randy Givens,USA,27.03.62,1,Eugene,01.06.1984
+660,65,11.06,2.1,Evelyn Ashford,USA,15.04.57,1h2,Eugene,19.06.1986
+661,65,11.06,2.2,Pam Marshall,USA,16.08.60,3s1,Roma,30.08.1987
+662,65,11.06,2.6,Grace Jackson,JAM,14.06.61,4s2,Seoul,25.09.1988
+663,65,11.06,5.6,Olga Bogoslovskaya,RUS,20.05.64,1h4,Volgograd,11.06.1989
+664,65,11.06,2.9,Evelyn Ashford,USA,15.04.57,1s1,New York City,13.06.1991
+665,65,11.06,,Teresa Foster,USA,11.04.72,1,Abilene,14.05.1992
+666,65,11.06,2.6,Michelle Burrell,USA,08.05.65,1s1,Eugene,16.06.1993
+667,65,11.06,3.2,Mary Onyali,NGR,03.02.68,2,Hengelo,27.05.1996
+668,65,11.06,2.1,Carlette Guidry,USA,04.09.68,1,Palo Alto,01.07.2000
+669,65,11.06A,2.4,Fana Ashby,TTO,15.06.81,1,Levelland,10.05.2003
+670,65,11.06,2.3,Inger Miller,USA,12.06.72,3,Carson,01.06.2003
+671,65,11.06,2.1,Inger Miller,USA,12.06.72,1r2,Modesto,08.05.2004
+672,65,11.06,4.0,Debbie Ferguson-McKenzie,BAH,16.01.76,1,Nassau,17.06.2006
+673,65,11.06,3.3,Lauryn Williams,USA,11.09.83,1h4,Eugene,25.06.2009
+674,65,11.06,3.0,Jessica Young,USA,06.04.87,4s1,Eugene,26.06.2009
+675,65,11.06,3.3,Jessica Young,USA,06.04.87,7,Eugene,26.06.2009
+676,65,11.06,2.2,Verena Sailer,GER,16.10.85,1s2,Barcelona,29.07.2010
+677,65,11.06,2.3,English Gardner,USA,22.04.92,1s3,Austin,25.05.2012
+678,65,11.06,2.8,Kimberlyn Duncan,USA,02.08.91,1rA,Austin,30.03.2013
+679,65,11.06,2.3,Ana Cláudia Lemos Silva,BRA,06.11.88,1,Campinas,27.04.2013
+680,65,11.06,2.2,Ana Claudia de Sousa,BRA,15.07.69,6,Eugene,01.06.2013
+681,65,11.06,3.3,Michelle-Lee Ahye,TTO,10.04.92,1r1,San Marcos,28.03.2014
+682,65,11.06,4.5,Khamica Bingham,CAN,15.06.94,3rA,Clermont,16.05.2015
+683,65,11.06,3.6,Jenna Prandini,USA,20.11.92,1h2,Austin,28.05.2015
+684,65,11.06,4.5,Charonda Williams,USA,27.03.87,4h2,Eugene,25.06.2015
+685,65,11.06,3.2,Jessica Young,USA,06.04.87,7s2,Eugene,26.06.2015
+686,65,11.06A,2.3,Charonda Williams,USA,27.03.87,2h2,"San José, CRC",07.08.2015
+687,65,11.06,4.5,Candyce McGrone,USA,24.03.89,6s2,Eugene,03.07.2016
+688,65,11.06,2.6,Morolake Akinosun,USA,17.05.94,4,Székesfehérvá,18.07.2016
+689,65,11.06,2.3,Aleia Hobbs,USA,24.02.96,1r2,Baton Rouge,22.04.2017
+690,65,11.06,5.8,Crystal Emmanuel,CAN,27.11.91,1r2,Baton Rouge,28.04.2017
+691,65,11.06,3.8,Destiny Smith-Barnett,USA,26.07.96,1h1,Austin,25.05.2017
+692,65,11.06,2.8,Hannah Cunliffe,USA,09.01.96,1h2,Austin,25.05.2017
+693,65,11.06,3.7,Deanna Hill,USA,13.04.96,1q3,Austin,26.05.2017
+694,65,11.06,2.4,Sha'Carri Richardson,USA,25.03.00,1r1,Baton Rouge,27.04.2019
+695,65,11.06,2.1,Kianna Gray,USA,30.12.96,2,Fayetteville,11.05.2019
+696,65,11.06,2.7,Symone Mason,USA,31.08.99,2,College Stati,15.05.2021
+697,65,11.06,3.0,Tamara Clark,USA,09.01.99,5h2,Walnut,16.04.2022
+698,65,11.06,2.3,Ashley Henderson,USA,04.12.95,1r6,Waco,23.04.2022
+699,65,11.06,3.3,Anavia Battle,USA,28.03.99,1,Columbus,23.04.2022
+700,65,11.06,4.2,Tamari Davis,USA,15.02.03,4r1,Baton Rouge,23.04.2022
+701,65,11.06,2.4,Kynnedy Flannel,USA,12.07.00,4,Lubbock,15.05.2022
+702,65,11.06,2.4,Caira Pettway,USA,99,5,Lubbock,15.05.2022
+703,65,11.06,2.7,Kynnedy Flannel,USA,12.07.00,4q2,Fayetteville,28.05.2022
+704,65,11.06,2.9,Liang Xiaojing,CHN,07.04.97,1h2,Montverde,04.06.2022
+705,65,11.06,4.8,Gina Bass,GAM,03.05.95,1,Saint Pierre,09.06.2022
+706,65,11.06,2.3,Michelle-Lee Ahye,TTO,10.04.92,2h3,Port of Spain,25.06.2022
+707,70,11.07,3.0,Marita Koch,GDR,18.02.57,1h1,Dresden,24.05.1980
+708,70,11.07,3.8,Gesine Walther,GDR,06.10.62,3s2,Cottbus,16.07.1980
+709,70,11.07A,2.2,Alice Brown,USA,20.09.60,1s1,San José,08.06.1984
+710,70,11.07A,3.4,Merlene Ottey,JAM,10.05.60,1s2,San José,08.06.1984
+711,70,11.07,3.0,Diane Williams,USA,14.12.60,1h2,Indianapolis,09.08.1987
+712,70,11.07,2.2,Alice Brown,USA,20.09.60,4s1,Roma,30.08.1987
+713,70,11.07,2.7,Diane Williams,USA,14.12.60,2h3,Indianapolis,16.07.1988
+714,70,11.07,2.1,Esther Jones,USA,07.04.69,1h2,Houston,15.06.1989
+715,70,11.07,4.1,Laurence Bily,FRA,05.05.63,1,Dijon,01.07.1989
+716,70,11.07,3.2,Merlene Ottey,JAM,10.05.60,1h1,Auckland,27.01.1990
+717,70,11.07,2.9,Esther Jones,USA,07.04.69,2s1,New York City,13.06.1991
+718,70,11.07,4.0,Esther Jones,USA,07.04.69,1,La Laguna,13.07.1991
+719,70,11.07,4.0,Sandra Myers,ESP,04.01.61,2,La Laguna,13.07.1991
+720,70,11.07,2.7,Carlette Guidry,USA,04.09.68,3,Austin,09.05.1992
+721,70,11.07,5.1,Wendy Vereen,USA,24.04.66,2,Modesto,08.05.1993
+722,70,11.07,2.2,Michelle Burrell,USA,08.05.65,3,Eugene,17.06.1993
+723,70,11.07,3.2,Carlette Guidry,USA,04.09.68,2,Austin,06.04.1996
+724,70,11.07A,5.2,Debbie Ferguson-McKenzie,BAH,16.01.76,1,El Paso,13.04.1996
+725,70,11.07,3.2,Juliet Cuthbert,JAM,09.04.64,1s2,Kingston,27.06.1996
+726,70,11.07,2.1,Beverly McDonald,JAM,15.02.70,3,Eugene,31.05.1998
+727,70,11.07,3.4,Peta-Gaye Dowdie,JAM,18.01.77,2rA,Malmö,07.08.2000
+728,70,11.07,3.1,Natasha Mayers,VIN,10.03.79,1,Malmö,13.08.2002
+729,70,11.07,2.8,Muriel Hurtis,FRA,25.03.79,1h2,Narbonne,24.07.2003
+730,70,11.07,2.1,Muna Lee,USA,30.10.81,1h3,Baton Rouge,28.05.2004
+731,70,11.07,5.4,Virgil Hodge,SKN,17.11.83,1h1,Austin,26.05.2006
+732,70,11.07,3.0,Shalonda Solomon,USA,19.12.85,1,Greensboro,27.05.2006
+733,70,11.07,2.2,Shalonda Solomon,USA,19.12.85,1r1,Walnut,06.06.2009
+734,70,11.07,2.3,Gloria Asumnu,USA,22.05.85,1rA,Lappeenranta,12.07.2009
+735,70,11.07,3.5,Shalonda Solomon,USA,19.12.85,1h2,Clermont,05.06.2010
+736,70,11.07,2.9,Kimberlyn Duncan,USA,02.08.91,3r3,Austin,09.04.2011
+737,70,11.07,3.6,Jura Levy,JAM,04.11.90,1,Hutchinson,21.05.2011
+738,70,11.07,2.7,Alexandra Anderson,USA,28.01.87,5,Eugene,24.06.2011
+739,70,11.07,2.7,Candyce McGrone,USA,24.03.89,6,Eugene,24.06.2011
+740,70,11.07,2.0,English Gardner,USA,22.04.92,1h3,Eugene,12.05.2012
+741,70,11.07,2.2,Rosângela Santos,BRA,20.12.90,2h5,London,03.08.2012
+742,70,11.07,,Michelle-Lee Ahye,TTO,10.04.92,1,Port of Spain,06.04.2013
+743,70,11.07,2.2,Allyson Felix,USA,18.11.85,7,Eugene,01.06.2013
+744,70,11.07,2.5,Michelle-Lee Ahye,TTO,10.04.92,1rA,Austin,29.03.2014
+745,70,11.07,5.1,Cierra White,USA,29.04.93,2rB,Austin,28.03.2015
+746,70,11.07,3.9,Tatjana Pinto,GER,02.07.92,3rA,Clermont,18.04.2015
+747,70,11.07,2.1,Dezerea Bryant,USA,27.04.93,3h3,Eugene,25.06.2015
+748,70,11.07,3.0,Kelly-Ann Baptiste,TTO,14.10.86,1h1,Toronto,21.07.2015
+749,70,11.07,2.6,Morolake Akinosun,USA,17.05.94,3,Eugene,11.06.2016
+750,70,11.07,3.1,Candace Hill,USA,11.02.99,4s1,Eugene,03.07.2016
+751,70,11.07,3.5,Sydney McLaughlin,USA,07.08.99,2rA,Knoxville,14.04.2018
+752,70,11.07,2.2,Dezerea Bryant,USA,27.04.93,3s2,Des Moines,22.06.2018
+753,70,11.07,3.4,Kiara Grant,JAM,08.10.00,1h2,Greensboro,03.05.2019
+754,70,11.07,2.7,Rosemary Chukwuma,NGR,05.12.01,2,Lagos,17.06.2021
+755,70,11.07,2.7,Zoe Hobbs,NZL,11.09.97,1,Hastings,05.03.2022
+756,70,11.07,3.5,Maia McCoy,USA,09.12.96,6h1,Montverde,04.06.2022
+757,70,11.07,2.7,Shawnti Jackson,USA,02.05.05,1u2,Eugene,24.06.2022
+758,70,11.07,3.2,Mia Brahe-Pedersen,USA,28.11.05,1,Portland,28.04.2023
+759,70,11.07,3.8,Patrizia van der Weken,LUX,12.11.99,1h2,Savona,24.05.2023
+760,76,11.08A,2.7,Wyomia Tyus,USA,29.08.45,1q2,Ciudad de Méx,14.10.1968
+761,76,11.08,2.1,Linda Haglund,SWE,15.06.56,1,Stockholm,07.07.1981
+762,76,11.08,2.9,Kathy Cook,GBR,03.05.60,4,Zürich,24.08.1983
+763,76,11.08,3.8,Heather Oakes,GBR,14.08.59,1,Cwmbran,27.05.1984
+764,76,11.08,2.5,Evelyn Ashford,USA,15.04.57,1,Pomona,19.04.1986
+765,76,11.08,2.6,Diane Williams,USA,14.12.60,3s2,Eugene,20.06.1986
+766,76,11.08A,2.3,Gwen Torrence,USA,12.06.65,5,San José,27.06.1987
+767,76,11.08,2.8,Silke Möller,GER,20.06.64,2,Oslo,04.07.1987
+768,76,11.08,3.6,Kerstin Behrendt,GER,02.09.67,1,Dresden,15.08.1987
+769,76,11.08,2.5,Nadezhda Georgieva,BUL,02.09.61,2,Schwechat,15.06.1988
+770,76,11.08,2.7,Jennifer Inniss,USA,21.11.59,3h3,Indianapolis,16.07.1988
+771,76,11.08,3.3,Kerry Johnson,AUS,23.10.63,1,Sydney,02.12.1989
+772,76,11.08,3.3,Pauline Davis-Thompson,BAH,09.07.66,1,Jena,02.06.1991
+773,76,11.08A,3.8,Karen Botha,RSA,17.01.67,1,Krugersdorp,11.06.1992
+774,76,11.08,3.3,Mary Onyali,NGR,03.02.68,2,Villeneuve d',06.07.1992
+775,76,11.08,3.2,Cheryl Taplin,USA,02.09.72,1,Knoxville,16.05.1993
+776,76,11.08,4.2,Michelle Burrell,USA,08.05.65,3h2,Eugene,16.06.1993
+777,76,11.08,2.1,Merlene Ottey,JAM,10.05.60,1s1,Kingston,27.06.1996
+778,76,11.08,2.9,Marion Jones,USA,12.10.75,1,Torino,24.06.1997
+779,76,11.08,2.5,Cheryl Taplin,USA,02.09.72,4,Walnut,19.04.1998
+780,76,11.08,2.6,Chioma Ajunwa,NGR,25.12.70,1h,Kaohsiung,23.05.1998
+781,76,11.08,3.1,Angela Williams,USA,30.01.80,3,Walnut,18.04.1999
+782,76,11.08,2.6,Natalya Ignatova,RUS,03.01.74,1s1,Tula,23.07.2000
+783,76,11.08A,,Fana Ashby,TTO,15.06.81,1h3,Levelland,10.05.2003
+784,76,11.08,2.3,Angela Williams,USA,30.01.80,4,Carson,01.06.2003
+785,76,11.08,5.7,Ashley Owens,USA,19.11.85,3r1,Austin,09.04.2005
+786,76,11.08A,3.1,Antonette Carter,USA,16.02.84,3h1,Provo,26.05.2006
+787,76,11.08,2.2,Alexandra Anderson,USA,28.01.87,2h5,Eugene,27.06.2008
+788,76,11.08,3.2,Gloria Asumnu,USA,22.05.85,3h1,Eugene,25.06.2009
+789,76,11.08,2.5,Semoy Hackett,TTO,27.11.88,1r2,Baton Rouge,23.04.2011
+790,76,11.08,3.4,Jasmine Baldwin-Foss,USA,27.09.86,1rA,Walnut,04.06.2011
+791,76,11.08,2.7,Jessica Young,USA,06.04.87,7,Eugene,24.06.2011
+792,76,11.08,3.0,English Gardner,USA,22.04.92,1h3,Austin,23.05.2013
+793,76,11.08,3.6,Sherri-Ann Brooks,JAM,11.02.83,3rA,Edmonton,29.06.2013
+794,76,11.08,2.1,Myriam Soumaré,FRA,29.10.86,1,Reims,12.07.2014
+795,76,11.08,2.6,Barbara Pierre,USA,28.04.87,1,Madrid,19.07.2014
+796,76,11.08,2.6,Kerron Stewart,JAM,16.04.84,2,Madrid,19.07.2014
+797,76,11.08,2.1,Marie Josée Lou Gonerie,CIV,18.11.88,1,Dakar,23.05.2015
+798,76,11.08,3.0,Morolake Akinosun,USA,17.05.94,3h1,Eugene,25.06.2015
+799,76,11.08,4.5,Kimberlyn Duncan,USA,02.08.91,5h2,Eugene,25.06.2015
+800,76,11.08,2.3,Carina Horn,RSA,09.03.89,3h4,Beijing,23.08.2015
+801,76,11.08,2.4,Jenna Prandini,USA,20.11.92,4,Kingston,07.05.2016
+802,76,11.08,2.6,TyNia Gaither,BAH,16.03.93,4,Eugene,11.06.2016
+803,76,11.08,2.6,Jonielle Smith,JAM,30.01.96,1r1,Austin,15.04.2017
+804,76,11.08,3.7,Ashley Henderson,USA,04.12.95,1h5,Austin,25.05.2017
+805,76,11.08,2.8,Rosângela Santos,BRA,20.12.90,1h1,Asunción,23.06.2017
+806,76,11.08,2.3,Ka´tia Seymour,USA,03.10.97,2rA,Gainesville,29.03.2019
+807,76,11.08A,3.3,Twanisha Terry,USA,24.01.99,2u2,Queretaro,05.07.2019
+808,76,11.08,2.4,Kemba Nelson,JAM,23.02.00,1h2,Eugene,24.04.2021
+809,76,11.08,2.7,Maia McCoy,USA,09.12.96,3,College Stati,15.05.2021
+810,76,11.08,2.7,Tiana Wilson,USA,19.07.00,1h4,College Stati,27.05.2021
+811,76,11.08,2.8,Samirah Moody,USA,08.11.02,3r2,Austin,26.03.2022
+812,76,11.08,5.0,Maia McCoy,USA,09.12.96,2h4,Clermont,01.05.2022
+813,76,11.08,3.5,Natalliah Whyte,JAM,09.08.97,2h3,Montverde,04.06.2022
+814,76,11.08,2.8,Rosemary Chukwuma,NGR,05.12.01,1h3,Austin,31.03.2023
+815,76,11.08,4.5,Javianne Oliver,USA,26.12.94,2h1,Miramar,08.04.2023
+816,76,11.08,4.1,Jada Baylark,USA,17.10.97,4rA,Miramar,08.04.2023
+817,76,11.08,5.2,Niesha Burgher,JAM,08.08.02,1h1,Denton,13.05.2023
+818,76,11.08A,2.5,Rani Rosius,BEL,25.04.00,3,Nairobi,13.05.2023
+819,76,11.08,2.6,Kortnei Johnson,USA,11.08.97,1h4,Clermont,14.05.2023
+820,82,11.09,3.2,Marlies Göhr,GDR,21.03.58,1h3,Dresden,24.05.1980
+821,82,11.09,2.4,Bärbel Wöckel,GDR,21.03.55,1s1,Cottbus,16.07.1980
+822,82,11.09,2.3,Jarmila Kratochvílová,CZE,26.01.51,1,Praha,23.06.1981
+823,82,11.09,3.9,Gesine Walther,GDR,06.10.62,2s1,Dresden,01.07.1982
+824,82,11.09,2.7,Olga Antonova,RUS,16.02.60,1,Leningrad,26.07.1983
+825,82,11.09,,Angela Williams,USA,15.05.65,1,Nashville,14.04.1984
+826,82,11.09,,Wanda Fort,USA,63,2,Nashville,14.04.1984
+827,82,11.09,2.1,Anelia Nuneva,BUL,30.06.62,1,Stockholm,30.06.1987
+828,82,11.09A,3.0,Esther Jones,USA,07.04.69,2,San José,27.05.1989
+829,82,11.09,2.4,Carlette Guidry,USA,04.09.68,1,Kingston,02.05.1992
+830,82,11.09,2.1,Inger Miller,USA,12.06.72,2,Eugene,23.05.1992
+831,82,11.09,3.0,Evelyn Ashford,USA,15.04.57,1,Jena,28.05.1992
+832,82,11.09,3.5,Merlene Ottey,JAM,10.05.60,1h,Odessa,04.07.1992
+833,82,11.09A,2.8,Sheila Echols,USA,02.10.64,4,Sestriere,21.07.1992
+834,82,11.09,2.6,Gwen Torrence,USA,12.06.65,2s1,Eugene,16.06.1993
+835,82,11.09A,,Esther Jones,USA,07.04.69,1,El Paso,13.04.1994
+836,82,11.09,2.8,Chryste Gaines,USA,14.09.70,1s2,Eugene,31.05.1994
+837,82,11.09,2.8,Chandra Sturrup,BAH,12.09.71,1,Fort-de-Franc,01.05.1996
+838,82,11.09,2.2,Juliet Cuthbert,JAM,09.04.64,2,Rieti,01.09.1996
+839,82,11.09,3.2,Sevatheda Fynes,BAH,17.10.74,1,Knoxville,11.04.1997
+840,82,11.09,4.1,Benita Kelley,USA,15.09.75,1h2,Champaign,24.05.1997
+841,82,11.09,2.1,Debbie Ferguson-McKenzie,BAH,16.01.76,1,Gainesville,24.05.1998
+842,82,11.09,2.1,Peta-Gaye Dowdie,JAM,18.01.77,2,Gainesville,24.05.1998
+843,82,11.09,2.1,Inger Miller,USA,12.06.72,4,Eugene,31.05.1998
+844,82,11.09,2.6,Torri Edwards,USA,31.01.77,2,Eugene,24.06.2000
+845,82,11.09,2.2,Torri Edwards,USA,31.01.77,5rA,Stockholm,01.08.2000
+846,82,11.09,2.2,Inger Miller,USA,12.06.72,6rA,Stockholm,01.08.2000
+847,82,11.09,2.2,Debbie Ferguson-McKenzie,BAH,16.01.76,7rA,Stockholm,01.08.2000
+848,82,11.09,2.5,Angela Williams,USA,30.01.80,1,Modesto,12.05.2001
+849,82,11.09,2.4,Inger Miller,USA,12.06.72,1h3,Eugene,21.06.2001
+850,82,11.09,3.5,Torri Edwards,USA,31.01.77,3,Eugene,22.06.2001
+851,82,11.09,3.1,Frédérique Bangué,FRA,31.12.76,1,Montauban,17.07.2001
+852,82,11.09,3.4,Torri Edwards,USA,31.01.77,1h1,Fort-de-Franc,26.04.2003
+853,82,11.09,2.1,Angela Daigle,USA,28.05.76,2s2,Carson,25.06.2005
+854,82,11.09,2.4,Yuliya Nesterenko,BLR,15.06.79,2,Sheffield,21.08.2005
+855,82,11.09A,2.6,Carol Rodriguez,PUR,16.12.85,1,Provo,27.05.2006
+856,82,11.09,2.7,Yevgeniya Polyakova,RUS,29.05.83,1,Zhukovskiy,09.06.2007
+857,82,11.09,4.5,Laura Turner,GBR,12.08.82,1,Budapest,07.07.2007
+858,82,11.09,3.2,Bianca Knight,USA,02.01.89,5s1,Eugene,28.06.2008
+859,82,11.09,2.3,Veronica Campbell-Brown,JAM,16.05.82,1h1,Clermont,23.05.2009
+860,82,11.09,2.9,Tiffany Townsend,USA,24.06.89,4r3,Austin,09.04.2011
+861,82,11.09,2.5,Murielle Ahouré,CIV,23.08.87,2r2,Baton Rouge,23.04.2011
+862,82,11.09,2.4,Debbie Ferguson-McKenzie,BAH,16.01.76,1rB,Clermont,21.05.2011
+863,82,11.09,4.2,Aleksandra Fedoriva,RUS,13.09.88,1,Yerino,04.06.2011
+864,82,11.09,3.0,Chelsea Hayes,USA,02.02.88,2rA,Austin,31.03.2012
+865,82,11.09,5.9,Tameka Williams,SKN,31.08.89,4r1,Austin,14.04.2012
+866,82,11.09,3.7,Chastity Riggien,USA,05.07.89,1,Clemson,05.05.2012
+867,82,11.09,4.8,Janet Amponsah,GHA,12.04.93,1rA,Lubbock,03.05.2014
+868,82,11.09,4.8,Cierra White,USA,29.04.93,2rA,Lubbock,03.05.2014
+869,82,11.09,3.9,Charonda Williams,USA,27.03.87,4rA,Clermont,18.04.2015
+870,82,11.09,3.0,Khamica Bingham,CAN,15.06.94,1rA,Windsor,23.05.2015
+871,82,11.09,2.4,Candyce McGrone,USA,24.03.89,1,Montverde,06.06.2015
+872,82,11.09,4.6,Charonda Williams,USA,27.03.87,3r1,Clermont,15.04.2017
+873,82,11.09,2.2,Marie-Josée Ta Lou,CIV,18.11.88,1,Dakar,22.04.2017
+874,82,11.09,3.7,Jada Baylark,USA,17.10.97,4r2,Austin,31.03.2018
+875,82,11.09,2.2,Shania Collins,USA,14.11.96,4s2,Des Moines,22.06.2018
+876,82,11.09,2.9,Vitoria Cristina Rosa,BRA,12.01.96,1,Chula Vista,25.04.2021
+877,82,11.09,2.6,Tianna Bartoletta,USA,30.08.85,6s1,Eugene,19.06.2021
+878,82,11.09,2.5,Rebekka Haase,GER,02.01.93,1r2,Mannheim,25.06.2021
+879,82,11.09,3.0,Anglerne Annelus,USA,10.01.97,6h2,Walnut,16.04.2022
+880,82,11.09,2.4,Kynnedy Flannel,USA,12.07.00,2h3,Lubbock,14.05.2022
+881,82,11.09,2.6,Micayah Holland,USA,06.11.04,1h4,Montverde,04.06.2022
+882,82,11.09,4.8,Aminatou Seyni,NIG,24.10.96,2,Saint Pierre,09.06.2022
+883,82,11.09,2.7,Mia Brahe-Pedersen,USA,28.11.05,2u2,Eugene,24.06.2022
+884,82,11.09,3.8,Asha Phillip,GBR,25.10.90,4,Manchester,25.06.2022
+885,82,11.09,4.5,Mélissa Gutschmidt,SUI,07.01.02,1rB,La Chaux-de-F,03.07.2022
+886,82,11.09,3.3,Liang Xiaojing,CHN,07.04.97,1r3,Coral Gables,18.03.2023
+887,82,11.09,2.8,English Gardner,USA,22.04.92,2h3,Miramar,08.04.2023
+888,82,11.09,4.5,Jada Baylark,USA,17.10.97,3h1,Miramar,08.04.2023
+889,82,11.09,4.1,Destiny Smith-Barnett,USA,26.07.96,5rA,Miramar,08.04.2023
+890,82,11.09,2.2,Jadyn Mays,USA,02.04.02,3r3,Walnut,15.04.2023
+891,82,11.09A,2.5,Bassant Hemida,EGY,28.09.96,4,Nairobi,13.05.2023
+892,82,11.09A,2.5,Gina Bass,GAM,03.05.95,5,Nairobi,13.05.2023
+893,82,11.09,2.4,Murielle Ahouré,CIV,23.08.87,1h2,Clermont,14.05.2023
+894,82,11.09,5.6,Divonne Franklin,USA,18.02.00,1,Pueblo,27.05.2023

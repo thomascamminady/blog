@@ -1,0 +1,415 @@
+,0,1,2,3,4,5,6,7
+0,1,5:10.68,Mahiédine Mekhissi-Benabbad,FRA,15.03.85,1,Reims,30.06.2010
+1,2,5:13.47,Bouabdellah Tahri,FRA,20.12.78,1,Tomblaine,25.06.2010
+2,3,5:14.06,Soufiane El Bakkali,MAR,07.01.96,1,Zagreb,11.09.2022
+3,4,5:14.43,Julius Kariuki,KEN,12.06.61,1,Rovereto,21.08.1990
+4,5,5:14.53,Saif Saeed Shaheen,QAT,15.10.82,1,Ad-Dawhah,13.05.2005
+5,6,5:15.36,Bouabdellah Tahri,FRA,20.12.78,1,Tomblaine,26.06.2009
+6,7,5:15.96,Bouabdellah Tahri,FRA,20.12.78,1,Tomblaine,19.06.2002
+7,8,5:16.22,Philip Barkutwo,KEN,06.10.66,2,Rovereto,21.08.1990
+8,9,5:16.46,Wesley Kiprotich,KEN,08.01.79,2,Ad-Dawhah,13.05.2005
+9,10,5:16.85,Eliud Barngetuny,KEN,20.05.73,1,Parma,13.06.1995
+10,11,5:17.19,Bouabdellah Tahri,FRA,20.12.78,1,Strasbourg,28.06.2007
+11,12,5:18.28,Richard Kosgei,KEN,29.12.70,2,Parma,13.06.1995
+12,13,5:18.36,Alessandro Lambruschini,ITA,07.01.65,1,Verona,12.09.1989
+13,14,5:18.38,Azzedine Brahmi,ALG,13.09.66,1,Verona,17.06.1992
+14,15,5:18.51,John Langat,KEN,27.11.74,1,Rovereto,29.08.2001
+15,16,5:18.60,Stanley Kibiwott,KEN,08.08.69,2,Rovereto,29.08.2001
+16,17,5:18.61,John Langat,KEN,27.11.74,1,Padova,26.08.2001
+17,18,5:18.65,Antonio David Jiménez,ESP,18.02.77,1,Huelva,07.06.2005
+18,19,5:18.67,Eliud Barngetuny,KEN,20.05.73,1,Rovereto,23.08.1995
+19,19,5:18.67,Benjamin Kigen,KEN,05.07.93,1,Andújar,02.06.2017
+20,21,5:18.68,Alessandro Lambruschini,ITA,07.01.65,3,Rovereto,21.08.1990
+21,22,5:18.88,Alessandro Lambruschini,ITA,07.01.65,1,Parma,23.07.1992
+22,23,5:19.05,Richard Kosgei,KEN,29.12.70,2,Rovereto,23.08.1995
+23,24,5:19.21,Joseph Keter,KEN,13.06.69,3,Rovereto,23.08.1995
+24,25,5:19.33,Bouabdellah Tahri,FRA,20.12.78,1,Nancy,02.09.2001
+25,26,5:19.44,Alessandro Lambruschini,ITA,07.01.65,2,Verona,17.06.1992
+26,27,5:19.68,Samson Obwocha,KEN,07.10.54,1,Birmingham,19.07.1986
+27,28,5:19.78,Paul Kosgei,KEN,22.04.78,1,La Spezia,20.06.1998
+28,29,5:19.86,Mark Rowland,GBR,07.03.63,1,London,28.08.1988
+29,30,5:19.96,Roba Gari,ETH,12.04.82,1,Herrera,19.05.2007
+30,31,5:19.99,Meresa Kassaye,ETH,23.05.96,1,Donetsk,12.07.2013
+31,32,5:20.00,Krzysztof Wesolowski,POL,09.12.56,1,Oslo,28.06.1984
+32,32,5:20.00+,Lawrence Kemboi,KEN,15.06.93,1,Ad-Dawhah,06.05.2016
+33,34,5:20.07,Antonio David Jiménez,ESP,18.02.77,1,Andújar,05.09.2001
+34,35,5:20.12,Luciano Di Pardo,ITA,03.02.75,2,La Spezia,20.06.1998
+35,36,5:20.13,Kamal Ali Thamer,QAT,12.11.88,2,Reims,30.06.2010
+36,37,5:20.25,Julius Korir,KEN,21.04.60,2,Birmingham,19.07.1986
+37,38,5:20.38,Matthew Birir,KEN,05.07.72,1,Padova,07.07.1996
+38,39,5:20.42,Laïd Bessou,ALG,05.02.76,1,Padova,27.08.2000
+39,40,5:20.44,Ronald Kipchumba Rutto,KEN,08.10.87,3,Ad-Dawhah,13.05.2005
+40,41,5:20.52,Luis Miguel Martín,ESP,11.01.72,1,La Laguña,14.09.2002
+41,42,5:20.56,Mark Rowland,GBR,07.03.63,1,Gateshead,17.08.1990
+42,43,5:20.60,Stanley Kibiwott,KEN,08.08.69,2,Padova,26.08.2001
+43,44,5:20.81,Boguslaw Maminski,POL,18.12.55,2,Oslo,28.06.1984
+44,45,5:20.92,Nicholas Bett,KEN,20.12.96,2,Donetsk,12.07.2013
+45,46,5:21.13,Lotfi Türki,TUN,06.03.75,2,Padova,27.08.2000
+46,47,5:21.14,Azzedine Brahmi,ALG,13.09.66,1,Caserta,11.06.1992
+47,48,5:21.2,Eshetu Tura,ETH,19.01.50,1,Montréal,14.07.1976
+48,49,5:21.23,Angelo Carosi,ITA,20.01.64,4,Rovereto,21.08.1990
+49,50,5:21.26,Benson Koech,KEN,10.11.74,3,Padova,26.08.2001
+50,51,5:21.36,Nabil Ouhadi,MAR,18.08.89,1,Rabat,16.07.2006
+51,52,5:21.45,Julius Kariuki,KEN,12.06.61,2,Gateshead,17.08.1990
+52,53,5:21.49,Julius Kariuki,KEN,12.06.61,4,Rovereto,23.08.1995
+53,54,5:21.77,Tom Hanlon,GBR,20.05.67,1,Caserta,11.06.1992
+54,55,5:21.94,Alessandro Lambruschini,ITA,07.01.65,2,Padova,07.07.1996
+55,56,5:21.96,Farley Gerber,USA,25.04.60,3,Oslo,28.06.1984
+56,57,5:21.97,Graeme Fell,CAN,19.03.59,1,Auckland,20.01.1990
+57,57,5:21.97,Paul Kosgei,KEN,22.04.78,1,Formia,12.07.1998
+58,59,5:22.10,Barnabas Kipyego,KEN,12.06.95,2,Andújar,02.06.2017
+59,60,5:22.2,Yohannes Mohamed,ETH,21.01.48,2,Montréal,14.07.1976
+60,60,5:22.2,Mariano Scartezzini,ITA,07.11.54,1,Udine,20.09.1981
+61,62,5:22.24,William van Dijck,BEL,24.01.61,1,Hechtel,08.08.1987
+62,63,5:22.32,Miroslaw Zerkowski,POL,20.08.56,1,Formia,08.07.1991
+63,64,5:22.35,Julius Kariuki,KEN,12.06.61,1,Gateshead,09.08.1991
+64,65,5:22.37,Mark Rowland,GBR,07.03.63,1,Sheffield,16.09.1990
+65,66,5:22.52,Samson Obwocha,KEN,07.10.54,1,Birmingham,19.08.1986
+66,67,5:22.62,Philip Barkutwo,KEN,06.10.66,3,Gateshead,17.08.1990
+67,68,5:22.93,Eliseo Martín,ESP,05.11.73,2,Andújar,05.09.2001
+68,69,5:22.96,Tom Hanlon,GBR,20.05.67,2,Sheffield,16.09.1990
+69,70,5:22.97,Tim Broe,USA,20.06.77,4,Padova,26.08.2001
+70,71,5:23.02,Abdelkader Hachlaf,MAR,03.07.79,2,Herrera,19.05.2007
+71,72,5:23.04,José Luis Blanco,ESP,03.06.75,1,Barcelona,11.07.2003
+72,73,5:23.14,Abdelaziz Sahere,MAR,18.09.67,1,Padova,08.06.1997
+73,74,5:23.15,Leonardo Feletto,ITA,26.06.95,2,Zagreb,11.09.2022
+74,75,5:23.49,Matthew Birir,KEN,05.07.72,2,Caserta,11.06.1992
+75,76,5:23.51,Alessandro Lambruschini,ITA,07.01.65,1,Rovereto,26.08.1998
+76,77,5:23.56,Tom Buckner,GBR,16.04.63,1,Gateshead,17.07.1992
+77,78,5:23.6,Roger Hackney,GBR,02.09.57,1,Birmingham,10.06.1982
+78,79,5:23.68,Elijah Chelimo,KEN,10.03.84,3,Herrera,19.05.2007
+79,80,5:23.71,Colin Walker,GBR,29.10.62,2,London,28.08.1988
+80,81,5:23.87,Colin Reitz,GBR,06.04.60,4,Oslo,28.06.1984
+81,82,5:23.91,Philip Barkutwo,KEN,06.10.66,2,Gateshead,17.07.1992
+82,83,5:23.93,Angelo Carosi,ITA,20.01.64,5,Rovereto,23.08.1995
+83,84,5:24.06,Peter Renner,NZL,27.10.59,3,Birmingham,19.07.1986
+84,85,5:24.11,William Mutwol,KEN,10.10.67,3,Sheffield,16.09.1990
+85,86,5:24.12,Bernard Barmasai,KEN,06.05.74,1,Kerkrade,24.05.1998
+86,87,5:24.18,Jorge Bello,ESP,28.03.63,1,Barcelona,16.08.1986
+87,88,5:24.19,Bélá Vágó,HUN,03.10.63,2,Formia,08.07.1991
+88,89,5:24.39,José Luis Blanco,ESP,03.06.75,1,Barcelona,09.07.2004
+89,90,5:24.41,Colin Walker,GBR,29.10.62,2,Auckland,20.01.1990
+90,91,5:24.43,José Luis Blanco,ESP,03.06.75,3,Andújar,05.09.2001
+91,92,5:24.47,Stefano Ciallella,ITA,22.04.74,3,La Spezia,20.06.1998
+92,93,5:24.54,William van Dijck,BEL,24.01.61,2,Verona,12.09.1989
+93,94,5:24.64,Joshua Kipkemboi,KEN,22.02.59,2,Birmingham,19.08.1986
+94,95,5:24.69,Abel Mutai,KEN,02.10.88,1,Marrakesh,15.07.2005
+95,96,5:24.75,Richard Kosgei,KEN,29.12.70,1,Rovereto,24.07.1994
+96,97,5:24.79,Eliseo Martín,ESP,05.11.73,2,Huelva,07.06.2005
+97,98,5:24.84,Lawrence Kemboi,KEN,15.06.93,1,Monaco,12.07.2019
+98,99,5:24.87,Bisluke Kiplagat Kipkorir,KEN,08.08.88,2,Marrakesh,15.07.2005
+99,10,5:24.91,Eddie Wedderburn,GBR,07.01.60,3,Birmingham,19.08.1986
+100,10,5:24.91,Philip Barkutwo,KEN,06.10.66,2,Gateshead,09.08.1991
+101,10,5:24.92,Pascal Dobert,USA,27.10.73,2,Rovereto,26.08.1998
+102,10,5:24.93,Abderrahmane Daas,ALG,08.12.73,2,Formia,12.07.1998
+103,10,5:24.99,Gabor Markó,HUN,07.02.60,5,Oslo,28.06.1984
+104,10,5:25.01,Arsenios Tsiminos,GRE,19.01.61,1,Athínai,02.10.1980
+105,10,5:25.01,Issac Updike,USA,21.03.92,1,Princeton,14.05.2022
+106,10,5:25.1,Abraham Kibiwot,KEN,06.04.96,2,Monaco,12.07.2019
+107,10,5:25.12,Mitko Tsenov,BUL,13.06.93,1,Sofia,20.05.2015
+108,10,5:25.14,Clodoaldo Lopes do Carmo,BRA,27.04.68,3,Verona,17.06.1992
+109,11,5:25.16,Manuel Silva,POR,08.10.78,2,Barcelona,09.07.2004
+110,11,5:25.17,John Kosgei,KEN,13.07.72,2,Parma,23.07.1992
+111,11,5:25.25,Abraham Cherono,KEN,21.07.80,3,Padova,27.08.2000
+112,11,5:25.25,José Luis Blanco,ESP,03.06.75,3,Huelva,07.06.2005
+113,11,5:25.26,Mário Teixeira,POR,20.09.74,3,Barcelona,09.07.2004
+114,11,5:25.31,Eliud Barngetuny,KEN,20.05.73,1,Caserta,06.06.1993
+115,11,5:25.33,Hillary Kipsang Yego,KEN,02.04.92,1,Bressanone,12.07.2009
+116,11,5:25.35,Julius Korir,KEN,21.04.60,1,Madrid,20.06.1986
+117,11,5:25.4,Hillary Bor,USA,22.11.89,3,Monaco,12.07.2019
+118,11,5:25.41,Paul Kosgei,KEN,22.04.78,2,Kerkrade,24.05.1998
+119,11,5:25.41,Giuseppe Maffei,ITA,28.01.74,3,Rovereto,26.08.1998
+120,12,5:25.47,Julius Nyamu,KEN,01.12.77,1,Naimette-X,02.09.2003
+121,12,5:25.50,Alessandro Lambruschini,ITA,07.01.65,2,Rovereto,24.07.1994
+122,12,5:25.51,Jonathan Kandie,KEN,20.12.67,4,Rovereto,26.08.1998
+123,12,5:25.55,Micah Boinett,KEN,19.12.65,1,Padova,30.08.1992
+124,12,5:25.55,Marc Ostendarp,GER,24.01.73,5,Rovereto,26.08.1998
+125,12,5:25.57,Patrick Sang,KEN,11.04.64,3,Kerkrade,24.05.1998
+126,12,5:25.62,Francesco Panetta,ITA,10.01.63,3,Formia,08.07.1991
+127,12,5:25.64,David Chemweno,KEN,18.12.81,4,Herrera,19.05.2007
+128,12,5:25.64,Karl Bebendorf,GER,07.05.96,1,Dessau-Roß,21.05.2021
+129,13,5:25.65,Richard Kosgei,KEN,29.12.70,2,Caserta,06.06.1993
+130,13,5:25.67,Peter Renner,NZL,27.10.59,3,Auckland,20.01.1990
+131,13,5:25.69,Marcelo Cascabelo,ARG,06.02.64,4,Verona,17.06.1992
+132,13,5:25.69,Gaël Pencréach,FRA,05.08.77,1,Châlon-sur,15.06.2000
+133,13,5:25.69,Lamecha Girma,ETH,26.11.00,1,Rabat,05.06.2022
+134,13,5:25.7,Benjamin Kigen,KEN,05.07.93,4,Monaco,12.07.2019
+135,13,5:25.70,Bernard Nganga,KEN,17.01.85,2,Tomblaine,25.06.2010
+136,13,5:25.76,Ivan Huff,USA,31.07.59,4,Birmingham,19.08.1986
+137,13,5:25.8,Patriz Ilg,FRG,05.12.57,1,Emmendinge,13.07.1985
+138,13,5:25.8,Patriz Ilg,FRG,05.12.57,1,Emmendinge,19.07.1985
+139,14,5:25.86,Czeslaw Mojzysz,POL,03.08.58,1,London,26.08.1985
+140,14,5:25.9,Getnet Wale,ETH,16.07.00,5,Monaco,12.07.2019
+141,14,5:26.0,Soufiane El Bakkali,MAR,07.01.96,6,Monaco,12.07.2019
+142,14,5:26.08,Simon Vroemen,NED,11.05.69,2,La Laguña,14.09.2002
+143,14,5:26.08,Kipkirui Misoi,KEN,23.12.78,2,Naimette-X,02.09.2003
+144,14,5:26.10,Gaël Pencréach,FRA,05.08.77,1,Nancy,03.09.2000
+145,14,5:26.10,Simon Vroemen,NED,11.05.69,1,Gold Coast,17.09.2000
+146,14,5:26.12,Kelly Jensen,USA,01.07.54,6,Oslo,28.06.1984
+147,14,5:26.17,Mauro Pregnolato,ITA,21.10.64,4,Formia,08.07.1991
+148,14,5:26.18,Matthew Birir,KEN,05.07.72,4,Kerkrade,24.05.1998
+149,14,5:26.18,Jim Svenøy,NOR,22.04.72,1,Elnesvågen,24.05.1999
+150,15,5:26.24,Paul Davies-Hale,GBR,21.06.62,2,London,26.08.1985
+151,15,5:26.35,Boguslaw Maminski,POL,18.12.55,5,Birmingham,19.08.1986
+152,15,5:26.36A,Gideon Chirchir,KEN,24.02.66,1,Johannesbu,24.09.1995
+153,15,5:26.4,Ángel Mullera,ESP,20.04.84,1,Lloret de,28.06.2011
+154,15,5:26.4,Leonard Bett,KEN,03.11.00,7,Monaco,12.07.2019
+155,15,5:26.46,Ruben Ramolefi,RSA,17.07.78,3,Reims,30.06.2010
+156,15,5:26.48,Roger Hackney,GBR,02.09.57,1,Gateshead,09.08.1985
+157,15,5:26.50,Samuel Chepkok,KEN,18.11.77,3,Formia,12.07.1998
+158,15,5:26.52,Abdelghani Aït Bahmad,MAR,28.07.89,3,Marrakesh,15.07.2005
+159,16,5:26.59,Peter Kibet Langat,KEN,26.05.92,2,Bressanone,12.07.2009
+160,16,5:26.60,Youcef Abdi,AUS,07.12.77,2,Strasbourg,28.06.2007
+161,16,5:26.62,Tom Hanlon,GBR,20.05.67,1,Gateshead,14.08.1988
+162,16,5:26.63,Bernard Nganga,KEN,17.01.85,2,Tomblaine,26.06.2009
+163,16,5:26.64,Nick Peach,GBR,18.10.59,6,Birmingham,19.08.1986
+164,16,5:26.69,Kipkirui Misoi,KEN,23.12.78,2,Nancy,03.09.2000
+165,16,5:26.7,Takele Nigate,ETH,02.10.99,8,Monaco,12.07.2019
+166,16,5:26.7,Albert Chemutai,UGA,25.11.99,9,Monaco,12.07.2019
+167,16,5:26.71,Philip Tarus,KEN,11.09.74,3,Rovereto,29.08.2001
+168,16,5:26.75,Bernard Barmasai,KEN,06.05.74,3,Rovereto,24.07.1994
+169,17,5:26.76,Roger Hackney,GBR,02.09.57,3,London,26.08.1985
+170,17,5:26.78,Fernando Carro,ESP,01.04.92,1,Barcelona,22.09.2020
+171,17,5:26.8,Alessandro Lambruschini,ITA,07.01.65,1,Caravaggio,04.06.1986
+172,17,5:26.82,David Lewis,GBR,15.10.61,1,Loughbouro,12.06.1983
+173,17,5:26.85,Nikolay Chavkin,RUS,24.04.84,1,Moskva,17.07.2014
+174,17,5:26.90,Philip Tarus,KEN,11.09.74,5,Padova,26.08.2001
+175,17,5:26.91,William Battershill,GBR,25.02.98,3,Zagreb,11.09.2022
+176,17,5:26.93,Emil Blomberg,SWE,09.04.92,4,Zagreb,11.09.2022
+177,17,5:26.96A,Eliud Barngetuny,KEN,20.05.73,2,Johannesbu,24.09.1995
+178,17,5:26.99,Eliud Barngetuny,KEN,20.05.73,2,Padova,08.06.1997
+179,18,5:27.01,Bisluke Kiplagat,KEN,08.08.88,3,Tomblaine,25.06.2010
+180,18,5:27.08,Richard Kosgei,KEN,29.12.70,1,Caserta,27.05.1995
+181,18,5:27.1,Fernando Carro,ESP,01.04.92,1,Monaco,12.07.2019
+182,18,5:27.12,Antonio David Jiménez,ESP,18.02.77,1,Rivas,08.06.2006
+183,18,5:27.15,Ivan Huff,USA,31.07.59,4,Birmingham,19.07.1986
+184,18,5:27.17A,Vincent Kipyegon,KEN,31.12.98,1,Nairobi,17.06.2015
+185,18,5:27.18,Travis Mahoney,USA,25.07.90,2,Princeton,14.05.2022
+186,18,5:27.22,Boguslaw Maminski,POL,18.12.55,3,Verona,12.09.1989
+187,18,5:27.27,Julius Kariuki,KEN,12.06.61,1,Padova,29.08.1993
+188,18,5:27.44,Gaetano Erba,ITA,02.01.60,1,Bydgoszcz,18.08.1979
+189,19,5:27.46,Bélá Vágó,HUN,03.10.63,2,Gateshead,14.08.1988
+190,19,5:27.5,Nicholas Bett,KEN,20.12.96,1,Monaco,12.07.2019
+191,19,5:27.51,Graeme Fell,CAN,19.03.59,1,Gateshead,05.08.1986
+192,19,5:27.55,Julius Kariuki,KEN,12.06.61,1,Gateshead,16.07.1988
+193,19,5:27.58A,Vincent Kipyegon,KEN,31.12.98,1,Cali,19.07.2015
+194,19,5:27.6,Djilali Bedrani,FRA,01.10.93,1,Monaco,12.07.2019
+195,19,5:27.62,Domingo Ramón,ESP,10.03.58,1,Granada,16.05.1987
+196,19,5:27.63,Simon Ayeko,UGA,10.05.87,4,Tomblaine,25.06.2010
+197,19,5:27.65,James Manyur,KEN,25.02.80,1,Alicante,22.04.2006
+198,19,5:27.66,Brahim Taleb,MAR,16.02.85,2,Alicante,22.04.2006
+199,20,5:27.75,Graeme Fell,CAN,19.03.59,7,Birmingham,19.08.1986
+200,20,5:27.8,Luciano Di Pardo,ITA,03.02.75,1,Cambobasso,03.09.1996
+201,20,5:27.83,Julius Chelule,KEN,25.12.78,5,Kerkrade,24.05.1998
+202,20,5:27.86,Damian Kallabis,GER,10.06.73,2,Gold Coast,17.09.2000
+203,20,5:27.89,Nikolay Matyushenko,UKR,04.01.66,1,Ostrava,29.07.1989
+204,20,5:27.89,Eliud Barngetuny,KEN,20.05.73,2,Caserta,27.05.1995
+205,20,5:27.89,Luciano Di Pardo,ITA,03.02.75,4,Rovereto,29.08.2001
+206,20,5:27.9,Matthew Hughes,CAN,03.08.89,1,Monaco,12.07.2019
+207,20,5:27.91,Peter Koech,KEN,18.02.58,1,Västerås,30.06.1988
+208,20,5:27.93,Mitko Tsenov,BUL,13.06.93,2,Dessau-Roß,21.05.2021
+209,21,5:27.99,Ivan Konovalov,RUS,06.07.59,1,Sochi,27.05.1990
+210,21,5:28.00,Marcel Laros,NED,10.10.71,1,Arnsberg,12.05.1996
+211,21,5:28.04,Peter Renner,NZL,27.10.59,2,Gateshead,05.08.1986
+212,21,5:28.04,Alessandro Lambruschini,ITA,07.01.65,3,Padova,08.06.1997
+213,21,5:28.07,Daniel Arce,ESP,22.04.92,2,Barcelona,22.09.2020
+214,21,5:28.11,Colin Walker,GBR,29.10.62,8,Birmingham,19.08.1986
+215,21,5:28.14,Frank Baumgartl,GDR,29.05.55,1,Duisburg,26.08.1973
+216,21,5:28.14,Frank Baumgartl,GDR,29.05.55,1,Duisburg,26.08.1973
+217,21,5:28.14,Colin Walker,GBR,29.10.62,4,Gateshead,17.08.1990
+218,21,5:28.14,James Manyur,KEN,25.02.80,1,Alfas del,16.04.2006
+219,21,5:28.14,Edward Trippas,AUS,22.09.98,3,Princeton,14.05.2022
+220,22,5:28.15,Nikolay Matyushenko,UKR,04.01.66,1,Debrecen,18.08.1984
+221,22,5:28.2A,Vincent Kipyegon,KEN,31.12.98,1,Nairobi,01.04.2015
+222,22,5:28.2,Mohamed Tindouft,MAR,12.03.93,1,Monaco,12.07.2019
+223,22,5:28.22,Angelo Iannelli,ITA,27.07.76,5,Rovereto,29.08.2001
+224,22,5:28.22,Abdelgafour El Asri,MAR,20.06.79,3,Alicante,22.04.2006
+225,22,5:28.24,Boguslaw Maminski,POL,18.12.55,5,Formia,08.07.1991
+226,22,5:28.31,Nikolay Matyushenko,UKR,04.01.66,1,Cottbus,24.08.1985
+227,22,5:28.31A,Bernard Barmasai,KEN,06.05.74,3,Johannesbu,24.09.1995
+228,22,5:28.33,Mark Coogan,USA,01.05.66,3,Gateshead,17.07.1992
+229,23,5:28.34,Tom Hanlon,GBR,20.05.67,1,Gateshead,13.06.1987
+230,23,5:28.36,Vladimir Kanev,BUL,06.02.54,2,Duisburg,26.08.1973
+231,23,5:28.36,Peter Renner,NZL,27.10.59,2,Gateshead,09.08.1985
+232,23,5:28.39,Peter Renner,NZL,27.10.59,9,Birmingham,19.08.1986
+233,23,5:28.41,Velten Schneider,GER,21.08.99,5,Zagreb,11.09.2022
+234,23,5:28.45,Francisco Javier Munuera,ESP,07.07.72,2,Barcelona,11.07.2003
+235,23,5:28.48,Laïd Bessou,ALG,05.02.76,6,Rovereto,29.08.2001
+236,23,5:28.49,Vasiliy Koromyslov,RUS,15.05.57,1,Sochi,27.05.1990
+237,23,5:28.50,André Pereira,POR,10.08.95,1,Lisboa,08.08.2020
+238,23,5:28.52A,Leonard Bett,KEN,03.11.00,1,Nairobi,14.06.2017
+239,24,5:28.56,Juan Azkueta,ESP,02.07.67,1,Athínai,20.07.1986
+240,24,5:28.56,John Langat,KEN,27.11.74,4,Naimette-X,02.09.2003
+241,24,5:28.56,Alexander Greaux,PUR,22.09.77,4,Huelva,07.06.2005
+242,24,5:28.58,Krijn Van Koolwijk,BEL,30.08.81,4,Ad-Dawhah,13.05.2005
+243,24,5:28.6,Graeme Fell,CAN,19.03.59,1,Abbotsford,25.07.1987
+244,24,5:28.60,Joseph Chelelgo,KEN,24.04.63,2,Västerås,30.06.1988
+245,24,5:28.65,Conseslus Kipruto,KEN,08.12.94,1,Villeneuve,08.07.2011
+246,24,5:28.7,Rainer Schwarz,FRG,05.06.59,1,Emmendinge,18.07.1986
+247,24,5:28.7,Rainer Schwarz,FRG,05.06.59,1,Emmendinge,18.07.1986
+248,24,5:28.70,Colin Walker,GBR,29.10.62,5,Birmingham,19.07.1986
+249,24,5:28.70,Simon Sundström,SWE,04.02.98,6,Zagreb,11.09.2022
+250,25,5:28.71,Patriz Ilg,FRG,05.12.57,1,Berlin,16.05.1987
+251,25,5:28.74,Domencio D'Ambrosio,ITA,18.07.75,4,Padova,08.06.1997
+252,25,5:28.75,Boguslaw Maminski,POL,18.12.55,2,Madrid,20.06.1986
+253,25,5:28.75,Gianni Crepaldi,ITA,19.10.68,3,Parma,23.07.1992
+254,25,5:28.78,Vincent Le Dauphin,FRA,28.06.76,1,Pliezhause,12.05.2002
+255,25,5:28.78,Justus Kiprono Kipchirchir,KEN,28.02.87,5,Naimette-X,02.09.2003
+256,25,5:28.8,Henry Rono,KEN,12.02.52,3,Montréal,14.07.1976
+257,25,5:28.82,Tom Nohilly,USA,27.04.66,1,Reims,03.07.1992
+258,25,5:28.84,Kim Bergdahl,FIN,05.03.78,4,Barcelona,09.07.2004
+259,26,5:28.87,Simon Ayeko,UGA,10.05.87,3,Tomblaine,26.06.2009
+260,26,5:28.90,Angelo Iannelli,ITA,27.07.76,6,Padova,26.08.2001
+261,26,5:28.91,Michael Heist,GER,02.05.65,2,Berlin,16.05.1987
+262,26,5:28.92,Fernando Serrâo,POR,08.04.93,2,Lisboa,08.08.2020
+263,26,5:28.97,Angelo Carosi,ITA,20.01.64,4,Padova,27.08.2000
+264,26,5:28.97,Bisluke Kiplagat,KEN,08.08.88,5,Herrera,19.05.2007
+265,26,5:29.02,Richard Kosgei,KEN,29.12.70,1,San Marino,04.07.1992
+266,26,5:29.04,Sebastián Martos,ESP,20.06.89,3,Andújar,02.06.2017
+267,26,5:29.05,Fernando Carro,ESP,01.04.92,4,Andújar,02.06.2017
+268,26,5:29.1,Torsten Tiller,FRG,27.02.62,2,Emmendinge,13.07.1985
+269,26,5:29.1,Torsten Tiller,FRG,27.02.62,2,Emmendinge,19.07.1985
+270,26,5:29.1A,Vincent Kipyegon,KEN,31.12.98,1,Nairobi,17.06.2015
+271,27,5:29.11,Nick Peach,GBR,18.10.59,3,Gateshead,05.08.1986
+272,27,5:29.11,Stefano Ciallella,ITA,22.04.74,7,Rovereto,29.08.2001
+273,27,5:29.11,Yasunari Kusu,JPN,21.08.93,1,Kobe,24.04.2022
+274,27,5:29.13,Tom Erling Kårbø,NOR,04.02.89,7,Zagreb,11.09.2022
+275,27,5:29.15,Eliud Barngetuny,KEN,20.05.73,2,Padova,29.08.1993
+276,27,5:29.16,Andreas Fischer,GER,11.04.68,1,Koblenz,20.05.1992
+277,27,5:29.19,Patrick Sang,KEN,11.04.64,2,Gateshead,16.07.1988
+278,27,5:29.2A,Kiptanui Bett,KEN,05.05.94,1,Nairobi,11.06.2013
+279,27,5:29.2A,Kiptanui Bett,KEN,05.05.94,1,Nairobi,11.06.2013
+280,27,5:29.20,Marcel Laros,NED,10.10.71,2,Elnesvågen,24.05.1999
+281,27,5:29.20,José Luis Blanco,ESP,03.06.75,6,Herrera,19.05.2007
+282,28,5:29.28,Abdelaziz Sahere,MAR,18.09.67,3,Västerås,30.06.1988
+283,28,5:29.3A,Conseslus Kipruto,KEN,08.12.94,1,Nairobi,08.06.2011
+284,28,5:29.33,Shaun Wade,NZL,03.02.66,4,Auckland,20.01.1990
+285,28,5:29.37,Eliseo Martín,ESP,05.11.73,7,Herrera,19.05.2007
+286,28,5:29.38,Boniface Merande,KEN,13.02.62,3,Gateshead,09.08.1991
+287,28,5:29.4,Jürgen Straub,GDR,03.11.53,1,Leipzig,30.05.1973
+288,28,5:29.41A,Wogene Sebisibe,ETH,23.06.98,2,Cali,19.07.2015
+289,29,5:29.5,Rainer Schwarz,FRG,05.06.59,3,Emmendinge,19.07.1985
+290,29,5:29.5,Stefano Ciallella,ITA,22.04.74,2,Cambobasso,03.09.1996
+291,29,5:29.51,Nikolay Matyushenko,UKR,04.01.66,2,Sochi,27.05.1990
+292,29,5:29.51,Jakub Czaja,POL,12.09.80,1,Gdánsk,24.05.2003
+293,29,5:29.51,Tariku Nahom Mesfin,ETH,03.06.89,4,Marrakesh,15.07.2005
+294,29,5:29.55,Féthi Baccouche,TUN,16.11.60,5,Rovereto,21.08.1990
+295,29,5:29.56,Johnstone Kipkoech,KEN,20.12.68,2,Athínai,20.07.1986
+296,29,5:29.59,Víctor Ruiz,ESP,24.06.93,3,Dessau-Roß,21.05.2021
+297,29,5:29.60,Jens Volkmann,GER,31.05.67,3,Athínai,20.07.1986
+298,29,5:29.61,Colin Reitz,GBR,06.04.60,2,Bydgoszcz,18.08.1979
+299,30,5:29.62,Robert Gary,USA,05.04.73,7,Padova,26.08.2001
+300,30,5:29.66,André Green,GER,21.04.73,6,Kerkrade,24.05.1998
+301,30,5:29.66,Desta Alemu,ETH,18.02.92,3,Bressanone,12.07.2009
+302,30,5:29.71,Lyès Ramoul,FRA,17.06.76,2,Nancy,02.09.2001
+303,30,5:29.77,Colin Walker,GBR,29.10.62,3,Gateshead,14.08.1988
+304,30,5:29.86,Boniface Merande,KEN,13.02.62,3,Gateshead,16.07.1988
+305,30,5:29.88,Tony Cosey,USA,05.10.74,1,Göteborg,03.08.2000
+306,30,5:29.89,Ryohei Sakaguchi,JPN,05.04.97,1,Kobe,25.04.2021
+307,30,5:29.9,Yoann Kowal,FRA,28.05.87,1,Monaco,12.07.2019
+308,30,5:29.91,Gyula Balogh,HUN,15.02.61,1,Budapest,05.09.1980
+309,31,5:29.92,William Koech,KEN,02.12.61,4,Formia,12.07.1998
+310,31,5:29.93,Alessandro Briana,ITA,21.03.73,4,Rovereto,24.07.1994
+311,31,5:29.95,Bostjan Buc,SLO,13.04.80,1,Pliezhause,14.05.2006
+312,31,5:30.0A,Gilbert Kiplangat,KEN,22.01.94,2,Nairobi,08.06.2011
+313,31,5:30.0A,Nixon Kiplagat,KEN,01.04.98,2,Nairobi,01.04.2015
+314,31,5:30.00,Justus Lagat,KEN,20.05.96,3,Donetsk,12.07.2013
+315,31,5:30.03,Ahmed Abdelwahed,ITA,26.05.96,4,Dessau-Roß,21.05.2021
+316,31,5:30.04A,Kipyegon Kelvin,KEN,1,2,Nairobi,14.06.2017
+317,31,5:30.08,Vincent Le Dauphin,FRA,28.06.76,4,Tomblaine,26.06.2009
+318,31,5:30.1,Domingo Ramón,ESP,10.03.58,1,San Juan,02.05.1987
+319,32,5:30.16A,Geoffrey Rotich,KEN,28.10.98,3,Cali,19.07.2015
+320,32,5:30.18,Amos Kipruto Tanui,KEN,75,2,Göteborg,03.08.2000
+321,32,5:30.2,Domingo Ramón,ESP,10.03.58,1,Dôle,07.08.1977
+322,32,5:30.2,Vesa Laukkanen,FIN,09.04.58,1,Donetsk,21.08.1977
+323,32,5:30.2,José Luis Blanco,ESP,03.06.75,1,L'Aigle,01.05.1999
+324,32,5:30.20,Benito Nogales,ESP,01.08.65,1,Barcelona,18.08.1987
+325,32,5:30.26,Kim-Lars Bauermeister,GER,20.11.70,2,Koblenz,20.05.1992
+326,32,5:30.27,Ronald Kipchumba Rutto,KEN,08.10.87,1,Sherbrooke,13.07.2003
+327,32,5:30.30,Patrick Terer,KEN,06.07.89,4,Reims,30.06.2010
+328,32,5:30.31,Mark Rowland,GBR,07.03.63,2,Granada,16.05.1987
+329,33,5:30.36,Robert Gary,USA,05.04.73,8,Rovereto,29.08.2001
+330,33,5:30.39,Eliseo Martín,ESP,05.11.73,1,Monzón,03.06.2000
+331,33,5:30.43,Juan Azkueta,ESP,02.07.67,2,Barcelona,18.08.1987
+332,33,5:30.44,Josephat Kapkory,KEN,20.01.67,5,Rovereto,24.07.1994
+333,33,5:30.49,Gilbert Kiplangat,KEN,22.01.94,2,Villeneuve,08.07.2011
+334,33,5:30.51,Abdellah Dacha,MAR,26.01.92,4,Bressanone,12.07.2009
+335,33,5:30.52,Robert Gary,USA,05.04.73,3,Göteborg,03.08.2000
+336,33,5:30.56,Angelo Carosi,ITA,20.01.64,3,Caserta,27.05.1995
+337,33,5:30.58+,Leonard Bett,KEN,03.11.00,1,Monaco,14.08.2020
+338,33,5:30.59A,Geoffrey Rotich,KEN,28.10.98,2,Nairobi,17.06.2015
+339,34,5:30.6,Dennis Coates,GBR,11.02.53,1,Manchester,23.04.1978
+340,34,5:30.62,Gianni Crepaldi,ITA,19.10.68,2,San Marino,04.07.1992
+341,34,5:30.68,Patrik Wallin,SWE,20.05.66,4,Västerås,30.06.1988
+342,34,5:30.7,Vesa Laukkanen,FIN,09.04.58,1,Donetsk,30.06.1978
+343,34,5:30.7,Joseph Mahmoud,FRA,13.12.55,1,Bruxelles,24.08.1984
+344,34,5:30.7,Shaun Creighton,AUS,14.05.67,1,Canberra,12.12.1992
+345,34,5:30.7,Torsten Herwig,GER,19.10.68,1,Berlin,11.05.1993
+346,34,5:30.70,Henryk Jankowski,POL,15.10.61,4,Verona,12.09.1989
+347,34,5:30.71,Alessandro Lambruschini,ITA,07.01.65,2,Padova,30.08.1992
+348,34,5:30.72,Joey Berriatura,USA,16.06.95,8,Zagreb,11.09.2022
+349,35,5:30.73,Radoslaw Poplawski,POL,16.01.83,1,Wróclaw,18.05.2002
+350,35,5:30.81,Legese Lamiso,ETH,13.01.90,1,Ostrava,13.07.2007
+351,35,5:30.82,Marc Ostendarp,GER,24.01.73,2,Arnsberg,12.05.1996
+352,35,5:30.82,Mehdi Belhadj,FRA,10.06.95,1,Pliezhause,08.05.2022
+353,35,5:30.85,Eliud Barngetuny,KEN,20.05.73,3,Padova,30.08.1992
+354,35,5:30.85,Taisei Ogino,JPN,07.11.97,2,Kobe,24.04.2022
+355,35,5:30.86,Tony Staynings,GBR,21.07.53,1,London,26.05.1976
+356,35,5:30.9,Abdelaziz Sahere,MAR,18.09.67,1,Rabat,17.04.1993
+357,35,5:30.91,Nikolay Matyushenko,UKR,04.01.66,1,Plovdiv,04.08.1984
+358,35,5:31.00,Nikolay Chavkin,RUS,24.04.84,1,Moskva,10.05.2014
+359,36,5:31.01,Angelo Carosi,ITA,20.01.64,1,Roma,22.06.1990
+360,36,5:31.04,John Hartigan,GBR,04.03.65,5,Gateshead,17.08.1990
+361,36,5:31.09,Peter McColgan,GBR,20.02.63,4,Gateshead,05.08.1986
+362,36,5:31.1,Hagen Melzer,GER,16.06.59,1,Halle,16.08.1978
+363,36,5:31.11,Marcelo Cascabelo,ARG,06.02.64,6,Formia,08.07.1991
+364,36,5:31.12,Paul Davies-Hale,GBR,21.06.62,1,Utrecht,22.08.1981
+365,36,5:31.12,Roger Hackney,GBR,02.09.57,5,Auckland,20.01.1990
+366,36,5:31.13,Ivan Huff,USA,31.07.59,4,Gateshead,14.08.1988
+367,36,5:31.17,Mariano Scartezzini,ITA,07.11.54,1,Rovereto,07.09.1983
+368,36,5:31.19,Janko Podgorsek,SLO,11.05.70,5,Formia,12.07.1998
+369,37,5:31.2,Francesco Panetta,ITA,10.01.63,1,Saronno,22.05.1982
+370,37,5:31.22,Bisluke Kiplagat,KEN,08.08.88,3,Strasbourg,28.06.2007
+371,37,5:31.23,Andrey Farnosov,RUS,09.07.80,1,Moskva,05.06.2005
+372,37,5:31.27,Conseslus Kipruto,KEN,08.12.94,1,Villeneuve,06.07.2011
+373,37,5:31.31A,Wogene Sebisibe,ETH,23.06.98,1,Cali,17.07.2015
+374,37,5:31.37,Giuseppe Maffei,ITA,28.01.74,5,Padova,08.06.1997
+375,37,5:31.38,Francisco Sánchez,ESP,18.05.58,3,Madrid,20.06.1986
+376,37,5:31.4,Girma Woldehana,ETH,26.07.52,4,Montréal,14.07.1976
+377,37,5:31.4,Ralf Pönitzsch,GDR,20.10.57,1,Halle,19.07.1979
+378,37,5:31.4,Ralf Pönitzsch,GDR,20.10.57,1,Halle,19.07.1979
+379,37,5:31.4,Michael Längler,FRG,19.01.60,1,Dortmund,04.05.1985
+380,37,5:31.4,Michael Längler,FRG,19.01.60,1,Dortmund,04.05.1985
+381,37,5:31.40,Saïd Tbibi,MAR,17.01.85,4,Strasbourg,28.06.2007
+382,38,5:31.43,John Bicourt,GBR,25.10.45,2,London,26.05.1976
+383,38,5:31.43,Caleb Ngetich,KEN,20.01.81,5,Reims,30.06.2010
+384,38,5:31.44,Gianni Lacerenza,ITA,19.02.67,6,Rovereto,21.08.1990
+385,38,5:31.45,Azzedine Brahmi,ALG,13.09.66,3,Padova,29.08.1993
+386,38,5:31.5,Francisco Sánchez,ESP,18.05.58,2,San Juan,02.05.1987
+387,38,5:31.51,István Palkovits,HUN,27.12.00,9,Zagreb,11.09.2022
+388,38,5:31.53,Wilberforce Chemait Kones,KEN,19.09.93,1,Firenze,10.06.2021
+389,39,5:31.54,Nikolay Matyushenko,UKR,04.01.66,1,Schwechat,27.08.1983
+390,39,5:31.54,Stefano Ciallella,ITA,22.04.74,8,Padova,26.08.2001
+391,39,5:31.56,Hailemariyam Amare,ETH,22.02.97,1,Poitiers,13.09.2014
+392,39,5:31.59,Michael Hawkins,GBR,24.10.61,6,Auckland,20.01.1990
+393,39,5:31.6,Franco Boffi,ITA,02.11.58,1,Crevaicore,19.06.1988
+394,39,5:31.6A,Justus Lagat,KEN,20.05.96,2,Nairobi,11.06.2013
+395,39,5:31.6A,Justus Lagat,KEN,20.05.96,2,Nairobi,11.06.2013
+396,39,5:31.61,Damian Kallabis,GER,10.06.73,1,Pliezhause,18.05.2003
+397,39,5:31.61,Justus Kiprono Kipchirchir,KEN,28.02.87,2,Sherbrooke,13.07.2003
+398,39,5:31.62,Giuseppe Maffei,ITA,28.01.74,6,Rovereto,24.07.1994
+399,40,5:31.67,Miroslaw Zerkowski,POL,20.08.56,2,Gateshead,13.06.1987
+400,40,5:31.68,Colin Walker,GBR,29.10.62,3,Gateshead,13.06.1987
+401,40,5:31.68,Angelo Giardiello,ITA,18.02.70,7,Formia,08.07.1991
+402,40,5:31.7,Daniel Arce,ESP,22.04.92,1,Monaco,12.07.2019
+403,40,5:31.77,Solomon Mitei,KEN,05.10.63,1,Cwmbran,12.07.1992
+404,40,5:31.80,Michael Inwood,AUS,18.12.65,1,Adelaide,11.12.1983
+405,40,5:31.82,Gianni Crepaldi,ITA,19.10.68,7,Rovereto,24.07.1994
+406,40,5:31.82,Yasunari Kusu,JPN,21.08.93,1,Kitami,17.07.2019
+407,40,5:31.83,Joseph Mahmoud,FRA,13.12.55,6,Gateshead,17.08.1990
+408,40,5:31.85,Marcelo Cascabelo,ARG,06.02.64,4,Caserta,11.06.1992
+409,41,5:31.86,Luciano Di Pardo,ITA,03.02.75,3,Padova,07.07.1996
+410,41,5:31.89,Stephen Cherono,KEN,15.10.82,1,Bydgoszcz,17.07.1999
+411,41,5:31.95,Mohamed Driouche,ALG,27.06.70,5,Verona,17.06.1992
+412,41,5:31.97,Mike Gilchrist,NZL,09.08.60,5,Gateshead,05.08.1986
+413,41,5:31.97,Francisco Javier Lara,ESP,24.06.76,5,Huelva,07.06.2005

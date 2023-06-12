@@ -1,0 +1,549 @@
+,0,1,2,3,4,5,6
+0,1,2.4,Javier Sotomayor,CUB,13.10.67,Salamanca,08.09.1988
+1,1,2.4,Javier Sotomayor,CUB,13.10.67,San Juan,29.07.1989
+2,1,2.4,Javier Sotomayor,CUB,13.10.67,Sevilla,05.06.1994
+3,1,2.4,Bogdan Bondarenko,UKR,30.08.89,New York City,14.06.2014
+4,1,2.4,Mutaz Essa Barshim,QAT,24.06.91,New York City,14.06.2014
+5,1,2.4,Mutaz Essa Barshim,QAT,24.06.91,Bruxelles,05.09.2014
+6,7,2.39,Bogdan Bondarenko,UKR,30.08.89,Lausanne,04.07.2013
+7,7,2.39,Mutaz Essa Barshim,QAT,24.06.91,Eberstadt,22.08.2014
+8,9,2.38,Javier Sotomayor,CUB,13.10.67,Salamanca,27.07.1993
+9,9,2.38,Derek Drouin,CAN,06.03.90,Des Moines,25.04.2014
+10,9,2.38,Mutaz Essa Barshim,QAT,24.06.91,New York City,14.06.2014
+11,9,2.38,Andrey Protsenko,UKR,20.05.88,Lausanne,03.07.2014
+12,9,2.38,Mutaz Essa Barshim,QAT,24.06.91,Opole,11.06.2016
+13,9,2.38,Mutaz Essa Barshim,QAT,24.06.91,Eberstadt,27.08.2017
+14,15,2.37,Javier Sotomayor,CUB,13.10.67,La Habana,22.05.1993
+15,15,2.37,Javier Sotomayor,CUB,13.10.67,London,23.07.1993
+16,15,2.37,Javier Sotomayor,CUB,13.10.67,Stuttgart,22.08.1993
+17,15,2.37,Mutaz Essa Barshim,QAT,24.06.91,Lausanne,23.08.2012
+18,15,2.37,Mutaz Essa Barshim,QAT,24.06.91,Roma,05.06.2014
+19,15,2.37,Mutaz Essa Barshim,QAT,24.06.91,Eberstadt,22.08.2014
+20,15,2.37,Bogdan Bondarenko,UKR,30.08.89,Bruxelles,05.09.2014
+21,15,2.37,Mutaz Essa Barshim,QAT,24.06.91,Bruxelles,05.09.2014
+22,15,2.37,Gianmarco Tamberi,ITA,01.06.92,Monaco,15.07.2016
+23,24,2.36,Zhu Jianhua,CHN,29.05.63,Eberstadt,10.06.1984
+24,24,2.36,Javier Sotomayor,CUB,13.10.67,Salamanca,08.09.1988
+25,24,2.36,Gennadiy Avdeyenko,UKR,04.11.63,Seoul,25.09.1988
+26,24,2.36,Sorin Matei,ROU,06.07.63,Bratislava,20.06.1990
+27,24,2.36,Hollis Conway,USA,08.01.67,Eberstadt,03.07.1993
+28,24,2.36,Javier Sotomayor,CUB,13.10.67,Eberstadt,10.07.1994
+29,24,2.36,Javier Sotomayor,CUB,13.10.67,London,15.07.1994
+30,24,2.36,Javier Sotomayor,CUB,13.10.67,Mar del Plata,25.03.1995
+31,24,2.36,Andrey Sokolovskiy,UKR,16.07.78,Roma,08.07.2005
+32,24,2.36,Mutaz Essa Barshim,QAT,24.06.91,Eugene,01.06.2013
+33,24,2.36,Derek Drouin,CAN,06.03.90,Eberstadt,17.07.2016
+34,24,2.36,Derek Drouin,CAN,06.03.90,Rio de Janeiro,16.08.2016
+35,24,2.36,Mutaz Essa Barshim,QAT,24.06.91,Eberstadt,27.08.2017
+36,24,2.36,Danyil Lysenko,RUS,19.05.97,Eberstadt,27.08.2017
+37,24,2.36,Mutaz Essa Barshim,QAT,24.06.91,Ad-Dawhah,04.05.2018
+38,39,2.35,Rudolf Povarnitsyn,UKR,13.06.62,Donetsk,11.08.1985
+39,39,2.35,Igor Paklin,KGZ,15.06.63,Kobe,04.09.1985
+40,39,2.35,Patrik Sjöberg,SWE,05.01.65,Stockholm,30.06.1987
+41,39,2.35,Patrik Sjöberg,SWE,05.01.65,Roma,06.09.1987
+42,39,2.35,Igor Paklin,KGZ,15.06.63,Roma,06.09.1987
+43,39,2.35,Gennadiy Avdeyenko,UKR,04.11.63,Roma,06.09.1987
+44,39,2.35,Javier Sotomayor,CUB,13.10.67,La Habana,12.03.1989
+45,39,2.35,Javier Sotomayor,CUB,13.10.67,San Juan,29.07.1989
+46,39,2.35,Hollis Conway,USA,08.01.67,Malmö,07.08.1990
+47,39,2.35,Steve Smith,GBR,29.03.73,Seoul,20.09.1992
+48,39,2.35,Dragutin Topic,SRB,12.03.71,Beograd,01.08.1993
+49,39,2.35,Javier Sotomayor,CUB,13.10.67,La Habana,25.06.1994
+50,39,2.35,Javier Sotomayor,CUB,13.10.67,London,11.09.1994
+51,39,2.35,Javier Sotomayor,CUB,13.10.67,Göteborg,08.08.1995
+52,39,2.35,Troy Kemp,BAH,18.06.66,Göteborg,08.08.1995
+53,39,2.35,Artur Partyka,POL,25.07.69,Atlanta,28.07.1996
+54,39,2.35,Charles Austin,USA,19.12.67,Atlanta,28.07.1996
+55,39,2.35,Javier Sotomayor,CUB,13.10.67,Athínai,06.08.1997
+56,39,2.35,Vyacheslav Voronin,RUS,05.04.74,Sevilla,23.08.1999
+57,39,2.35,Andrey Silnov,RUS,09.09.84,London,25.07.2008
+58,39,2.35,Andrey Silnov,RUS,09.09.84,Cheboksary,05.07.2012
+59,39,2.35,Ivan Ukhov,RUS,29.03.86,Cheboksary,05.07.2012
+60,39,2.35,Mutaz Essa Barshim,QAT,24.06.91,Lausanne,23.08.2012
+61,39,2.35,Bogdan Bondarenko,UKR,30.08.89,Lausanne,04.07.2013
+62,39,2.35,Bogdan Bondarenko,UKR,30.08.89,Moskva,15.08.2013
+63,39,2.35,Mutaz Essa Barshim,QAT,24.06.91,Moskva,15.08.2013
+64,39,2.35,Derek Drouin,CAN,06.03.90,Moskva,15.08.2013
+65,39,2.35,Derek Drouin,CAN,06.03.90,Des Moines,25.04.2014
+66,39,2.35,Derek Drouin,CAN,06.03.90,Ad-Dawhah,09.05.2014
+67,39,2.35,Erik Kynard,USA,03.02.91,Ad-Dawhah,09.05.2014
+68,39,2.35,Mutaz Essa Barshim,QAT,24.06.91,Ad-Dawhah,09.05.2014
+69,39,2.35,Mutaz Essa Barshim,QAT,24.06.91,New York City,14.06.2014
+70,39,2.35,Bogdan Bondarenko,UKR,30.08.89,New York City,14.06.2014
+71,39,2.35,Mutaz Essa Barshim,QAT,24.06.91,Lausanne,03.07.2014
+72,39,2.35,Andrey Protsenko,UKR,20.05.88,Lausanne,03.07.2014
+73,39,2.35,Bogdan Bondarenko,UKR,30.08.89,Lausanne,03.07.2014
+74,39,2.35,Mutaz Essa Barshim,QAT,24.06.91,Eberstadt,22.08.2014
+75,39,2.35,Mutaz Essa Barshim,QAT,24.06.91,Birmingham,24.08.2014
+76,39,2.35,Bogdan Bondarenko,UKR,30.08.89,Birmingham,24.08.2014
+77,39,2.35,Mutaz Essa Barshim,QAT,24.06.91,Shanghai,17.05.2015
+78,39,2.35,Zhang Guowei,CHN,04.06.91,Eugene,30.05.2015
+79,39,2.35,Mutaz Essa Barshim,QAT,24.06.91,Eugene,30.05.2015
+80,39,2.35,Gianmarco Tamberi,ITA,01.06.92,Eberstadt,02.08.2015
+81,39,2.35,Derek Drouin,CAN,06.03.90,Eberstadt,02.08.2015
+82,39,2.35,Mutaz Essa Barshim,QAT,24.06.91,Birmingham,05.06.2016
+83,39,2.35,Mutaz Essa Barshim,QAT,24.06.91,Opole,11.06.2016
+84,39,2.35,Mutaz Essa Barshim,QAT,24.06.91,Opole,04.06.2017
+85,39,2.35,Mutaz Essa Barshim,QAT,24.06.91,Oslo,15.06.2017
+86,39,2.35,Mutaz Essa Barshim,QAT,24.06.91,Birmingham,20.08.2017
+87,39,2.35,Mutaz Essa Barshim,QAT,24.06.91,Ad-Dawhah,04.10.2019
+88,39,2.35,Ilya Ivanyuk,RUS,09.03.93,Smolensk,17.05.2021
+89,39,2.35,Maksim Nedasekau,BLR,21.01.98,Székesfehérvár,06.07.2021
+90,39,2.35,Gianmarco Tamberi,ITA,01.06.92,Tokyo,01.08.2021
+91,39,2.35,Mutaz Essa Barshim,QAT,24.06.91,Tokyo,01.08.2021
+92,39,2.35,Mutaz Essa Barshim,QAT,24.06.91,Eugene,18.07.2022
+93,94,2.34,Zhu Jianhua,CHN,29.05.63,Shanghai,22.09.1983
+94,94,2.34,Valeriy Sereda,RUS,30.06.59,Rieti,02.09.1984
+95,94,2.34,Patrik Sjöberg,SWE,05.01.65,Eberstadt,16.06.1985
+96,94,2.34,Igor Paklin,KGZ,15.06.63,Köln,17.08.1986
+97,94,2.34,Jerome Carter,USA,25.03.63,Columbus,08.05.1988
+98,94,2.34,Tom McCants,USA,27.11.62,Columbus,08.05.1988
+99,94,2.34,Gennadiy Avdeyenko,UKR,04.11.63,Seoul,25.09.1988
+100,94,2.34,Hollis Conway,USA,08.01.67,Seoul,25.09.1988
+101,94,2.34,Rudolf Povarnitsyn,UKR,13.06.62,Seoul,25.09.1988
+102,94,2.34,Javier Sotomayor,CUB,13.10.67,Oslo,01.07.1989
+103,94,2.34,Gennadiy Avdeyenko,UKR,04.11.63,Stockholm,03.07.1989
+104,94,2.34,Javier Sotomayor,CUB,13.10.67,Stockholm,03.07.1989
+105,94,2.34,Patrik Sjöberg,SWE,05.01.65,New York City,22.07.1989
+106,94,2.34,Hollis Conway,USA,08.01.67,Norman,30.07.1989
+107,94,2.34,Patrik Sjöberg,SWE,05.01.65,Bruxelles,05.08.1989
+108,94,2.34,Patrik Sjöberg,SWE,05.01.65,Zürich,16.08.1989
+109,94,2.34,Georgi Dakov,BUL,21.10.67,Bruxelles,10.08.1990
+110,94,2.34,Hollis Conway,USA,08.01.67,Bruxelles,10.08.1990
+111,94,2.34,Hollis Conway,USA,08.01.67,Zürich,15.08.1990
+112,94,2.34,Sorin Matei,ROU,06.07.63,Zürich,15.08.1990
+113,94,2.34,Charles Austin,USA,19.12.67,Zürich,07.08.1991
+114,94,2.34,Charles Austin,USA,19.12.67,Tokyo,01.09.1991
+115,94,2.34,Javier Sotomayor,CUB,13.10.67,Zürich,19.08.1992
+116,94,2.34,Steve Smith,GBR,29.03.73,Stuttgart,22.08.1993
+117,94,2.34,Javier Sotomayor,CUB,13.10.67,Stuttgart,22.08.1993
+118,94,2.34,Javier Sotomayor,CUB,13.10.67,Sevilla,05.06.1994
+119,94,2.34,Javier Sotomayor,CUB,13.10.67,Nice,18.07.1994
+120,94,2.34,Troy Kemp,BAH,18.06.66,Nice,12.07.1995
+121,94,2.34,Sergey Klyugin,RUS,24.03.74,Zürich,12.08.1998
+122,94,2.34,Vyacheslav Voronin,RUS,05.04.74,London,05.08.2000
+123,94,2.34,Jacques Freitag,RSA,11.06.82,Durban,23.03.2002
+124,94,2.34,Aleksander Waleria,POL,01.09.82,Bydgoszcz,20.07.2003
+125,94,2.34,Stefan Holm,SWE,25.05.76,Athínai,22.08.2004
+126,94,2.34,Andrey Silnov,RUS,09.09.84,Göteborg,09.08.2006
+127,94,2.34,Andrey Silnov,RUS,09.09.84,Beijing,19.08.2008
+128,94,2.34,Jesse Williams,USA,27.12.83,Eugene,26.06.2011
+129,94,2.34,Aleksandr Shustov,RUS,13.08.84,Cheboksary,23.07.2011
+130,94,2.34,Aleksey Dmitrik,RUS,12.04.84,Cheboksary,23.07.2011
+131,94,2.34,Andrey Silnov,RUS,09.09.84,London,06.08.2011
+132,94,2.34,Ivan Ukhov,RUS,29.03.86,Opole,06.06.2012
+133,94,2.34,Jesse Williams,USA,27.12.83,New York City,09.06.2012
+134,94,2.34,Robbie Grabarz,GBR,03.10.87,New York City,09.06.2012
+135,94,2.34,Bogdan Bondarenko,UKR,30.08.89,Birmingham,30.06.2013
+136,94,2.34,Bogdan Bondarenko,UKR,30.08.89,London,26.07.2013
+137,94,2.34,Erik Kynard,USA,03.02.91,London,26.07.2013
+138,94,2.34,Bogdan Bondarenko,UKR,30.08.89,Tokyo,11.05.2014
+139,94,2.34,Mutaz Essa Barshim,QAT,24.06.91,Roma,05.06.2014
+140,94,2.34,Bogdan Bondarenko,UKR,30.08.89,Monaco,18.07.2014
+141,94,2.34,Mutaz Essa Barshim,QAT,24.06.91,Monaco,18.07.2014
+142,94,2.34,Bogdan Bondarenko,UKR,30.08.89,Bruxelles,05.09.2014
+143,94,2.34,Mutaz Essa Barshim,QAT,24.06.91,Bruxelles,05.09.2014
+144,94,2.34,Bogdan Bondarenko,UKR,30.08.89,Marrakesh,13.09.2014
+145,94,2.34,Erik Kynard,USA,03.02.91,Eugene,26.06.2015
+146,94,2.34,Derek Drouin,CAN,06.03.90,Toronto,25.07.2015
+147,94,2.34,Majed El Dein Ghaz,SYR,21.04.87,Beijing,18.05.2016
+148,94,2.34,Bogdan Bondarenko,UKR,30.08.89,Monaco,15.07.2016
+149,94,2.34,Gianmarco Tamberi,ITA,01.06.92,Monaco,15.07.2016
+150,94,2.34,Derek Drouin,CAN,06.03.90,Eberstadt,17.07.2016
+151,94,2.34,Danyil Lysenko,RUS,19.05.97,Ostrava,13.06.2018
+152,94,2.34,Mutaz Essa Barshim,QAT,24.06.91,Székesfehérvár,02.07.2018
+153,15,2.33,Gerd Wessig,GDR,16.07.59,Moskva,01.08.1980
+154,15,2.33,Zhu Jianhua,CHN,29.05.63,Eberstadt,10.06.1984
+155,15,2.33,Dietmar Mögenburg,GER,15.08.61,Los Angeles,11.08.1984
+156,15,2.33,Igor Paklin,KGZ,15.06.63,Kobe,04.09.1985
+157,15,2.33,Igor Paklin,KGZ,15.06.63,Rieti,07.09.1986
+158,15,2.33,Javier Sotomayor,CUB,13.10.67,Kvarnsveden,19.06.1988
+159,15,2.33,Hollis Conway,USA,08.01.67,Provo,03.06.1989
+160,15,2.33,Javier Sotomayor,CUB,13.10.67,Saint-Denis,23.06.1989
+161,15,2.33,Hollis Conway,USA,08.01.67,Norwalk,15.06.1990
+162,15,2.33,Doug Nordquist,USA,20.12.58,Norwalk,15.06.1990
+163,15,2.33,Sorin Matei,ROU,06.07.63,Eberstadt,16.06.1990
+164,15,2.33,Sorin Matei,ROU,06.07.63,Bratislava,20.06.1990
+165,15,2.33,Dragutin Topic,SRB,12.03.71,Plovdiv,12.08.1990
+166,15,2.33,Hollis Conway,USA,08.01.67,Sheffield,25.07.1991
+167,15,2.33,Steve Smith,GBR,29.03.73,Seoul,20.09.1992
+168,15,2.33,Steinar Hoen,NOR,08.02.71,Helsinki,09.08.1994
+169,15,2.33,Troy Kemp,BAH,18.06.66,Eberstadt,09.07.1995
+170,15,2.33,Dalton Grant,GBR,08.04.66,Eberstadt,09.07.1995
+171,15,2.33,Javier Sotomayor,CUB,13.10.67,Eberstadt,09.07.1995
+172,15,2.33,Javier Sotomayor,CUB,13.10.67,Salamanca,18.07.1995
+173,15,2.33,Artur Partyka,POL,25.07.69,Eberstadt,18.08.1996
+174,15,2.33,Steve Smith,GBR,29.03.73,Gateshead,27.06.1999
+175,15,2.33,Vyacheslav Voronin,RUS,05.04.74,Roma,30.06.2000
+176,15,2.33,Mark Boswell,CAN,28.07.79,Roma,30.06.2000
+177,15,2.33,Vyacheslav Voronin,RUS,05.04.74,Eberstadt,23.07.2000
+178,15,2.33,Vyacheslav Voronin,RUS,05.04.74,Eberstadt,19.08.2001
+179,15,2.33,Mark Boswell,CAN,28.07.79,Roma,12.07.2002
+180,15,2.33,Andrey Sokolovskiy,UKR,16.07.78,Berdychiv,07.09.2002
+181,15,2.33,Jacques Freitag,RSA,11.06.82,Roma,11.07.2003
+182,15,2.33,Stefan Holm,SWE,25.05.76,Eberstadt,18.07.2004
+183,15,2.33,Jacques Freitag,RSA,11.06.82,Oudtshoorn,05.03.2005
+184,15,2.33,Andrey Sokolovskiy,UKR,16.07.78,Roma,08.07.2005
+185,15,2.33,Stefan Holm,SWE,25.05.76,Roma,08.07.2005
+186,15,2.33,Jaroslav Bába,CZE,02.09.84,Roma,08.07.2005
+187,15,2.33,Andrey Silnov,RUS,09.09.84,Monaco,20.08.2006
+188,15,2.33,Stefan Holm,SWE,25.05.76,Stockholm,07.08.2007
+189,15,2.33,Kyriacos Ioannou,CYP,26.07.84,Osaka,29.08.2007
+190,15,2.33,Yaroslav Rybakov,RUS,22.11.80,Osaka,29.08.2007
+191,15,2.33,Donald Thomas,BAH,01.07.84,Osaka,29.08.2007
+192,15,2.33,Dusty Jonas,USA,19.04.86,Boulder,18.05.2008
+193,15,2.33,Andrey Silnov,RUS,09.09.84,London,25.07.2008
+194,15,2.33,Andrey Silnov,RUS,09.09.84,Stuttgart,13.09.2008
+195,15,2.33,Ivan Ukhov,RUS,29.03.86,Cheboksary,25.07.2009
+196,15,2.33,Yaroslav Rybakov,RUS,22.11.80,Cheboksary,25.07.2009
+197,15,2.33,Ivan Ukhov,RUS,29.03.86,Opole,11.09.2010
+198,15,2.33,Dmittriy Demanyuk,UKR,30.06.83,Stockholm,18.06.2011
+199,15,2.33,Mutaz Essa Barshim,QAT,24.06.91,Kobe,09.07.2011
+200,15,2.33,Andrey Silnov,RUS,09.09.84,Cheboksary,05.07.2012
+201,15,2.33,Ivan Ukhov,RUS,29.03.86,Cheboksary,05.07.2012
+202,15,2.33,Aleksandr Shustov,RUS,13.08.84,Cheboksary,05.07.2012
+203,15,2.33,Mutaz Essa Barshim,QAT,24.06.91,Eberstadt,18.08.2012
+204,15,2.33,Mutaz Essa Barshim,QAT,24.06.91,Lausanne,23.08.2012
+205,15,2.33,Robbie Grabarz,GBR,03.10.87,Lausanne,23.08.2012
+206,15,2.33,Derek Drouin,CAN,06.03.90,Eugene,01.06.2013
+207,15,2.33,Erik Kynard,USA,03.02.91,Eugene,01.06.2013
+208,15,2.33,Mutaz Essa Barshim,QAT,24.06.91,Eugene,01.06.2013
+209,15,2.33,Erik Kynard,USA,03.02.91,Lausanne,04.07.2013
+210,15,2.33,Derek Drouin,CAN,06.03.90,Ninove,27.07.2013
+211,15,2.33,Mutaz Essa Barshim,QAT,24.06.91,Ad-Dawhah,09.05.2014
+212,15,2.33,Erik Kynard,USA,03.02.91,Ad-Dawhah,09.05.2014
+213,15,2.33,Bogdan Bondarenko,UKR,30.08.89,Marrakesh,08.06.2014
+214,15,2.33,Derek Drouin,CAN,06.03.90,Eberstadt,22.08.2014
+215,15,2.33,Mutaz Essa Barshim,QAT,24.06.91,Eberstadt,22.08.2014
+216,15,2.33,Mutaz Essa Barshim,QAT,24.06.91,Incheon,29.09.2014
+217,15,2.33,Zhang Guowei,CHN,04.06.91,Walnut,18.04.2015
+218,15,2.33,Zhang Guowei,CHN,04.06.91,Oslo,11.06.2015
+219,15,2.33,Derek Drouin,CAN,06.03.90,Eberstadt,02.08.2015
+220,15,2.33,Gianmarco Tamberi,ITA,01.06.92,Eberstadt,02.08.2015
+221,15,2.33,Gianmarco Tamberi,ITA,01.06.92,Rieti,26.06.2016
+222,15,2.33,Donald Thomas,BAH,01.07.84,Székesfehérvár,18.07.2016
+223,15,2.33,Derek Drouin,CAN,06.03.90,Rio de Janeiro,16.08.2016
+224,15,2.33,Mutaz Essa Barshim,QAT,24.06.91,Rio de Janeiro,16.08.2016
+225,15,2.33,Mutaz Essa Barshim,QAT,24.06.91,Ad-Dawhah,05.05.2017
+226,15,2.33,Mutaz Essa Barshim,QAT,24.06.91,Zürich,24.08.2017
+227,15,2.33,Danyil Lysenko,RUS,19.05.97,Eberstadt,27.08.2017
+228,15,2.33,Mutaz Essa Barshim,QAT,24.06.91,Eberstadt,27.08.2017
+229,15,2.33,Mutaz Essa Barshim,QAT,24.06.91,Ad-Dawhah,04.05.2018
+230,15,2.33,Mutaz Essa Barshim,QAT,24.06.91,Oslo,07.06.2018
+231,15,2.33,Danyil Lysenko,RUS,19.05.97,Lausanne,05.07.2018
+232,15,2.33,Danyil Lysenko,RUS,19.05.97,Monaco,20.07.2018
+233,15,2.33,Mateusz Przybulko,GER,09.03.92,Berlin,11.08.2018
+234,15,2.33,Maksim Nedasekau,BLR,21.01.98,Minsk,09.09.2019
+235,15,2.33,Ilya Ivanyuk,RUS,09.03.93,Ad-Dawhah,04.10.2019
+236,15,2.33,Mutaz Essa Barshim,QAT,24.06.91,Ad-Dawhah,04.10.2019
+237,15,2.33,Mikhail Akimenko,RUS,06.12.95,Ad-Dawhah,04.10.2019
+238,15,2.33,JuVaughn Harrison,USA,30.04.99,College Statio,14.05.2021
+239,15,2.33,Brandon Starc,AUS,24.11.93,Tokyo,01.08.2021
+240,15,2.33,Woo Sang-Hyeok,KOR,23.04.96,Tokyo,01.08.2021
+241,15,2.33,Gianmarco Tamberi,ITA,01.06.92,Tokyo,01.08.2021
+242,15,2.33,Maksim Nedasekau,BLR,21.01.98,Tokyo,01.08.2021
+243,15,2.33,Mutaz Essa Barshim,QAT,24.06.91,Tokyo,01.08.2021
+244,15,2.33,Woo Sang-Hyeok,KOR,23.04.96,Eugene,18.07.2022
+245,15,2.33,Mutaz Essa Barshim,QAT,24.06.91,Eugene,18.07.2022
+246,24,2.32,Paul Frommeyer,FRG,28.06.57,Recke,17.06.1983
+247,24,2.32,Rudolf Povarnitsyn,UKR,13.06.62,Donetsk,11.08.1985
+248,24,2.32,Igor Paklin,KGZ,15.06.63,Stockholm,01.07.1986
+249,24,2.32,Doug Nordquist,USA,20.12.58,Moskva,09.07.1986
+250,24,2.32,Valeriy Sereda,RUS,30.06.59,Kyiv,15.07.1986
+251,24,2.32,Patrik Sjöberg,SWE,05.01.65,Eberstadt,07.06.1987
+252,24,2.32,Jerome Carter,USA,25.03.63,Eberstadt,07.06.1987
+253,24,2.32,Gerd Nagel,GER,22.10.57,Eberstadt,07.06.1987
+254,24,2.32,Patrik Sjöberg,SWE,05.01.65,Stockholm,30.06.1987
+255,24,2.32,Patrik Sjöberg,SWE,05.01.65,Oslo,05.08.1987
+256,24,2.32,Dietmar Mögenburg,GER,15.08.61,Roma,06.09.1987
+257,24,2.32,Gennadiy Avdeyenko,UKR,04.11.63,Roma,06.09.1987
+258,24,2.32,Patrik Sjöberg,SWE,05.01.65,Roma,06.09.1987
+259,24,2.32,Igor Paklin,KGZ,15.06.63,Roma,06.09.1987
+260,24,2.32,Rudolf Povarnitsyn,UKR,13.06.62,Bratislava,09.06.1988
+261,24,2.32,Rudolf Povarnitsyn,UKR,13.06.62,Lausanne,24.06.1988
+262,24,2.32,Carlo Thränhardt,GER,05.07.57,Eberstadt,26.06.1988
+263,24,2.32,Sergey Malchenko,RUS,02.11.63,Tallinn,06.07.1988
+264,24,2.32,Gennadiy Avdeyenko,UKR,04.11.63,Tallinn,06.07.1988
+265,24,2.32,Jim Howard,USA,11.09.59,Indianapolis,16.07.1988
+266,24,2.32,Igor Paklin,KGZ,15.06.63,Vilnius,28.08.1988
+267,24,2.32,Carlo Thränhardt,GER,05.07.57,Eberstadt,04.06.1989
+268,24,2.32,Javier Sotomayor,CUB,13.10.67,Madrid,09.06.1989
+269,24,2.32,Patrik Sjöberg,SWE,05.01.65,Bruxelles,05.08.1989
+270,24,2.32,Dalton Grant,GBR,08.04.66,Auckland,01.02.1990
+271,24,2.32,Sergey Malchenko,RUS,02.11.63,Athínai,07.09.1990
+272,24,2.32,Javier Sotomayor,CUB,13.10.67,Ciudad de Méxi,02.12.1990
+273,24,2.32,Rolandas Verkys,LTU,17.03.67,Warszawa,16.06.1991
+274,24,2.32,Troy Kemp,BAH,18.06.66,Rovereto,13.07.1991
+275,24,2.32,Javier Sotomayor,CUB,13.10.67,La Habana,10.08.1991
+276,24,2.32,Darrin Plab,USA,26.09.70,New Orleans,28.06.1992
+277,24,2.32,Hollis Conway,USA,08.01.67,New Orleans,28.06.1992
+278,24,2.32,Javier Sotomayor,CUB,13.10.67,Zürich,19.08.1992
+279,24,2.32,Troy Kemp,BAH,18.06.66,Zürich,19.08.1992
+280,24,2.32,Javier Sotomayor,CUB,13.10.67,Berlin,21.08.1992
+281,24,2.32,Troy Kemp,BAH,18.06.66,Eberstadt,03.07.1993
+282,24,2.32,Javier Sotomayor,CUB,13.10.67,Eberstadt,03.07.1993
+283,24,2.32,Hollis Conway,USA,08.01.67,Eberstadt,03.07.1993
+284,24,2.32,Artur Partyka,POL,25.07.69,Eberstadt,03.07.1993
+285,24,2.32,Javier Sotomayor,CUB,13.10.67,Salamanca,27.07.1993
+286,24,2.32,Troy Kemp,BAH,18.06.66,Zürich,04.08.1993
+287,24,2.32,Steve Smith,GBR,29.03.73,Zürich,04.08.1993
+288,24,2.32,Dalton Grant,GBR,08.04.66,Zürich,04.08.1993
+289,24,2.32,Javier Sotomayor,CUB,13.10.67,Fukuoka,18.09.1993
+290,24,2.32,Steinar Hoen,NOR,08.02.71,Oslo,22.07.1994
+291,24,2.32,Javier Sotomayor,CUB,13.10.67,Köln,21.08.1994
+292,24,2.32,Javier Sotomayor,CUB,13.10.67,Madrid,06.09.1994
+293,24,2.32,Steinar Hoen,NOR,08.02.71,Göteborg,08.08.1995
+294,24,2.32,Javier Sotomayor,CUB,13.10.67,Göteborg,08.08.1995
+295,24,2.32,Charles Austin,USA,19.12.67,Nice,10.07.1996
+296,24,2.32,Charles Austin,USA,19.12.67,Nice,10.07.1996
+297,24,2.32,Charles Austin,USA,19.12.67,Atlanta,28.07.1996
+298,24,2.32,Steve Smith,GBR,29.03.73,Atlanta,28.07.1996
+299,24,2.32,Tim Forsyth,AUS,17.08.73,Melbourne,02.03.1997
+300,24,2.32,Javier Sotomayor,CUB,13.10.67,Athínai,06.08.1997
+301,24,2.32,Tim Forsyth,AUS,17.08.73,Athínai,06.08.1997
+302,24,2.32,Sergey Klyugin,RUS,24.03.74,Zürich,12.08.1998
+303,24,2.32,Martin Buß,GER,07.04.76,Paris,19.06.1999
+304,24,2.32,Vyacheslav Voronin,RUS,05.04.74,Sevilla,23.08.1999
+305,24,2.32,Vyacheslav Voronin,RUS,05.04.74,Rovereto,01.09.1999
+306,24,2.32,Nathan Leeper,USA,13.06.77,Sacramento,21.05.2000
+307,24,2.32,Sergey Klyugin,RUS,24.03.74,Sydney,24.09.2000
+308,24,2.32,Charles Clinger,USA,28.12.76,Pocatello,19.05.2001
+309,24,2.32,Jacques Freitag,RSA,11.06.82,Durban,08.02.2002
+310,24,2.32,Yaroslav Rybakov,RUS,22.11.80,Firenze,21.06.2003
+311,24,2.32,Germaine Mason,JAM,01.04.83,Santo Domingo,09.08.2003
+312,24,2.32,Michal Bieniek,POL,17.05.84,Biala Podlaska,28.05.2004
+313,24,2.32,James Nieto,USA,02.11.76,Athínai,22.08.2004
+314,24,2.32,Matt Hemingway,USA,24.10.72,Athínai,22.08.2004
+315,24,2.32,Stefan Holm,SWE,25.05.76,Athínai,22.08.2004
+316,24,2.32,Victor Moya,CUB,24.10.82,Monaco,10.09.2004
+317,24,2.32,Linus Thörnblad,SWE,06.03.85,Göteborg,09.08.2006
+318,24,2.32,Tomás Jankú,CZE,27.12.74,Göteborg,09.08.2006
+319,24,2.32,Stefan Holm,SWE,25.05.76,Göteborg,09.08.2006
+320,24,2.32,Andrey Silnov,RUS,09.09.84,Göteborg,09.08.2006
+321,24,2.32,Andrey Tereshin,RUS,15.12.82,Warszawa,17.06.2007
+322,24,2.32,Yaroslav Rybakov,RUS,22.11.80,Warszawa,17.06.2007
+323,24,2.32,Kabelo Kgosimang,BOT,07.01.86,Addis Ababa,04.05.2008
+324,24,2.32,Stefan Holm,SWE,25.05.76,Athínai,13.07.2008
+325,24,2.32,Andrey Silnov,RUS,09.09.84,Beijing,19.08.2008
+326,24,2.32,Yaroslav Rybakov,RUS,22.11.80,Beijing,19.08.2008
+327,24,2.32,Germaine Mason,GBR,01.04.83,Beijing,19.08.2008
+328,24,2.32,Andrey Silnov,RUS,09.09.84,Lausanne,02.09.2008
+329,24,2.32,Ivan Ukhov,RUS,29.03.86,Moskva,01.07.2009
+330,24,2.32,Yaroslav Rybakov,RUS,22.11.80,Moskva,01.07.2009
+331,24,2.32,Yaroslav Rybakov,RUS,22.11.80,Thessaloníki,12.09.2009
+332,24,2.32,Andrey Silnov,RUS,09.09.84,Cheboksary,23.07.2011
+333,24,2.32,Aleksey Dmitrik,RUS,12.04.84,Cheboksary,23.07.2011
+334,24,2.32,Aleksandr Shustov,RUS,13.08.84,Cheboksary,23.07.2011
+335,24,2.32,Jesse Williams,USA,27.12.83,Daegu,01.09.2011
+336,24,2.32,Aleksey Dmitrik,RUS,12.04.84,Daegu,01.09.2011
+337,24,2.32,Konstadínos Baniót,GRE,06.11.86,Mersin,27.06.2013
+338,24,2.32,Mutaz Essa Barshim,QAT,24.06.91,Moskva,15.08.2013
+339,24,2.32,Derek Drouin,CAN,06.03.90,Moskva,15.08.2013
+340,24,2.32,Yuriy Krimarenko,UKR,11.08.83,Berdychiv,05.09.2013
+341,24,2.32,Dusty Jonas,USA,19.04.86,Des Moines,25.04.2014
+342,24,2.32,Erik Kynard,USA,03.02.91,Des Moines,25.04.2014
+343,24,2.32,Derek Drouin,CAN,06.03.90,Des Moines,25.04.2014
+344,24,2.32,Andrey Protsenko,UKR,20.05.88,New York City,14.06.2014
+345,24,2.32,Mutaz Essa Barshim,QAT,24.06.91,New York City,14.06.2014
+346,24,2.32,Derek Drouin,CAN,06.03.90,Lausanne,03.07.2014
+347,24,2.32,Andrey Protsenko,UKR,20.05.88,Lausanne,03.07.2014
+348,24,2.32,Bogdan Bondarenko,UKR,30.08.89,Székesfehérvár,08.07.2014
+349,24,2.32,Mutaz Essa Barshim,QAT,24.06.91,Birmingham,24.08.2014
+350,24,2.32,Mutaz Essa Barshim,QAT,24.06.91,Shanghai,17.05.2015
+351,24,2.32,Zhang Guowei,CHN,04.06.91,Eugene,30.05.2015
+352,24,2.32,Erik Kynard,USA,03.02.91,Eugene,30.05.2015
+353,24,2.32,Gianmarco Tamberi,ITA,01.06.92,Köln,01.07.2015
+354,24,2.32,Mutaz Essa Barshim,QAT,24.06.91,Székesfehérvár,07.07.2015
+355,24,2.32,Majed El Dein Ghaz,SYR,21.04.87,Beijing,18.05.2016
+356,24,2.32,Mutaz Essa Barshim,QAT,24.06.91,Birmingham,05.06.2016
+357,24,2.32,Mutaz Essa Barshim,QAT,24.06.91,Eberstadt,17.07.2016
+358,24,2.32,Derek Drouin,CAN,06.03.90,Eberstadt,17.07.2016
+359,24,2.32,Mutaz Essa Barshim,QAT,24.06.91,Lausanne,25.08.2016
+360,24,2.32,Mutaz Essa Barshim,QAT,24.06.91,Oslo,15.06.2017
+361,24,2.32,Mateusz Przybulko,GER,09.03.92,Bottrop,25.06.2017
+362,24,2.32,Mutaz Essa Barshim,QAT,24.06.91,Paris,01.07.2017
+363,24,2.32,Mutaz Essa Barshim,QAT,24.06.91,London,13.08.2017
+364,24,2.32,Dzmitriy Nabokau,BLR,20.01.96,Brest,25.05.2018
+365,24,2.32,Mutaz Essa Barshim,QAT,24.06.91,Eugene,26.05.2018
+366,24,2.32,Brandon McBride,CAN,15.06.94,Chula Vista,09.06.2018
+367,24,2.32,Gianmarco Tamberi,ITA,01.06.92,Zürich,09.09.2021
+368,24,2.32,JuVaughn Harrison,USA,30.04.99,Zürich,07.09.2022
+369,37,2.31,Volodymyr Yaschenk,UKR,12.01.59,Richmond,03.07.1977
+370,37,2.31,Jacek Wszola,POL,30.12.56,Eberstadt,25.05.1980
+371,37,2.31,Gerd Wessig,GDR,16.07.59,Moskva,01.08.1980
+372,37,2.31,Aleksandr Kotovich,UKR,06.11.61,Sofia,20.05.1984
+373,37,2.31,Dwight Stones,USA,06.12.53,Los Angeles,24.06.1984
+374,37,2.31,Patrik Sjöberg,SWE,05.01.65,Los Angeles,11.08.1984
+375,37,2.31,Dietmar Mögenburg,GER,15.08.61,Los Angeles,11.08.1984
+376,37,2.31,Carlo Thränhardt,GER,05.07.57,Rieti,02.09.1984
+377,37,2.31,Valeriy Sereda,RUS,30.06.59,Rieti,02.09.1984
+378,37,2.31,Gennadiy Avdeyenko,UKR,04.11.63,Sochi,25.05.1985
+379,37,2.31,Jim Howard,USA,11.09.59,London,20.07.1985
+380,37,2.31,Igor Paklin,KGZ,15.06.63,Kobe,04.09.1985
+381,37,2.31,Ján Zvara,CZE,12.02.63,Bratislava,14.06.1986
+382,37,2.31,Jim Howard,USA,11.09.59,Budapest,11.08.1986
+383,37,2.31,Igor Paklin,KGZ,15.06.63,Stuttgart,31.08.1986
+384,37,2.31,Igor Paklin,KGZ,15.06.63,Roma,10.09.1986
+385,37,2.31,Patrik Sjöberg,SWE,05.01.65,Catania,13.09.1986
+386,37,2.31,Javier Sotomayor,CUB,13.10.67,Athínai,20.06.1987
+387,37,2.31,Patrik Sjöberg,SWE,05.01.65,Göteborg,27.06.1987
+388,37,2.31,Patrik Sjöberg,SWE,05.01.65,Barcelona,15.07.1987
+389,37,2.31,Patrik Sjöberg,SWE,05.01.65,Zürich,19.08.1987
+390,37,2.31,Tom McCants,USA,27.11.62,Tuscaloosa,27.03.1988
+391,37,2.31,Patrik Sjöberg,SWE,05.01.65,Nice,10.07.1988
+392,37,2.31,Javier Sotomayor,CUB,13.10.67,Nice,10.07.1988
+393,37,2.31,Javier Sotomayor,CUB,13.10.67,Ciudad de Méxi,23.07.1988
+394,37,2.31,Hollis Conway,USA,08.01.67,Caorle,30.07.1988
+395,37,2.31,Patrik Sjöberg,SWE,05.01.65,Zürich,17.08.1988
+396,37,2.31,Igor Paklin,KGZ,15.06.63,Zürich,17.08.1988
+397,37,2.31,Javier Sotomayor,CUB,13.10.67,Athínai,03.09.1988
+398,37,2.31,Patrik Sjöberg,SWE,05.01.65,Seoul,25.09.1988
+399,37,2.31,Rudolf Povarnitsyn,UKR,13.06.62,Seoul,25.09.1988
+400,37,2.31,Gennadiy Avdeyenko,UKR,04.11.63,Seoul,25.09.1988
+401,37,2.31,Dietmar Mögenburg,GER,15.08.61,Seoul,25.09.1988
+402,37,2.31,Hollis Conway,USA,08.01.67,Seoul,25.09.1988
+403,37,2.31,Javier Sotomayor,CUB,13.10.67,Oslo,01.07.1989
+404,37,2.31,Gennadiy Avdeyenko,UKR,04.11.63,Oslo,01.07.1989
+405,37,2.31,Patrik Sjöberg,SWE,05.01.65,Stockholm,03.07.1989
+406,37,2.31,Gennadiy Avdeyenko,UKR,04.11.63,Stockholm,03.07.1989
+407,37,2.31,Javier Sotomayor,CUB,13.10.67,Stockholm,03.07.1989
+408,37,2.31,Hollis Conway,USA,08.01.67,London,14.07.1989
+409,37,2.31,Patrik Sjöberg,SWE,05.01.65,New York City,22.07.1989
+410,37,2.31,Javier Sotomayor,CUB,13.10.67,New York City,22.07.1989
+411,37,2.31,Javier Sotomayor,CUB,13.10.67,Zürich,16.08.1989
+412,37,2.31,Patrik Sjöberg,SWE,05.01.65,Zürich,16.08.1989
+413,37,2.31,Javier Sotomayor,CUB,13.10.67,Duisburg,30.08.1989
+414,37,2.31,Patrik Sjöberg,SWE,05.01.65,Barcelona,10.09.1989
+415,37,2.31,Gennadiy Avdeyenko,UKR,04.11.63,Athínai,16.09.1989
+416,37,2.31,Doug Nordquist,USA,20.12.58,Irvine,03.06.1990
+417,37,2.31,Hollis Conway,USA,08.01.67,Minneapolis,15.07.1990
+418,37,2.31,Dalton Grant,GBR,08.04.66,London,20.07.1990
+419,37,2.31,Sorin Matei,ROU,06.07.63,New York City,29.07.1990
+420,37,2.31,Jake Jacoby,USA,24.09.61,New York City,29.07.1990
+421,37,2.31,Hollis Conway,USA,08.01.67,Malmö,07.08.1990
+422,37,2.31,Dietmar Mögenburg,GER,15.08.61,Düsseldorf,12.08.1990
+423,37,2.31,Dragutin Topic,SRB,12.03.71,Plovdiv,12.08.1990
+424,37,2.31,Georgi Dakov,BUL,21.10.67,Split,01.09.1990
+425,37,2.31,Aleksey Yemelin,RUS,16.10.68,Split,01.09.1990
+426,37,2.31,Dragutin Topic,SRB,12.03.71,Split,01.09.1990
+427,37,2.31,Arturo Ortiz,ESP,18.09.66,Barcelona,22.06.1991
+428,37,2.31,Hollis Conway,USA,08.01.67,Sheffield,25.07.1991
+429,37,2.31,Charles Austin,USA,19.12.67,Zürich,07.08.1991
+430,37,2.31,Charles Austin,USA,19.12.67,Tokyo,01.09.1991
+431,37,2.31,Javier Sotomayor,CUB,13.10.67,Tokyo,01.09.1991
+432,37,2.31,Troy Kemp,BAH,18.06.66,Tokyo,01.09.1991
+433,37,2.31,Dalton Grant,GBR,08.04.66,Tokyo,01.09.1991
+434,37,2.31,Hollis Conway,USA,08.01.67,Tokyo,01.09.1991
+435,37,2.31,Tim Forsyth,AUS,17.08.73,Adelaide,08.03.1992
+436,37,2.31,Tim Forsyth,AUS,17.08.73,London,10.07.1992
+437,37,2.31,Patrik Sjöberg,SWE,05.01.65,Barcelona,02.08.1992
+438,37,2.31,Artur Partyka,POL,25.07.69,Barcelona,02.08.1992
+439,37,2.31,Tim Forsyth,AUS,17.08.73,Barcelona,02.08.1992
+440,37,2.31,Javier Sotomayor,CUB,13.10.67,Barcelona,02.08.1992
+441,37,2.31,Andrey Sankovich,BLR,15.07.65,Gomel,14.05.1993
+442,37,2.31,Javier Sotomayor,CUB,13.10.67,London,23.07.1993
+443,37,2.31,Hollis Conway,USA,08.01.67,Stuttgart,22.08.1993
+444,37,2.31,Troy Kemp,BAH,18.06.66,Stuttgart,22.08.1993
+445,37,2.31,Steve Smith,GBR,29.03.73,Stuttgart,22.08.1993
+446,37,2.31,Artur Partyka,POL,25.07.69,Stuttgart,22.08.1993
+447,37,2.31,Ralf Sonn,GER,17.01.67,Stuttgart,22.08.1993
+448,37,2.31,Javier Sotomayor,CUB,13.10.67,Sevilla,05.06.1994
+449,37,2.31,Troy Kemp,BAH,18.06.66,Nice,18.07.1994
+450,37,2.31,Steinar Hoen,NOR,08.02.71,Helsinki,09.08.1994
+451,37,2.31,Javier Sotomayor,CUB,13.10.67,Madrid,20.06.1995
+452,37,2.31,Dragutin Topic,SRB,12.03.71,Roma,05.06.1996
+453,37,2.31,Sergey Klyugin,RUS,24.03.74,Villeneuve d'A,13.06.1999
+454,37,2.31,Vyacheslav Voronin,RUS,05.04.74,Zagreb,05.07.1999
+455,37,2.31,Mark Boswell,CAN,28.07.79,Austin,08.04.2000
+456,37,2.31,Mark Boswell,CAN,28.07.79,Roma,30.06.2000
+457,37,2.31,Konstantin Matusev,ISR,25.01.71,Roma,30.06.2000
+458,37,2.31,Vyacheslav Voronin,RUS,05.04.74,Roma,30.06.2000
+459,37,2.31,Kwaku Boateng,CAN,30.06.74,Zagreb,03.07.2000
+460,37,2.31,Vyacheslav Voronin,RUS,05.04.74,London,05.08.2000
+461,37,2.31,Vyacheslav Voronin,RUS,05.04.74,Yokohama,09.09.2000
+462,37,2.31,Stefan Holm,SWE,25.05.76,Brisbane,07.09.2001
+463,37,2.31,Mark Boswell,CAN,28.07.79,Roma,12.07.2002
+464,37,2.31,Stefan Holm,SWE,25.05.76,Roma,12.07.2002
+465,37,2.31,Mark Boswell,CAN,28.07.79,Zürich,16.08.2002
+466,37,2.31,Stefan Holm,SWE,25.05.76,Zürich,16.08.2002
+467,37,2.31,Jacques Freitag,RSA,11.06.82,Roma,11.07.2003
+468,37,2.31,Stefan Holm,SWE,25.05.76,London,28.07.2006
+469,37,2.31,Andrey Silnov,RUS,09.09.84,Monaco,20.08.2006
+470,37,2.31,Yaroslav Rybakov,RUS,22.11.80,Shanghai,23.09.2006
+471,37,2.31,Eike Onnen,GER,03.08.82,Garbsen,20.05.2007
+472,37,2.31,Donald Thomas,BAH,01.07.84,Salamanca,04.07.2007
+473,37,2.31,Victor Moya,CUB,24.10.82,Alcalá de Hena,07.07.2007
+474,37,2.31,Andrey Silnov,RUS,09.09.84,London,25.07.2008
+475,37,2.31,Andrey Silnov,RUS,09.09.84,Monaco,29.07.2008
+476,37,2.31,Stefan Holm,SWE,25.05.76,Stuttgart,13.09.2008
+477,37,2.31,Andra Manson,USA,30.04.84,Austin,04.04.2009
+478,37,2.31,Jesse Williams,USA,27.12.83,Belém,24.05.2009
+479,37,2.31,Ivan Ukhov,RUS,29.03.86,Eugene,07.06.2009
+480,37,2.31,Aleksey Dmitrik,RUS,12.04.84,Thessaloníki,10.06.2009
+481,37,2.31,Ivan Ukhov,RUS,29.03.86,Athínai,13.07.2009
+482,37,2.31,Andrey Tereshin,RUS,15.12.82,Cheboksary,25.07.2009
+483,37,2.31,Ivan Ukhov,RUS,29.03.86,Cheboksary,25.07.2009
+484,37,2.31,Jaroslav Bába,CZE,02.09.84,London,25.07.2009
+485,37,2.31,Yaroslav Rybakov,RUS,22.11.80,Cheboksary,25.07.2009
+486,37,2.31,Andra Manson,USA,30.04.84,Gateshead,31.08.2009
+487,37,2.31,Aleksandr Shustov,RUS,13.08.84,Zhukovskiy,26.06.2010
+488,37,2.31,Andrey Silnov,RUS,09.09.84,Zhukovskiy,26.06.2010
+489,37,2.31,Ivan Ukhov,RUS,29.03.86,Monaco,22.07.2010
+490,37,2.31,Aleksandr Shustov,RUS,13.08.84,Barcelona,29.07.2010
+491,37,2.31,Jesse Williams,USA,27.12.83,Walnut,16.04.2011
+492,37,2.31,Kyriacos Ioannou,CYP,26.07.84,Ad-Dawhah,06.05.2011
+493,37,2.31,Jesse Williams,USA,27.12.83,Ad-Dawhah,06.05.2011
+494,37,2.31,Aleksey Dmitrik,RUS,12.04.84,Huelva,02.06.2011
+495,37,2.31,Dmittriy Demanyuk,UKR,30.06.83,Stockholm,18.06.2011
+496,37,2.31,Jesse Williams,USA,27.12.83,Eugene,26.06.2011
+497,37,2.31,Andrey Silnov,RUS,09.09.84,London,06.08.2011
+498,37,2.31,Jesse Williams,USA,27.12.83,London,06.08.2011
+499,37,2.31,Robbie Grabarz,GBR,03.10.87,Roma,31.05.2012
+500,37,2.31,Erik Kynard,USA,03.02.91,Des Moines,07.06.2012
+501,37,2.31,Jesse Williams,USA,27.12.83,New York City,09.06.2012
+502,37,2.31,Robbie Grabarz,GBR,03.10.87,New York City,09.06.2012
+503,37,2.31,Ivan Ukhov,RUS,29.03.86,Cheboksary,05.07.2012
+504,37,2.31,Andrey Silnov,RUS,09.09.84,Cheboksary,05.07.2012
+505,37,2.31,Aleksandr Shustov,RUS,13.08.84,Cheboksary,05.07.2012
+506,37,2.31,Aleksey Dmitrik,RUS,12.04.84,Cheboksary,05.07.2012
+507,37,2.31,Erik Kynard,USA,03.02.91,Walnut,20.04.2013
+508,37,2.31,Mutaz Essa Barshim,QAT,24.06.91,Shanghai,18.05.2013
+509,37,2.31,Wang Yu,CHN,18.08.91,Beijing,21.05.2013
+510,37,2.31,Mutaz Essa Barshim,QAT,24.06.91,Opole,09.06.2013
+511,37,2.31,Erik Kynard,USA,03.02.91,Birmingham,30.06.2013
+512,37,2.31,Bogdan Bondarenko,UKR,30.08.89,Birmingham,30.06.2013
+513,37,2.31,Konstadínos Baniót,GRE,06.11.86,Budapest,10.07.2013
+514,37,2.31,Konstadínos Baniót,GRE,06.11.86,Zürich,29.08.2013
+515,37,2.31,Mutaz Essa Barshim,QAT,24.06.91,Zürich,29.08.2013
+516,37,2.31,Bogdan Bondarenko,UKR,30.08.89,Tokyo,11.05.2014
+517,37,2.31,Mutaz Essa Barshim,QAT,24.06.91,Roma,05.06.2014
+518,37,2.31,Erik Kynard,USA,03.02.91,Sacramento,28.06.2014
+519,37,2.31,Zhang Guowei,CHN,04.06.91,Oordegem,05.07.2014
+520,37,2.31,Mutaz Essa Barshim,QAT,24.06.91,Bruxelles,05.09.2014
+521,37,2.31,Bogdan Bondarenko,UKR,30.08.89,Kawasaki,10.05.2015
+522,37,2.31,Zhang Guowei,CHN,04.06.91,Beijing,20.05.2015
+523,37,2.31,Bogdan Bondarenko,UKR,30.08.89,Rabat,14.06.2015
+524,37,2.31,Daniil Tsyplakov,RUS,29.07.92,Cheboksary,20.06.2015
+525,37,2.31,JaCorian Duffield,USA,02.09.92,Eugene,26.06.2015
+526,37,2.31,Erik Kynard,USA,03.02.91,Eugene,26.06.2015
+527,37,2.31,Derek Drouin,CAN,06.03.90,Edmonton,04.07.2015
+528,37,2.31,Michael Mason,CAN,30.09.86,Edmonton,12.07.2015
+529,37,2.31,Derek Drouin,CAN,06.03.90,Edmonton,12.07.2015
+530,37,2.31,Derek Drouin,CAN,06.03.90,Toronto,25.07.2015
+531,37,2.31,Erik Kynard,USA,03.02.91,Ad-Dawhah,06.05.2016
+532,37,2.31,Wang Yu,CHN,18.08.91,Kawasaki,08.05.2016
+533,37,2.31,Majed El Dein Ghaz,SYR,21.04.87,Monaco,15.07.2016
+534,37,2.31,Gianmarco Tamberi,ITA,01.06.92,Monaco,15.07.2016
+535,37,2.31,Bogdan Bondarenko,UKR,30.08.89,Monaco,15.07.2016
+536,37,2.31,Mutaz Essa Barshim,QAT,24.06.91,Ad-Dawhah,05.05.2017
+537,37,2.31,Mutaz Essa Barshim,QAT,24.06.91,Birmingham,20.08.2017
+538,37,2.31,Mutaz Essa Barshim,QAT,24.06.91,Zürich,24.08.2017
+539,37,2.31,Mutaz Essa Barshim,QAT,24.06.91,Ostrava,13.06.2018
+540,37,2.31,Danyil Lysenko,RUS,19.05.97,Ostrava,13.06.2018
+541,37,2.31,Mateusz Przybulko,GER,09.03.92,Berlin,11.08.2018
+542,37,2.31,Maksim Nedasekau,BLR,21.01.98,Berlin,11.08.2018
+543,37,2.31,Brandon Starc,AUS,24.11.93,Bruxelles,31.08.2018
+544,37,2.31,Mateusz Przybulko,GER,09.03.92,Bruxelles,31.08.2018
+545,37,2.31,Mikhail Akimenko,RUS,06.12.95,Cheboksary,26.07.2019
+546,37,2.31,Maksim Nedasekau,BLR,21.01.98,Minsk,09.09.2019
+547,37,2.31,Mikhail Akimenko,RUS,06.12.95,Cheboksary,25.06.2021

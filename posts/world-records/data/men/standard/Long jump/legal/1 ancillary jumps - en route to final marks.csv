@@ -1,0 +1,838 @@
+,0,1,2,3,4,5,6,7
+0,1,8.84,+1.7,Carl Lewis,USA,01.07.61,Tokyo,30.08.1991
+1,2,8.71,+0.6,Carl Lewis,USA,01.07.61,Indianapolis,19.06.1983
+2,3,8.68,+0.3,Carl Lewis,USA,01.07.61,Indianapolis,18.07.1988
+3,3,8.68,±0.0,Carl Lewis,USA,01.07.61,Tokyo,30.08.1991
+4,5,8.67,-0.2,Carl Lewis,USA,01.07.61,Roma,05.09.1987
+5,6,8.66,,Carl Lewis,USA,01.07.61,Walnut,26.04.1987
+6,7,8.65A,,Robert Emmiyan,ARM,16.02.65,Tsakhkadzor,22.05.1987
+7,7,8.65,+0.6,Carl Lewis,USA,01.07.61,Roma,05.09.1987
+8,9,8.64,-0.1,Dwight Phillips,USA,01.10.77,Eugene,07.06.2009
+9,10,8.63,-0.5,Carl Lewis,USA,01.07.61,Walnut,26.04.1987
+10,11,8.61,+0.6,Carl Lewis,USA,01.07.61,Westwood,16.05.1982
+11,12,8.60,+0.2,Carl Lewis,USA,01.07.61,Roma,05.09.1987
+12,12,8.60,,Carl Lewis,USA,01.07.61,New York City,15.06.1991
+13,12,8.60,+0.3,Luvo Manyonga,RSA,18.11.91,Hengelo,11.06.2017
+14,15,8.59,+0.3,Carl Lewis,USA,01.07.61,Bruxelles,24.08.1984
+15,15,8.59,,Carl Lewis,USA,01.07.61,New York City,15.06.1991
+16,17,8.58,,Mike Powell,USA,10.11.63,New York City,15.06.1991
+17,18,8.57,,Iván Pedroso,CUB,17.12.72,Tokyo,15.09.1995
+18,19,8.55,,Carl Lewis,USA,01.07.61,Indianapolis,24.07.1982
+19,19,8.55,+1.6,Larry Myricks,USA,10.03.56,Indianapolis,18.07.1988
+20,19,8.55,,Larry Myricks,USA,10.03.56,Indianapolis,18.07.1988
+21,19,8.55A,,Larry Myricks,USA,10.03.56,Sestriere,11.08.1988
+22,23,8.54,,Carl Lewis,USA,01.07.61,New York City,15.06.1991
+23,23,8.54,,Mike Powell,USA,10.11.63,Tokyo,30.08.1991
+24,23,8.54,+1.4,Iván Pedroso,CUB,17.12.72,Padova,08.06.1997
+25,23,8.54,+0.3,Juan Miguel Echevarría,CUB,11.08.98,Ostrava,13.06.2018
+26,23,8.54,-1.6,Juan Miguel Echevarría,CUB,11.08.98,Ostrava,13.06.2018
+27,28,8.53A,,Robert Emmiyan,ARM,16.02.65,Tsakhkadzor,22.05.1987
+28,28,8.53,,Carl Lewis,USA,01.07.61,Indianapolis,16.08.1987
+29,28,8.53,+0.2,Mike Powell,USA,10.11.63,Barcelona,06.08.1992
+30,28,8.53,+0.4,Luvo Manyonga,RSA,18.11.91,London,22.07.2018
+31,32,8.52A,,Larry Myricks,USA,10.03.56,Sestriere,11.08.1988
+32,32,8.52,+0.3,Carl Lewis,USA,01.07.61,Seoul,26.09.1988
+33,32,8.52,+1.5,Carl Lewis,USA,01.07.61,Seoul,26.09.1988
+34,32,8.52,,Mike Powell,USA,10.11.63,New York City,15.06.1991
+35,32,8.52,±0.0,Iván Pedroso,CUB,17.12.72,Padova,08.06.1997
+36,32,8.52,+0.5,James Beckford,JAM,09.01.75,Bad Langensalza,06.06.1998
+37,32,8.52,+0.2,Aleksandr Menkov,RUS,07.12.90,Moskva,16.08.2013
+38,39,8.51,+0.3,Carl Lewis,USA,01.07.61,Westwood,15.05.1983
+39,39,8.51A,,Larry Myricks,USA,10.03.56,San José,26.06.1987
+40,39,8.51,,Carl Lewis,USA,01.07.61,Barcelona,16.07.1990
+41,39,8.51,-0.4,Iván Pedroso,CUB,17.12.72,Praha,10.06.1997
+42,39,8.51,+0.5,Luvo Manyonga,RSA,18.11.91,London,22.07.2018
+43,44,8.50,,Carl Lewis,USA,01.07.61,New York City,22.07.1989
+44,44,8.50,-1.6,Mike Powell,USA,10.11.63,New Orleans,24.06.1992
+45,44,8.50,-0.3,Carl Lewis,USA,01.07.61,Barcelona,06.08.1992
+46,44,8.50,,Carl Lewis,USA,01.07.61,Barcelona,06.08.1992
+47,44,8.50,+1.9,Iván Pedroso,CUB,17.12.72,Padova,16.07.1995
+48,44,8.50,+0.3,Luvo Manyonga,RSA,18.11.91,London,15.07.2018
+49,44,8.50,+0.5,Luvo Manyonga,RSA,18.11.91,London,15.07.2018
+50,51,8.49,,Carl Lewis,USA,01.07.61,Houston,04.05.1985
+51,51,8.49,,Larry Myricks,USA,10.03.56,Budapest,12.08.1988
+52,51,8.49,,Larry Myricks,USA,10.03.56,Modesto,06.05.1989
+53,51,8.49,,Carl Lewis,USA,01.07.61,Barcelona,16.07.1990
+54,51,8.49,-0.6,Luvo Manyonga,RSA,18.11.91,Shanghai,13.05.2017
+55,56,8.48,+1.8,Lutz Dombrowski,GDR,25.06.59,Dresden,27.07.1984
+56,56,8.48,,Carl Lewis,USA,01.07.61,Barcelona,16.07.1990
+57,56,8.48,,Mike Powell,USA,10.11.63,New York City,15.06.1991
+58,56,8.48,,Mike Powell,USA,10.11.63,Indianapolis,25.06.1993
+59,56,8.48,+1.5,Iván Pedroso,CUB,17.12.72,Salamanca,18.07.1995
+60,56,8.48,+0.2,Luvo Manyonga,RSA,18.11.91,Shanghai,13.05.2017
+61,56,8.48,-0.2,Luvo Manyonga,RSA,18.11.91,London,15.07.2018
+62,63,8.47,+0.3,Kareem Streete-Thompson,USA,30.03.73,Linz,04.07.1994
+63,63,8.47,,Kareem Streete-Thompson,USA,30.03.73,Linz,04.07.1994
+64,63,8.47,,Iván Pedroso,CUB,17.12.72,Monaco,09.09.1995
+65,63,8.47,-0.9,Luvo Manyonga,RSA,18.11.91,Birmingham,18.08.2018
+66,67,8.46,,Carl Lewis,USA,01.07.61,Westwood,07.08.1982
+67,67,8.46,,Larry Myricks,USA,10.03.56,Houston,17.06.1989
+68,67,8.46,,Carl Lewis,USA,01.07.61,New York City,15.06.1991
+69,67,8.46,,Erick Walder,USA,05.11.71,Austin,05.06.1992
+70,67,8.46,,Mike Powell,USA,10.11.63,Lausanne,07.07.1993
+71,67,8.46,+0.3,Mike Powell,USA,10.11.63,Salamanca,27.07.1993
+72,67,8.46,+0.4,Mike Powell,USA,10.11.63,Salamanca,27.07.1993
+73,67,8.46,-0.3,Iván Pedroso,CUB,17.12.72,Monaco,25.07.1995
+74,67,8.46,+1.2,Yago Lamela,ESP,24.07.77,Guadalajara,19.06.1999
+75,67,8.46,±0.0,Irving Saladino,PAN,23.01.83,Osaka,30.08.2007
+76,67,8.46,+1.0,Godfrey Khotso Mokoena,RSA,06.03.85,Madrid,04.07.2009
+77,67,8.46,+1.2,Godfrey Khotso Mokoena,RSA,06.03.85,Madrid,04.07.2009
+78,67,8.46,+0.6,Luvo Manyonga,RSA,18.11.91,Hengelo,11.06.2017
+79,67,8.46,-0.3,Tajay Gayle,JAM,02.08.96,Ad-Dawhah,28.09.2019
+80,81,8.45,,Carl Lewis,USA,01.07.61,Westwood,16.05.1982
+81,81,8.45,,Larry Myricks,USA,10.03.56,Rhede,05.09.1984
+82,81,8.45A,,Carl Lewis,USA,01.07.61,San José,26.06.1987
+83,81,8.45,+0.5,Mike Powell,USA,10.11.63,Salamanca,27.07.1993
+84,81,8.45,+0.5,Iván Pedroso,CUB,17.12.72,Villeneuve d'Ascq,11.07.1998
+85,81,8.45,+1.0,Dwight Phillips,USA,01.10.77,Hengelo,01.06.2009
+86,81,8.45,+2.0,Godfrey Khotso Mokoena,RSA,06.03.85,Madrid,04.07.2009
+87,81,8.45,+0.2,Luvo Manyonga,RSA,18.11.91,Zagreb,04.09.2018
+88,89,8.44,+0.7,Carl Lewis,USA,01.07.61,Bruxelles,24.08.1984
+89,89,8.44,+0.4,Carl Lewis,USA,01.07.61,Bruxelles,24.08.1984
+90,89,8.44,+0.3,Larry Myricks,USA,10.03.56,Bruxelles,24.08.1984
+91,89,8.44,,Carl Lewis,USA,01.07.61,Houston,21.05.1988
+92,89,8.44,,Carl Lewis,USA,01.07.61,New York City,22.07.1989
+93,89,8.44,+0.5,James Beckford,JAM,09.01.75,Bad Langensalza,06.06.1998
+94,89,8.44,+1.3,Dwight Phillips,USA,01.10.77,Madrid,16.07.2005
+95,89,8.44,+0.6,Marquise Goodwin,USA,19.11.90,Baie-Mahault,14.05.2016
+96,89,8.44,+1.0,Ruswahl Samaai,RSA,25.09.91,Asaba,02.08.2018
+97,98,8.43,-0.4,Larry Myricks,USA,10.03.56,Bruxelles,24.08.1984
+98,98,8.43,,Carl Lewis,USA,01.07.61,Roma,05.09.1987
+99,98,8.43,,Larry Myricks,USA,10.03.56,Indianapolis,18.07.1988
+100,98,8.43,-0.1,Mike Powell,USA,10.11.63,Stuttgart,20.08.1993
+101,98,8.43,,James Beckford,JAM,09.01.75,Roma,05.06.1997
+102,98,8.43,+1.2,Erick Walder,USA,05.11.71,Villeneuve d'Ascq,11.07.1998
+103,98,8.43,+1.1,Yago Lamela,ESP,24.07.77,Torino,24.06.1999
+104,98,8.43,+0.6,Iván Pedroso,CUB,17.12.72,Winnipeg,25.07.1999
+105,98,8.43,-0.7,Dwight Phillips,USA,01.10.77,Eugene,07.06.2009
+106,98,8.43,+0.5,Aleksandr Menkov,RUS,07.12.90,Moskva,16.08.2013
+107,98,8.43,+0.6,Marquise Goodwin,USA,19.11.90,Baie-Mahault,14.05.2016
+108,98,8.43,+0.2,Jarrion Lawson,USA,06.05.94,London,05.08.2017
+109,98,8.43,+0.2,Luvo Manyonga,RSA,18.11.91,Shanghai,12.05.2018
+110,98,8.43,-0.6,Juan Miguel Echevarría,CUB,11.08.98,Roma,31.05.2018
+111,98,8.43,+0.6,Luvo Manyonga,RSA,18.11.91,London,22.07.2018
+112,98,8.43,-0.5,Luvo Manyonga,RSA,18.11.91,London,22.07.2018
+113,11,8.42,+1.1,Carl Lewis,USA,01.07.61,Helsinki,10.08.1983
+114,11,8.42,+1.8,Lutz Dombrowski,GDR,25.06.59,Dresden,27.07.1984
+115,11,8.42,,Larry Myricks,USA,10.03.56,Köln,26.08.1984
+116,11,8.42,,Jaime Jefferson,CUB,17.01.62,Bratislava,12.06.1987
+117,11,8.42,,Carl Lewis,USA,01.07.61,Barcelona,16.07.1990
+118,11,8.42,,Larry Myricks,USA,10.03.56,Monaco,03.08.1991
+119,11,8.42,,Mike Powell,USA,10.11.63,Berlin,21.08.1992
+120,11,8.42,,Mike Powell,USA,10.11.63,Villeneuve d'Ascq,02.07.1993
+121,11,8.42,,Mike Powell,USA,10.11.63,Lausanne,07.07.1993
+122,11,8.42,+1.9,James Beckford,JAM,09.01.75,Orlando,05.04.1997
+123,11,8.42,+0.7,Luvo Manyonga,RSA,18.11.91,Bad Langensalza,30.06.2018
+124,11,8.42,+1.3,Luvo Manyonga,RSA,18.11.91,Asaba,02.08.2018
+125,11,8.42,+0.6,Luvo Manyonga,RSA,18.11.91,Birmingham,18.08.2018
+126,12,8.41,,Larry Myricks,USA,10.03.56,Budapest,06.07.1987
+127,12,8.41,,Larry Myricks,USA,10.03.56,Monaco,02.08.1988
+128,12,8.41,-0.1,Carl Lewis,USA,01.07.61,Seoul,26.09.1988
+129,12,8.41,,Larry Myricks,USA,10.03.56,Tokyo,30.08.1991
+130,12,8.41,,James Beckford,JAM,09.01.75,Torino,24.06.1997
+131,12,8.41,+0.6,James Beckford,JAM,09.01.75,Bad Langensalza,06.06.1998
+132,12,8.41,+0.4,James Beckford,JAM,09.01.75,Tokyo,19.09.1998
+133,12,8.41,+0.2,Iván Pedroso,CUB,17.12.72,Sydney,28.09.2000
+134,12,8.41,,Savanté Stringfellow,USA,06.11.78,Oxford MS,12.04.2003
+135,12,8.41,-0.8,Irving Saladino,PAN,23.01.83,Ponce,26.05.2006
+136,12,8.41,+0.2,Luvo Manyonga,RSA,18.11.91,Roma,31.05.2018
+137,12,8.41,+0.4,Miltiádis Tentóglou,GRE,18.03.98,Pátra,06.06.2021
+138,13,8.40,,Larry Myricks,USA,10.03.56,Köln,26.08.1984
+139,13,8.40,,Jaime Jefferson,CUB,17.01.62,Indianapolis,16.08.1987
+140,13,8.40,,Carl Lewis,USA,01.07.61,Houston,21.05.1988
+141,13,8.40,+0.2,Iván Pedroso,CUB,17.12.72,Linz,22.08.1995
+142,13,8.40,+0.6,Jai Taurima,AUS,26.06.72,Sydney,28.09.2000
+143,13,8.40,±0.0,Savanté Stringfellow,USA,06.11.78,Palo Alto,21.06.2002
+144,13,8.40,+1.4,Savanté Stringfellow,USA,06.11.78,Haniá,30.06.2002
+145,13,8.40,-0.1,Dwight Phillips,USA,01.10.77,Berlin,22.08.2009
+146,13,8.40,+1.8,Zarck Visser,RSA,15.09.89,Bad Langensalza,04.07.2015
+147,13,8.40,+0.1,Luvo Manyonga,RSA,18.11.91,Hengelo,11.06.2017
+148,13,8.40,+1.2,Jarrion Lawson,USA,06.05.94,London,05.08.2017
+149,13,8.40,-1.0,Juan Miguel Echevarría,CUB,11.08.98,Ostrava,13.06.2018
+150,15,8.39,,Carl Lewis,USA,01.07.61,Westwood,15.05.1983
+151,15,8.39,,Carl Lewis,USA,01.07.61,Westwood,13.05.1984
+152,15,8.39,,Larry Myricks,USA,10.03.56,Rhede,02.07.1986
+153,15,8.39,,Larry Myricks,USA,10.03.56,Villeneuve d'Ascq,25.06.1989
+154,15,8.39,,Kareem Streete-Thompson,USA,30.03.73,Linz,04.07.1994
+155,15,8.39,,Roland McGhee,USA,15.10.71,Rhede,29.07.1994
+156,15,8.39,,James Beckford,JAM,09.01.75,Innsbruck,29.05.1996
+157,15,8.39,,James Beckford,JAM,09.01.75,Torino,24.06.1997
+158,15,8.39,+1.4,Yago Lamela,ESP,24.07.77,Sevilla,28.08.1999
+159,15,8.39,+1.0,Dwight Phillips,USA,01.10.77,Baie-Mahault,01.05.2009
+160,15,8.39,+0.3,Luvo Manyonga,RSA,18.11.91,Bloemfontein,08.03.2017
+161,16,8.38,,Larry Myricks,USA,10.03.56,Koblenz,26.08.1981
+162,16,8.38,,Larry Myricks,USA,10.03.56,Koblenz,23.08.1989
+163,16,8.38,,Larry Myricks,USA,10.03.56,Monaco,01.09.1989
+164,16,8.38,,Mike Powell,USA,10.11.63,Villeneuve d'Ascq,29.06.1990
+165,16,8.38,,Larry Myricks,USA,10.03.56,New York City,15.06.1991
+166,16,8.38,,Mike Powell,USA,10.11.63,Bruxelles,28.08.1992
+167,16,8.38,,Iván Pedroso,CUB,17.12.72,Salamanca,18.07.1995
+168,16,8.38,,Iván Pedroso,CUB,17.12.72,Monaco,09.09.1995
+169,16,8.38,,Erick Walder,USA,05.11.71,Springfield,04.05.1996
+170,16,8.38,,Joe Greene,USA,17.02.67,Walnut,20.04.1997
+171,16,8.38,-0.4,Yago Lamela,ESP,24.07.77,Guadalajara,19.06.1999
+172,17,8.37,,Carl Lewis,USA,01.07.61,Westwood,10.05.1981
+173,17,8.37,,Larry Myricks,USA,10.03.56,Rhede,02.07.1986
+174,17,8.37,-0.1,Larry Myricks,USA,10.03.56,Moskva,06.07.1986
+175,17,8.37,,Larry Myricks,USA,10.03.56,Villeneuve d'Ascq,25.06.1989
+176,17,8.37,,Larry Myricks,USA,10.03.56,Monaco,01.09.1989
+177,17,8.37,,Larry Myricks,USA,10.03.56,Monaco,01.09.1989
+178,17,8.37,,Llewellyn Starks,USA,10.02.67,Modesto,16.05.1992
+179,17,8.37,-0.5,Carl Lewis,USA,01.07.61,New Orleans,24.06.1992
+180,17,8.37,+0.3,Mike Powell,USA,10.11.63,Bratislava,01.06.1993
+181,17,8.37,+1.1,Mike Powell,USA,10.11.63,Eugene,19.06.1993
+182,17,8.37,,Erick Walder,USA,05.11.71,Sankt Peterburg,26.07.1994
+183,17,8.37,,Iván Pedroso,CUB,17.12.72,Lisboa,17.06.1995
+184,17,8.37,+0.8,Iván Pedroso,CUB,17.12.72,Paris,03.07.1995
+185,17,8.37,,James Beckford,JAM,09.01.75,Oristano,18.09.1995
+186,17,8.37,+0.9,Iván Pedroso,CUB,17.12.72,Linz,05.07.1998
+187,17,8.37,-0.2,James Beckford,JAM,09.01.75,Paris,21.07.1999
+188,17,8.37,+0.6,Irving Saladino,PAN,23.01.83,Zagreb,04.07.2007
+189,17,8.37,-0.2,Irving Saladino,PAN,23.01.83,Rio de Janeiro,18.05.2008
+190,17,8.37,+0.2,Dwight Phillips,USA,01.10.77,Berlin,22.08.2009
+191,17,8.37,+1.9,Dwight Phillips,USA,01.10.77,Eugene,03.07.2010
+192,17,8.37,+1.5,Luvo Manyonga,RSA,18.11.91,Bloemfontein,08.03.2017
+193,17,8.37,-0.4,Jarrion Lawson,USA,06.05.94,London,05.08.2017
+194,19,8.36,,Jaime Jefferson,CUB,17.01.62,Moskva,07.06.1987
+195,19,8.36,,Larry Myricks,USA,10.03.56,Bern,23.08.1988
+196,19,8.36,,Mike Powell,USA,10.11.63,Bruxelles,25.08.1989
+197,19,8.36,,Larry Myricks,USA,10.03.56,Monaco,01.09.1989
+198,19,8.36,,Mike Powell,USA,10.11.63,Bruxelles,28.08.1992
+199,19,8.36,±0.0,Mike Powell,USA,10.11.63,Zürich,04.08.1993
+200,19,8.36,,Roland McGhee,USA,15.10.71,Rhede,29.07.1994
+201,19,8.36,,Mike Powell,USA,10.11.63,Bruxelles,19.08.1994
+202,19,8.36,,Iván Pedroso,CUB,17.12.72,La Habana,26.06.1995
+203,19,8.36,,Erick Walder,USA,05.11.71,Indianapolis,15.06.1997
+204,19,8.36,+1.1,Erick Walder,USA,05.11.71,Athínai,05.08.1997
+205,19,8.36,+0.7,Iván Pedroso,CUB,17.12.72,Fukuoka,13.09.1997
+206,19,8.36,-0.6,James Beckford,JAM,09.01.75,Rio de Janeiro,25.04.1999
+207,19,8.36,+0.8,Dwight Phillips,USA,01.10.77,Sheffield,21.08.2005
+208,19,8.36,+0.4,Irving Saladino,PAN,23.01.83,Lausanne,10.07.2007
+209,19,8.36,+0.9,Ngonidzashe Makusha,ZIM,11.03.87,Des Moines,09.06.2011
+210,19,8.36,+1.9,Luvo Manyonga,RSA,18.11.91,Asaba,02.08.2018
+211,21,8.35,,Carl Lewis,USA,01.07.61,Zürich,18.08.1982
+212,21,8.35,+1.8,Carl Lewis,USA,01.07.61,Eugene,20.06.1986
+213,21,8.35,,Larry Myricks,USA,10.03.56,Lausanne,15.09.1987
+214,21,8.35A,,Jaime Jefferson,CUB,17.01.62,Ciudad de México,22.07.1988
+215,21,8.35,,Carl Lewis,USA,01.07.61,Lausanne,27.06.1989
+216,21,8.35,,Larry Myricks,USA,10.03.56,Monaco,01.09.1989
+217,21,8.35,,Mike Powell,USA,10.11.63,Villeneuve d'Ascq,29.06.1990
+218,21,8.35,,Mike Powell,USA,10.11.63,Bruxelles,28.08.1992
+219,21,8.35A,,Erick Walder,USA,05.11.71,El Paso,02.04.1994
+220,21,8.35,,Iván Pedroso,CUB,17.12.72,La Habana,26.06.1995
+221,21,8.35,-0.6,James Beckford,JAM,09.01.75,Monaco,04.08.1999
+222,21,8.35,+0.5,Iván Pedroso,CUB,17.12.72,Edmonton,11.08.2001
+223,21,8.35,+1.4,Yago Lamela,ESP,24.07.77,Castellón de la P,12.08.2003
+224,21,8.35,+1.0,Yago Lamela,ESP,24.07.77,Castellón de la P,12.08.2003
+225,21,8.35,+0.1,Dwight Phillips,USA,01.10.77,Athínai,26.08.2004
+226,21,8.35A,+1.0,Luvo Manyonga,RSA,18.11.91,Tignes,16.08.2017
+227,21,8.35,+0.5,Luvo Manyonga,RSA,18.11.91,Gold Coast,11.04.2018
+228,21,8.35,+0.2,Ruswahl Samaai,RSA,25.09.91,London,22.07.2018
+229,21,8.35,-1.3,Miltiádis Tentóglou,GRE,18.03.98,München,16.08.2022
+230,23,8.34,,Lutz Dombrowski,GDR,25.06.59,Dresden,05.07.1980
+231,23,8.34,,Lutz Dombrowski,GDR,25.06.59,Moskva,28.07.1980
+232,23,8.34,,Larry Myricks,USA,10.03.56,Zürich,19.08.1981
+233,23,8.34,,Carl Lewis,USA,01.07.61,Zürich,19.08.1981
+234,23,8.34,,Carl Lewis,USA,01.07.61,Wichita,29.05.1982
+235,23,8.34,±0.0,Larry Myricks,USA,10.03.56,Zürich,22.08.1984
+236,23,8.34,,Larry Myricks,USA,10.03.56,Rhede,05.09.1984
+237,23,8.34,,Larry Myricks,USA,10.03.56,Rhede,05.09.1984
+238,23,8.34,+0.1,Larry Myricks,USA,10.03.56,Houston,03.08.1986
+239,23,8.34,,Larry Myricks,USA,10.03.56,Rhede,01.07.1988
+240,23,8.34,,Carl Lewis,USA,01.07.61,Indianapolis,18.07.1988
+241,23,8.34,,Larry Myricks,USA,10.03.56,Budapest,12.08.1988
+242,23,8.34,,Larry Myricks,USA,10.03.56,Bern,23.08.1988
+243,23,8.34,,Mike Powell,USA,10.11.63,Bruxelles,25.08.1989
+244,23,8.34,,Carl Lewis,USA,01.07.61,Seattle,25.07.1990
+245,23,8.34,,Carl Lewis,USA,01.07.61,Seattle,25.07.1990
+246,23,8.34,,Mike Powell,USA,10.11.63,Lausanne,10.07.1991
+247,23,8.34,,Roland McGhee,USA,15.10.71,Columbus,09.05.1993
+248,23,8.34,+0.5,Mike Powell,USA,10.11.63,London,10.09.1993
+249,23,8.34A,,Kareem Streete-Thompson,USA,30.03.73,El Paso,16.04.1994
+250,23,8.34,,Mike Powell,USA,10.11.63,Lausanne,06.07.1994
+251,23,8.34,,Huang Geng,CHN,10.07.70,Taiyuan,18.05.1995
+252,23,8.34,,James Beckford,JAM,09.01.75,Innsbruck,29.05.1996
+253,23,8.34,,Joe Greene,USA,17.02.67,Indianapolis,15.06.1997
+254,23,8.34,+1.0,Yago Lamela,ESP,24.07.77,Sevilla,28.08.1999
+255,23,8.34,-0.2,Jai Taurima,AUS,26.06.72,Sydney,28.09.2000
+256,23,8.34,±0.0,Iván Pedroso,CUB,17.12.72,Sydney,28.09.2000
+257,23,8.34,+2.0,Dwight Phillips,USA,01.10.77,Madrid,16.07.2005
+258,23,8.34,-0.9,Irving Saladino,PAN,23.01.83,Fortaleza,17.05.2006
+259,23,8.34,+1.0,Louis Tsátoumas,GRE,12.02.82,Kalamáta,02.06.2007
+260,23,8.34,+0.7,Mitchell Watt,AUS,25.03.88,Shanghai,15.05.2011
+261,23,8.34,+1.5,Mitchell Watt,AUS,25.03.88,Stockholm,29.07.2011
+262,23,8.34,+0.7,Aleksandr Menkov,RUS,07.12.90,Kazan,12.07.2013
+263,23,8.34A,+1.2,Luvo Manyonga,RSA,18.11.91,Pretoria,17.03.2017
+264,23,8.34A,+0.6,Luvo Manyonga,RSA,18.11.91,Pretoria,17.03.2017
+265,23,8.34,+0.6,Ruswahl Samaai,RSA,25.09.91,London,22.07.2018
+266,23,8.34A,+1.3,Jeffrey Henderson,USA,19.02.89,Provo,27.04.2019
+267,26,8.33A,,Igor Ter-Ovanesyan,RUS,19.05.38,Ciudad de México,19.10.1967
+268,26,8.33,,Larry Myricks,USA,10.03.56,Walnut,25.04.1982
+269,26,8.33,,Larry Myricks,USA,10.03.56,Tokyo,23.09.1987
+270,26,8.33,,Larry Myricks,USA,10.03.56,Koblenz,23.08.1989
+271,26,8.33,,Llewellyn Starks,USA,10.02.67,Modesto,16.05.1992
+272,26,8.33,,Mike Powell,USA,10.11.63,Barcelona,06.08.1992
+273,26,8.33,-2.0,Carl Lewis,USA,01.07.61,Barcelona,06.08.1992
+274,26,8.33,+0.3,Mike Powell,USA,10.11.63,Alcorcón,03.06.1993
+275,26,8.33,+0.5,Iván Pedroso,CUB,17.12.72,Stockholm,07.07.1997
+276,26,8.33,,Iván Pedroso,CUB,17.12.72,Monaco,16.08.1997
+277,26,8.33,-0.9,James Beckford,JAM,09.01.75,Catania,31.08.1997
+278,26,8.33,,Iván Pedroso,CUB,17.12.72,Tokyo,06.09.1997
+279,26,8.33,+0.1,James Beckford,JAM,09.01.75,Fukuoka,13.09.1997
+280,26,8.33,-1.2,Erick Walder,USA,05.11.71,Villeneuve d'Ascq,11.07.1998
+281,26,8.33,+1.8,Yago Lamela,ESP,24.07.77,Göteborg,01.08.1999
+282,26,8.33,+0.5,Iván Pedroso,CUB,17.12.72,Sevilla,28.08.1999
+283,26,8.33A,±0.0,Miguel Pate,USA,13.06.79,Ciudad de México,03.05.2003
+284,26,8.33,+0.9,Yago Lamela,ESP,24.07.77,Castellón de la P,12.08.2003
+285,26,8.33,+0.2,Dwight Phillips,USA,01.10.77,Monaco,10.09.2005
+286,26,8.33,-0.7,Irving Saladino,PAN,23.01.83,Hengelo,26.05.2007
+287,26,8.33,+0.7,Sebastian Bayer,GER,11.06.86,Helsinki,01.07.2012
+288,26,8.33,+1.9,Aleksandr Menkov,RUS,07.12.90,Gateshead,22.06.2013
+289,26,8.33,+0.3,Miltiádis Tentóglou,GRE,18.03.98,Zürich,08.09.2022
+290,29,8.32,,Lutz Dombrowski,GDR,25.06.59,Moskva,28.07.1980
+291,29,8.32,,Larry Myricks,USA,10.03.56,Rhede,05.09.1984
+292,29,8.32,+0.4,Mike Conley,USA,05.10.62,Lausanne,10.07.1985
+293,29,8.32,,Larry Myricks,USA,10.03.56,Shizuoka,03.05.1987
+294,29,8.32,,Larry Myricks,USA,10.03.56,Budapest,06.07.1987
+295,29,8.32,,Carl Lewis,USA,01.07.61,Lausanne,24.06.1988
+296,29,8.32,,Jaime Jefferson,CUB,17.01.62,Koblenz,28.08.1988
+297,29,8.32,,Carl Lewis,USA,01.07.61,Stockholm,03.07.1989
+298,29,8.32,,Dmitriy Bagryanov,RUS,18.12.67,Granada,30.05.1992
+299,29,8.32,,Mike Powell,USA,10.11.63,Bruxelles,28.08.1992
+300,29,8.32,,Huang Geng,CHN,10.07.70,Taiyuan,18.05.1995
+301,29,8.32,,Kareem Streete-Thompson,USA,30.03.73,New York City,21.05.1995
+302,29,8.32,,James Beckford,JAM,09.01.75,Zürich,16.08.1995
+303,29,8.32,,Erick Walder,USA,05.11.71,Uniondale,20.07.1998
+304,29,8.32,-0.3,James Beckford,JAM,09.01.75,Viareggio,07.08.1998
+305,29,8.32,+0.8,James Beckford,JAM,09.01.75,Ad-Dawhah,13.05.1999
+306,29,8.32,-0.5,James Beckford,JAM,09.01.75,Monaco,04.08.1999
+307,29,8.32,-0.3,Gregor Cankar,SLO,25.01.75,Sevilla,28.08.1999
+308,29,8.32,-0.3,Ignisious Gaisah,GHA,20.06.83,Roma,14.07.2006
+309,29,8.32,-0.8,Irving Saladino,PAN,23.01.83,Hengelo,26.05.2007
+310,29,8.32,+0.1,Greg Rutherford,GBR,17.11.86,Stockholm,30.07.2015
+311,29,8.32,+0.6,Mike Hartfield,USA,29.03.90,Baie-Mahault,14.05.2016
+312,29,8.32,+1.1,Luvo Manyonga,RSA,18.11.91,London,05.08.2017
+313,29,8.32,+0.3,Luvo Manyonga,RSA,18.11.91,Zürich,30.08.2018
+314,31,8.31,,Lutz Dombrowski,GDR,25.06.59,Dresden,05.07.1980
+315,31,8.31,,Larry Myricks,USA,10.03.56,Sacramento,20.06.1981
+316,31,8.31,,Larry Myricks,USA,10.03.56,Rhede,02.07.1986
+317,31,8.31,,Giovanni Evangelisti,ITA,11.09.61,San Giovanni Vald,16.05.1987
+318,31,8.31,,Carl Lewis,USA,01.07.61,Lausanne,24.06.1988
+319,31,8.31,,Larry Myricks,USA,10.03.56,Rhede,01.07.1988
+320,31,8.31,,Larry Myricks,USA,10.03.56,Linz,15.08.1988
+321,31,8.31,,Larry Myricks,USA,10.03.56,Bern,23.08.1988
+322,31,8.31,,Larry Myricks,USA,10.03.56,Houston,17.06.1989
+323,31,8.31,,Carl Lewis,USA,01.07.61,Lausanne,27.06.1989
+324,31,8.31,,Jaime Jefferson,CUB,17.01.62,La Habana,12.05.1990
+325,31,8.31,,Carl Lewis,USA,01.07.61,Seattle,25.07.1990
+326,31,8.31,,Mike Powell,USA,10.11.63,Tokyo,19.09.1992
+327,31,8.31,,Mike Powell,USA,10.11.63,Lausanne,07.07.1993
+328,31,8.31,,Mike Powell,USA,10.11.63,Zürich,04.08.1993
+329,31,8.31,,Mike Powell,USA,10.11.63,Lausanne,06.07.1994
+330,31,8.31,,Roland McGhee,USA,15.10.71,São Paulo,14.05.1995
+331,31,8.31,,Iván Pedroso,CUB,17.12.72,La Habana,26.06.1995
+332,31,8.31,,Iván Pedroso,CUB,17.12.72,Zürich,16.08.1995
+333,31,8.31,,James Beckford,JAM,09.01.75,Uniondale,20.07.1998
+334,31,8.31,,James Beckford,JAM,09.01.75,Uniondale,20.07.1998
+335,31,8.31,,Iván Pedroso,CUB,17.12.72,Montauban,07.08.1999
+336,31,8.31,,James Beckford,JAM,09.01.75,Bad Langensalza,01.07.2000
+337,31,8.31,,Danila Burkenya,RUS,20.07.78,Tula,14.07.2001
+338,31,8.31,+0.2,Ignisious Gaisah,GHA,20.06.83,Saint-Denis,08.07.2006
+339,31,8.31,-0.6,James Beckford,JAM,09.01.75,Warszawa,17.06.2007
+340,31,8.31,-0.1,Godfrey Khotso Mokoena,RSA,06.03.85,Berlin,22.08.2009
+341,31,8.31,+0.1,Dwight Phillips,USA,01.10.77,Monaco,22.07.2010
+342,31,8.31,+0.4,Dwight Phillips,USA,01.10.77,Daegu,02.09.2011
+343,31,8.31,+1.1,Ruswahl Samaai,RSA,25.09.91,Rabat,16.07.2017
+344,31,8.31,+0.5,Jarrion Lawson,USA,06.05.94,London,05.08.2017
+345,31,8.31,+0.3,Luvo Manyonga,RSA,18.11.91,Zürich,24.08.2017
+346,31,8.31,+1.8,Ruswahl Samaai,RSA,25.09.91,Asaba,02.08.2018
+347,31,8.31,+1.9,Luvo Manyonga,RSA,18.11.91,Hengelo,09.06.2019
+348,34,8.30,,Carl Lewis,USA,01.07.61,Knoxville,19.06.1982
+349,34,8.30,+0.8,Lutz Dombrowski,GDR,25.06.59,Athínai,09.09.1982
+350,34,8.30,,Larry Myricks,USA,10.03.56,Koblenz,29.08.1984
+351,34,8.30,,Larry Myricks,USA,10.03.56,Tokyo,10.05.1987
+352,34,8.30,,Larry Myricks,USA,10.03.56,Budapest,06.07.1987
+353,34,8.30,,Robert Emmiyan,ARM,16.02.65,Roma,05.09.1987
+354,34,8.30,,Mike Powell,USA,10.11.63,Zürich,17.08.1988
+355,34,8.30,,Mike Powell,USA,10.11.63,Bern,23.08.1988
+356,34,8.30,,Larry Myricks,USA,10.03.56,Formia,24.06.1989
+357,34,8.30,,Larry Myricks,USA,10.03.56,Caorle,16.07.1989
+358,34,8.30,,Larry Myricks,USA,10.03.56,Caorle,16.07.1989
+359,34,8.30,,Mike Powell,USA,10.11.63,Seattle,25.07.1990
+360,34,8.30,,Dmitriy Bagryanov,RUS,18.12.67,Granada,30.05.1992
+361,34,8.30,,Mike Powell,USA,10.11.63,Berlin,21.08.1992
+362,34,8.30,+1.8,Erick Walder,USA,05.11.71,New Orleans,03.06.1993
+363,34,8.30,,Mike Powell,USA,10.11.63,Stockholm,05.07.1993
+364,34,8.30,,Mike Powell,USA,10.11.63,Saint-Denis,10.06.1994
+365,34,8.30,,Mike Powell,USA,10.11.63,Paris,03.07.1995
+366,34,8.30,,James Beckford,JAM,09.01.75,Orlando,05.04.1997
+367,34,8.30,,Erick Walder,USA,05.11.71,Indianapolis,15.06.1997
+368,34,8.30,+0.5,Erick Walder,USA,05.11.71,Athínai,05.08.1997
+369,34,8.30,+1.0,Iván Pedroso,CUB,17.12.72,Linz,05.07.1998
+370,34,8.30,+0.2,James Beckford,JAM,09.01.75,Torino,24.06.1999
+371,34,8.30,+0.5,Hussein Taher Al-Sabee,KSA,14.11.79,Djakarta,31.08.2000
+372,34,8.30,+1.6,Yago Lamela,ESP,24.07.77,Castellón de la P,12.08.2003
+373,34,8.30,±0.0,Yago Lamela,ESP,24.07.77,Córdoba,06.09.2003
+374,34,8.30,±0.0,Ignisious Gaisah,GHA,20.06.83,Roma,14.07.2006
+375,34,8.30,+0.1,Andrew Howe,ITA,12.05.85,Roma,14.07.2006
+376,34,8.30,+0.5,Irving Saladino,PAN,23.01.83,Osaka,30.08.2007
+377,34,8.30,+0.2,Irving Saladino,PAN,23.01.83,Rio de Janeiro,18.05.2008
+378,34,8.30,-0.2,Luvo Manyonga,RSA,18.11.91,Zürich,24.08.2017
+379,34,8.30,-0.3,Ruswahl Samaai,RSA,25.09.91,Zürich,30.08.2018
+380,34,8.30,-0.3,Luvo Manyonga,RSA,18.11.91,Zagreb,04.09.2018
+381,34,8.30,+0.5,Juan Miguel Echevarría,CUB,11.08.98,Ad-Dawhah,28.09.2019
+382,34,8.30,+1.4,Miltiádis Tentóglou,GRE,18.03.98,Eugene,16.07.2022
+383,34,8.30,+0.7,Marquis Dendy,USA,23.02.92,Monaco,10.08.2022
+384,34,8.30,+0.3,Miltiádis Tentóglou,GRE,18.03.98,Monaco,10.08.2022
+385,34,8.30,-0.5,Miltiádis Tentóglou,GRE,18.03.98,Monaco,10.08.2022
+386,38,8.29,+1.5,Jason Grimes,USA,10.09.59,Helsinki,10.08.1983
+387,38,8.29,,Carl Lewis,USA,01.07.61,Bruxelles,26.08.1983
+388,38,8.29,,Carl Lewis,USA,01.07.61,Bruxelles,30.08.1985
+389,38,8.29,±0.0,Robert Emmiyan,ARM,16.02.65,Stuttgart,29.08.1986
+390,38,8.29,,Jaime Jefferson,CUB,17.01.62,Bratislava,12.06.1987
+391,38,8.29,,Larry Myricks,USA,10.03.56,Bern,23.08.1988
+392,38,8.29,,Larry Myricks,USA,10.03.56,Stockholm,03.07.1989
+393,38,8.29,,Carl Lewis,USA,01.07.61,Berlin,18.08.1989
+394,38,8.29,,Mike Powell,USA,10.11.63,Bruxelles,10.08.1990
+395,38,8.29,,Mike Powell,USA,10.11.63,Tokyo,30.08.1991
+396,38,8.29,,Mike Powell,USA,10.11.63,Berlin,21.08.1992
+397,38,8.29,,Iván Pedroso,CUB,17.12.72,La Habana,16.05.1993
+398,38,8.29,,Mike Powell,USA,10.11.63,Indianapolis,25.06.1993
+399,38,8.29,,Mike Powell,USA,10.11.63,Lausanne,06.07.1994
+400,38,8.29,,Iván Pedroso,CUB,17.12.72,La Habana,30.06.1995
+401,38,8.29,,Iván Pedroso,CUB,17.12.72,Bad Cannstatt,09.07.1995
+402,38,8.29,,Carl Lewis,USA,01.07.61,Atlanta,19.06.1996
+403,38,8.29,,Erick Walder,USA,05.11.71,Indianapolis,15.06.1997
+404,38,8.29,,Erick Walder,USA,05.11.71,Indianapolis,15.06.1997
+405,38,8.29,+1.4,Erick Walder,USA,05.11.71,Athínai,05.08.1997
+406,38,8.29,-0.4,Erick Walder,USA,05.11.71,Athínai,05.08.1997
+407,38,8.29,,James Beckford,JAM,09.01.75,Paris,21.07.1999
+408,38,8.29,+1.6,Dwight Phillips,USA,01.10.77,Sheffield,21.08.2005
+409,38,8.29,,Irving Saladino,PAN,23.01.83,Zürich,18.08.2006
+410,38,8.29,±0.0,Irving Saladino,PAN,23.01.83,Linz,22.08.2006
+411,38,8.29,+0.7,Godfrey Khotso Mokoena,RSA,06.03.85,Kalamáta,30.05.2009
+412,38,8.29,±0.0,Irving Saladino,PAN,23.01.83,Eugene,07.06.2009
+413,38,8.29,+0.1,Dwight Phillips,USA,01.10.77,Roma,10.07.2009
+414,38,8.29,+1.3,Dwight Phillips,USA,01.10.77,Des Moines,27.06.2010
+415,38,8.29,-1.0,Greg Rutherford,GBR,17.11.86,Beijing,25.08.2015
+416,38,8.29A,+0.2,Luvo Manyonga,RSA,18.11.91,Pretoria,17.03.2017
+417,38,8.29,+0.6,Luvo Manyonga,RSA,18.11.91,London,05.08.2017
+418,38,8.29,-0.1,Juan Miguel Echevarría,CUB,11.08.98,Stockholm,10.06.2018
+419,38,8.29,-0.4,Ruswahl Samaai,RSA,25.09.91,London,22.07.2018
+420,38,8.29,+0.6,Huang Changzhou,CHN,20.08.94,Shaoxing,15.09.2020
+421,38,8.29,+0.2,Wang Jianan,CHN,27.08.96,Shaoxing,15.09.2020
+422,38,8.29,+1.1,Yuki Hashioka,JPN,23.01.99,Osaka,27.06.2021
+423,38,8.29,-0.3,Marquis Dendy,USA,23.02.92,Eugene,27.06.2021
+424,38,8.29,+0.1,Miltiádis Tentóglou,GRE,18.03.98,Eugene,16.07.2022
+425,38,8.29,-0.5,Miltiádis Tentóglou,GRE,18.03.98,Monaco,10.08.2022
+426,42,8.28,,Larry Myricks,USA,10.03.56,Tallahassee,30.05.1981
+427,42,8.28,,Larry Myricks,USA,10.03.56,Sacramento,20.06.1981
+428,42,8.28,,Larry Myricks,USA,10.03.56,Zürich,17.08.1988
+429,42,8.28,,Carl Lewis,USA,01.07.61,Stockholm,03.07.1989
+430,42,8.28,,Mike Powell,USA,10.11.63,Westwood,20.07.1991
+431,42,8.28,,Iván Pedroso,CUB,17.12.72,La Habana,22.05.1993
+432,42,8.28,,Mike Powell,USA,10.11.63,Köln,01.08.1993
+433,42,8.28,,Mike Powell,USA,10.11.63,Stuttgart,20.08.1993
+434,42,8.28,+1.7,Mike Powell,USA,10.11.63,Oslo,22.07.1994
+435,42,8.28,,Iván Pedroso,CUB,17.12.72,Göteborg,12.08.1995
+436,42,8.28,+1.0,James Beckford,JAM,09.01.75,Osaka,10.05.1997
+437,42,8.28,,Iván Pedroso,CUB,17.12.72,Roma,05.06.1997
+438,42,8.28,,James Beckford,JAM,09.01.75,Roma,05.06.1997
+439,42,8.28,,James Beckford,JAM,09.01.75,Ad-Dawhah,07.05.1998
+440,42,8.28A,+0.5,Iván Pedroso,CUB,17.12.72,Johannesburg,11.09.1998
+441,42,8.28,+0.9,Luis Felipe Méliz Linar,CUB,11.08.79,Jena,03.06.2000
+442,42,8.28,+0.6,Jai Taurima,AUS,26.06.72,Sydney,28.09.2000
+443,42,8.28,,Danila Burkenya,RUS,20.07.78,Tula,14.07.2001
+444,42,8.28,+1.2,Yago Lamela,ESP,24.07.77,Castellón de la P,18.08.2003
+445,42,8.28,+1.5,John Moffitt,USA,12.12.80,Athínai,26.08.2004
+446,42,8.28,+0.2,Irving Saladino,PAN,23.01.83,Saint-Denis,08.07.2006
+447,42,8.28,-0.1,Mohamed Salman Al-Khuwa,KSA,19.06.81,Stuttgart,10.09.2006
+448,42,8.28,+0.3,Godfrey Khotso Mokoena,RSA,06.03.85,Monaco,28.07.2009
+449,42,8.28,-0.2,Mitchell Watt,AUS,25.03.88,Berlin,22.08.2009
+450,42,8.28,+0.8,Ndiss Kaba Badji,SEN,21.09.83,Beyrouth,02.10.2009
+451,42,8.28,-0.8,Dwight Phillips,USA,01.10.77,Roma,10.06.2010
+452,42,8.28,-0.2,Luvo Manyonga,RSA,18.11.91,Rio de Janeiro,13.08.2016
+453,42,8.28,+0.1,Luvo Manyonga,RSA,18.11.91,Bruxelles,09.09.2016
+454,42,8.28,-1.0,Luvo Manyonga,RSA,18.11.91,Stockholm,18.06.2017
+455,42,8.28,+0.6,Wang Jianan,CHN,27.08.96,Guiyang,16.06.2018
+456,42,8.28,+0.3,Ruswahl Samaai,RSA,25.09.91,London,22.07.2018
+457,42,8.28,-0.1,Jeffrey Henderson,USA,19.02.89,Ad-Dawhah,28.09.2019
+458,42,8.28,-0.2,Marquis Dendy,USA,23.02.92,Eugene,27.06.2021
+459,46,8.27,,Larry Myricks,USA,10.03.56,Zürich,18.08.1982
+460,46,8.27,+0.6,Robert Emmiyan,ARM,16.02.65,Moskva,08.06.1985
+461,46,8.27,,Robert Emmiyan,ARM,16.02.65,Moskva,07.06.1987
+462,46,8.27,,Larry Myricks,USA,10.03.56,Budapest,06.07.1987
+463,46,8.27,,Larry Myricks,USA,10.03.56,Tokyo,16.09.1989
+464,46,8.27,,Jaime Jefferson,CUB,17.01.62,La Habana,12.05.1990
+465,46,8.27,,Iván Pedroso,CUB,17.12.72,La Habana,22.05.1993
+466,46,8.27,,Iván Pedroso,CUB,17.12.72,Alcorcón,03.06.1993
+467,46,8.27,,Mike Powell,USA,10.11.63,Zürich,04.08.1993
+468,46,8.27,,Mike Powell,USA,10.11.63,Rhede,06.08.1993
+469,46,8.27,,Mike Powell,USA,10.11.63,Oslo,22.07.1994
+470,46,8.27A,,Kareem Streete-Thompson,USA,30.03.73,El Paso,15.04.1995
+471,46,8.27,,Joe Greene,USA,17.02.67,São Paulo,14.05.1995
+472,46,8.27,,Iván Pedroso,CUB,17.12.72,Lausanne,05.07.1995
+473,46,8.27,-0.1,Pedro Pavel Garcia,CUB,11.06.76,La Habana,14.02.1997
+474,46,8.27,+0.2,Pedro Pavel Garcia,CUB,11.06.76,La Habana,14.02.1997
+475,46,8.27,,James Beckford,JAM,09.01.75,Haniá,31.05.1997
+476,46,8.27,-0.1,James Beckford,JAM,09.01.75,Athínai,16.06.1999
+477,46,8.27,,James Beckford,JAM,09.01.75,Paris,21.07.1999
+478,46,8.27,,Iván Pedroso,CUB,17.12.72,Montauban,07.08.1999
+479,46,8.27,,Melvin Lister,USA,29.08.77,Baton Rouge,13.05.2000
+480,46,8.27,,James Beckford,JAM,09.01.75,Kingston,22.07.2000
+481,46,8.27,,Iván Pedroso,CUB,17.12.72,Bruxelles,24.08.2001
+482,46,8.27,+0.4,Dwight Phillips,USA,01.10.77,Monaco,13.09.2003
+483,46,8.27,+0.7,Godfrey Khotso Mokoena,RSA,06.03.85,Berlin,14.06.2009
+484,46,8.27,-0.3,Godfrey Khotso Mokoena,RSA,06.03.85,Berlin,14.06.2009
+485,46,8.27,-1.4,Fabrice Lapierre,AUS,17.10.83,Shanghai,23.05.2010
+486,46,8.27,+0.6,Dwight Phillips,USA,01.10.77,Hengelo,30.05.2010
+487,46,8.27,-0.2,Greg Rutherford,GBR,17.11.86,Zürich,17.08.2014
+488,46,8.27,+1.4,Marquis Dendy,USA,23.02.92,Eugene,10.06.2015
+489,46,8.27,-0.3,Greg Rutherford,GBR,17.11.86,Zürich,03.09.2015
+490,46,8.27,±0.0,Luvo Manyonga,RSA,18.11.91,Bloemfontein,08.03.2017
+491,46,8.27,+0.1,Ruswahl Samaai,RSA,25.09.91,London,05.08.2017
+492,46,8.27,+0.7,Ruswahl Samaai,RSA,25.09.91,Bad Langensalza,30.06.2018
+493,46,8.27,+1.5,Ruswahl Samaai,RSA,25.09.91,Asaba,02.08.2018
+494,46,8.27,+0.8,Ruswahl Samaai,RSA,25.09.91,Asaba,02.08.2018
+495,46,8.27,-0.4,Miltiádis Tentóglou,GRE,18.03.98,Cluj Napoca,19.06.2021
+496,46,8.27,+0.6,Yuki Hashioka,JPN,23.01.99,Osaka,27.06.2021
+497,46,8.27,-1.1,Miltiádis Tentóglou,GRE,18.03.98,Monaco,10.08.2022
+498,46,8.27,-0.1,Simon Ehammer,SUI,07.02.00,München,15.08.2022
+499,50,8.26,,Ralph Boston,USA,09.05.39,Modesto,29.05.1965
+500,50,8.26,±0.0,Arnie Robinson,USA,07.04.48,Montréal,29.07.1976
+501,50,8.26,,Carl Lewis,USA,01.07.61,Zürich,19.08.1981
+502,50,8.26,,Larry Myricks,USA,10.03.56,Köln,23.08.1981
+503,50,8.26,,Carl Lewis,USA,01.07.61,Knoxville,19.06.1982
+504,50,8.26,,Larry Myricks,USA,10.03.56,Zürich,22.08.1984
+505,50,8.26,,Larry Myricks,USA,10.03.56,Lausanne,15.09.1987
+506,50,8.26,,Larry Myricks,USA,10.03.56,Cagliari,16.09.1987
+507,50,8.26,,Larry Myricks,USA,10.03.56,Lausanne,24.06.1988
+508,50,8.26,,Mike Powell,USA,10.11.63,Zürich,17.08.1988
+509,50,8.26,,Larry Myricks,USA,10.03.56,Bruxelles,25.08.1989
+510,50,8.26,,Mike Powell,USA,10.11.63,Rhede,06.08.1993
+511,50,8.26,,Mike Powell,USA,10.11.63,Zürich,17.08.1994
+512,50,8.26,,Roland McGhee,USA,15.10.71,São Paulo,14.05.1995
+513,50,8.26,,Konstantin Krause,GER,08.10.67,Bad Langensalza,15.06.1997
+514,50,8.26,,James Beckford,JAM,09.01.75,Monaco,16.08.1997
+515,50,8.26,,James Beckford,JAM,09.01.75,Monaco,16.08.1997
+516,50,8.26,-0.6,Iván Pedroso,CUB,17.12.72,Athínai,16.06.1999
+517,50,8.26,,James Beckford,JAM,09.01.75,Oslo,30.06.1999
+518,50,8.26,,Savanté Stringfellow,USA,06.11.78,Eugene,31.05.2001
+519,50,8.26,+0.4,Savanté Stringfellow,USA,06.11.78,Madrid,03.07.2002
+520,50,8.26,+1.2,Dwight Phillips,USA,01.10.77,Tríkala,24.06.2003
+521,50,8.26,+1.2,Yago Lamela,ESP,24.07.77,Castellón de la P,18.08.2003
+522,50,8.26,±0.0,Ignisious Gaisah,GHA,20.06.83,Saint-Denis,08.07.2006
+523,50,8.26,+1.7,Ndiss Kaba Badji,SEN,21.09.83,Beyrouth,02.10.2009
+524,50,8.26,-0.3,Aleksandr Menkov,RUS,07.12.90,Birmingham,30.06.2013
+525,50,8.26,-0.2,Greg Rutherford,GBR,17.11.86,Rio de Janeiro,13.08.2016
+526,50,8.26,+0.2,Luvo Manyonga,RSA,18.11.91,Bruxelles,09.09.2016
+527,50,8.26,+0.7,Ruswahl Samaai,RSA,25.09.91,Székesfehérvár,04.07.2017
+528,50,8.26,-0.2,Ruswahl Samaai,RSA,25.09.91,Székesfehérvár,04.07.2017
+529,50,8.26,+1.1,Ruswahl Samaai,RSA,25.09.91,Székesfehérvár,04.07.2017
+530,50,8.26,-0.2,Ruswahl Samaai,RSA,25.09.91,Zürich,24.08.2017
+531,50,8.26,+0.7,Huang Changzhou,CHN,20.08.94,Tianjin,06.09.2017
+532,50,8.26,+0.1,Ruswahl Samaai,RSA,25.09.91,Roma,31.05.2018
+533,50,8.26,+0.9,Ruswahl Samaai,RSA,25.09.91,Zürich,30.08.2018
+534,50,8.26,+1.8,J. Jeswin Aldrin,IND,24.12.01,Bellary,02.03.2023
+535,53,8.25A,,Igor Ter-Ovanesyan,RUS,19.05.38,Leninakan,17.08.1968
+536,53,8.25,,Lutz Dombrowski,GDR,25.06.59,Torino,04.08.1979
+537,53,8.25,,Nenad Stekic,SRB,07.03.51,Athínai,11.08.1979
+538,53,8.25,,Larry Myricks,USA,10.03.56,Eugene,25.06.1980
+539,53,8.25,+0.2,Lutz Dombrowski,GDR,25.06.59,Athínai,09.09.1982
+540,53,8.25,,Larry Myricks,USA,10.03.56,Los Angeles,18.06.1984
+541,53,8.25,,Lutz Dombrowski,GDR,25.06.59,Dresden,27.07.1984
+542,53,8.25,,Larry Myricks,USA,10.03.56,Zürich,22.08.1984
+543,53,8.25,+1.2,Robert Emmiyan,ARM,16.02.65,Moskva,08.06.1985
+544,53,8.25,,Carl Lewis,USA,01.07.61,Bruxelles,30.08.1985
+545,53,8.25,,Robert Emmiyan,ARM,16.02.65,Moskva,06.07.1986
+546,53,8.25,,Larry Myricks,USA,10.03.56,Houston,03.08.1986
+547,53,8.25,,Jaime Jefferson,CUB,17.01.62,Moskva,07.06.1987
+548,53,8.25,,Jaime Jefferson,CUB,17.01.62,La Habana,05.08.1988
+549,53,8.25,,Larry Myricks,USA,10.03.56,Westwood,10.06.1989
+550,53,8.25,,Mike Powell,USA,10.11.63,Westwood,06.08.1989
+551,53,8.25,,Robert Emmiyan,ARM,16.02.65,Barcelona,16.07.1990
+552,53,8.25,,Mike Powell,USA,10.11.63,Westwood,20.07.1991
+553,53,8.25,,Mike Powell,USA,10.11.63,Bruxelles,28.08.1992
+554,53,8.25A,,Kareem Streete-Thompson,USA,30.03.73,El Paso,10.04.1993
+555,53,8.25,,Mike Powell,USA,10.11.63,Villeneuve d'Ascq,02.07.1993
+556,53,8.25,,Iván Pedroso,CUB,17.12.72,Monaco,25.07.1995
+557,53,8.25A,,Joe Greene,USA,17.02.67,Sestriere,07.08.1996
+558,53,8.25,+1.1,James Beckford,JAM,09.01.75,Bruxelles,22.08.1997
+559,53,8.25,,James Beckford,JAM,09.01.75,Villeneuve d'Ascq,17.06.2000
+560,53,8.25,,Hussein Taher Al-Sabee,KSA,14.11.79,Ad-Dawhah,18.05.2001
+561,53,8.25,±0.0,Savanté Stringfellow,USA,06.11.78,Tríkala,24.06.2003
+562,53,8.25,-0.3,Irving Saladino,PAN,23.01.83,Sevilla,04.06.2005
+563,53,8.25,+0.9,Miguel Pate,USA,13.06.79,Sheffield,21.08.2005
+564,53,8.25,,Dwight Phillips,USA,01.10.77,Roma,14.07.2006
+565,53,8.25,-0.7,Irving Saladino,PAN,23.01.83,Cartagena,28.07.2006
+566,53,8.25,-0.5,Irving Saladino,PAN,23.01.83,Hengelo,26.05.2007
+567,53,8.25,+1.6,Ngonidzashe Makusha,ZIM,11.03.87,Des Moines,12.06.2008
+568,53,8.25,-0.4,Godfrey Khotso Mokoena,RSA,06.03.85,Monaco,28.07.2009
+569,53,8.25,+0.1,Dwight Phillips,USA,01.10.77,Berlin,22.08.2009
+570,53,8.25,+1.3,Mitchell Watt,AUS,25.03.88,London,13.07.2012
+571,53,8.25,+0.4,Eusebio Cáceres,ESP,10.09.91,Moskva,16.08.2013
+572,53,8.25,-0.7,Ruswahl Samaai,RSA,25.09.91,London,05.08.2017
+573,53,8.25,+0.7,Luvo Manyonga,RSA,18.11.91,Zürich,30.08.2018
+574,53,8.25,-0.1,Luvo Manyonga,RSA,18.11.91,Zagreb,04.09.2018
+575,53,8.25A,+1.3,Andwuelle Wright,TTO,08.08.97,Queretaro,05.07.2019
+576,53,8.25,+1.2,Miltiádis Tentóglou,GRE,18.03.98,Gävle,12.07.2019
+577,53,8.25,±0.0,Juan Miguel Echevarría,CUB,11.08.98,Ad-Dawhah,28.09.2019
+578,57,8.24,,Ralph Boston,USA,09.05.39,Modesto,29.05.1965
+579,57,8.24,,Larry Myricks,USA,10.03.56,Tallahassee,30.05.1981
+580,57,8.24,,Carl Lewis,USA,01.07.61,Knoxville,19.06.1982
+581,57,8.24,,Lutz Dombrowski,GDR,25.06.59,Berlin,20.07.1984
+582,57,8.24,,Robert Emmiyan,ARM,16.02.65,Tallinn,21.06.1986
+583,57,8.24,±0.0,Larry Myricks,USA,10.03.56,Budapest,11.08.1986
+584,57,8.24,+0.6,Larry Myricks,USA,10.03.56,Budapest,11.08.1986
+585,57,8.24,,Larry Myricks,USA,10.03.56,Bern,08.07.1987
+586,57,8.24,,Larry Myricks,USA,10.03.56,Westwood,10.06.1989
+587,57,8.24,,Larry Myricks,USA,10.03.56,Berlin,18.08.1989
+588,57,8.24,,Mike Powell,USA,10.11.63,Modesto,05.05.1990
+589,57,8.24,,Larry Myricks,USA,10.03.56,São Paulo,19.05.1991
+590,57,8.24,,Mike Powell,USA,10.11.63,Rhede,07.07.1991
+591,57,8.24,,Llewellyn Starks,USA,10.02.67,Lausanne,10.07.1991
+592,57,8.24,,Erick Walder,USA,05.11.71,Eugene,19.06.1993
+593,57,8.24,,Mike Powell,USA,10.11.63,Köln,01.08.1993
+594,57,8.24A,,Kareem Streete-Thompson,USA,30.03.73,El Paso,16.04.1994
+595,57,8.24,+0.1,Erick Walder,USA,05.11.71,Boise,02.06.1994
+596,57,8.24,,Roland McGhee,USA,15.10.71,Rhede,29.07.1994
+597,57,8.24,,Iván Pedroso,CUB,17.12.72,Bad Cannstatt,09.07.1995
+598,57,8.24,,Carl Lewis,USA,01.07.61,Atlanta,19.06.1996
+599,57,8.24,-0.3,Iván Pedroso,CUB,17.12.72,Viareggio,07.08.1998
+600,57,8.24,,Iván Pedroso,CUB,17.12.72,Maracaibo,17.08.1998
+601,57,8.24,+0.7,James Beckford,JAM,09.01.75,Torino,24.06.1999
+602,57,8.24,,Iván Pedroso,CUB,17.12.72,München,11.09.1999
+603,57,8.24,,James Beckford,JAM,09.01.75,Bad Langensalza,01.07.2000
+604,57,8.24,,Savanté Stringfellow,USA,06.11.78,Bruxelles,24.08.2001
+605,57,8.24,,Savanté Stringfellow,USA,06.11.78,Hamburg,12.06.2002
+606,57,8.24,+0.5,Ignisious Gaisah,GHA,20.06.83,Bad Langensalza,03.07.2004
+607,57,8.24,+0.2,John Moffitt,USA,12.12.80,Athínai,26.08.2004
+608,57,8.24,+1.6,Irving Saladino,PAN,23.01.83,Rieti,09.09.2007
+609,57,8.24,+0.4,Hussein Taher Al-Sabee,KSA,14.11.79,Saint-Denis,18.07.2008
+610,57,8.24,+1.4,Godfrey Khotso Mokoena,RSA,06.03.85,Madrid,04.07.2009
+611,57,8.24,+1.4,Mitchell Watt,AUS,25.03.88,Réthymno,20.07.2009
+612,57,8.24,+0.7,Fabrice Lapierre,AUS,17.10.83,Shanghai,23.05.2010
+613,57,8.24,+0.5,Greg Rutherford,GBR,17.11.86,Birmingham,07.06.2015
+614,57,8.24,-0.5,Luvo Manyonga,RSA,18.11.91,Bruxelles,09.09.2016
+615,57,8.24A,,Luvo Manyonga,RSA,18.11.91,Potchefstroom,22.04.2017
+616,57,8.24,+1.6,Juan Miguel Echevarría,CUB,11.08.98,Madrid,14.07.2017
+617,57,8.24,+1.8,Ruswahl Samaai,RSA,25.09.91,Rabat,16.07.2017
+618,57,8.24,+0.7,Luvo Manyonga,RSA,18.11.91,Pretoria,17.03.2018
+619,57,8.24,+1.2,Luvo Manyonga,RSA,18.11.91,Gold Coast,11.04.2018
+620,57,8.24A,+1.4,Emiliano Lasa,URU,25.01.90,Cochabamba,05.06.2018
+621,57,8.24,-0.1,Huang Changzhou,CHN,20.08.94,Shaoxing,15.09.2020
+622,57,8.24,+1.8,Jeffrey Henderson,USA,19.02.89,Chula Vista,29.05.2021
+623,57,8.24,+0.4,JuVaughn Harrison,USA,30.04.99,Eugene,27.06.2021
+624,57,8.24,+0.2,Steffin McCarter,USA,19.01.97,Eugene,27.06.2021
+625,57,8.24,+0.7,Miltiádis Tentóglou,GRE,18.03.98,Eugene,16.07.2022
+626,62,8.23,,Carl Lewis,USA,01.07.61,Westwood,07.08.1982
+627,62,8.23,+0.6,Jason Grimes,USA,10.09.59,Helsinki,10.08.1983
+628,62,8.23,,Larry Myricks,USA,10.03.56,Walnut,29.04.1984
+629,62,8.23,,Larry Myricks,USA,10.03.56,Los Angeles,18.06.1984
+630,62,8.23,-0.1,László Szalma,HUN,21.10.57,Budapest,14.08.1985
+631,62,8.23,+0.7,Larry Myricks,USA,10.03.56,Berlin,15.08.1986
+632,62,8.23A,,Larry Myricks,USA,10.03.56,San José,26.06.1987
+633,62,8.23,,Larry Myricks,USA,10.03.56,Rhede,03.07.1987
+634,62,8.23,,Larry Myricks,USA,10.03.56,Roma,05.09.1987
+635,62,8.23,,Carl Lewis,USA,01.07.61,Lausanne,24.06.1988
+636,62,8.23,+1.6,Mike Powell,USA,10.11.63,Seoul,26.09.1988
+637,62,8.23,,Mike Powell,USA,10.11.63,Berlin,21.08.1992
+638,62,8.23,,Iván Pedroso,CUB,17.12.72,Alcorcón,03.06.1993
+639,62,8.23,,Mike Powell,USA,10.11.63,Rhede,06.08.1993
+640,62,8.23,,Iván Pedroso,CUB,17.12.72,Paris,03.07.1995
+641,62,8.23,,Iván Pedroso,CUB,17.12.72,Göteborg,12.08.1995
+642,62,8.23,,Kirill Sosunov,RUS,01.11.75,Oristano,18.09.1995
+643,62,8.23,,James Beckford,JAM,09.01.75,Oristano,18.09.1995
+644,62,8.23,,James Beckford,JAM,09.01.75,Catania,31.08.1997
+645,62,8.23,,Erick Walder,USA,05.11.71,New Orleans,19.06.1998
+646,62,8.23,,James Beckford,JAM,09.01.75,Formia,12.07.1998
+647,62,8.23,,Peter Burge,AUS,03.07.74,Melbourne,02.03.2000
+648,62,8.23,,Iván Pedroso,CUB,17.12.72,Lausanne,05.07.2000
+649,62,8.23,,Savanté Stringfellow,USA,06.11.78,Eugene,31.05.2001
+650,62,8.23,,James Beckford,JAM,09.01.75,Torino,09.06.2001
+651,62,8.23,-0.9,Iván Pedroso,CUB,17.12.72,Edmonton,11.08.2001
+652,62,8.23,,Miguel Pate,USA,13.06.79,Des Moines,25.04.2003
+653,62,8.23,+1.7,Yago Lamela,ESP,24.07.77,Castellón de la P,12.08.2003
+654,62,8.23,-0.1,Ignisious Gaisah,GHA,20.06.83,Monaco,13.09.2003
+655,62,8.23,+0.3,Savanté Stringfellow,USA,06.11.78,Walnut,18.04.2004
+656,62,8.23,-0.4,Dwight Phillips,USA,01.10.77,Carson,23.06.2005
+657,62,8.23,-0.1,Dwight Phillips,USA,01.10.77,Carson,23.06.2005
+658,62,8.23,+0.1,Brian Johnson,USA,25.03.80,Réthymno,10.07.2005
+659,62,8.23,-0.8,Miguel Pate,USA,13.06.79,Indianapolis,22.06.2007
+660,62,8.23,+1.2,Salim Sdiri,FRA,26.10.78,Pierre-Bénite,12.06.2009
+661,62,8.23,+0.9,Dwight Phillips,USA,01.10.77,Des Moines,27.06.2010
+662,62,8.23,-0.1,Mitchell Watt,AUS,25.03.88,Melbourne,17.04.2011
+663,62,8.23,+1.3,Marquise Goodwin,USA,19.11.90,Eugene,24.06.2012
+664,62,8.23,+1.5,Yeóryios Tsákonas,GRE,22.01.88,Thiva,25.07.2012
+665,62,8.23,-0.1,Mauro Vinicius da Silva,BRA,26.12.86,Moskva,16.08.2013
+666,62,8.23,±0.0,Ruswahl Samaai,RSA,25.09.91,Zürich,24.08.2017
+667,62,8.23,+1.9,Luvo Manyonga,RSA,18.11.91,Bad Langensalza,30.06.2018
+668,62,8.23,-0.1,Juan Miguel Echevarría,CUB,11.08.98,Guadalajara,05.07.2018
+669,62,8.23,+0.2,Huang Changzhou,CHN,20.08.94,Shaoxing,15.09.2020
+670,62,8.23,+0.4,Huang Changzhou,CHN,20.08.94,Shaoxing,15.09.2020
+671,62,8.23,+0.2,Miltiádis Tentóglou,GRE,18.03.98,München,16.08.2022
+672,67,8.22,,Ralph Boston,USA,09.05.39,Moskva,16.07.1961
+673,67,8.22,,Larry Myricks,USA,10.03.56,Tallahassee,30.05.1981
+674,67,8.22,,Carl Lewis,USA,01.07.61,Zürich,18.08.1982
+675,67,8.22,,Larry Myricks,USA,10.03.56,Koblenz,29.08.1984
+676,67,8.22,,Carl Lewis,USA,01.07.61,Tokyo,22.09.1985
+677,67,8.22,,Robert Emmiyan,ARM,16.02.65,Tallinn,21.06.1986
+678,67,8.22,,Robert Emmiyan,ARM,16.02.65,Moskva,06.07.1986
+679,67,8.22,,Larry Myricks,USA,10.03.56,Moskva,06.07.1986
+680,67,8.22,,Eric Metcalf,USA,23.01.68,Tampa,17.06.1988
+681,67,8.22A,,Jaime Jefferson,CUB,17.01.62,Ciudad de México,22.07.1988
+682,67,8.22,,Mike Powell,USA,10.11.63,Seattle,25.07.1990
+683,67,8.22,,Larry Myricks,USA,10.03.56,Modesto,11.05.1991
+684,67,8.22,,Mike Powell,USA,10.11.63,Barcelona,06.08.1992
+685,67,8.22,,Mike Powell,USA,10.11.63,Berlin,21.08.1992
+686,67,8.22,,Iván Pedroso,CUB,17.12.72,La Habana,22.05.1993
+687,67,8.22,,Mike Powell,USA,10.11.63,Stuttgart,20.08.1993
+688,67,8.22,,Kareem Streete-Thompson,USA,30.03.73,Lausanne,06.07.1994
+689,67,8.22A,,Kareem Streete-Thompson,USA,30.03.73,El Paso,15.04.1995
+690,67,8.22,,Kirill Sosunov,RUS,01.11.75,Oristano,18.09.1995
+691,67,8.22,,James Beckford,JAM,09.01.75,Innsbruck,29.05.1996
+692,67,8.22,,Erick Walder,USA,05.11.71,Atlanta,19.06.1996
+693,67,8.22,,Mike Conley,USA,05.10.62,Atlanta,19.06.1996
+694,67,8.22,,James Beckford,JAM,09.01.75,Salamanca,05.07.1996
+695,67,8.22,,Konstantin Krause,GER,08.10.67,Bad Langensalza,15.06.1997
+696,67,8.22,,James Beckford,JAM,09.01.75,Fukuoka,13.09.1997
+697,67,8.22,-0.3,Iván Pedroso,CUB,17.12.72,Viareggio,07.08.1998
+698,67,8.22,,James Beckford,JAM,09.01.75,Bad Langensalza,12.06.1999
+699,67,8.22,,James Beckford,JAM,09.01.75,Torino,09.06.2001
+700,67,8.22,+1.2,Savanté Stringfellow,USA,06.11.78,Edmonton,11.08.2001
+701,67,8.22,,Kevin Dilworth,USA,14.02.74,Bruxelles,24.08.2001
+702,67,8.22,+1.8,Ibrahín Camejo,CUB,28.06.82,La Habana,23.02.2002
+703,67,8.22,+0.4,Dwight Phillips,USA,01.10.77,Saint-Denis,29.08.2003
+704,67,8.22,+1.2,Salim Sdiri,FRA,26.10.78,Sotteville-lès-Ro,18.07.2004
+705,67,8.22,-0.4,Irving Saladino,PAN,23.01.83,Santiago,08.05.2005
+706,67,8.22,+1.1,Louis Tsátoumas,GRE,12.02.82,Réthymno,13.07.2011
+707,67,8.22,+1.0,Mitchell Watt,AUS,25.03.88,London,05.08.2011
+708,67,8.22,-0.5,Aleksandr Menkov,RUS,07.12.90,Birmingham,30.06.2013
+709,67,8.22,-0.9,Mike Hartfield,USA,29.03.90,Birmingham,05.06.2016
+710,67,8.22,-0.3,Jeffrey Henderson,USA,19.02.89,Rio de Janeiro,13.08.2016
+711,67,8.22,-0.2,Greg Rutherford,GBR,17.11.86,Rio de Janeiro,13.08.2016
+712,67,8.22,+1.0,Maykel Demetrio Massó,CUB,08.05.99,London,05.08.2017
+713,67,8.22,-0.7,Juan Miguel Echevarría,CUB,11.08.98,Rabat,16.06.2019
+714,67,8.22,+1.0,Gao Xinglong,CHN,12.03.94,La Chaux-de-Fonds,30.06.2019
+715,67,8.22,+1.9,Miltiádis Tentóglou,GRE,18.03.98,Gävle,12.07.2019
+716,67,8.22,+1.4,JuVaughn Harrison,USA,30.04.99,College Station,14.05.2021
+717,67,8.22,-0.4,Tajay Gayle,JAM,02.08.96,Kingston,26.06.2021
+718,71,8.21,,Ralph Boston,USA,09.05.39,Kingston,15.08.1964
+719,71,8.21A,,Igor Ter-Ovanesyan,RUS,19.05.38,Leninakan,17.08.1968
+720,71,8.21,,Larry Myricks,USA,10.03.56,Eugene,25.06.1980
+721,71,8.21,,Lutz Dombrowski,GDR,25.06.59,Moskva,28.07.1980
+722,71,8.21,,Larry Myricks,USA,10.03.56,Köln,23.08.1981
+723,71,8.21A,,Jason Grimes,USA,10.09.59,Air Force Academy,02.07.1983
+724,71,8.21,,Lutz Dombrowski,GDR,25.06.59,Dresden,27.07.1984
+725,71,8.21,,Vernon George,USA,06.10.64,Baton Rouge,05.06.1987
+726,71,8.21,,Larry Myricks,USA,10.03.56,Zürich,17.08.1988
+727,71,8.21,,Larry Myricks,USA,10.03.56,Bruxelles,19.08.1988
+728,71,8.21,,Mike Powell,USA,10.11.63,Westwood,20.07.1991
+729,71,8.21,,Iván Pedroso,CUB,17.12.72,La Habana,14.05.1992
+730,71,8.21,+0.9,Dion Bentley,USA,26.08.71,New Orleans,03.06.1993
+731,71,8.21,,Mike Powell,USA,10.11.63,Zürich,04.08.1993
+732,71,8.21,,Douglas de Souza,BRA,06.08.72,São Paulo,15.02.1995
+733,71,8.21,+1.4,Kareem Streete-Thompson,USA,30.03.73,Knoxville,31.05.1995
+734,71,8.21,,Gregor Cankar,SLO,25.01.75,Innsbruck,29.05.1996
+735,71,8.21,,Konstantin Krause,GER,08.10.67,Bad Langensalza,15.06.1997
+736,71,8.21,,Iván Pedroso,CUB,17.12.72,Uniondale,20.07.1998
+737,71,8.21,,Peter Burge,AUS,03.07.74,Melbourne,02.03.2000
+738,71,8.21,,Peter Burge,AUS,03.07.74,Melbourne,02.03.2000
+739,71,8.21,+1.9,Yago Lamela,ESP,24.07.77,Thessaloníki,30.08.2000
+740,71,8.21,-0.3,Aleksey Lukasevich,UKR,11.01.77,Sydney,28.09.2000
+741,71,8.21,+1.3,Joan Lino Martínez,CUB,17.01.78,La Laguna,14.09.2002
+742,71,8.21,+1.8,Dwight Phillips,USA,01.10.77,Palo Alto,20.06.2003
+743,71,8.21,,James Beckford,JAM,09.01.75,Bad Langensalza,08.07.2006
+744,71,8.21,,Andrew Howe,ITA,12.05.85,Roma,14.07.2006
+745,71,8.21,,Irving Saladino,PAN,23.01.83,Zürich,18.08.2006
+746,71,8.21,+1.5,Gable Garenamotse,BOT,28.02.77,Rhede,20.08.2006
+747,71,8.21,+0.7,Irving Saladino,PAN,23.01.83,Athínai,16.09.2006
+748,71,8.21,,Chris Tomlinson,GBR,15.09.81,Bad Langensalza,07.07.2007
+749,71,8.21,+0.1,Irving Saladino,PAN,23.01.83,Beijing,18.08.2008
+750,71,8.21,-0.2,Fabrice Lapierre,AUS,17.10.83,Berlin,22.08.2009
+751,71,8.21,-1.1,Godfrey Khotso Mokoena,RSA,06.03.85,Shanghai,20.09.2009
+752,71,8.21,+1.1,Ndiss Kaba Badji,SEN,21.09.83,Beyrouth,02.10.2009
+753,71,8.21,+0.4,Chris Tomlinson,GBR,15.09.81,Saint-Denis,08.07.2011
+754,71,8.21,-0.6,Greg Rutherford,GBR,17.11.86,London,04.08.2012
+755,71,8.21,,Damar Forbes,JAM,18.09.90,Kingston,22.06.2013
+756,71,8.21,+0.2,Greg Rutherford,GBR,17.11.86,Zürich,03.09.2015
+757,71,8.21,+0.5,Marquise Goodwin,USA,19.11.90,Baie-Mahault,14.05.2016
+758,71,8.21,+1.6,Fabrice Lapierre,AUS,17.10.83,Birmingham,05.06.2016
+759,71,8.21,+0.7,Ruswahl Samaai,RSA,25.09.91,Hengelo,11.06.2017
+760,71,8.21,+0.1,Ruswahl Samaai,RSA,25.09.91,Székesfehérvár,04.07.2017
+761,71,8.21,+0.8,Ruswahl Samaai,RSA,25.09.91,Rabat,16.07.2017
+762,71,8.21,+0.4,Luvo Manyonga,RSA,18.11.91,Gold Coast,11.04.2018
+763,71,8.21,+1.6,Shi Yuhao,CHN,26.09.98,Shanghai,12.05.2018
+764,71,8.21,+1.7,Yuki Hashioka,JPN,23.01.99,Fukui,17.08.2019
+765,71,8.21,+2.0,Hibiki Tsuha,JPN,21.01.98,Fukui,17.08.2019
+766,71,8.21,+0.3,Wang Jianan,CHN,27.08.96,Shaoxing,15.09.2020
+767,71,8.21,+0.3,Miltiádis Tentóglou,GRE,18.03.98,Monaco,09.07.2021
+768,71,8.21,-0.4,Huang Changzhou,CHN,20.08.94,Xi'an,22.09.2021
+769,71,8.21,+0.9,Thobias Montler,SWE,15.02.96,Athínai,25.05.2022
+770,71,8.21,±0.0,Yuki Hashioka,JPN,23.01.99,Osaka,12.06.2022
+771,71,8.21,,J. Jeswin Aldrin,IND,24.12.01,Gandhinagar,04.10.2022
+772,77,8.20,,Ralph Boston,USA,09.05.39,Knoxville,15.04.1967
+773,77,8.20,,Arnie Robinson,USA,07.04.48,Modesto,22.05.1976
+774,77,8.20,+1.8,Jacques Rousseau,FRA,10.03.51,Lille,26.06.1976
+775,77,8.20,,Larry Myricks,USA,10.03.56,Köln,23.08.1981
+776,77,8.20,,Larry Myricks,USA,10.03.56,Walnut,25.04.1982
+777,77,8.20,,Larry Myricks,USA,10.03.56,Westwood,13.05.1984
+778,77,8.20,,Larry Myricks,USA,10.03.56,Rhede,03.07.1987
+779,77,8.20,,Larry Myricks,USA,10.03.56,Cagliari,16.09.1987
+780,77,8.20A,,Jaime Jefferson,CUB,17.01.62,Ciudad de México,22.07.1988
+781,77,8.20,,Larry Myricks,USA,10.03.56,Bruxelles,19.08.1988
+782,77,8.20,,Larry Myricks,USA,10.03.56,Stockholm,03.07.1989
+783,77,8.20,,Carl Lewis,USA,01.07.61,Stockholm,03.07.1989
+784,77,8.20,,Mike Powell,USA,10.11.63,Lausanne,10.07.1991
+785,77,8.20,,Larry Myricks,USA,10.03.56,Tokyo,30.08.1991
+786,77,8.20,+2.0,Dion Bentley,USA,26.08.71,New Orleans,03.06.1993
+787,77,8.20,+1.6,Kareem Streete-Thompson,USA,30.03.73,New Orleans,03.06.1993
+788,77,8.20,,Mike Powell,USA,10.11.63,Köln,01.08.1993
+789,77,8.20,+1.8,Kareem Streete-Thompson,USA,30.03.73,Knoxville,31.05.1995
+790,77,8.20,,James Beckford,JAM,09.01.75,Padova,07.07.1996
+791,77,8.20,,Kevin Dilworth,USA,14.02.74,Indianapolis,15.06.1997
+792,77,8.20,,James Beckford,JAM,09.01.75,Torino,24.06.1997
+793,77,8.20,,Erick Walder,USA,05.11.71,Villeneuve d'Ascq,29.06.1997
+794,77,8.20,,Iván Pedroso,CUB,17.12.72,Catania,31.08.1997
+795,77,8.20,,Erick Walder,USA,05.11.71,Rio de Janeiro,03.05.1998
+796,77,8.20,±0.0,James Beckford,JAM,09.01.75,Viareggio,07.08.1998
+797,77,8.20,-0.3,James Beckford,JAM,09.01.75,Torino,24.06.1999
+798,77,8.20,,Iván Pedroso,CUB,17.12.72,Padova,26.06.1999
+799,77,8.20,,James Beckford,JAM,09.01.75,Oslo,30.06.1999
+800,77,8.20,,Iván Pedroso,CUB,17.12.72,München,11.09.1999
+801,77,8.20,-0.1,Kevin Dilworth,USA,14.02.74,Haniá,04.06.2001
+802,77,8.20A,+1.9,Rául Fernández,ESP,08.03.78,Monachil,10.07.2002
+803,77,8.20,+1.0,Savanté Stringfellow,USA,06.11.78,Madrid,20.09.2002
+804,77,8.20,+1.1,Savanté Stringfellow,USA,06.11.78,Madrid,20.09.2002
+805,77,8.20,+2.0,James Beckford,JAM,09.01.75,Monaco,10.09.2005
+806,77,8.20,+1.1,Godfrey Khotso Mokoena,RSA,06.03.85,Helsinki,26.07.2006
+807,77,8.20,+0.9,Gable Garenamotse,BOT,28.02.77,Rhede,20.08.2006
+808,77,8.20,-1.6,Irving Saladino,PAN,23.01.83,Rio de Janeiro,13.05.2007
+809,77,8.20,+0.1,Hussein Taher Al-Sabee,KSA,14.11.79,Saint-Denis,18.07.2008
+810,77,8.20,+1.1,Godfrey Khotso Mokoena,RSA,06.03.85,Berlin,14.06.2009
+811,77,8.20,+0.4,Yahya Berrabah,MAR,13.10.81,Pescara,03.07.2009
+812,77,8.20,-0.3,Louis Tsátoumas,GRE,12.02.82,Athínai,13.07.2009
+813,77,8.20,-0.2,Fabrice Lapierre,AUS,17.10.83,Berlin,22.08.2009
+814,77,8.20,+0.5,Salim Sdiri,FRA,26.10.78,Tomblaine,25.06.2010
+815,77,8.20,+0.8,Chris Tomlinson,GBR,15.09.81,Barcelona,01.08.2010
+816,77,8.20,+0.8,Christian Reif,GER,24.10.84,Wesel,13.06.2011
+817,77,8.20,+1.5,Louis Tsátoumas,GRE,12.02.82,Réthymno,13.07.2011
+818,77,8.20,-0.4,Li Jinzhe,CHN,01.09.89,Shanghai,18.05.2013
+819,77,8.20,+0.2,Eusebio Cáceres,ESP,10.09.91,Moskva,16.08.2013
+820,77,8.20,+0.7,Fabrice Lapierre,AUS,17.10.83,Beijing,25.08.2015
+821,77,8.20,+1.6,Fabrice Lapierre,AUS,17.10.83,Sydney,03.04.2016
+822,77,8.20,-0.3,Mike Hartfield,USA,29.03.90,Baie-Mahault,14.05.2016
+823,77,8.20,-0.5,Fabrice Lapierre,AUS,17.10.83,Birmingham,05.06.2016
+824,77,8.20,+1.2,Kim Duk-hyung,KOR,08.12.85,Ried im Innkreis,10.06.2016
+825,77,8.20,+0.8,Jeffrey Henderson,USA,19.02.89,Rio de Janeiro,13.08.2016
+826,77,8.20,-3.7,Luvo Manyonga,RSA,18.11.91,Stockholm,18.06.2017
+827,77,8.20,,Ruswahl Samaai,RSA,25.09.91,Paarl,22.03.2018
+828,77,8.20,+1.7,Aleksandr Menkov,RUS,07.12.90,Zhukovskiy,23.06.2018
+829,77,8.20,+0.5,Juan Miguel Echevarría,CUB,11.08.98,Bad Langensalza,30.06.2018
+830,77,8.20,+1.4,Serhii Nykyforov,UKR,06.02.94,Lutsk,19.07.2018
+831,77,8.20,+1.0,Luvo Manyonga,RSA,18.11.91,Asaba,02.08.2018
+832,77,8.20,+1.9,Miltiádis Tentóglou,GRE,18.03.98,Gävle,12.07.2019
+833,77,8.20,+1.1,Thobias Montler,SWE,15.02.96,Stockholm,04.07.2021
+834,77,8.20,±0.0,Chris Mitrevski,AUS,12.07.96,Sydney,02.04.2022
+835,77,8.20,+0.5,Miltiádis Tentóglou,GRE,18.03.98,Eugene,16.07.2022
+836,77,8.20,+1.8,Tajay Gayle,JAM,02.08.96,Padova,04.09.2022

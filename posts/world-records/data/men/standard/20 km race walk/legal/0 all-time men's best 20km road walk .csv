@@ -1,0 +1,1484 @@
+,0,1,2,3,4,5,6,7
+0,1,1:16:36,Yusuke Suzuki,JPN,02.01.88,1,Nomi,15.03.2015
+1,2,1:16:43,Sergey Morozov,RUS,21.03.88,1,Saransk,08.06.2008
+2,3,1:16:54,Wang Kaihua,CHN,16.02.94,1cA,Huangshan,20.03.2021
+3,4,1:17:02,Yohann Diniz,FRA,01.01.78,1,Arles,08.03.2015
+4,5,1:17:15,Toshikazu Yamanishi,JPN,15.02.96,1,Nomi,17.03.2019
+5,6,1:17:16,Vladimir Kanaykin,RUS,21.03.85,1,Saransk,29.09.2007
+6,7,1:17:20,Toshikazu Yamanishi,JPN,15.02.96,1,Kobe,21.02.2021
+7,8,1:17:21,Jefferson Pérez,ECU,01.07.74,1,Saint-Denis,23.08.2003
+8,9,1:17:22,Francisco Javier Fernández,ESP,05.03.77,1,Turku,28.04.2002
+9,10,1:17:23,Vladimir Stankin,RUS,02.01.74,1,Adler,08.02.2004
+10,11,1:17:24,Yohann Diniz,FRA,01.01.78,1,Lugano,15.03.2015
+11,11,1:17:24,Masatora Kawano,JPN,23.10.98,2,Nomi,17.03.2019
+12,13,1:17:25,Sergey Shirobokov,RUS,10.02.99,1,Cheboksary,09.06.2018
+13,13,1:17:25,Koki Ikeda,JPN,03.05.98,3,Nomi,17.03.2019
+14,15,1:17:30,Alex Schwazer,ITA,26.11.84,1,Lugano,18.03.2012
+15,16,1:17:33,Nathan Deakes,AUS,17.08.77,1,Cixi,23.04.2005
+16,17,1:17:36,Vladimir Kanaykin,RUS,21.03.85,1,Cheboksary,17.06.2007
+17,17,1:17:36,Wang Zhen,CHN,24.08.91,1,Taicang,30.03.2012
+18,17,1:17:36,Toshikazu Yamanishi,JPN,15.02.96,1,Kobe,16.02.2020
+19,20,1:17:38,Valeriy Borchin,RUS,03.07.86,1,Adler,28.02.2009
+20,21,1:17:39,Cai Zelin,CHN,11.04.91,2cA,Huangshan,20.03.2021
+21,21,1:17:39,Zhang Jun,CHN,20.07.98,3cA,Huangshan,20.03.2021
+22,23,1:17:40,Chen Ding,CHN,05.08.92,2,Taicang,30.03.2012
+23,24,1:17:41,Zhu Hongjun,CHN,18.08.83,2,Cixi,23.04.2005
+24,24,1:17:41,Toshikazu Yamanishi,JPN,15.02.96,1,La Coruña,08.06.2019
+25,26,1:17:43,Yohann Diniz,FRA,01.01.78,2,Lugano,18.03.2012
+26,27,1:17:45,Massimo Stano,ITA,27.02.92,2,La Coruña,08.06.2019
+27,28,1:17:46,Julio Martínez,GUA,27.09.73,1,Eisenhüttenstadt,08.05.1999
+28,28,1:17:46,Roman Rasskazov,RUS,28.04.79,1,Moskva,19.05.2000
+29,30,1:17:47,Yusuke Suzuki,JPN,02.01.88,4,Nomi,17.03.2019
+30,31,1:17:52,Francisco Javier Fernández,ESP,05.03.77,1,La Coruña,04.06.2005
+31,31,1:17:52,Isamu Fujisawa,JPN,12.10.87,5,Nomi,17.03.2019
+32,31,1:17:52,Cui Lihong,CHN,13.05.99,4cA,Huangshan,20.03.2021
+33,34,1:17:53,Cui Zhide,CHN,11.01.83,3,Cixi,23.04.2005
+34,35,1:17:54,Wang Kaihua,CHN,16.02.94,1,Huangshan,04.03.2017
+35,35,1:17:54,Yusuke Suzuki,JPN,02.01.88,3,La Coruña,08.06.2019
+36,37,1:17:55,Valeriy Borchin,RUS,03.07.86,1,Adler,23.02.2008
+37,38,1:17:56,Alejandro López,MEX,09.02.75,2,Eisenhüttenstadt,08.05.1999
+38,39,1:18:00,Francisco Javier Fernández,ESP,05.03.77,2,Saint-Denis,23.08.2003
+39,39,1:18:00,Wang Zhen,CHN,24.08.91,1,La Coruña,06.06.2015
+40,39,1:18:00,Eiki Takahashi,JPN,19.11.92,1,Kobe,17.02.2019
+41,42,1:18:01,Koki Ikeda,JPN,03.05.98,2,Kobe,17.02.2019
+42,43,1:18:03,Eiki Takahashi,JPN,19.11.92,1,Kobe,15.02.2015
+43,44,1:18:04,Bo Lingtang,CHN,12.08.70,1,Beijing,07.04.1994
+44,44,1:18:04,Eiki Takahashi,JPN,19.11.92,2,Kobe,21.02.2021
+45,44,1:18:04,Sun Shuai,CHN,15.09.99,5cA,Huangshan,20.03.2021
+46,47,1:18:05,Dmitriy Yesipchuk,RUS,17.11.74,1,Adler,04.03.2001
+47,48,1:18:06,Viktor Burayev,RUS,23.02.82,2,Adler,04.03.2001
+48,48,1:18:06,Vladimir Parvatkin,RUS,10.10.84,1,Adler,12.03.2005
+49,50,1:18:07,Roman Rasskazov,RUS,28.04.79,1,Adler,20.02.2000
+50,50,1:18:07,Roman Rasskazov,RUS,28.04.79,3,Saint-Denis,23.08.2003
+51,50,1:18:07,Li Gaobo,CHN,04.05.89,4,Cixi,23.04.2005
+52,50,1:18:07,Perseus Karlström,SWE,02.05.90,4,La Coruña,08.06.2019
+53,54,1:18:10,Toshikazu Yamanishi,JPN,15.02.96,3,Kobe,17.02.2019
+54,55,1:18:12,Artur Meleshkevich,BLR,11.04.75,1,Brest,10.03.2001
+55,56,1:18:13,Pavol Blazek,SVK,09.07.58,1,Hildesheim,16.09.1990
+56,56,1:18:13,Wang Hao,CHN,16.08.89,1,Jinan,22.10.2009
+57,56,1:18:13,Yusuke Suzuki,JPN,02.01.88,2,Kobe,15.02.2015
+58,59,1:18:14,Mikhail Khmelnitskiy,BLR,24.07.69,1,Soligorsk,13.05.2000
+59,59,1:18:14,Nathan Deakes,AUS,17.08.77,1,Dublin,16.06.2001
+60,59,1:18:14,Noé Hernández,MEX,15.03.78,4,Saint-Denis,23.08.2003
+61,62,1:18:15,Francisco Javier Fernández,ESP,05.03.77,1,Cheboksary,10.05.2008
+62,63,1:18:16,Vladimir Andreyev,RUS,07.09.66,2,Moskva,19.05.2000
+63,64,1:18:17,Vladimir Parvatkin,RUS,10.10.84,2,Adler,08.02.2004
+64,64,1:18:17,Ilya Markov,RUS,19.06.72,2,Adler,12.03.2005
+65,64,1:18:17,Li Gaobo,CHN,04.05.89,1,Yangzhou,22.04.2006
+66,64,1:18:17,Yusuke Suzuki,JPN,02.01.88,1,Kobe,16.02.2014
+67,68,1:18:18,Yevgeniy Misyulya,BLR,13.03.64,1,Eisenhüttenstadt,11.05.1996
+68,68,1:18:18,Ilya Markov,RUS,19.06.72,2,Yangzhou,22.04.2006
+69,68,1:18:18,Sergey Bakulin,RUS,13.11.86,2,Adler,23.02.2008
+70,68,1:18:18,Eiki Takahashi,JPN,19.11.92,1,Kobe,19.02.2017
+71,72,1:18:20,Andrey Perlov,RUS,12.12.61,1,Moskva,26.05.1990
+72,72,1:18:20,Denis Nizhegorodov,RUS,26.07.80,3,Adler,04.03.2001
+73,74,1:18:21,Valeriy Borchin,RUS,03.07.86,2,Cheboksary,10.05.2008
+74,75,1:18:22,Robert Korzeniowski,POL,30.07.68,1,Hildesheim,09.07.2000
+75,75,1:18:22,Vladimir Stankin,RUS,02.01.74,3,Adler,12.03.2005
+76,75,1:18:22,Li Gaobo,CHN,04.05.89,1,Nanjing,19.10.2005
+77,75,1:18:22,Koki Ikeda,JPN,03.05.98,1,Nomi,15.03.2020
+78,79,1:18:23,Andrey Makarov,BLR,02.01.71,2,Soligorsk,13.05.2000
+79,79,1:18:23,Isamu Fujisawa,JPN,12.10.87,2,Kobe,19.02.2017
+80,79,1:18:23,Samuel Gathimba,KEN,26.10.87,1,Nairobi,18.06.2021
+81,82,1:18:24,Jefferson Pérez,ECU,01.07.74,1,Podébrady,19.04.1997
+82,83,1:18:25,Erick Barrondo,GUA,14.06.91,3,Lugano,18.03.2012
+83,83,1:18:25,Sergey Shirobokov,RUS,10.02.99,1,Sochi,18.02.2017
+84,85,1:18:26,Eiki Takahashi,JPN,19.11.92,1,Kobe,21.02.2016
+85,86,1:18:27,Daniel García,MEX,28.10.71,2,Podébrady,19.04.1997
+86,86,1:18:27,Xing Shucai,CHN,04.08.84,5,Cixi,23.04.2005
+87,88,1:18:28,Vladimir Parvatkin,RUS,10.10.84,1,Cheboksary,12.06.2004
+88,89,1:18:29,Robert Korzeniowski,POL,30.07.68,1,Eisenhüttenstadt,17.06.2000
+89,89,1:18:29,Eiki Takahashi,JPN,19.11.92,2,Nomi,15.03.2020
+90,91,1:18:30,Ilya Markov,RUS,19.06.72,3,Podébrady,19.04.1997
+91,91,1:18:30,Yu Chaohong,CHN,12.12.76,6,Cixi,23.04.2005
+92,91,1:18:30,Wang Zhen,CHN,24.08.91,1,Taicang,22.04.2011
+93,94,1:18:31,Han Yucheng,CHN,16.12.78,7,Cixi,23.04.2005
+94,94,1:18:31,Francisco Javier Fernández,ESP,05.03.77,1,La Coruña,13.05.2006
+95,96,1:18:32,Vladimir Andreyev,RUS,07.09.66,1,Adler,11.02.1995
+96,96,1:18:32,Li Zewen,CHN,05.12.73,4,Podébrady,19.04.1997
+97,96,1:18:32,Vasiliy Mizinov,RUS,29.12.97,1,Sochi,18.02.2019
+98,99,1:18:33,Liu Yunfeng,CHN,03.08.79,8,Cixi,23.04.2005
+99,99,1:18:33,Francisco Javier Fernández,ESP,05.03.77,3,Yangzhou,22.04.2006
+100,10,1:18:34,Eder Sánchez,MEX,21.05.86,3,Cheboksary,10.05.2008
+101,10,1:18:34,Yusuke Suzuki,JPN,02.01.88,1,Nomi,10.03.2013
+102,10,1:18:35,Roman Rasskazov,RUS,28.04.79,3,Adler,08.02.2004
+103,10,1:18:35,Jefferson Pérez,ECU,01.07.74,1,Helsinki,06.08.2005
+104,10,1:18:35,Han Yucheng,CHN,16.12.78,4,Yangzhou,22.04.2006
+105,10,1:18:36,Mikhail Shchennikov,RUS,24.12.67,1,Sochi,20.04.1996
+106,10,1:18:36,Yusuke Suzuki,JPN,02.01.88,3,Nomi,15.03.2020
+107,10,1:18:36,Koki Ikeda,JPN,03.05.98,1,Kobe,19.02.2023
+108,10,1:18:37,Aleksandr Pershin,RUS,29.01.67,2,Moskva,26.05.1990
+109,10,1:18:37,Ruslan Shafikov,RUS,27.06.75,1,Adler,11.02.1995
+110,10,1:18:37,Mikhail Shchennikov,RUS,24.12.67,1,Eisenhüttenstadt,14.05.1995
+111,10,1:18:37,Mikhail Shchennikov,RUS,24.12.67,2,Eisenhüttenstadt,11.05.1996
+112,10,1:18:37,Francisco Javier Fernández,ESP,05.03.77,1,München,06.08.2002
+113,10,1:18:37,Zhu Hongjun,CHN,18.08.83,1,Dudince,26.03.2005
+114,10,1:18:37,Wang Zhen,CHN,24.08.91,1,Lugano,20.03.2011
+115,11,1:18:38,Chu Yafei,CHN,05.09.88,2,Lugano,20.03.2011
+116,11,1:18:39,Lu Ronghua,CHN,21.02.83,9,Cixi,23.04.2005
+117,11,1:18:40,Vladimir Andreyev,RUS,07.09.66,1,Cheboksary,30.08.1998
+118,11,1:18:40,Robert Korzeniowski,POL,30.07.68,1,Turku,22.05.1999
+119,12,1:18:41,Igor Kollár,SVK,25.06.65,3,Eisenhüttenstadt,11.05.1996
+120,12,1:18:41,Eiki Takahashi,JPN,19.11.92,2,Kobe,16.02.2014
+121,12,1:18:41,Vasiliy Mizinov,RUS,29.12.97,5,La Coruña,08.06.2019
+122,12,1:18:42,Andreas Erm,GER,12.03.76,2,Eisenhüttenstadt,17.06.2000
+123,12,1:18:42,Jefferson Pérez,ECU,01.07.74,1,Naumburg,02.05.2004
+124,12,1:18:42,Sergey Shirobokov,RUS,10.02.99,2,Sochi,18.02.2019
+125,12,1:18:42,Christopher Linke,GER,24.10.88,6,La Coruña,08.06.2019
+126,12,1:18:42,Yuta Koga,JPN,15.07.99,4,Nomi,15.03.2020
+127,12,1:18:42,Salih Korkmaz,TUR,14.04.97,1,Antalaya,06.03.2021
+128,12,1:18:43,Zhu Hongjun,CHN,18.08.83,1,Yangzhou,12.04.2003
+129,13,1:18:44,Vladimir Andreyev,RUS,07.09.66,2,Cheboksary,12.06.2004
+130,13,1:18:44,Chu Yafei,CHN,05.09.88,5,Yangzhou,22.04.2006
+131,13,1:18:44,Chen Ding,CHN,05.08.92,2,La Coruña,06.06.2015
+132,13,1:18:44,Xu Hao,CHN,06.02.99,6cA,Huangshan,20.03.2021
+133,13,1:18:45,Mikhail Shchennikov,RUS,24.12.67,1,Helsinki,08.08.1994
+134,13,1:18:45,Stepan Yudin,RUS,03.04.80,4,Adler,12.03.2005
+135,13,1:18:45,Dong Jimin,CHN,10.10.85,6,Yangzhou,22.04.2006
+136,13,1:18:45,Chu Yafei,CHN,05.09.88,2,Taicang,22.04.2011
+137,13,1:18:45,Isamu Fujisawa,JPN,12.10.87,2,Kobe,21.02.2016
+138,13,1:18:45,Vasiliy Mizinov,RUS,29.12.97,1,Sochi,19.02.2021
+139,13,1:18:45,Koki Ikeda,JPN,03.05.98,3,Kobe,21.02.2021
+140,13,1:18:45,Perseus Karlström,SWE,02.05.90,1,Murcia,14.03.2021
+141,14,1:18:46,Tan Mingjun,CHN,17.07.70,2,Beijing,07.04.1994
+142,14,1:18:46,Chen Ding,CHN,05.08.92,1,London,04.08.2012
+143,14,1:18:46,Declan Tingay,AUS,06.02.99,1,Nomi,19.03.2023
+144,14,1:18:47,Vladimir Andreyev,RUS,07.09.66,1,Adler,20.02.1998
+145,14,1:18:47,Cai Zelin,CHN,11.04.91,3,Taicang,30.03.2012
+146,14,1:18:47,Caio Bonfim,BRA,19.03.91,7,La Coruña,08.06.2019
+147,14,1:18:48,Ilya Markov,RUS,19.06.72,2,Sochi,20.04.1996
+148,14,1:18:48,Mikhail Khmelnitskiy,BLR,24.07.69,2,Adler,20.02.1998
+149,14,1:18:48,Rishat Shafikov,RUS,23.01.70,2,Cheboksary,30.08.1998
+150,14,1:18:48,Viktor Burayev,RUS,23.02.82,5,Adler,12.03.2005
+151,15,1:18:50,Daniel García,MEX,28.10.71,4,Eisenhüttenstadt,11.05.1996
+152,15,1:18:50,Ilya Markov,RUS,19.06.72,2,Turku,22.05.1999
+153,15,1:18:50,Lu Ronghua,CHN,21.02.83,2,Dudince,26.03.2005
+154,15,1:18:50,Francisco Javier Fernández,ESP,05.03.77,1,La Coruña,02.06.2007
+155,15,1:18:51,Frants Kostyukevich,BLR,04.04.63,3,Moskva,26.05.1990
+156,15,1:18:51,Julio Martínez,GUA,27.09.73,5,Podébrady,19.04.1997
+157,15,1:18:51,Noé Hernández,MEX,15.03.78,10,Cixi,23.04.2005
+158,15,1:18:51,Francisco Javier Fernández,ESP,05.03.77,1,Shenzen,24.03.2007
+159,16,1:18:52,Chen Ding,CHN,05.08.92,3,Taicang,22.04.2011
+160,16,1:18:52,Li Jianbo,CHN,14.11.86,1,Taicang,01.03.2013
+161,16,1:18:52,Cai Zelin,CHN,11.04.91,1,Taicang,04.05.2014
+162,16,1:18:52,Sergey Bakulin,RUS,13.11.86,2,Sochi,18.02.2017
+163,16,1:18:53,Ilya Markov,RUS,19.06.72,2,Adler,11.02.1995
+164,16,1:18:53,Eider Arévalo,COL,09.03.93,1,London,13.08.2017
+165,16,1:18:53,Sergey Shirobokov,RUS,10.02.99,1,Sochi,19.02.2018
+166,16,1:18:53,Isamu Fujisawa,JPN,12.10.87,4,Kobe,17.02.2019
+167,16,1:18:54,Yevgeniy Misyulya,BLR,13.03.64,1,Sochi,19.02.1989
+168,16,1:18:54,Maurizio Damilano,ITA,06.04.57,1,La Coruña,06.06.1992
+169,16,1:18:54,Vasiliy Mizinov,RUS,29.12.97,2,Sochi,19.02.2018
+170,16,1:18:54,Perseus Karlström,SWE,02.05.90,1,Podébrady,16.05.2021
+171,16,1:18:54,Caio Bonfim,BRA,19.03.91,1,Podebrady,02.04.2022
+172,17,1:18:55,Yevgeniy Misyulya,BLR,13.03.64,6,Podébrady,19.04.1997
+173,17,1:18:55,Cai Zelin,CHN,11.04.91,2,Taicang,01.03.2013
+174,17,1:18:55,Sergey Shirobokov,RUS,10.02.99,2,London,13.08.2017
+175,17,1:18:56,Grigoriy Kornev,RUS,14.03.61,4,Moskva,26.05.1990
+176,17,1:18:56,Francisco Javier Fernández,ESP,05.03.77,3,Eisenhüttenstadt,17.06.2000
+177,17,1:18:56,Yu Chaohong,CHN,12.12.76,2,Yangzhou,12.04.2003
+178,17,1:18:56,Valeriy Borchin,RUS,03.07.86,1,Adler,17.02.2007
+179,17,1:18:56,Ilya Markov,RUS,19.06.72,2,Cheboksary,17.06.2007
+180,18,1:18:57,Bai Xuejin,CHN,06.06.87,7,Yangzhou,22.04.2006
+181,18,1:18:57,Erick Barrondo,GUA,14.06.91,2,London,04.08.2012
+182,18,1:18:58,Aleksandr Pershin,RUS,29.01.67,1,Sochi,17.02.1991
+183,18,1:18:58,Yohann Diniz,FRA,01.01.78,1,Leamington,20.05.2007
+184,18,1:18:58,Diego García Carrera,ESP,19.01.96,8,La Coruña,08.06.2019
+185,18,1:18:59,Vladimir Andreyev,RUS,07.09.66,1,Adler,09.02.1997
+186,18,1:18:59,Daniel García,MEX,28.10.71,1,Eisenhüttenstadt,10.05.1997
+187,18,1:18:59,Robert Korzeniowski,POL,30.07.68,1,Sydney,22.09.2000
+188,18,1:18:59,Christopher Linke,GER,24.10.88,1,Podébrady,08.04.2017
+189,18,1:18:59,Zhang Yao,CHN,11.01.00,7cA,Huangshan,20.03.2021
+190,19,1:19:00,Joel Sánchez,MEX,15.09.67,3,Eisenhüttenstadt,08.05.1999
+191,19,1:19:00,Zhu Hongjun,CHN,18.08.83,2,Nanjing,19.10.2005
+192,19,1:19:00,Tomohiro Noda,JPN,24.01.95,5,Kobe,17.02.2019
+193,19,1:19:00,Hirooki Arai,JPN,18.05.88,6,Kobe,17.02.2019
+194,19,1:19:01,Valeriy Borchin,RUS,03.07.86,1,Beijing,16.08.2008
+195,19,1:19:01,Wang Kaihua,CHN,16.02.94,1,Huangshan,10.03.2019
+196,19,1:19:02,Rishat Shafikov,RUS,23.01.70,2,Adler,09.02.1997
+197,19,1:19:02,Hatem Ghoula,TUN,07.06.73,2,Eisenhüttenstadt,10.05.1997
+198,19,1:19:02,Andrey Stadnichuk,RUS,14.12.73,1,Sochi,17.02.2002
+199,19,1:19:02,Robert Korzeniowski,POL,30.07.68,2,Naumburg,02.05.2004
+200,19,1:19:02,Francisco Javier Fernández,ESP,05.03.77,1,Rio Maior,02.04.2005
+201,19,1:19:02,Eder Sánchez,MEX,21.05.86,11,Cixi,23.04.2005
+202,19,1:19:02,Pyotr Trofimov,RUS,18.12.83,2,Adler,28.02.2009
+203,19,1:19:02,Yusuke Suzuki,JPN,02.01.88,1,Kobe,17.02.2013
+204,20,1:19:03,Yevgeniy Misyulya,BLR,13.03.64,1,Sochi,22.02.1992
+205,20,1:19:03,Noé Hernández,MEX,15.03.78,2,Sydney,22.09.2000
+206,20,1:19:03,Li Gaobo,CHN,04.05.89,2,Shenzen,24.03.2007
+207,20,1:19:03,Toshikazu Yamanishi,JPN,15.02.96,3,Kobe,19.02.2017
+208,20,1:19:04,Ilya Markov,RUS,19.06.72,4,Cheboksary,10.05.2008
+209,20,1:19:04,Caio Bonfim,BRA,19.03.91,3,London,13.08.2017
+210,20,1:19:04,Samuel Gathimba,KEN,26.10.87,1,Nairobi,17.02.2018
+211,20,1:19:04,Eiki Takahashi,JPN,19.11.92,1,Kobe,20.02.2022
+212,21,1:19:05,Frants Kostyukevich,BLR,04.04.63,2,Sochi,17.02.1991
+213,21,1:19:05,Bernardo Segura,MEX,11.02.70,5,Eisenhüttenstadt,11.05.1996
+214,21,1:19:05,Andrey Makarov,RUS,02.01.71,3,Adler,09.02.1997
+215,21,1:19:05,Mikhail Shchennikov,RUS,24.12.67,1,Naumburg,25.05.1997
+216,21,1:19:05,Daniel García,MEX,28.10.71,4,Eisenhüttenstadt,08.05.1999
+217,21,1:19:06,Bernardo Segura,MEX,11.02.70,1,Tijuana,08.03.2003
+218,21,1:19:06,Andrey Krivov,RUS,14.11.85,3,Adler,23.02.2008
+219,21,1:19:06,Wang Hao,CHN,02.02.85,1,Berlin,15.08.2009
+220,21,1:19:06,Simon Wachira,KEN,06.05.84,2,Nairobi,17.02.2018
+221,22,1:19:07,Mikhail Shchennikov,RUS,24.12.67,5,Moskva,26.05.1990
+222,22,1:19:07,Nathan Deakes,AUS,17.08.77,8,Yangzhou,22.04.2006
+223,22,1:19:07,Koki Ikeda,JPN,03.05.98,2,Kobe,16.02.2020
+224,22,1:19:07,Toshikazu Yamanishi,JPN,15.02.96,1,Eugene,15.07.2022
+225,22,1:19:07,Eiki Takahashi,JPN,19.11.92,2,Kobe,19.02.2023
+226,22,1:19:08,Mikhail Shchennikov,RUS,24.12.67,1,Kyiv,30.07.1988
+227,22,1:19:08,Jefferson Pérez,ECU,01.07.74,1,Eisenhüttenstadt,02.06.2002
+228,22,1:19:08,Francisco Javier Fernández,ESP,05.03.77,2,Tijuana,08.03.2003
+229,22,1:19:08,Yu Chaohong,CHN,12.12.76,1,Nanning,25.02.2005
+230,22,1:19:08,Fang Pengfei,CHN,16.02.83,12,Cixi,23.04.2005
+231,22,1:19:08,Yu Chaohong,CHN,12.12.76,3,Nanjing,19.10.2005
+232,22,1:19:08,Jefferson Pérez,ECU,01.07.74,2,La Coruña,13.05.2006
+233,22,1:19:08,Wang Zhen,CHN,24.08.91,1,Lugano,17.03.2013
+234,22,1:19:08,Isamu Fujisawa,JPN,12.10.87,2,Nomi,15.03.2015
+235,22,1:19:08,Daisuke Matsunaga,JPN,24.03.95,3,Nomi,15.03.2015
+236,23,1:19:09,Bernardo Segura,MEX,11.02.70,2,Eisenhüttenstadt,14.05.1995
+237,23,1:19:09,Liu Yunfeng,CHN,03.08.79,2,Nanning,25.02.2005
+238,23,1:19:09,Francisco Javier Fernández,ESP,05.03.77,1,Göteborg,08.08.2006
+239,23,1:19:09,Vasiliy Mizinov,RUS,29.12.97,1,Voronovo,05.09.2020
+240,23,1:19:09,Qian Haifeng,CHN,08.07.00,2,Nomi,19.03.2023
+241,24,1:19:10,Julio Martínez,GUA,27.09.73,2,Naumburg,25.05.1997
+242,24,1:19:10,Han Yucheng,CHN,16.12.78,3,La Coruña,13.05.2006
+243,24,1:19:10,Andrey Krivov,RUS,14.11.85,5,Cheboksary,10.05.2008
+244,24,1:19:10,Li Jianbo,CHN,14.11.86,2,Jinan,22.10.2009
+245,24,1:19:11,Vladimir Andreyev,RUS,07.09.66,1,Adler,11.02.1996
+246,24,1:19:11,Robert Korzeniowski,POL,30.07.68,3,Tijuana,08.03.2003
+247,24,1:19:11,Nathan Deakes,AUS,17.08.77,3,Naumburg,02.05.2004
+248,24,1:19:11,Erik Tysse,NOR,04.12.80,6,Cheboksary,10.05.2008
+249,24,1:19:11,Perseus Karlström,SWE,02.05.90,1,Podébrady,09.04.2016
+250,24,1:19:11,Álvaro Martín,ESP,18.06.94,1,München,20.08.2022
+251,25,1:19:12,Axel Noack,GER,23.09.61,1,Karl-Marx-Stadt,21.06.1987
+252,25,1:19:12,Andrey Makarov,BLR,02.01.71,2,Brest,10.03.2001
+253,25,1:19:12,Andrey Talaschko,BLR,31.05.82,1,Nesvizh,15.04.2006
+254,25,1:19:12,Kai Kobayashi,JPN,28.02.93,4,Nomi,15.03.2015
+255,25,1:19:12,Wang Zhen,CHN,24.08.91,1,Huangshan,05.03.2016
+256,25,1:19:12,Jin Xiangqian,CHN,18.03.97,2,Huangshan,04.03.2017
+257,25,1:19:13,Yevgeniy Misyulya,BLR,13.03.64,1,Kyiv,11.07.1991
+258,25,1:19:13,Rishat Shafikov,RUS,23.01.70,3,Adler,11.02.1995
+259,25,1:19:13,Wang Zhen,CHN,24.08.91,1,Saransk,12.05.2012
+260,25,1:19:13,Kim Hyun-sub,KOR,31.05.85,5,Nomi,15.03.2015
+261,25,1:19:13,Kai Kobayashi,JPN,28.02.93,4,Kobe,19.02.2017
+262,25,1:19:13,Eiki Takahashi,JPN,19.11.92,9,La Coruña,08.06.2019
+263,26,1:19:14,Robert Korzeniowski,POL,30.07.68,1,Warszawa,20.06.1992
+264,26,1:19:14,Vladimir Stankin,RUS,02.01.74,4,Adler,04.03.2001
+265,26,1:19:14,Xu Xingde,CHN,12.06.84,3,Yangzhou,12.04.2003
+266,26,1:19:14,Sergey Bakulin,RUS,13.11.86,3,Cheboksary,17.06.2007
+267,26,1:19:14,Vladimir Kanaykin,RUS,21.03.85,1,Sochi,26.02.2011
+268,26,1:19:14,Miguel Ángel López,ESP,03.07.88,1,Beijing,23.08.2015
+269,26,1:19:14,Wang Zhen,CHN,24.08.91,1,Rio de Janeiro,12.08.2016
+270,26,1:19:14,Eider Arévalo,COL,09.03.93,1,La Coruña,02.06.2018
+271,26,1:19:14,Álvaro Martín,ESP,18.06.94,2,Podébrady,16.05.2021
+272,26,1:19:14,Koki Ikeda,JPN,03.05.98,2,Eugene,15.07.2022
+273,27,1:19:15,Artur Meleshkevich,BLR,11.04.75,3,Soligorsk,13.05.2000
+274,27,1:19:15,Nathan Deakes,AUS,17.08.77,2,Rio Maior,02.04.2005
+275,27,1:19:15,Han Yucheng,CHN,16.12.78,2,La Coruña,02.06.2007
+276,27,1:19:15,Luke Adams,AUS,22.10.76,7,Cheboksary,10.05.2008
+277,27,1:19:15,Jefferson Pérez,ECU,01.07.74,2,Beijing,16.08.2008
+278,27,1:19:15,Jared Tallent,AUS,17.10.84,1,Hobart,14.02.2010
+279,28,1:19:16,Yevgeniy Misyulya,BLR,13.03.64,2,Kyiv,30.07.1988
+280,28,1:19:16,Chen Shaoguo,CHN,20.01.72,3,Beijing,07.04.1994
+281,28,1:19:16,Vladimir Andreyev,RUS,07.09.66,3,Naumburg,25.05.1997
+282,28,1:19:17,Vladimir Andreyev,RUS,07.09.66,3,Sochi,17.02.1991
+283,28,1:19:17,Yevgeniy Misyulya,BLR,13.03.64,3,Eisenhüttenstadt,14.05.1995
+284,28,1:19:18,Jirí Malysa,CZE,14.08.66,4,Eisenhüttenstadt,17.06.2000
+285,28,1:19:18,Vladimir Andreyev,RUS,07.09.66,2,Sochi,17.02.2002
+286,28,1:19:18,Ilya Markov,RUS,19.06.72,4,Adler,23.02.2008
+287,28,1:19:18,Bertrand Moulinet,FRA,06.01.87,2,Arles,08.03.2015
+288,28,1:19:18,Lebogang Shange,RSA,01.08.90,4,London,13.08.2017
+289,28,1:19:18,Diego García,ESP,19.01.96,2,La Coruña,02.06.2018
+290,28,1:19:18,Perseus Karlström,SWE,02.05.90,3,Eugene,15.07.2022
+291,29,1:19:19,Mikhail Orlov,RUS,25.06.67,4,Adler,11.02.1995
+292,29,1:19:19,Jefferson Pérez,ECU,01.07.74,1,Naumburg,23.05.1998
+293,29,1:19:19,Francisco Javier Fernández,ESP,05.03.77,1,La Coruña,05.06.2004
+294,29,1:19:19,Luke Adams,AUS,22.10.76,13,Cixi,23.04.2005
+295,29,1:19:19,Juan Manuel Molina,ESP,15.03.79,8,Cheboksary,10.05.2008
+296,29,1:19:19,Yusuke Suzuki,JPN,02.01.88,2,Taicang,04.05.2014
+297,29,1:19:19,Christopher Linke,GER,24.10.88,2,Podébrady,09.04.2016
+298,29,1:19:19,Diego García Carrera,ESP,19.01.96,3,Podébrady,16.05.2021
+299,29,1:19:19,Yuta Koga,JPN,15.07.99,3,Nomi,19.03.2023
+300,30,1:19:20,Omar Pineda,MEX,02.12.94,3,Podébrady,09.04.2016
+301,30,1:19:20,Jesús Vega,MEX,23.05.94,4,Podébrady,09.04.2016
+302,30,1:19:21,Vladimir Andreyev,RUS,07.09.66,6,Moskva,26.05.1990
+303,30,1:19:21,Pei Chuang,CHN,05.12.81,3,Nanning,25.02.2005
+304,30,1:19:21,Rolando Saquipay,ECU,21.07.79,1,Lima,07.05.2005
+305,30,1:19:21,Igor Yerokhin,RUS,04.09.85,2,Adler,17.02.2007
+306,30,1:19:21,Erik Tysse,NOR,04.12.80,1,La Coruña,07.06.2008
+307,30,1:19:21,Miguel Ángel López,ESP,03.07.88,3,Taicang,04.05.2014
+308,30,1:19:21,Christopher Linke,GER,24.10.88,5,London,13.08.2017
+309,31,1:19:22,David Smith,AUS,24.07.55,1,Hobart,19.07.1987
+310,31,1:19:22,Yevgeniy Misyulya,BLR,13.03.64,2,Helsinki,08.08.1994
+311,31,1:19:22,Dmitriy Yesipchuk,RUS,17.11.74,4,Adler,09.02.1997
+312,31,1:19:22,Cristian Berdeja,MEX,21.06.81,14,Cixi,23.04.2005
+313,31,1:19:22,Robert Heffernan,IRL,28.02.78,9,Cheboksary,10.05.2008
+314,31,1:19:22,Eder Sánchez,MEX,21.05.86,2,Berlin,15.08.2009
+315,31,1:19:22,Wang Zhen,CHN,24.08.91,1,Roma,07.05.2016
+316,31,1:19:23,Alejandro López,MEX,09.02.75,6,Eisenhüttenstadt,11.05.1996
+317,31,1:19:23,Nathan Deakes,AUS,17.08.77,1,Canberra,06.02.2005
+318,31,1:19:23,Wang Rui,CHN,06.01.96,3,Huangshan,04.03.2017
+319,31,1:19:23,Sergey Shirobokov,RUS,10.02.99,2,Sochi,19.02.2021
+320,31,1:19:23,Perseus Karlström,SWE,02.05.90,2,München,20.08.2022
+321,31,1:19:23,Eider Arévalo,COL,09.03.93,1,Dudince,25.03.2023
+322,32,1:19:24,Carlos Mercenário,MEX,03.05.67,1,New York City,03.05.1987
+323,32,1:19:24,Andreas Erm,GER,12.03.76,5,Eisenhüttenstadt,08.05.1999
+324,32,1:19:24,Kim Hyun-sub,KOR,31.05.85,1,Nomi,16.03.2014
+325,32,1:19:24,Samuel Gathimba,KEN,26.10.87,1,Durban,26.06.2016
+326,32,1:19:24,David Hurtado,ECU,21.04.99,1,Machala,25.02.2023
+327,32,1:19:24,Kyle Swan,AUS,28.03.99,4,Nomi,19.03.2023
+328,32,1:19:25,Valentí Massana,ESP,05.07.70,2,La Coruña,06.06.1992
+329,32,1:19:25,Aigars Fadejevs,LAT,27.12.75,1,Hildesheim,24.08.2002
+330,32,1:19:25,Francisco Javier Fernández,ESP,05.03.77,1,Sesto San Giovan,01.05.2003
+331,32,1:19:25,Ilya Markov,RUS,19.06.72,4,Adler,08.02.2004
+332,32,1:19:25,Wang Zhen,CHN,24.08.91,3,London,04.08.2012
+333,32,1:19:25,Hirooki Arai,JPN,18.05.88,5,Kobe,19.02.2017
+334,32,1:19:25,Miguel Ángel López,ESP,03.07.88,4,Podébrady,16.05.2021
+335,32,1:19:25,Samuel Gathimba,KEN,26.10.87,4,Eugene,15.07.2022
+336,32,1:19:25,Yurato Murayama,JPN,29.09.98,5,Nomi,19.03.2023
+337,33,1:19:26,Cai Zelin,CHN,11.04.91,2,Rio de Janeiro,12.08.2016
+338,33,1:19:27,Rishat Shafikov,RUS,23.01.70,7,Podébrady,19.04.1997
+339,33,1:19:27,Yevgeniy Misyulya,BLR,13.03.64,3,Eisenhüttenstadt,10.05.1997
+340,33,1:19:27,Vladimir Andreyev,RUS,07.09.66,3,Sydney,22.09.2000
+341,33,1:19:27,Viktor Burayev,RUS,23.02.82,1,Adler,19.02.2006
+342,33,1:19:27,Viktor Burayev,RUS,23.02.82,5,Adler,23.02.2008
+343,33,1:19:27,Wang Hao,CHN,16.08.89,1,Rio Maior,04.04.2009
+344,33,1:19:27,Sergey Shirobokov,RUS,10.02.99,1,Cheboksary,15.06.2019
+345,33,1:19:27,Perseus Karlström,SWE,02.05.90,1,Melbourne,12.02.2023
+346,34,1:19:28,Ruslan Alukayev,RUS,08.09.78,3,Cheboksary,30.08.1998
+347,34,1:19:28,Christopher Linke,GER,24.10.88,1,Podébrady,21.05.2017
+348,34,1:19:28,Dane Bird-Smith,AUS,15.07.92,6,London,13.08.2017
+349,35,1:19:29,Valdas Kazlauskas,LTU,23.02.58,2,Sochi,19.02.1989
+350,35,1:19:29,Artur Meleshkevich,BLR,11.04.75,4,Naumburg,25.05.1997
+351,35,1:19:29,Satoshi Yanagisawa,JPN,19.01.71,1,Kobe,30.01.2000
+352,35,1:19:29,Yu Chaohong,CHN,12.12.76,3,Dudince,26.03.2005
+353,35,1:19:29,Bai Xuejin,CHN,06.06.87,15,Cixi,23.04.2005
+354,35,1:19:29,Wang Zhen,CHN,24.08.91,1,Beijing,20.03.2015
+355,35,1:19:29,Wang Zhen,CHN,24.08.91,2,Beijing,23.08.2015
+356,35,1:19:29,Wang Zhen,CHN,24.08.91,1,Changbaishan,06.09.2015
+357,35,1:19:29,Eduard Zabuzhenko,UKR,18.04.98,2,Antalaya,06.03.2021
+358,35,1:19:30,Jozef Pribilinec,SVK,06.07.60,1,Fana,24.09.1983
+359,35,1:19:30,Rishat Shafikov,RUS,23.01.70,2,Adler,11.02.1996
+360,35,1:19:30,Viktor Burayev,RUS,23.02.82,1,Dudince,19.05.2001
+361,35,1:19:30,Han Yucheng,CHN,16.12.78,1,Guangzhou,20.03.2004
+362,35,1:19:30,Wang Kaihua,CHN,16.02.94,7,London,13.08.2017
+363,35,1:19:30,Rhydian Cowley,AUS,04.01.91,6,Nomi,19.03.2023
+364,36,1:19:31,Andrey Makarov,RUS,02.01.71,3,Adler,11.02.1996
+365,36,1:19:31,Aleksey Voyevodin,RUS,09.08.70,4,Cheboksary,30.08.1998
+366,36,1:19:31,Valeriy Borchin,RUS,03.07.86,1,Wuxi,18.04.2009
+367,36,1:19:31,Kim Hyun-sub,KOR,31.05.85,1,Nomi,13.03.2011
+368,36,1:19:31,Salih Korkmaz,TUR,14.04.97,1,Antalaya,16.02.2020
+369,37,1:19:32,Viktor Mostovik,BLR,07.01.63,2,New York City,03.05.1987
+370,37,1:19:32,Robert Korzeniowski,POL,30.07.68,2,Hildesheim,16.09.1990
+371,37,1:19:32,Mikhail Shchennikov,RUS,24.12.67,1,La Coruña,21.05.1994
+372,37,1:19:32,Bo Lingtang,CHN,12.08.70,4,Eisenhüttenstadt,14.05.1995
+373,37,1:19:32,Andrey Makarov,RUS,02.01.71,5,Naumburg,25.05.1997
+374,37,1:19:32,Andreas Erm,GER,12.03.76,1,Eisenhüttenstadt,09.06.2001
+375,37,1:19:32,Igor Yerokhin,RUS,04.09.85,2,Adler,19.02.2006
+376,37,1:19:32,Chen Ding,CHN,05.08.92,2,Huangshan,05.03.2016
+377,37,1:19:33,Nick A'Hern,AUS,06.01.69,1,Melbourne,15.12.1990
+378,37,1:19:33,Artur Meleshkevich,BLR,11.04.75,8,Podébrady,19.04.1997
+379,37,1:19:33,Yevgeniy Misyulya,BLR,13.03.64,2,Hildesheim,09.07.2000
+380,37,1:19:33,Jefferson Pérez,ECU,01.07.74,1,Tijuana,20.03.2004
+381,37,1:19:33,Ivan Losev,UKR,26.01.86,1,Alushta,28.02.2014
+382,37,1:19:33,Niu Wenchao,CHN,20.04.98,8cA,Huangshan,20.03.2021
+383,38,1:19:34,Li Mingcai,CHN,22.08.71,1,Zhuhai,10.03.1996
+384,38,1:19:34,Cui Zhide,CHN,11.01.83,4,Nanning,25.02.2005
+385,38,1:19:34,Li Jianbo,CHN,14.11.86,16,Cixi,23.04.2005
+386,38,1:19:34,Nathan Deakes,AUS,17.08.77,3,La Coruña,02.06.2007
+387,38,1:19:34,Eder Sánchez,MEX,21.05.86,1,Kraków,25.05.2008
+388,38,1:19:34,Cai Zelin,CHN,11.04.91,2,Roma,07.05.2016
+389,38,1:19:34,Dane Bird-Smith,AUS,15.07.92,1,Gold Coast,08.04.2018
+390,38,1:19:34,Perseus Karlström,SWE,02.05.90,3,Kobe,16.02.2020
+391,38,1:19:34,Sergey Shirobokov,RUS,10.02.99,1,Sochi,17.02.2020
+392,38,1:19:34,Brian Pintado,ECU,29.07.95,5,Eugene,15.07.2022
+393,39,1:19:35,Domingo Colín,MEX,04.08.52,1,Cherkassy,27.04.1980
+394,39,1:19:35,Ilya Markov,RUS,19.06.72,7,Eisenhüttenstadt,11.05.1996
+395,39,1:19:35,Luke Adams,AUS,22.10.76,5,Saint-Denis,23.08.2003
+396,39,1:19:35,Robert Korzeniowski,POL,30.07.68,2,La Coruña,05.06.2004
+397,39,1:19:35,Han Yucheng,CHN,16.12.78,1,Xi'an,21.10.2006
+398,39,1:19:36,Frants Kostyukevich,BLR,04.04.63,1,Brest-Litovsk,25.03.1995
+399,39,1:19:36,Aigars Fadejevs,LAT,27.12.75,6,Naumburg,25.05.1997
+400,39,1:19:36,Robert Korzeniowski,POL,30.07.68,1,Turku,24.05.1998
+401,39,1:19:36,Roman Rasskazov,RUS,28.04.79,1,Saransk,12.06.1999
+402,39,1:19:36,Ilya Markov,RUS,19.06.72,1,Calella,22.04.2001
+403,39,1:19:36,Ilya Markov,RUS,19.06.72,2,La Coruña,04.06.2005
+404,39,1:19:36,Francisco Javier Fernández,ESP,05.03.77,2,Helsinki,06.08.2005
+405,39,1:19:36,Han Yucheng,CHN,16.12.78,4,Nanjing,19.10.2005
+406,39,1:19:36,Hatem Ghoula,TUN,07.06.73,4,La Coruña,13.05.2006
+407,39,1:19:36,Ivano Brugnetti,ITA,01.09.76,2,Leamington,20.05.2007
+408,39,1:19:36,Eder Sánchez,MEX,21.05.86,2,Wuxi,18.04.2009
+409,39,1:19:36,Kim Hyun-sub,KOR,31.05.85,1,Jinju,10.10.2010
+410,39,1:19:36,Eder Sánchez,MEX,21.05.86,1,Rio Maior,09.04.2011
+411,39,1:19:36,Pyotr Bogatyrev,RUS,11.03.91,1,Cheboksary,08.06.2013
+412,39,1:19:36,Álvaro Martín,ESP,18.06.94,3,Roma,07.05.2016
+413,39,1:19:36,Cai Zelin,CHN,11.04.91,2,Huangshan,10.03.2019
+414,41,1:19:37,Ernesto Canto,MEX,18.10.59,1,Xalapa,05.04.1987
+415,41,1:19:37,Maurizio Damilano,ITA,06.04.57,1,Tokyo,24.08.1991
+416,41,1:19:37,Nathan Deakes,AUS,17.08.77,5,La Coruña,13.05.2006
+417,41,1:19:37,Giorgio Rubino,ITA,30.04.73,2,Rio Maior,04.04.2009
+418,41,1:19:37,Dane Bird-Smith,AUS,15.07.92,3,Rio de Janeiro,12.08.2016
+419,41,1:19:37,Dane Bird-Smith,AUS,15.07.92,1,Adelaide,19.02.2017
+420,41,1:19:37,Diego García Carrera,ESP,19.01.96,1,La Coruña,05.06.2021
+421,42,1:19:38,Mikhail Khmelnitskiy,BLR,24.07.69,1,Novopolotsk,21.05.1994
+422,42,1:19:38,Yu Guohui,CHN,30.04.77,2,Zhuhai,10.03.1996
+423,42,1:19:38,Li Jianbo,CHN,14.11.86,9,Yangzhou,22.04.2006
+424,42,1:19:38,Erik Tysse,NOR,04.12.80,1,Bergen,09.06.2006
+425,42,1:19:38,Ever Palma,MEX,18.03.92,5,Podébrady,09.04.2016
+426,42,1:19:38,Dane Bird-Smith,AUS,15.07.92,4,Roma,07.05.2016
+427,42,1:19:38,Tom Bosworth,GBR,17.01.90,2,Gold Coast,08.04.2018
+428,42,1:19:39,Frants Kostyukevich,BLR,04.04.63,1,Leningrad,11.06.1988
+429,42,1:19:39,Aleksey Pershin,RUS,23.09.62,7,Moskva,26.05.1990
+430,42,1:19:39,Bernardo Segura,MEX,11.02.70,1,Eschborn,12.06.1993
+431,42,1:19:39,Nathan Deakes,AUS,17.08.77,1,Sydney,06.03.2005
+432,42,1:19:39,Yu Chaohong,CHN,12.12.76,3,Rio Maior,02.04.2005
+433,42,1:19:39,Chen Ding,CHN,05.08.92,3,Lugano,20.03.2011
+434,43,1:19:40,Mikhail Khmelnitskiy,BLR,24.07.69,8,Eisenhüttenstadt,11.05.1996
+435,43,1:19:40,Jefferson Pérez,ECU,01.07.74,1,La Coruña,16.05.1998
+436,43,1:19:40,Robert Korzeniowski,POL,30.07.68,2,Turku,28.04.2002
+437,43,1:19:40,Ivan Trotskiy,BLR,27.05.76,6,Saint-Denis,23.08.2003
+438,43,1:19:40,Ivano Brugnetti,ITA,01.09.76,1,Athínai,20.08.2004
+439,43,1:19:40,Wang Zhen,CHN,24.08.91,4,Taicang,04.05.2014
+440,43,1:19:40,Daisuke Matsunaga,JPN,24.03.95,1,Nomi,19.03.2017
+441,43,1:19:40,Diego García Carrera,ESP,19.01.96,2,Murcia,14.03.2021
+442,43,1:19:40,Wang Zhaozhao,CHN,01.09.99,1,Huangshan,05.03.2023
+443,44,1:19:41,Ernesto Canto,MEX,18.10.59,2,Fana,24.09.1983
+444,44,1:19:41,Igor Plotnikov,RUS,12.07.64,4,Sochi,17.02.1991
+445,44,1:19:41,Dmitriy Dolnikov,RUS,19.11.72,1,Adler,14.02.1993
+446,44,1:19:41,Li Zewen,CHN,05.12.73,3,Zhuhai,10.03.1996
+447,44,1:19:41,Daniel García,MEX,28.10.71,2,Naumburg,23.05.1998
+448,44,1:19:41,Robert Korzeniowski,POL,30.07.68,2,Tijuana,20.03.2004
+449,44,1:19:41,Jared Tallent,AUS,17.10.84,1,Melbourne,23.02.2008
+450,44,1:19:41,Kim Hyun-sub,KOR,31.05.85,1,Yeosu,13.10.2008
+451,44,1:19:41,Álvaro Martín,ESP,18.06.94,8,London,13.08.2017
+452,45,1:19:42,Daniel García,MEX,28.10.71,2,Eschborn,12.06.1993
+453,45,1:19:42,Julio Martínez,GUA,27.09.73,2,La Coruña,16.05.1998
+454,45,1:19:42,Daisuke Ikeshima,JPN,30.01.75,2,Kobe,30.01.2000
+455,45,1:19:42,Han Yucheng,CHN,16.12.78,5,Nanning,25.02.2005
+456,45,1:19:42,Jared Tallent,AUS,17.10.84,3,Beijing,16.08.2008
+457,45,1:19:42,Jared Tallent,AUS,17.10.84,1,Melbourne,07.03.2009
+458,45,1:19:42,Cai Zelin,CHN,11.04.91,1,Huaian,12.02.2012
+459,45,1:19:42,Satoshi Maruo,JPN,28.11.91,6,Nomi,15.03.2015
+460,45,1:19:42,Caio Bonfim,BRA,19.03.91,4,Rio de Janeiro,12.08.2016
+461,45,1:19:42,Perseus Karlström,SWE,02.05.90,2,Podebrady,02.04.2022
+462,46,1:19:43,Anatoliy Solomin,UKR,02.07.52,3,Fana,24.09.1983
+463,46,1:19:43,Nikolay Matyukhin,RUS,13.12.68,2,Adler,14.02.1993
+464,46,1:19:43,Vladimir Andreyev,RUS,07.09.66,3,Adler,14.02.1993
+465,46,1:19:43,Chen Shaoguo,CHN,20.01.72,1,Beijing,08.09.1993
+466,46,1:19:43,Robert Korzeniowski,POL,30.07.68,1,Turku,31.03.1997
+467,46,1:19:43,Yevgeniy Misyulya,BLR,13.03.64,1,Hildesheim,13.09.1998
+468,46,1:19:43,Ivano Brugnetti,ITA,01.09.76,3,Tijuana,20.03.2004
+469,46,1:19:43,Stanislav Yemelyanov,RUS,23.10.90,1,Adler,20.02.2010
+470,46,1:19:43,Perseus Karlström,SWE,02.05.90,1,Podébrady,10.10.2020
+471,46,1:19:43,Francesco Fortunato,ITA,13.12.94,5,Podébrady,16.05.2021
+472,46,1:19:43,Brian Pintado,ECU,29.07.95,1,Asunción,12.10.2022
+473,47,1:19:44,Li Zewen,CHN,05.12.73,1,Beijing,29.04.1995
+474,47,1:19:44,Aigars Fadejevs,LAT,27.12.75,1,Rio Maior,28.03.1998
+475,47,1:19:44,Juan Manuel Molina,ESP,15.03.79,3,Helsinki,06.08.2005
+476,47,1:19:44,Li Gaobo,CHN,04.05.89,2,Xi'an,21.10.2006
+477,47,1:19:44,Erik Tysse,NOR,04.12.80,3,Rio Maior,04.04.2009
+478,47,1:19:44,Cai Zelin,CHN,11.04.91,4,London,04.08.2012
+479,47,1:19:44,Miguel Ángel López,ESP,03.07.88,1,Zürich,13.08.2014
+480,47,1:19:44,Perseus Karlström,SWE,02.05.90,2,La Coruña,05.06.2021
+481,47,1:19:44,David Kenny,IRL,10.01.99,3,Podebrady,02.04.2022
+482,47,1:19:44,Perseus Karlström,SWE,02.05.90,2,Dudince,25.03.2023
+483,48,1:19:45,Vladimir Andreyev,RUS,07.09.66,3,Sochi,20.04.1996
+484,48,1:19:45,Mikhail Shchennikov,RUS,24.12.67,9,Podébrady,19.04.1997
+485,48,1:19:45,Joel Sánchez,MEX,15.09.67,3,La Coruña,16.05.1998
+486,48,1:19:45,Ivan Trotskiy,BLR,27.05.76,3,Brest,10.03.2001
+487,48,1:19:45,Yevgeniy Misyulya,BLR,13.03.64,2,Dudince,19.05.2001
+488,48,1:19:45,Francisco Javier Fernández,ESP,05.03.77,2,Athínai,20.08.2004
+489,48,1:19:45,Eider Arévalo,COL,09.03.93,1,Podébrady,13.04.2013
+490,48,1:19:45,Wang Zhen,CHN,24.08.91,1,Incheon,28.09.2014
+491,48,1:19:45,Cai Zelin,CHN,11.04.91,3,La Coruña,06.06.2015
+492,48,1:19:45,Wang Kaihua,CHN,16.02.94,1,Huangshan,03.03.2018
+493,48,1:19:45,Diego García,ESP,19.01.96,3,München,20.08.2022
+494,49,1:19:46,Mikhail Shchennikov,RUS,24.12.67,2,Tokyo,24.08.1991
+495,49,1:19:46,Vladimir Andreyev,RUS,07.09.66,10,Podébrady,19.04.1997
+496,49,1:19:46,Robert Korzeniowski,POL,30.07.68,4,La Coruña,16.05.1998
+497,49,1:19:46,Bernardo Segura,MEX,11.02.70,3,Naumburg,23.05.1998
+498,49,1:19:46,Ilya Markov,RUS,19.06.72,2,Turku,24.05.1998
+499,49,1:19:46,Hatem Ghoula,TUN,07.06.73,1,Calella,09.05.1999
+500,49,1:19:46,David Márquez,ESP,13.10.77,7,Saint-Denis,23.08.2003
+501,49,1:19:46,Wang Zhiping,CHN,11.12.83,1,Zhengzhou,14.03.2008
+502,49,1:19:46,Wang Zhen,CHN,24.08.91,1,Dublin,26.06.2011
+503,49,1:19:46,Nazar Kovalenko,UKR,09.02.87,2,Alushta,28.02.2014
+504,49,1:19:46,Denis Strelkov,RUS,26.10.90,2,Zürich,13.08.2014
+505,49,1:19:46,Luís Alberto Amezcua,ESP,01.05.92,9,London,13.08.2017
+506,50,1:19:47,Viktor Mostovik,BLR,07.01.63,3,Kyiv,30.07.1988
+507,50,1:19:47,Francisco Javier Fernández,ESP,05.03.77,2,Calella,22.04.2001
+508,50,1:19:47,Wang Hao,CHN,02.02.85,4,Beijing,16.08.2008
+509,50,1:19:47,Denis Strelkov,RUS,26.10.90,1,Cheboksary,06.06.2014
+510,50,1:19:47,Brian Pintado,ECU,29.07.95,4,Podebrady,02.04.2022
+511,51,1:19:48,Yevgeniy Zaikin,RUS,19.06.57,5,Sochi,17.02.1991
+512,51,1:19:48,Ivan Trotskiy,BLR,27.05.76,4,Naumburg,23.05.1998
+513,51,1:19:48,Robert Korzeniowski,POL,30.07.68,2,Sesto San Giovan,01.05.2003
+514,51,1:19:48,Francisco Javier Fernández,ESP,05.03.77,1,Cheboksary,18.05.2003
+515,51,1:19:48,Jared Tallent,AUS,17.10.84,10,Cheboksary,10.05.2008
+516,51,1:19:48,Francisco Javier Fernández,ESP,05.03.77,2,Kraków,25.05.2008
+517,51,1:19:48,Matej Tóth,SVK,10.02.83,1,Dudince,22.03.2014
+518,51,1:19:48,Cai Zelin,CHN,11.04.91,3,Huangshan,05.03.2016
+519,52,1:19:49,Jozef Pribilinec,SVK,06.07.60,1,Barcelona,17.04.1983
+520,52,1:19:49,Bo Lingtang,CHN,12.08.70,2,Beijing,08.09.1993
+521,52,1:19:49,Robert Korzeniowski,POL,30.07.68,1,Hildesheim,12.09.1999
+522,52,1:19:49,Marco Giungi,ITA,30.10.74,1,Grosseto,07.04.2002
+523,52,1:19:49,Alejandro López,MEX,09.02.75,4,Tijuana,08.03.2003
+524,52,1:19:49,Miguel Ángel López,ESP,03.07.88,5,London,04.08.2012
+525,52,1:19:49,Wang Kaihua,CHN,16.02.94,2,Changbaishan,06.09.2015
+526,52,1:19:49,Kirill Frolov,RUS,29.09.93,3,Sochi,19.02.2018
+527,52,1:19:49,Tomohiro Noda,JPN,24.01.95,3,La Coruña,02.06.2018
+528,52,1:19:50,Viktor Mostovik,BLR,07.01.63,2,Karl-Marx-Stadt,21.06.1987
+529,52,1:19:50,Carlos Mercenário,MEX,03.05.67,8,Moskva,26.05.1990
+530,52,1:19:50,Daisuke Ikeshima,JPN,30.01.75,1,Takahata,01.11.1998
+531,52,1:19:50,Giorgio Rubino,ITA,30.04.73,3,Berlin,15.08.2009
+532,52,1:19:50,Kim Hyun-sub,KOR,31.05.85,2,Nomi,19.03.2017
+533,53,1:19:51,Andreas Erm,GER,12.03.76,3,Dudince,19.05.2001
+534,53,1:19:51,Bian Aiguo,CHN,10.06.80,17,Cixi,23.04.2005
+535,53,1:19:51,Stepan Yudin,RUS,03.04.80,3,Adler,19.02.2006
+536,53,1:19:51,Erik Tysse,NOR,04.12.80,1,Rio Maior,05.04.2008
+537,53,1:19:51,Ivano Brugnetti,ITA,01.09.76,5,Beijing,16.08.2008
+538,53,1:19:51,Chu Yafei,CHN,05.09.88,1,La Coruña,20.06.2009
+539,53,1:19:51,Erik Tysse,NOR,04.12.80,2,Podébrady,12.04.2013
+540,53,1:19:51,Wang Kaihua,CHN,16.02.94,4,Huangshan,05.03.2016
+541,53,1:19:51,Samuel Gathimba,KEN,26.10.87,3,Gold Coast,08.04.2018
+542,53,1:19:51,Caio Bonfim,BRA,19.03.91,6,Eugene,15.07.2022
+543,54,1:19:52,David Smith,AUS,24.07.55,1,Jiading,16.03.1985
+544,54,1:19:52,Reima Salonen,FIN,19.10.55,1,Pihtipudas,21.06.1986
+545,54,1:19:52,Vyacheslav Cherepanov,RUS,02.11.64,4,Adler,14.02.1993
+546,54,1:19:52,Alejandro López,MEX,09.02.75,5,Naumburg,23.05.1998
+547,54,1:19:52,Francisco Javier Fernández,ESP,05.03.77,1,Santa Eularia de,04.03.2007
+548,54,1:19:52,Eder Sánchez,MEX,21.05.86,6,London,04.08.2012
+549,54,1:19:52,Miguel Ángel López,ESP,03.07.88,1,Renteria,22.03.2015
+550,54,1:19:52,Lu Xiaotong,CHN,24.07.97,3,Huangshan,10.03.2019
+551,54,1:19:52,Tomohiro Noda,JPN,24.01.95,3,Kobe,19.02.2023
+552,55,1:19:53,Yevgeniy Yevsyukov,RUS,02.01.50,2,Cherkassy,27.04.1980
+553,55,1:19:53,Vladimir Andreyev,RUS,07.09.66,2,Sochi,22.02.1992
+554,55,1:19:53,Mikhail Shchennikov,RUS,24.12.67,1,Hospitalet de Ll,10.05.1992
+555,55,1:19:53,Aigars Fadejevs,LAT,27.12.75,3,Calella,22.04.2001
+556,55,1:19:53,Denis Strelkov,RUS,26.10.90,1,Sochi,23.02.2013
+557,55,1:19:53,Chen Ding,CHN,05.08.92,1,Taicang,01.05.2015
+558,55,1:19:53,Eiki Takahashi,JPN,19.11.92,4,Kobe,16.02.2020
+559,55,1:19:53,Daisuke Matsunaga,JPN,24.03.95,1,Nomi,20.03.2022
+560,56,1:19:54,Andrey Makarov,RUS,02.01.71,11,Podébrady,19.04.1997
+561,56,1:19:54,Francisco Javier Fernández,ESP,05.03.77,1,Sesto San Giovan,01.05.2005
+562,56,1:19:54,Sergey Bakulin,RUS,13.11.86,4,Adler,19.02.2006
+563,56,1:19:54,Hatem Ghoula,TUN,07.06.73,11,Cheboksary,10.05.2008
+564,56,1:19:54,Wang Zhen,CHN,24.08.91,1,Shenyang,11.05.2013
+565,56,1:19:54,Hirooki Arai,JPN,18.05.88,3,Kobe,21.02.2016
+566,56,1:19:54,Perseus Karlström,SWE,02.05.90,1,Alytus,19.05.2019
+567,56,1:19:54,Luís Alberto Amezcua,ESP,01.05.92,3,Murcia,14.03.2021
+568,56,1:19:54,Andrés Olivas,MEX,27.05.98,1,Dudince,20.03.2021
+569,57,1:19:55,Rishat Shafikov,RUS,23.01.70,4,Sochi,20.04.1996
+570,57,1:19:55,Valeriy Borisov,KAZ,18.09.66,5,Sochi,20.04.1996
+571,57,1:19:55,Aigars Fadejevs,LAT,27.12.75,2,Hildesheim,13.09.1998
+572,57,1:19:55,Rishat Shafikov,RUS,23.01.70,1,Adler,07.02.1999
+573,57,1:19:55,Nathan Deakes,AUS,17.08.77,1,Melbourne,20.03.2006
+574,57,1:19:55,Andrey Krivov,RUS,14.11.85,3,Adler,28.02.2009
+575,57,1:19:55,Erik Tysse,NOR,04.12.80,2,La Coruña,20.06.2009
+576,57,1:19:55,Nazar Kovalenko,UKR,09.02.87,4,Lugano,18.03.2012
+577,57,1:19:55,Benjamin Thorne,CAN,19.03.93,5,Roma,07.05.2016
+578,57,1:19:55,Zhang Jiaxu,CHN,04.01.00,4,Huangshan,10.03.2019
+579,57,1:19:55,José Alejandro Barrondo,GUA,16.09.96,10,La Coruña,08.06.2019
+580,57,1:19:55,Akasdeep Singh,IND,22.11.99,1,Ranchi,14.02.2023
+581,58,1:19:56,Ronald Weigel,GER,08.08.59,1,Berlin,27.07.1984
+582,58,1:19:56,Yevgeniy Misyulya,BLR,13.03.64,1,Novopolotsk,08.05.1993
+583,58,1:19:56,Tan Mingjun,CHN,17.07.70,1,Beijing,28.04.1995
+584,58,1:19:56,Sergio Vieira Galdino,BRA,07.05.69,5,Eisenhüttenstadt,14.05.1995
+585,58,1:19:56,Dmitriy Yesipchuk,RUS,17.11.74,5,Eisenhüttenstadt,17.06.2000
+586,58,1:19:56,Vladimir Andreyev,RUS,07.09.66,2,München,06.08.2002
+587,58,1:19:56,Robert Korzeniowski,POL,30.07.68,1,La Coruña,07.06.2003
+588,58,1:19:56,Alejandro López,MEX,09.02.75,4,Tijuana,20.03.2004
+589,58,1:19:56,Yin Jun,CHN,16.03.00,5,Huangshan,10.03.2019
+590,58,1:19:56,Hirooki Arai,JPN,18.05.88,11,La Coruña,08.06.2019
+591,59,1:19:57,Viktor Mostovik,BLR,07.01.63,1,Sochi,22.02.1987
+592,59,1:19:57,Jozef Pribilinec,SVK,06.07.60,1,Seoul,23.09.1988
+593,59,1:19:57,Artur Meleshkevich,BLR,11.04.75,6,Naumburg,23.05.1998
+594,59,1:19:57,Dmitriy Yesipchuk,RUS,17.11.74,2,Adler,07.02.1999
+595,59,1:19:57,Vladimir Andreyev,RUS,07.09.66,1,Cheboksary,05.09.1999
+596,59,1:19:57,Viktor Burayev,RUS,23.02.82,3,Adler,17.02.2007
+597,59,1:19:57,Luke Adams,AUS,22.10.76,6,Beijing,16.08.2008
+598,59,1:19:57,Aleksandr Yargunkin,RUS,06.01.81,4,Adler,28.02.2009
+599,59,1:19:57,Li Jianbo,CHN,14.11.86,3,Wuxi,18.04.2009
+600,59,1:19:57,Francisco Javier Fernández,ESP,05.03.77,1,Sesto San Giovan,01.05.2009
+601,59,1:19:57,Jared Tallent,AUS,17.10.84,4,Taicang,22.04.2011
+602,59,1:19:57,Benjamin Thorne,CAN,19.03.93,3,Beijing,23.08.2015
+603,59,1:19:57,Álvaro Martín,ESP,18.06.94,1,La Coruña,03.06.2017
+604,59,1:19:57,Miguel Ángel López,ESP,03.07.88,10,London,13.08.2017
+605,59,1:19:57,Xu Hao,CHN,06.02.99,6,Huangshan,10.03.2019
+606,59,1:19:57,Aurelien Quinion,FRA,27.01.93,1,Aix-les-Bains,12.03.2023
+607,60,1:19:58,Oleg Troshin,RUS,01.08.64,1,Moskva,22.04.1990
+608,60,1:19:58,Andrey Perlov,RUS,12.12.61,1,Hospitalet de Ll,21.04.1991
+609,60,1:19:58,Mikhail Shchennikov,RUS,24.12.67,2,Beijing,29.04.1995
+610,60,1:19:58,Aigars Fadejevs,LAT,27.12.75,1,Turku,10.07.1997
+611,60,1:19:58,Han Yucheng,CHN,16.12.78,4,Naumburg,02.05.2004
+612,60,1:19:58,Andrey Yurin,UKR,20.01.84,1,Yevpatoriya,05.03.2005
+613,60,1:19:58,Holger Pohle,GER,05.03.92,6,Podébrady,09.04.2016
+614,60,1:19:58,Matteo Giupponi,ITA,08.10.88,2,Podébrady,10.10.2020
+615,60,1:19:58,Luís Alberto Amezcua,ESP,01.05.92,5,Podebrady,02.04.2022
+616,60,1:19:58,Álvaro Martín,ESP,18.06.94,1,La Coruña,28.05.2022
+617,61,1:19:59,Robert Ihly,GER,05.05.63,3,La Coruña,06.06.1992
+618,61,1:19:59,Michele Didoni,ITA,07.03.74,1,Göteborg,06.08.1995
+619,61,1:19:59,Han Yucheng,CHN,16.12.78,1,Kunshan,23.05.2004
+620,61,1:19:59,Ilya Markov,RUS,19.06.72,3,Cheboksary,12.06.2004
+621,61,1:19:59,Igor Glavan,UKR,25.09.90,5,Taicang,04.05.2014
+622,61,1:19:59,Álvaro Martín,ESP,18.06.94,3,La Coruña,05.06.2021
+623,61,1:19:59,Niu Wenchao,CHN,20.04.98,2,Huangshan,05.03.2023
+624,62,1:20:00,José Marin,ESP,25.01.50,2,Barcelona,17.04.1983
+625,62,1:20:00,Ronald Weigel,GER,08.08.59,2,Seoul,23.09.1988
+626,62,1:20:00,Li Mingcai,CHN,22.08.71,3,Beijing,08.09.1993
+627,62,1:20:00,Julio Martínez,GUA,27.09.73,7,Naumburg,23.05.1998
+628,62,1:20:00,Vladimir Andreyev,RUS,07.09.66,3,Adler,07.02.1999
+629,62,1:20:00,Han Yucheng,CHN,16.12.78,4,Yangzhou,12.04.2003
+630,62,1:20:00,André Höhne,GER,10.03.78,4,Helsinki,06.08.2005
+631,62,1:20:00,Valeriy Borchin,RUS,03.07.86,2,Göteborg,08.08.2006
+632,62,1:20:00,Matej Tóth,SVK,10.02.83,1,Podébrady,12.04.2014
+633,62,1:20:00,Christopher Linke,GER,24.10.88,5,Rio de Janeiro,12.08.2016
+634,62,1:20:00,Diego García,ESP,19.01.96,2,La Coruña,28.05.2022
+635,63,1:20:01,Mikhail Khmelnitskiy,BLR,24.07.69,2,Brest-Litovsk,25.03.1995
+636,63,1:20:01,Aleksey Kronin,RUS,23.07.70,4,Adler,07.02.1999
+637,63,1:20:01,Liu Yunfeng,CHN,03.08.79,1,Rio Maior,15.04.2000
+638,63,1:20:01,Aleksandr Yargunkin,RUS,06.01.81,2,Saransk,08.06.2008
+639,63,1:20:01,Igor Lyashchenko,UKR,24.08.93,3,Alushta,28.02.2014
+640,63,1:20:01,Yusuke Suzuki,JPN,02.01.88,1,Tokyo,01.01.2020
+641,64,1:20:02,Ernesto Canto,MEX,18.10.59,3,Cherkassy,27.04.1980
+642,64,1:20:02,Reima Salonen,FIN,19.10.55,1,Roma,20.04.1986
+643,64,1:20:02,Li Mingcai,CHN,22.08.71,4,Beijing,07.04.1994
+644,64,1:20:02,Dmitriy Yesipchuk,RUS,17.11.74,2,Cheboksary,05.09.1999
+645,64,1:20:02,Francisco Javier Fernández,ESP,05.03.77,4,Dudince,19.05.2001
+646,64,1:20:02,Nathan Deakes,AUS,17.08.77,3,Athínai,20.08.2004
+647,64,1:20:02,Jared Tallent,AUS,17.10.84,7,London,04.08.2012
+648,64,1:20:02,Satoshi Maruo,JPN,28.11.91,4,Kobe,21.02.2021
+649,65,1:20:03,Frants Kostyukevich,BLR,04.04.63,3,Eschborn,12.06.1993
+650,65,1:20:03,Igor Lyubomirov,RUS,09.11.61,5,Adler,11.02.1995
+651,65,1:20:03,Rishat Shafikov,RUS,23.01.70,1,Moskva,01.06.1996
+652,65,1:20:03,Luis Fernando López,COL,03.06.79,4,Berlin,15.08.2009
+653,65,1:20:03,Isamu Fujisawa,JPN,12.10.87,3,Kobe,16.02.2014
+654,65,1:20:03,Omar Segura,MEX,24.03.81,6,Taicang,04.05.2014
+655,65,1:20:04,Anatoliy Gorshkov,UKR,04.08.58,3,New York City,03.05.1987
+656,65,1:20:04,Mikhail Shchennikov,RUS,24.12.67,2,Hospitalet de Ll,21.04.1991
+657,65,1:20:04,Nick A'Hern,AUS,06.01.69,12,Podébrady,19.04.1997
+658,65,1:20:04,Yevgeniy Misyulya,BLR,13.03.64,7,Naumburg,25.05.1997
+659,65,1:20:04,Andrey Makarov,BLR,02.01.71,8,Naumburg,23.05.1998
+660,65,1:20:04,Eiki Takahashi,JPN,19.11.92,7,Taicang,04.05.2014
+661,65,1:20:04,Miguel Ángel López,ESP,03.07.88,4,La Coruña,06.06.2015
+662,65,1:20:04,Dane Bird-Smith,AUS,15.07.92,1,Adelaide,21.02.2016
+663,65,1:20:04,Tomohiro Noda,JPN,24.01.95,3,Nomi,19.03.2017
+664,65,1:20:04,Isamu Fujisawa,JPN,12.10.87,11,London,13.08.2017
+665,65,1:20:04,Zhu Guowen,CHN,20.08.97,7,Huangshan,10.03.2019
+666,66,1:20:05,Igor Kollár,SVK,25.06.65,6,Eisenhüttenstadt,14.05.1995
+667,66,1:20:05,Joel Sánchez,MEX,15.09.67,13,Podébrady,19.04.1997
+668,66,1:20:05,Ilya Markov,RUS,19.06.72,1,Adler,01.03.2003
+669,66,1:20:05,Andrey Stadnichuk,RUS,14.12.73,5,Adler,08.02.2004
+670,66,1:20:05,Si Tianfeng,CHN,17.06.84,18,Cixi,23.04.2005
+671,66,1:20:05,Wang Zhiping,CHN,11.12.83,3,Xi'an,21.10.2006
+672,66,1:20:05,Takumi Saito,JPN,23.03.93,2,Kobe,17.02.2013
+673,66,1:20:05,Dane Bird-Smith,AUS,15.07.92,5,La Coruña,06.06.2015
+674,66,1:20:05,Pedro Gómez,MEX,31.12.90,7,Podébrady,09.04.2016
+675,66,1:20:05,Perseus Karlström,SWE,02.05.90,1,Adelaide,10.02.2019
+676,66,1:20:05,Ceng Qingcun,CHN,03.04.95,8,Huangshan,10.03.2019
+677,66,1:20:05,Vikash Singh,IND,06.07.96,7,Nomi,19.03.2023
+678,67,1:20:06,Sergey Protishin,UKR,26.02.59,4,Kyiv,30.07.1988
+679,67,1:20:06,Zhou Yongsheng,CHN,15.10.72,5,Beijing,07.04.1994
+680,67,1:20:06,Liu Yunfeng,CHN,03.08.79,5,Naumburg,02.05.2004
+681,67,1:20:06,Ivano Brugnetti,ITA,01.09.76,6,Naumburg,02.05.2004
+682,67,1:20:06,Vladimir Stankin,RUS,02.01.74,6,Adler,23.02.2008
+683,67,1:20:06,Juan Manuel Molina,ESP,15.03.79,2,Rio Maior,05.04.2008
+684,67,1:20:06,Yusuke Suzuki,JPN,02.01.88,1,Nomi,14.03.2010
+685,67,1:20:06,Lebogang Shange,RSA,01.08.90,2,Adelaide,21.02.2016
+686,67,1:20:06,Francesco Fortunato,ITA,13.12.94,5,München,20.08.2022
+687,68,1:20:07,Mikhail Orlov,RUS,25.06.67,2,Moskva,22.04.1990
+688,68,1:20:07,Michele Didoni,ITA,07.03.74,1,Molfetta,14.05.1995
+689,68,1:20:07,Jefferson Pérez,ECU,01.07.74,1,Atlanta,26.07.1996
+690,68,1:20:07,Andrey Ruzavin,RUS,28.03.86,4,Adler,17.02.2007
+691,68,1:20:07,Andrés Chocho,ECU,04.11.83,6,Roma,07.05.2016
+692,68,1:20:07,Gao Wenkui,CHN,28.07.95,9,Huangshan,10.03.2019
+693,69,1:20:08,Valdas Kazlauskas,LTU,23.02.58,5,Kyiv,30.07.1988
+694,69,1:20:08,Vladimir Andreyev,RUS,07.09.66,1,Leningrad,04.08.1989
+695,69,1:20:08,Aleksandr Pershin,RUS,29.01.67,1,Novopolotsk,15.09.1990
+696,69,1:20:08,Ruslan Alukayev,RUS,08.09.78,3,Adler,20.02.1998
+697,69,1:20:08,Dmitriy Yesipchuk,RUS,17.11.74,6,Adler,12.03.2005
+698,69,1:20:08,Wang Zhiping,CHN,11.12.83,19,Cixi,23.04.2005
+699,69,1:20:08,Eder Sánchez,MEX,21.05.86,3,Shenzen,24.03.2007
+700,69,1:20:08,Erik Tysse,NOR,04.12.80,1,Rio Maior,10.04.2010
+701,69,1:20:08,Tomohiro Noda,JPN,24.01.95,7,Nomi,15.03.2015
+702,69,1:20:08,Eiki Takahashi,JPN,19.11.92,6,La Coruña,06.06.2015
+703,69,1:20:08,Benjamin Thorne,CAN,19.03.93,3,Adelaide,21.02.2016
+704,69,1:20:08,Paramjeet Singh Bisht,IND,03.03.02,8,Nomi,19.03.2023
+705,70,1:20:09,Maurizio Damilano,ITA,06.04.57,1,Piacenza,13.05.1984
+706,70,1:20:09,Jacek Müller,POL,03.11.73,4,Eschborn,12.06.1993
+707,70,1:20:09,Igor Kollár,SVK,25.06.65,14,Podébrady,19.04.1997
+708,70,1:20:09,Modris Liepins,LAT,30.08.66,1,Tukums,18.05.1997
+709,70,1:20:09,Alejandro López,MEX,09.02.75,1,Vallensbæk,06.05.2000
+710,70,1:20:09,Pei Chuang,CHN,05.12.81,5,Yangzhou,12.04.2003
+711,70,1:20:09,João Vieira,POR,20.02.76,3,Göteborg,08.08.2006
+712,70,1:20:09,Igor Yerokhin,RUS,04.09.85,3,Leamington,20.05.2007
+713,71,1:20:10,Maurizio Damilano,ITA,06.04.57,4,Fana,24.09.1983
+714,71,1:20:10,Igor Lyubomirov,RUS,09.11.61,2,Leningrad,11.06.1988
+715,71,1:20:10,Artur Shumak,BLR,19.10.63,2,Kyiv,11.07.1991
+716,71,1:20:10,Robert Ihly,GER,05.05.63,9,Eisenhüttenstadt,11.05.1996
+717,71,1:20:10,Zhu Hongjun,CHN,18.08.83,2,Guangzhou,20.03.2004
+718,71,1:20:10,Liu Yunfeng,CHN,03.08.79,4,Rio Maior,02.04.2005
+719,71,1:20:10,Sergey Bakulin,RUS,13.11.86,6,La Coruña,13.05.2006
+720,71,1:20:10,Wang Hao,CHN,16.08.89,4,Wuxi,18.04.2009
+721,71,1:20:10,Kim Hyun-sub,KOR,31.05.85,5,Taicang,22.04.2011
+722,71,1:20:10,Giorgio Rubino,ITA,30.04.73,4,Taicang,30.03.2012
+723,71,1:20:10,Gabriel Bordier,FRA,08.10.97,6,Podébrady,16.05.2021
+724,71,1:20:10,Salih Korkmaz,TUR,14.04.97,7,Podébrady,16.05.2021
+725,72,1:20:11,Grigoriy Kornev,RUS,14.03.61,2,Leningrad,04.08.1989
+726,72,1:20:11,Tomas Kratochvil,CZE,19.12.71,1,Rumburk,15.06.1996
+727,72,1:20:11,Sergey Chernov,BLR,05.02.79,2,Nesvizh,15.04.2006
+728,72,1:20:11,Jared Tallent,AUS,17.10.84,1,Beijing,18.04.2008
+729,72,1:20:11,Nazar Kovalenko,UKR,09.02.87,8,Taicang,04.05.2014
+730,72,1:20:11,Masatora Kawano,JPN,23.10.98,4,La Coruña,02.06.2018
+731,72,1:20:11,Suraj Panwar,IND,02.04.01,2,Ranchi,14.02.2023
+732,73,1:20:12,Aleksandr Potashov,BLR,12.03.62,2,Novopolotsk,21.05.1994
+733,73,1:20:12,Ilya Markov,RUS,19.06.72,1,Izhevsk,04.06.1995
+734,73,1:20:12,Nikolay Matyukhin,RUS,13.12.68,4,Adler,20.02.1998
+735,73,1:20:12,Noé Hernández,MEX,15.03.78,1,Wajima,18.04.1999
+736,73,1:20:12,Semyon Lovkin,RUS,14.07.77,2,Adler,20.02.2000
+737,73,1:20:12,Cui Zhide,CHN,11.01.83,2,Kunshan,23.05.2004
+738,73,1:20:12,Viktor Burayev,RUS,23.02.82,4,Göteborg,08.08.2006
+739,73,1:20:12,Andrey Krivov,RUS,14.11.85,4,Cheboksary,17.06.2007
+740,73,1:20:12,Aleksey Konkin,RUS,07.10.88,5,Adler,28.02.2009
+741,73,1:20:12,Isamu Fujisawa,JPN,12.10.87,2,Nomi,14.03.2010
+742,73,1:20:12,Bertrand Moulinet,FRA,06.01.87,8,London,04.08.2012
+743,73,1:20:12,Kostyantyn Puzanov,UKR,19.05.91,4,Alushta,28.02.2014
+744,73,1:20:12,Iñaki Gómez,CAN,16.01.88,7,Roma,07.05.2016
+745,73,1:20:12,Zhang Jun,CHN,20.07.98,1,Xi'an,20.09.2021
+746,74,1:20:13,Aigars Fadejevs,LAT,27.12.75,15,Podébrady,19.04.1997
+747,74,1:20:13,Ilya Markov,RUS,19.06.72,1,Barcelona,10.05.1998
+748,74,1:20:13,Yevgeniy Shmalyuk,RUS,14.01.76,1J,Izhevsk,16.05.1998
+749,74,1:20:13,Andreas Erm,GER,12.03.76,1,Hildesheim,06.06.2004
+750,74,1:20:13,Cui Zhide,CHN,11.01.83,5,Nanjing,19.10.2005
+751,74,1:20:13,Ivan Trotskiy,BLR,27.05.76,4,Leamington,20.05.2007
+752,74,1:20:13,Evan Dunfee,CAN,28.09.90,9,Taicang,04.05.2014
+753,74,1:20:13,Cai Zelin,CHN,11.04.91,2,Beijing,20.03.2015
+754,74,1:20:13,Tom Bosworth,GBR,17.01.90,6,Rio de Janeiro,12.08.2016
+755,74,1:20:13,Zhu Chendong,CHN,16.09.99,10,Huangshan,10.03.2019
+756,74,1:20:13,Lu Ning,CHN,12.02.99,1cB,Huangshan,20.03.2021
+757,75,1:20:14,Grigoriy Kornev,RUS,14.03.61,6,Kyiv,30.07.1988
+758,75,1:20:14,Maurizio Damilano,ITA,06.04.57,3,Seoul,23.09.1988
+759,75,1:20:14,Vladimir Andreyev,RUS,07.09.66,5,Dudince,19.05.2001
+760,75,1:20:14,Ilya Markov,RUS,19.06.72,8,Saint-Denis,23.08.2003
+761,75,1:20:14,Viktor Burayev,RUS,23.02.82,7,Naumburg,02.05.2004
+762,75,1:20:14,Koichiro Morioka,JPN,02.04.85,3,Kobe,17.02.2013
+763,75,1:20:14,Matej Tóth,SVK,10.02.83,3,Podébrady,12.04.2013
+764,75,1:20:14,Takumi Saito,JPN,23.03.93,4,Kobe,21.02.2016
+765,75,1:20:14,Satoshi Maruo,JPN,28.11.91,5,Kobe,21.02.2016
+766,75,1:20:14,Vasiliy Mizinov,RUS,29.12.97,1,Podébrady,06.04.2019
+767,75,1:20:14,Hiroto Jusho,JPN,11.01.00,2,Kobe,20.02.2022
+768,75,1:20:14,Caio Bonfim,BRA,19.03.91,3,La Coruña,28.05.2022
+769,77,1:20:15,Yevgeniy Misyulya,BLR,13.03.64,9,Moskva,26.05.1990
+770,77,1:20:15,Nathan Deakes,AUS,17.08.77,1,Adelaide,26.01.1999
+771,77,1:20:15,Daisuke Ikeshima,JPN,30.01.75,1,Kobe,31.01.1999
+772,77,1:20:15,Robert Heffernan,IRL,28.02.78,2,Naumburg,05.05.2002
+773,77,1:20:15,José David Domínguez,ESP,29.07.80,9,Saint-Denis,23.08.2003
+774,77,1:20:15,Li Hongguang,CHN,10.02.80,20,Cixi,23.04.2005
+775,77,1:20:15,Sun Chao,CHN,08.01.87,10,Yangzhou,22.04.2006
+776,77,1:20:15,Robert Heffernan,IRL,28.02.78,5,Leamington,20.05.2007
+777,77,1:20:15,Isamu Fujisawa,JPN,12.10.87,5,Kobe,16.02.2020
+778,77,1:20:15,Brian Pintado,ECU,29.07.95,4,La Coruña,05.06.2021
+779,77,1:20:15,Haruki Manju,JPN,10.04.01,9,Nomi,19.03.2023
+780,78,1:20:16,Ernesto Canto,MEX,18.10.59,1,Haridslev,11.06.1989
+781,78,1:20:16,Jirí Malysa,CZE,14.08.66,10,Eisenhüttenstadt,11.05.1996
+782,78,1:20:16,Ilya Markov,RUS,19.06.72,2,Atlanta,26.07.1996
+783,78,1:20:16,Akihiko Koike,JPN,10.04.73,3,Kobe,30.01.2000
+784,78,1:20:16,Igor Yerokhin,RUS,04.09.85,7,Adler,12.03.2005
+785,78,1:20:16,Lu Ronghua,CHN,21.02.83,4,Shenzen,24.03.2007
+786,78,1:20:16,Dmitriy Yesipchuk,RUS,17.11.74,5,Cheboksary,17.06.2007
+787,78,1:20:16,Chen Ding,CHN,05.08.92,2,Zhengzhou,14.03.2008
+788,78,1:20:16,Andrey Krivov,RUS,14.11.85,2,Sochi,26.02.2011
+789,78,1:20:16,Matej Tóth,SVK,10.02.83,2,Rio Maior,09.04.2011
+790,78,1:20:16,Anton Kurbatov,RUS,02.10.01,1,Cheboksary,29.05.2021
+791,78,1:20:16,Vasiliy Mizinov,RUS,29.12.97,1,Chelyabinsk,27.98.2022
+792,79,1:20:17,Pavol Blazek,SVK,09.07.58,1,Hospitalet de Ll,24.04.1988
+793,79,1:20:17,Bernardo Segura,MEX,11.02.70,1,Winnipeg,26.07.1999
+794,79,1:20:17,Yevgeniy Misyulya,BLR,13.03.64,4,Soligorsk,13.05.2000
+795,79,1:20:17,Park Chil-sung,KOR,08.07.82,2,Yeosu,13.10.2008
+796,79,1:20:17,Wang Zhen,CHN,24.08.91,1,La Coruña,28.05.2016
+797,79,1:20:17,Zhu Xiaoqiang,CHN,21.04.00,11,Huangshan,10.03.2019
+798,79,1:20:17,Zhang Jun,CHN,20.07.98,6,Nomi,17.03.2019
+799,79,1:20:17,Wayne Snyman,RSA,08.03.85,2,Podébrady,06.04.2019
+800,79,1:20:17,Zhang Hongliang,CHN,01.01.99,2cB,Huangshan,20.03.2021
+801,79,1:20:17,Zhu Xiaoqiang,CHN,21.04.00,9cA,Huangshan,20.03.2021
+802,80,1:20:18,Alessandro Pezzatini,ITA,25.08.57,2,Piacenza,13.05.1984
+803,80,1:20:18,Grigoriy Kornev,RUS,14.03.61,6,Adler,11.02.1995
+804,80,1:20:18,Aigars Fadejevs,LAT,27.12.75,4,Eisenhüttenstadt,10.05.1997
+805,80,1:20:18,Francisco Javier Fernández,ESP,05.03.77,1,Leamington,23.04.2000
+806,80,1:20:18,Aigars Fadejevs,LAT,27.12.75,6,Eisenhüttenstadt,17.06.2000
+807,80,1:20:18,Jefferson Pérez,ECU,01.07.74,4,Sydney,22.09.2000
+808,80,1:20:18,Juan Manuel Molina,ESP,15.03.79,1,Naumburg,05.05.2002
+809,80,1:20:18,Viktor Burayev,RUS,23.02.82,7,La Coruña,13.05.2006
+810,80,1:20:18,Juan Manuel Molina,ESP,15.03.79,3,Kraków,25.05.2008
+811,80,1:20:18,Pyotr Bogatyrev,RUS,11.03.91,3,Sochi,26.02.2011
+812,80,1:20:18,Robert Heffernan,IRL,28.02.78,9,London,04.08.2012
+813,80,1:20:18,Cai Zelin,CHN,11.04.91,2,Shenyang,11.05.2013
+814,80,1:20:18,Rafal Fedaczynski,POL,03.12.80,2,Podébrady,12.04.2014
+815,80,1:20:18,Iñaki Gómez,CAN,16.01.88,10,Taicang,04.05.2014
+816,80,1:20:18,Vasiliy Mizinov,RUS,29.12.97,2,Alytus,19.05.2019
+817,80,1:20:18,José Montaña,COL,21.03.92,12,La Coruña,08.06.2019
+818,81,1:20:19,Querubin Moreno,COL,29.12.59,4,New York City,03.05.1987
+819,81,1:20:19,Vyacheslav Smirnov,RUS,14.05.57,3,Leningrad,11.06.1988
+820,81,1:20:19,Ilya Markov,RUS,19.06.72,5,Adler,14.02.1993
+821,81,1:20:19,Liu Yunfeng,CHN,03.08.79,2,Leamington,23.04.2000
+822,81,1:20:19,Marco Giungi,ITA,30.10.74,3,Hildesheim,09.07.2000
+823,81,1:20:19,Hatem Ghoula,TUN,07.06.73,5,Helsinki,06.08.2005
+824,81,1:20:19,André Höhne,GER,10.03.78,3,Rio Maior,05.04.2008
+825,81,1:20:19,Denis Strelkov,RUS,26.10.90,2,Adler,20.02.2010
+826,81,1:20:19,Jared Tallent,AUS,17.10.84,1,Hobart,19.02.2011
+827,81,1:20:19,Hassanine Sbaï,TUN,21.01.84,4,Lugano,20.03.2011
+828,81,1:20:19,Eder Sánchez,MEX,21.05.86,6,Taicang,22.04.2011
+829,81,1:20:19,Benjamin Thorne,CAN,19.03.93,11,Taicang,04.05.2014
+830,81,1:20:19,Álvaro Martín,ESP,18.06.94,2,Renteria,22.03.2015
+831,81,1:20:19,Rhydian Cowley,AUS,04.01.91,7,Nomi,17.03.2019
+832,81,1:20:19,Gabriel Bordier,FRA,08.10.97,3,Podébrady,10.10.2020
+833,81,1:20:19,Eiki Takahashi,JPN,19.11.92,1,Nomi,21.03.2021
+834,81,1:20:19,Álvaro Martín,ESP,18.06.94,7,Eugene,15.07.2022
+835,83,1:20:20,Bernardo Segura,MEX,11.02.70,1,Mézidon-Canon,01.05.1999
+836,83,1:20:20,Yohann Diniz,FRA,01.01.78,1,Podébrady,09.04.2005
+837,83,1:20:20,Zhao Chengliang,CHN,01.06.84,6,Nanjing,19.10.2005
+838,83,1:20:20,Park Chil-sung,KOR,08.07.82,1,Goyang,01.05.2007
+839,83,1:20:20,Andrey Kovenko,UKR,25.11.73,5,Alushta,28.02.2014
+840,83,1:20:20,Caio Bonfim,BRA,19.03.91,8,Roma,07.05.2016
+841,83,1:20:20,Perseus Karlström,SWE,02.05.90,2,La Coruña,03.06.2017
+842,83,1:20:20,Wang Zhaozhao,CHN,01.09.99,12,Huangshan,10.03.2019
+843,83,1:20:20,Li Yandong,CHN,02.02.98,3cB,Huangshan,20.03.2021
+844,83,1:20:20,Declan Tingay,AUS,06.02.99,2,Melbourne,12.02.2023
+845,83,1:20:20,Qian Haifeng,CHN,08.07.00,3,Huangshan,05.03.2023
+846,84,1:20:21,Frants Kostyukevich,BLR,04.04.63,1,Hospitalet de Ll,27.05.1989
+847,84,1:20:21,Roman Mrazek,SVK,21.01.62,3,Hildesheim,16.09.1990
+848,84,1:20:21,Jefferson Pérez,ECU,01.07.74,11,Eisenhüttenstadt,11.05.1996
+849,84,1:20:21,Vladimir Stankin,RUS,02.01.74,5,Adler,07.02.1999
+850,84,1:20:21,Yu Guohui,CHN,30.04.77,2,Mézidon-Canon,01.05.1999
+851,84,1:20:21,Jirí Malysa,CZE,14.08.66,6,Dudince,19.05.2001
+852,84,1:20:21,Ivano Brugnetti,ITA,01.09.76,1,Rio Maior,14.04.2007
+853,84,1:20:21,Irfan Kolothum Thodi,IND,08.02.90,10,London,04.08.2012
+854,84,1:20:21,Takumi Saito,JPN,23.03.93,4,Kobe,16.02.2014
+855,84,1:20:21,Miguel Ángel López,ESP,03.07.88,2,Podébrady,21.05.2017
+856,84,1:20:21,Roman Yevstifeyev,RUS,19.09.92,4,Sochi,19.02.2018
+857,84,1:20:21,Georgiy Sheiko,KAZ,24.08.89,8,Nomi,17.03.2019
+858,85,1:20:22,Yevgeniy Zaikin,RUS,19.06.57,3,Leningrad,04.08.1989
+859,85,1:20:22,Yevgeniy Misyulya,BLR,13.03.64,3,Tokyo,24.08.1991
+860,85,1:20:22,Aleksandr Yargunkin,RUS,06.01.81,4,Cheboksary,12.06.2004
+861,85,1:20:22,Dmitriy Yesipchuk,RUS,17.11.74,7,Adler,23.02.2008
+862,85,1:20:22,Iñaki Gómez,CAN,16.01.88,4,Adelaide,21.02.2016
+863,85,1:20:22,Daisuke Matsunaga,JPN,24.03.95,7,Rio de Janeiro,12.08.2016
+864,86,1:20:23,David Smith,AUS,24.07.55,1,Melbourne,17.12.1983
+865,86,1:20:23,Valentí Massana,ESP,05.07.70,2,Göteborg,06.08.1995
+866,86,1:20:23,Bernardo Segura,MEX,11.02.70,3,Atlanta,26.07.1996
+867,86,1:20:23,Dmitriy Yesipchuk,RUS,17.11.74,5,Adler,19.02.2006
+868,86,1:20:23,Yann Dien,FRA,24.09.75,2,Rio Maior,20.04.2010
+869,86,1:20:23,Hassanine Sbaï,TUN,21.01.84,2,Dublin,26.06.2011
+870,86,1:20:23,Isamu Fujisawa,JPN,12.10.87,2,Nomi,16.03.2014
+871,86,1:20:23,Diego García,ESP,19.01.96,3,Alytus,19.05.2019
+872,86,1:20:23,Noel Ali Chama,EX,15.09.97,2,Dudince,20.03.2021
+873,87,1:20:24,Alejandro López,MEX,09.02.75,10,Saint-Denis,23.08.2003
+874,87,1:20:24,Julio César Salazar,MEX,08.07.93,8,Podébrady,09.04.2016
+875,87,1:20:24,Jin Xiangqian,CHN,18.03.97,5,La Coruña,02.06.2018
+876,87,1:20:24,Yuta Koga,JPN,15.07.99,9,Nomi,17.03.2019
+877,87,1:20:24,Isamu Fujisawa,JPN,12.10.87,5,Nomi,15.03.2020
+878,87,1:20:24,Eider Arévalo,COL,09.03.93,3,Dudince,20.03.2021
+879,87,1:20:24,Andrés Olivas,MEX,27.05.98,5,La Coruña,05.06.2021
+880,87,1:20:24,Tomohiro Noda,JPN,24.01.95,3,Kobe,20.02.2022
+881,88,1:20:25,Ernesto Canto,MEX,18.10.59,5,New York City,03.05.1987
+882,88,1:20:25,Mikhail Khmelnitskiy,BLR,24.07.69,2,Novopolotsk,08.05.1993
+883,88,1:20:25,Yu Guohui,CHN,30.04.77,1,Bangkok,13.12.1998
+884,88,1:20:25,Andreas Erm,GER,12.03.76,5,Sydney,22.09.2000
+885,88,1:20:25,Omar Segura,MEX,24.03.81,21,Cixi,23.04.2005
+886,88,1:20:25,Vladimir Stankin,RUS,02.01.74,6,Helsinki,06.08.2005
+887,88,1:20:25,Wang Hao,CHN,02.02.85,2,Beijing,18.04.2008
+888,88,1:20:25,Matej Tóth,SVK,10.02.83,1,Rio Maior,14.04.2012
+889,88,1:20:25,Eiki Takahashi,JPN,19.11.92,4,Kobe,17.02.2013
+890,88,1:20:25,Erick Barrondo,GUA,14.06.91,1,Dublin,29.06.2013
+891,88,1:20:25,Sun Song,CHN,15.12.96,4,Huangshan,04.03.2017
+892,89,1:20:26,Maurizio Damilano,ITA,06.04.57,1,Piacenza,09.10.1988
+893,89,1:20:26,Mikhail Shchennikov,RUS,24.12.67,1,Barcelona,10.04.1994
+894,89,1:20:26,Luis Fernando López,COL,03.06.79,2,Lima,07.05.2005
+895,89,1:20:26,Eder Sánchez,MEX,21.05.86,1,Kraków,23.06.2007
+896,89,1:20:26,Xu Faguang,CHN,17.05.87,3,Zhengzhou,14.03.2008
+897,89,1:20:26,Andrey Kovenko,UKR,25.11.73,3,Podébrady,12.04.2014
+898,89,1:20:26,Christopher Linke,GER,24.10.88,1,Naumburg,23.04.2017
+899,89,1:20:26,Tomohiro Noda,JPN,24.01.95,6,Kobe,16.02.2020
+900,90,1:20:27,Aleksey Pershin,RUS,23.09.62,6,Sochi,17.02.1991
+901,90,1:20:27,Daisuke Ikeshima,JPN,30.01.75,16,Podébrady,19.04.1997
+902,90,1:20:27,Aleksandr Yargunkin,RUS,06.01.81,8,Adler,12.03.2005
+903,90,1:20:27,Jared Tallent,AUS,17.10.84,5,Berlin,15.08.2009
+904,90,1:20:27,Chu Yafei,CHN,05.09.88,3,Jinan,22.10.2009
+905,90,1:20:27,Dane Bird-Smith,AUS,15.07.92,12,Taicang,04.05.2014
+906,90,1:20:27,Matteo Giupponi,ITA,08.10.88,8,Rio de Janeiro,12.08.2016
+907,90,1:20:28,Vyacheslav Cherepanov,RUS,02.11.64,1,Sochi,21.01.1989
+908,90,1:20:28,Robert Ihly,GER,05.05.63,4,Hildesheim,16.09.1990
+909,90,1:20:28,Daniel García,MEX,28.10.71,2,Winnipeg,26.07.1999
+910,90,1:20:28,Alessandro Gandellini,ITA,30.04.73,3,Leamington,23.04.2000
+911,90,1:20:28,Andrey Stadnichuk,RUS,14.12.73,2,Adler,01.03.2003
+912,90,1:20:28,Konstantin Golubtsov,RUS,01.06.73,3,Adler,01.03.2003
+913,90,1:20:28,Xu Xingde,CHN,12.06.84,6,Nanning,25.02.2005
+914,90,1:20:28,Liu Wenjun,CHN,08.01.87,22,Cixi,23.04.2005
+915,90,1:20:28,Ilya Markov,RUS,19.06.72,1,Sesto San Giovan,01.05.2006
+916,90,1:20:28,Chen Ding,CHN,05.08.92,13,Taicang,04.05.2014
+917,90,1:20:28,Caio Bonfim,BRA,19.03.91,14,Taicang,04.05.2014
+918,90,1:20:28,Kevin Campion,FRA,23.05.88,2,Podébrady,08.04.2017
+919,90,1:20:28,Hiroto Jusho,JPN,11.01.00,4,Kobe,19.02.2023
+920,92,1:20:29,Giovanni de Benedicts,ITA,08.01.68,4,Tokyo,24.08.1991
+921,92,1:20:29,Valentí Massana,ESP,05.07.70,5,Tokyo,24.08.1991
+922,92,1:20:29,Vladimir Andreyev,RUS,07.09.66,2,Moskva,01.06.1996
+923,92,1:20:29,Vladimir Andreyev,RUS,07.09.66,3,Mézidon-Canon,01.05.1999
+924,92,1:20:29,Juan Manuel Molina,ESP,15.03.79,8,Naumburg,02.05.2004
+925,92,1:20:29,Alex Schwazer,ITA,26.11.84,1,Sesto San Giovan,01.05.2010
+926,92,1:20:29,Igor Glavan,UKR,25.09.90,4,Beijing,23.08.2015
+927,92,1:20:29,Dai Jianxing,CHN,11.08.96,13,Huangshan,10.03.2019
+928,92,1:20:29,Isamu Fujisawa,JPN,12.10.87,5,Kobe,21.02.2021
+929,92,1:20:29,Luís Alberto Amezcua,ESP,01.05.92,1,Pamplona,13.02.2022
+930,93,1:20:30,Yevgeniy Yevsyukov,RUS,02.01.50,5,Fana,24.09.1983
+931,93,1:20:30,Andreas Erm,GER,12.03.76,1,Naumburg,30.04.2000
+932,93,1:20:30,Jefferson Pérez,ECU,01.07.74,1,Turku,21.05.2000
+933,93,1:20:30,João Vieira,POR,20.02.76,2,La Coruña,07.06.2003
+934,93,1:20:30,Luke Adams,AUS,22.10.76,5,Shenzen,24.03.2007
+935,93,1:20:30,Eder Sánchez,MEX,21.05.86,3,La Coruña,20.06.2009
+936,93,1:20:30,Koichiro Morioka,JPN,02.04.85,5,Kobe,16.02.2014
+937,93,1:20:30,Perseus Karlström,SWE,02.05.90,1,Adelaide,11.02.2018
+938,93,1:20:30,Niu Wenchao,CHN,20.04.98,14=,Huangshan,10.03.2019
+939,93,1:20:30,Cui Lihong,CHN,13.05.99,14=,Huangshan,10.03.2019
+940,93,1:20:30,Andrés Chocho,ECU,04.11.83,13,La Coruña,08.06.2019
+941,93,1:20:30,Massimo Stano,ITA,27.02.92,8,Podébrady,16.05.2021
+942,94,1:20:31,Ralf Kowalsky,GDR,22.03.62,1,Potsdam,24.05.1986
+943,94,1:20:31,Grigoriy Kornev,RUS,14.03.61,4,Adler,11.02.1996
+944,94,1:20:31,Nick A'Hern,AUS,06.01.69,4,Atlanta,26.07.1996
+945,94,1:20:31,Alessandro Gandellini,ITA,30.04.73,17,Podébrady,19.04.1997
+946,94,1:20:31,Viktor Ginko,BLR,07.12.65,5,Adler,20.02.1998
+947,94,1:20:31,Francisco Javier Fernández,ESP,05.03.77,1,Dudince,25.04.1998
+948,94,1:20:31,Aigars Fadejevs,LAT,27.12.75,2,Hildesheim,12.09.1999
+949,94,1:20:31,Vladimir Stankin,RUS,02.01.74,3,Adler,20.02.2000
+950,94,1:20:31,Roman Rasskazov,RUS,28.04.79,1,Edmonton,04.08.2001
+951,94,1:20:31,Robert Korzeniowski,POL,30.07.68,1,Rumia,07.10.2001
+952,94,1:20:31,Toshihito Fujinohara,JPN,19.09.75,1,Kobe,26.01.2003
+953,94,1:20:31,Vasiliy Ivanov,RUS,26.12.77,4,Adler,01.03.2003
+954,94,1:20:31,Erik Tysse,NOR,04.12.80,2,Kraków,23.06.2007
+955,94,1:20:31,Jefferson Pérez,ECU,01.07.74,1,Sesto San Giovan,01.05.2008
+956,94,1:20:31,Ilya Markov,RUS,19.06.72,4,Kraków,25.05.2008
+957,94,1:20:31,Denis Strelkov,RUS,26.10.90,1,Sochi,18.02.2012
+958,94,1:20:31,Wang Gang,CHN,02.04.91,1,Shenyang,12.05.2013
+959,94,1:20:31,Cai Zelin,CHN,11.04.91,1,Lugano,16.03.2014
+960,94,1:20:31,Satoshi Maruo,JPN,28.11.91,6,Kobe,19.02.2017
+961,94,1:20:31,Marius Ziukas,LTU,29.06.85,2,Adelaide,11.02.2018
+962,94,1:20:31,Gao Yingchao,CHN,18.01.98,2,Huangshan,03.03.2018
+963,94,1:20:31,Andrés Olivas,MEX,27.05.98,6,Podebrady,02.04.2022
+964,94,1:20:31,David Hurtado,ECU,21.04.99,4,La Coruña,28.05.2022
+965,96,1:20:32,Bernardo Segura,MEX,11.02.70,3,Beijing,29.04.1995
+966,96,1:20:32,Aleksey Kronin,RUS,23.07.70,5,Adler,11.02.1996
+967,96,1:20:32,Andrey Makarov,RUS,02.01.71,3,Moskva,01.06.1996
+968,96,1:20:32,Daniel García,MEX,28.10.71,1,Wajima,12.04.1998
+969,96,1:20:32,Noé Hernández,MEX,15.03.78,1,Ciudad Victoria,05.06.2004
+970,96,1:20:32,Ilya Markov,RUS,19.06.72,2,Sesto San Giovan,01.05.2005
+971,96,1:20:32,André Höhne,GER,10.03.78,6,Leamington,20.05.2007
+972,96,1:20:32,Luke Adams,AUS,22.10.76,2,Melbourne,23.02.2008
+973,96,1:20:32,Francisco Javier Fontaneda,ESP,24.03.64,7,Beijing,16.08.2008
+974,96,1:20:32,Hirooki Arai,JPN,18.05.88,7,Kobe,16.02.2020
+975,96,1:20:32,Callum Wilkinson,GBR,14.03.97,6,La Coruña,05.06.2021
+976,96,1:20:32,Jesús Vega,MEX,23.05.94,7,La Coruña,05.06.2021
+977,96,1:20:32,Nils Brembach,GER,23.02.93,7,Podebrady,02.04.2022
+978,97,1:20:33,Daniel García,MEX,28.10.71,1,Eisenhüttenstadt,15.05.1994
+979,97,1:20:33,Valentí Massana,ESP,05.07.70,3,Helsinki,08.08.1994
+980,97,1:20:33,Yevgeniy Misyulya,BLR,13.03.64,1,Alytus,20.05.1995
+981,97,1:20:33,Ilya Markov,RUS,19.06.72,2,Edmonton,04.08.2001
+982,97,1:20:33,Andrey Talaschko,BLR,31.05.82,1,Brest,02.07.2005
+983,97,1:20:33,João Vieira,POR,20.02.76,8,La Coruña,13.05.2006
+984,97,1:20:33,Andrey Krivov,RUS,14.11.85,5,Adler,17.02.2007
+985,97,1:20:33,Pyotr Trofimov,RUS,18.12.83,15,Taicang,04.05.2014
+986,97,1:20:33,Artur Brzozowski,POL,29.03.85,12,London,13.08.2017
+987,97,1:20:33,Christopher Linke,GER,24.10.88,3,Podébrady,06.04.2019
+988,97,1:20:33,Peng Chen,CHN,08.07.97,10c,Huangshan,20.03.2021
+989,99,1:20:34,José Marin,ESP,25.01.50,4,Seoul,23.09.1988
+990,99,1:20:34,Mikhail Shchennikov,RUS,24.12.67,2,Hospitalet de Ll,27.05.1989
+991,99,1:20:34,Vyacheslav Cherepanov,RUS,02.11.64,1,Novosibirsk,15.09.1991
+992,99,1:20:34,Sergey Korepanov,KAZ,09.05.64,7,Adler,11.02.1995
+993,99,1:20:34,Mikhail Shchennikov,RUS,24.12.67,1,La Coruña,20.05.1995
+994,99,1:20:34,Lorenzo Civallero,ITA,08.08.75,11,Saint-Denis,23.08.2003
+995,99,1:20:34,Benjamin Kucinski,POL,01.06.82,7,Helsinki,06.08.2005
+996,99,1:20:34,Nikolay Seredovich,BLR,25.01.84,3,Nesvizh,15.04.2006
+997,99,1:20:34,Erik Tysse,NOR,04.12.80,9,La Coruña,13.05.2006
+998,99,1:20:34,Andrey Yurin,UKR,20.01.84,1,Sumy,02.06.2006
+999,99,1:20:34,Wang Hao,CHN,16.08.89,4,Zhengzhou,14.03.2008
+1000,99,1:20:34,Robert Heffernan,IRL,28.02.78,5,Kraków,25.05.2008
+1001,99,1:20:34,Jared Tallent,AUS,17.10.84,5,Taicang,30.03.2012
+1002,99,1:20:34,Evan Dunfee,CAN,28.09.90,5,Adelaide,21.02.2016
+1003,99,1:20:34,Miguel Ángel López,ESP,03.07.88,2,La Coruña,28.05.2016
+1004,99,1:20:34,Diego García,ESP,19.01.96,13,London,13.08.2017
+1005,99,1:20:34,José Montaña,COL,21.03.92,8,Podebrady,02.04.2022
+1006,99,1:20:34,Yuta Koga,JPN,15.07.99,1,Takahata,23.10.2022
+1007,10,1:20:35,Anatoliy Solomin,UKR,02.07.52,4,Cherkassy,27.04.1980
+1008,10,1:20:35,Ralf Kowalsky,GDR,22.03.62,1,Berlin,20.07.1984
+1009,10,1:20:35,Axel Noack,GER,23.09.61,1,Värnamo,29.05.1987
+1010,10,1:20:35,Stefan Johansson,SWE,11.04.67,4,La Coruña,06.06.1992
+1011,10,1:20:35,Yuriy Kuko,BLR,23.01.68,3,Novopolotsk,21.05.1994
+1012,10,1:20:35,Dmitriy Dolnikov,RUS,19.11.72,8,Adler,11.02.1995
+1013,10,1:20:35,Denis Langlois,FRA,10.10.68,18,Podébrady,19.04.1997
+1014,10,1:20:35,Rishat Shafikov,RUS,23.01.70,2,Calella,09.05.1999
+1015,10,1:20:35,Roman Rasskazov,RUS,28.04.79,1,Cheboksary,16.06.2001
+1016,10,1:20:35,Xu Xingde,CHN,12.06.84,9,Naumburg,02.05.2004
+1017,10,1:20:35,Hirooki Arai,JPN,18.05.88,3,Kobe,15.02.2015
+1018,10,1:20:35,Hassanine Sbaï,TUN,21.01.84,3,La Coruña,03.06.2017
+1019,10,1:20:35,José Oswaldo Calel,ECU,08.08.98,8,La Coruña,05.06.2021
+1020,10,1:20:36,Anatoliy Gorshkov,UKR,04.08.58,3,Karl-Marx-Stadt,21.06.1987
+1021,10,1:20:36,Frants Kostyukevich,BLR,04.04.63,3,Sochi,19.02.1989
+1022,10,1:20:36,Igor Lyubomirov,RUS,09.11.61,2,Izhevsk,04.06.1995
+1023,10,1:20:36,Nichan Daimer,GER,19.07.67,12,Eisenhüttenstadt,11.05.1996
+1024,10,1:20:36,Jefferson Pérez,ECU,01.07.74,1,Poza Rica,08.04.2000
+1025,10,1:20:36,Viktor Burayev,RUS,23.02.82,3,Edmonton,04.08.2001
+1026,10,1:20:36,Juan Manuel Molina,ESP,15.03.79,3,München,06.08.2002
+1027,10,1:20:36,Viktor Burayev,RUS,23.02.82,4,München,06.08.2002
+1028,10,1:20:36,Francisco Javier Fernández,ESP,05.03.77,1,Rio Maior,02.04.2006
+1029,10,1:20:36,Robert Heffernan,IRL,28.02.78,8,Beijing,16.08.2008
+1030,10,1:20:36,Manuel Esteban Soto,COL,28.01.94,9,Rio de Janeiro,12.08.2016
+1031,10,1:20:36,Eiki Takahashi,JPN,19.11.92,14,London,13.08.2017
+1032,10,1:20:36,Daisuke Matsunaga,JPN,24.03.95,1,Takahata,28.10.2018
+1033,10,1:20:36,Julio César Salazar,MEX,08.07.93,4,Murcia,14.03.2021
+1034,10,1:20:37,Igor Kollár,SVK,25.06.65,5,Hildesheim,16.09.1990
+1035,10,1:20:37,Yevgeniy Misyulya,BLR,13.03.64,7,Sochi,17.02.1991
+1036,10,1:20:37,Hatem Ghoula,TUN,07.06.73,7,Eisenhüttenstadt,14.05.1995
+1037,10,1:20:37,Ivan Trotskiy,BLR,27.05.76,6,Adler,20.02.1998
+1038,10,1:20:37,Ilya Markov,RUS,19.06.72,1,Rio Maior,27.03.1999
+1039,10,1:20:37,Semyon Lovkin,RUS,14.07.77,3,Sochi,17.02.2002
+1040,10,1:20:37,Christopher Linke,GER,24.10.88,1,Podébrady,11.04.2015
+1041,10,1:20:37,David Hurtado,ECU,21.04.99,9,La Coruña,05.06.2021
+1042,10,1:20:37,Masatora Kawano,JPN,23.10.98,5,Kobe,19.02.2023
+1043,10,1:20:37,Motofumi Suwa,JPN,22.10.99,10,Nomi,19.03.2023
+1044,10,1:20:38,Artur Shumak,BLR,19.10.63,6,Adler,14.02.1993
+1045,10,1:20:38,Joel Sánchez,MEX,15.09.67,9,Naumburg,23.05.1998
+1046,10,1:20:38,Yuki Yamazaki,JPN,16.01.84,2,Kobe,26.01.2003
+1047,10,1:20:38,Yevgeniy Misyulya,BLR,13.03.64,12,Saint-Denis,23.08.2003
+1048,10,1:20:38,Hatem Ghoula,TUN,07.06.73,3,La Coruña,05.06.2004
+1049,10,1:20:38,Jefferson Pérez,ECU,01.07.74,4,Athínai,20.08.2004
+1050,10,1:20:38,Li Jianbo,CHN,14.11.86,1,Nomi,15.03.2009
+1051,10,1:20:38,Erik Tysse,NOR,04.12.80,6,Berlin,15.08.2009
+1052,10,1:20:38,Alex Schwazer,ITA,26.11.84,1,Barcelona,27.07.2010
+1053,10,1:20:38,Luis Fernando López,COL,03.06.79,1,Daegu,28.08.2011
+1054,10,1:20:38,Isamu Fujisawa,JPN,12.10.87,1,Kobe,18.02.2012
+1055,10,1:20:38,Nazar Kovalenko,UKR,09.02.87,2,Saransk,12.05.2012
+1056,10,1:20:38,Hirooki Arai,JPN,18.05.88,6,Kobe,16.02.2014
+1057,10,1:20:38,Sergey Bakulin,RUS,13.11.86,1,Cheboksary,10.06.2017
+1058,10,1:20:38,Cai Zelin,CHN,11.04.91,3,Huangshan,03.03.2018
+1059,10,1:20:38,Brian Pintado,ECU,29.07.95,5,La Coruña,28.05.2022
+1060,10,1:20:39,Ronald Weigel,GER,08.08.59,1,Berlin,11.06.1986
+1061,10,1:20:39,Axel Noack,GER,23.09.61,1,Naumburg,01.05.1988
+1062,10,1:20:39,Giovanni de Benedicts,ITA,08.01.68,4,Helsinki,08.08.1994
+1063,10,1:20:39,Yevgeniy Misyulya,BLR,13.03.64,4,Beijing,29.04.1995
+1064,10,1:20:39,Valentí Massana,ESP,05.07.70,19,Podébrady,19.04.1997
+1065,10,1:20:39,Ilya Markov,RUS,19.06.72,5,Eisenhüttenstadt,10.05.1997
+1066,10,1:20:39,Takayuki Tanii,JPN,14.02.83,1,Kobe,25.01.2004
+1067,10,1:20:39,Andrey Makolov,RUS,13.05.87,6,Adler,28.02.2009
+1068,10,1:20:39,Kim Hyun-sub,KOR,31.05.85,1,Kobe,31.01.2010
+1069,10,1:20:39,Robert Heffernan,IRL,28.02.78,5,Lugano,18.03.2012
+1070,10,1:20:39,Kevin Campion,FRA,23.05.88,4,Podébrady,12.04.2014
+1071,10,1:20:39,Kim Hyun-sub,KOR,31.05.85,16,Taicang,04.05.2014
+1072,10,1:20:39,Álvaro Martín,ESP,18.06.94,17,Taicang,04.05.2014
+1073,10,1:20:39,Manuel Esteban Soto,COL,28.01.94,9,Podébrady,09.04.2016
+1074,10,1:20:39,Pedro Gómez,MEX,31.12.90,3,La Coruña,28.05.2016
+1075,10,1:20:39,Huang Haofeng,CHN,18.04.98,16,Huangshan,10.03.2019
+1076,10,1:20:39,Carlos Sánchez Cantera,MEX,19.05.85,14,La Coruña,08.06.2019
+1077,10,1:20:39,Subaru Ishida,JPN,04.06.99,6,Kobe,21.02.2021
+1078,10,1:20:39,Wayne Snyman,RSA,08.03.85,9,Podebrady,02.04.2022
+1079,10,1:20:39,Hiroto Jusho,JPN,11.01.00,8,Eugene,15.07.2022
+1080,10,1:20:40,Marcelino Colin,MEX,02.06.61,6,Fana,24.09.1983
+1081,10,1:20:40,David Smith,AUS,24.07.55,1,Sønder Omme,21.04.1984
+1082,10,1:20:40,Jozef Pribilinec,SVK,06.07.60,1,Praha,11.08.1985
+1083,10,1:20:40,Ronald Weigel,GER,08.08.59,2,Värnamo,29.05.1987
+1084,10,1:20:40,Aleksandr Pershin,RUS,29.01.67,1,Sochi,21.02.1988
+1085,10,1:20:40,Ralf Kowalsky,GDR,22.03.62,2,Naumburg,01.05.1988
+1086,10,1:20:40,Aigars Fadejevs,LAT,27.12.75,6,Adler,11.02.1996
+1087,10,1:20:40,David Kimutai,KEN,19.08.69,1,Nairobi,29.06.1996
+1088,10,1:20:40,Robert Korzeniowski,POL,30.07.68,2,Dudince,25.04.1998
+1089,10,1:20:40,Hatem Ghoula,TUN,07.06.73,3,Kraków,23.06.2007
+1090,10,1:20:40,Rolando Saquipay,ECU,21.07.79,12,Cheboksary,10.05.2008
+1091,10,1:20:40,Andrés Chocho,ECU,04.11.83,7,La Coruña,06.06.2015
+1092,10,1:20:40,Christopher Linke,GER,24.10.88,9,Roma,07.05.2016
+1093,10,1:20:40,Eider Arévalo,COL,09.03.93,1,Rio Maior,01.04.2017
+1094,10,1:20:40,Perseus Karlström,SWE,02.05.90,3,Podébrady,21.05.2017
+1095,10,1:20:40,Christopher Linke,GER,24.10.88,1,Naumburg,14.04.2018
+1096,10,1:20:40,Liu Zhenjiang,CHN,28.10.97,17,Huangshan,10.03.2019
+1097,10,1:20:40,Choe Byung-Kwang,KOR,07.04.91,10,Nomi,17.03.2019
+1098,10,1:20:40,Yuta Koga,JPN,15.07.99,2,Nomi,20.03.2022
+1099,10,1:20:40,Yurato Murayama,JPN,29.09.98,1,Tokyo,01.01.2023
+1100,11,1:20:41,Oleg Troshin,RUS,01.08.64,10,Moskva,26.05.1990
+1101,11,1:20:41,Yuriy Kuko,BLR,23.01.68,5,Eschborn,12.06.1993
+1102,11,1:20:41,Tan Mingjun,CHN,17.07.70,4,Beijing,08.09.1993
+1103,11,1:20:41,Giovanni de Benedicts,ITA,08.01.68,2,Molfetta,14.05.1995
+1104,11,1:20:41,Rishat Shafikov,RUS,23.01.70,5,Atlanta,26.07.1996
+1105,11,1:20:41,Sándor Urbanik,HUN,15.12.64,20,Podébrady,19.04.1997
+1106,11,1:20:41,Viktor Burayev,RUS,23.02.82,1,Cheboksary,25.05.2002
+1107,11,1:20:41,Ivan Trotskiy,BLR,27.05.76,3,La Coruña,07.06.2003
+1108,11,1:20:41,Ivan Trotskiy,BLR,27.05.76,10,Naumburg,02.05.2004
+1109,11,1:20:41,Zhu Hongjun,CHN,18.08.83,3,Kunshan,23.05.2004
+1110,11,1:20:41,Dong Jimin,CHN,10.10.85,23,Cixi,23.04.2005
+1111,11,1:20:41,Ilya Markov,RUS,19.06.72,2,Rio Maior,02.04.2006
+1112,11,1:20:41,Yu Wei,CHN,11.09.87,2,Nomi,15.03.2009
+1113,11,1:20:41,Christopher Linke,GER,24.10.88,6,Taicang,30.03.2012
+1114,11,1:20:41,João Vieira,POR,20.02.76,11,London,04.08.2012
+1115,11,1:20:41,Jared Tallent,AUS,17.10.84,3,Taicang,01.03.2013
+1116,11,1:20:41,Tom Bosworth,GBR,17.01.90,1,Dudince,16.03.2016
+1117,11,1:20:41,Satoshi Maruo,JPN,28.11.91,8,Kobe,16.02.2020
+1118,11,1:20:41,Miguel Ángel López,ESP,03.07.88,10,Podebrady,02.04.2022
+1119,11,1:20:42,Daniel Plaza,ESP,03.07.66,5,La Coruña,06.06.1992
+1120,11,1:20:42,Dmitriy Golos,BLR,13.07.70,7,Adler,14.02.1993
+1121,11,1:20:42,Dmitriy Yesipchuk,RUS,17.11.74,1,Izhevsk,16.05.1998
+1122,11,1:20:42,Liu Yunfeng,CHN,03.08.79,2,Naumburg,30.04.2000
+1123,11,1:20:42,Valentin Kononen,FIN,07.03.69,1,Heinola,07.05.2000
+1124,11,1:20:42,Denis Nizhegorodov,RUS,26.07.80,7,Dudince,19.05.2001
+1125,11,1:20:42,Bernardo Segura,MEX,11.02.70,2,Ciudad Victoria,05.06.2004
+1126,11,1:20:42,João Vieira,POR,20.02.76,7,Leamington,20.05.2007
+1127,11,1:20:42,Ivan Trotskiy,BLR,27.05.76,1,Nesvizh,05.04.2008
+1128,11,1:20:42,Wang Zhen,CHN,24.08.91,3,Rio Maior,20.04.2010
+1129,11,1:20:42,Matej Tóth,SVK,10.02.83,1,Dudince,24.03.2012
+1130,11,1:20:42,Dzianis Simanovich,BLR,20.04.87,12,London,04.08.2012
+1131,11,1:20:42,Matej Tóth,SVK,10.02.83,2,Lugano,16.03.2014
+1132,11,1:20:42,Cai Zelin,CHN,11.04.91,5,Beijing,23.08.2015
+1133,11,1:20:42,Cai Zelin,CHN,11.04.91,3,Changbaishan,06.09.2015
+1134,11,1:20:42,Lebogang Shange,RSA,01.08.90,1,Stellenbosch,16.04.2016
+1135,11,1:20:42,Nils Brembach,GER,23.02.93,15,London,13.08.2017
+1136,11,1:20:42,Álvaro Martín,ESP,18.06.94,1,Berlin,11.08.2018
+1137,11,1:20:42,Hiroto Jusho,JPN,11.01.00,3,Nomi,20.03.2022
+1138,11,1:20:43,Anatoliy Solomin,UKR,02.07.52,4,Leningrad,11.06.1988
+1139,11,1:20:43,Lyubomir Ivanov,BUL,09.03.60,1,Sofia,26.06.1988
+1140,11,1:20:43,Roman Mrazek,SVK,21.01.62,5,Seoul,23.09.1988
+1141,11,1:20:43,Andrew Jachno,AUS,13.04.62,1,Brisbane,26.08.1990
+1142,11,1:20:43,Mikhail Shchennikov,RUS,24.12.67,1,San José,01.06.1991
+1143,11,1:20:43,Maurizio Damilano,ITA,06.04.57,1,Örnsköldsvik,29.06.1991
+1144,11,1:20:43,Mikhail Shchennikov,RUS,24.12.67,8,Adler,14.02.1993
+1145,11,1:20:43,Thierry Toutain,FRA,14.02.62,21,Podébrady,19.04.1997
+1146,11,1:20:43,Yuki Yamazaki,JPN,16.01.84,1,Kobe,27.01.2002
+1147,11,1:20:43,Vladimir Stankin,RUS,02.01.74,11,Naumburg,02.05.2004
+1148,11,1:20:43,Omar Segura,MEX,24.03.81,3,Ciudad Victoria,05.06.2004
+1149,11,1:20:43,Valeriy Borchin,RUS,03.07.86,1,Debrecen,14.07.2007
+1150,11,1:20:43,Koichiro Morioka,JPN,02.04.85,2,Kobe,31.01.2010
+1151,11,1:20:43,Yu Wei,CHN,11.09.87,1,Xintai,11.03.2011
+1152,11,1:20:43,Andrey Krivov,RUS,14.11.85,1,Sochi,27.02.2015
+1153,11,1:20:43,Antón Kucmín,SVK,07.06.84,10,Podébrady,09.04.2016
+1154,11,1:20:43,Nils Brembach,GER,23.02.93,2,Naumburg,23.04.2017
+1155,11,1:20:43,Li Xiaobin,CHN,10.10.99,18,Huangshan,10.03.2019
+1156,11,1:20:43,José Ortíz,GUA,08.03.00,4,Dudince,20.03.2021
+1157,11,1:20:43,Li Kewen,CHN,07.03.99,11c,Huangshan,20.03.2021
+1158,11,1:20:43,Eduard Zabuzhenko,UKR,18.04.98,9,Podébrady,16.05.2021
+1159,11,1:20:43,Subaru Ishida,JPN,04.06.99,4,Nomi,20.03.2022
+1160,11,1:20:44,Raul González,MEX,29.11.52,1,Örebro,19.05.1982
+1161,11,1:20:44,Vladimir Andreyev,RUS,07.09.66,1,Cheboksary,06.06.1993
+1162,11,1:20:44,Nick A'Hern,AUS,06.01.69,13,Eisenhüttenstadt,11.05.1996
+1163,11,1:20:44,Aigars Fadejevs,LAT,27.12.75,3,Dudince,25.04.1998
+1164,11,1:20:44,João Vieira,POR,20.02.76,3,Naumburg,05.05.2002
+1165,11,1:20:44,André Höhne,GER,10.03.78,13,Saint-Denis,23.08.2003
+1166,11,1:20:44,Juan Manuel Molina,ESP,15.03.79,4,Kraków,23.06.2007
+1167,11,1:20:44,Giorgio Rubino,ITA,30.04.73,3,Dublin,26.06.2011
+1168,11,1:20:44,Yu Wei,CHN,11.09.87,2,Huaian,12.02.2012
+1169,11,1:20:44,Giorgio Rubino,ITA,30.04.73,18,Taicang,04.05.2014
+1170,11,1:20:44,Yusuke Suzuki,JPN,02.01.88,2,Incheon,28.09.2014
+1171,11,1:20:44,Caio Bonfim,BRA,19.03.91,6,Beijing,23.08.2015
+1172,11,1:20:44,Daisuke Matsunaga,JPN,24.03.95,4,La Coruña,03.06.2017
+1173,11,1:20:44,Brian Manuel Pintado,ECU,29.07.95,15,La Coruña,08.06.2019
+1174,11,1:20:44,Declan Tingay,AUS,06.02.99,1,Adelaide,13.02.2022
+1175,11,1:20:44,David Hurtado,ECU,21.04.99,2,Asunción,12.10.2022
+1176,11,1:20:45,Maurizio Damilano,ITA,06.04.57,1,Roma,30.08.1987
+1177,11,1:20:45,Reima Salonen,FIN,19.10.55,1,Naantali,25.10.1987
+1178,11,1:20:45,Igor Plotnikov,RUS,12.07.64,11,Moskva,26.05.1990
+1179,11,1:20:45,Valentí Massana,ESP,05.07.70,2,La Coruña,21.05.1994
+1180,11,1:20:45,Ivan Trotskiy,BLR,27.05.76,3,Calella,09.05.1999
+1181,11,1:20:45,Aleksey Kronin,RUS,23.07.70,2,Cheboksary,16.06.2001
+1182,11,1:20:45,Takayuki Tanii,JPN,14.02.83,3,Kobe,26.01.2003
+1183,11,1:20:45,Shi Yong,CHN,07.02.87,24,Cixi,23.04.2005
+1184,11,1:20:45,Benjamin Kucinski,POL,01.06.82,1,Rumia,12.06.2005
+1185,11,1:20:45,Eder Sánchez,MEX,21.05.86,8,Helsinki,06.08.2005
+1186,11,1:20:45,Park Chil-sung,KOR,08.07.82,3,Nomi,15.03.2009
+1187,11,1:20:45,Bian Fongda,CHN,01.04.91,1,Huangshan,27.02.2014
+1188,11,1:20:45,Kai Kobayashi,JPN,28.02.93,4,Kobe,15.02.2015
+1189,11,1:20:45,Kevin Campion,FRA,23.05.88,11,Podébrady,09.04.2016
+1190,11,1:20:45,Fumitaka Oikawa,JPN,05.04.95,7,Kobe,19.02.2017
+1191,11,1:20:45,Eiki Takahashi,JPN,19.11.92,5,La Coruña,03.06.2017
+1192,11,1:20:45,César Rodríguez,PER,25.06.97,6,La Coruña,28.05.2022
+1193,11,1:20:45,Wen Youngjie,CHN,28.09.99,4,Huangshan,05.03.2023
+1194,11,1:20:46,Ernesto Canto,MEX,18.10.59,2,San José,01.06.1991
+1195,11,1:20:46,Li Zewen,CHN,05.12.73,1,Shanghai,19.10.1997
+1196,11,1:20:46,Jefferson Pérez,ECU,01.07.74,3,Winnipeg,26.07.1999
+1197,11,1:20:46,Akinori Matsuzaki,JPN,30.12.81,1,Wajima,20.04.2003
+1198,11,1:20:46,Ilya Markov,RUS,19.06.72,1,Lloret de Mar,10.04.2005
+1199,11,1:20:46,Álvaro Martín,ESP,18.06.94,6,La Coruña,02.06.2018
+1200,11,1:20:46,Aleksey Kudashkin,RUS,01.02.97,3,Sochi,18.02.2019
+1201,11,1:20:46,Eduard Zabuzhenko,UKR,18.04.98,1,Ivano-Frankivsk,14.03.2020
+1202,11,1:20:46,Ivan Losev,UKR,26.01.86,3,Antalaya,06.03.2021
+1203,11,1:20:46,Noel Ali Chama,EX,15.09.97,3,Dudince,25.03.2023
+1204,12,1:20:47,Sergey Protishin,UKR,26.02.59,5,Leningrad,11.06.1988
+1205,12,1:20:47,Mikhail Shchennikov,RUS,24.12.67,6,Seoul,23.09.1988
+1206,12,1:20:47,Yevgeniy Misyulya,BLR,13.03.64,3,Hospitalet de Ll,27.05.1989
+1207,12,1:20:47,Daniel Plaza,ESP,03.07.66,3,Hospitalet de Ll,21.04.1991
+1208,12,1:20:47,Aigars Fadejevs,LAT,27.12.75,6,Atlanta,26.07.1996
+1209,12,1:20:47,Valentin Kononen,FIN,07.03.69,1,Kyyjärvi,17.07.1999
+1210,12,1:20:47,Jirí Malysa,CZE,14.08.66,1,Rumburk,21.04.2001
+1211,12,1:20:47,Jefferson Pérez,ECU,01.07.74,3,Sesto San Giovan,01.05.2003
+1212,12,1:20:47,Rolando Saquipay,ECU,21.07.79,12,Naumburg,02.05.2004
+1213,12,1:20:47,Roman Magdziaczyk,POL,05.07.77,2,Rumia,12.06.2005
+1214,12,1:20:47,Li Jianbo,CHN,14.11.86,1,Xintai,23.10.2008
+1215,12,1:20:47,Takuya Yoshida,JPN,10.08.90,5,Kobe,17.02.2013
+1216,12,1:20:47,Andrey Krivov,RUS,14.11.85,1,Kazan,09.07.2013
+1217,12,1:20:47,Takayuki Tanii,JPN,14.02.83,7,Kobe,16.02.2014
+1218,12,1:20:47,Yu Wei,CHN,11.09.87,19,Taicang,04.05.2014
+1219,12,1:20:47,Eider Arévalo,COL,09.03.93,4,La Coruña,28.05.2016
+1220,12,1:20:47,Georgiy Sheiko,KAZ,24.08.89,4,Nomi,19.03.2017
+1221,12,1:20:47,Giorgio Rubino,ITA,15.04.86,16,London,13.08.2017
+1222,12,1:20:47,Yuta Koga,JPN,15.07.99,9,Kobe,16.02.2020
+1223,12,1:20:47,Yin Jun,CHN,16.03.00,12c,Huangshan,20.03.2021
+1224,12,1:20:47,Jordy Jiménez,ECU,11.02.94,10,La Coruña,05.06.2021
+1225,12,1:20:47,Kevin Campion,FRA,23.05.88,6,München,20.08.2022
+1226,12,1:20:48,Vladimir Druchik,UKR,25.06.65,3,Kyiv,11.07.1991
+1227,12,1:20:48,Mikhail Khmelnitskiy,BLR,24.07.69,2,Alytus,20.05.1995
+1228,12,1:20:48,Yevgeniy Misyulya,BLR,13.03.64,3,Göteborg,06.08.1995
+1229,12,1:20:48,Daisuke Ikeshima,JPN,30.01.75,1,Kobe,26.01.1997
+1230,12,1:20:48,Valeriy Borisov,KAZ,18.09.66,5,Adler,09.02.1997
+1231,12,1:20:48,Robert Korzeniowski,POL,30.07.68,1,Kraków,03.07.1999
+1232,12,1:20:48,Alessandro Gandellini,ITA,30.04.73,1,Pomigliano d'Arc,01.04.2000
+1233,12,1:20:48,Tomasz Lipiec,POL,10.05.71,7,Eisenhüttenstadt,17.06.2000
+1234,12,1:20:48,Bai Liansheng,CHN,28.07.78,6,Yangzhou,12.04.2003
+1235,12,1:20:48,João Vieira,POR,20.02.76,4,La Coruña,05.06.2004
+1236,12,1:20:48,Hatem Ghoula,TUN,07.06.73,3,La Coruña,04.06.2005
+1237,12,1:20:48,Benjamin Sánchez,ESP,10.03.85,13,Cheboksary,10.05.2008
+1238,12,1:20:48,Ivan Losev,UKR,26.01.86,6,Lugano,18.03.2012
+1239,12,1:20:48,Yu Wei,CHN,11.09.87,2,Shenyang,12.05.2013
+1240,12,1:20:48,Koki Ikeda,JPN,03.05.98,1,Takahata,22.10.2017
+1241,12,1:20:48,Diego García,ESP,19.01.96,2,Berlin,11.08.2018
+1242,12,1:20:48,Nils Brembach,GER,23.02.93,1,Naumburg,13.04.2019
+1243,12,1:20:48,Gao Yingchao,CHN,18.01.98,13c,Huangshan,20.03.2021
+1244,12,1:20:48,Ceng Qingcun,CHN,03.04.95,14c,Huangshan,20.03.2021
+1245,12,1:20:48,Samuel Gathimba,KEN,26.10.87,1,Nairobi,29.05.2021
+1246,12,1:20:49,Ernesto Canto,MEX,18.10.59,1,Helsinki,07.08.1983
+1247,12,1:20:49,Valdas Kazlauskas,LTU,23.02.58,2,Sochi,21.02.1988
+1248,12,1:20:49,Bernardo Segura,MEX,11.02.70,1,Brandys nad Labe,23.05.1993
+1249,12,1:20:49,Giovanni de Benedicts,ITA,08.01.68,22,Podébrady,19.04.1997
+1250,12,1:20:49,Yevgeniy Shmalyuk,RUS,14.01.76,7,Adler,20.02.1998
+1251,12,1:20:49,Dion Russell,AUS,08.05.75,1,Melbourne,19.03.1999
+1252,12,1:20:49,Noé Hernández,MEX,15.03.78,1,Bridgetown,25.06.1999
+1253,12,1:20:49,Alejandro López,MEX,09.02.75,2,Eisenhüttenstadt,09.06.2001
+1254,12,1:20:49,Li Zewen,CHN,05.12.73,1,Guangzhou,19.11.2001
+1255,12,1:20:49,Luke Adams,AUS,22.10.76,3,Rio Maior,02.04.2006
+1256,12,1:20:49,Li Gaobo,CHN,04.05.89,4,Jinan,22.10.2009
+1257,12,1:20:49,João Vieira,POR,20.02.76,2,Barcelona,27.07.2010
+1258,12,1:20:49,Hassanine Sbaï,TUN,21.01.84,3,Rio Maior,09.04.2011
+1259,12,1:20:49,Eder Sánchez,MEX,21.05.86,2,Rio Maior,14.04.2012
+1260,12,1:20:49,Liu Jianmin,CHN,09.03.88,3,Shenyang,12.05.2013
+1261,12,1:20:49,Isamu Fujisawa,JPN,12.10.87,1,Nomi,20.03.2016
+1262,12,1:20:49,Caio Bonfim,BRA,19.03.91,5,La Coruña,28.05.2016
+1263,12,1:20:49,Hassanine Sbaï,TUN,21.01.84,6,La Coruña,28.05.2016
+1264,12,1:20:49,Evan Dunfee,CAN,28.09.90,10,Rio de Janeiro,12.08.2016
+1265,12,1:20:49,Pyotr Bogatyrev,RUS,11.03.91,3,Sochi,18.02.2017
+1266,12,1:20:49,Benjamin Thorne,CAN,19.03.93,4,Gold Coast,08.04.2018
+1267,12,1:20:49,Kevin Campion,FRA,23.05.88,4,Podébrady,06.04.2019
+1268,12,1:20:49,Motofumi Suwa,JPN,22.10.99,2,Tokyo,01.01.2020
+1269,12,1:20:49,Yurato Murayama,JPN,29.09.98,6,Nomi,15.03.2020
+1270,12,1:20:49,Wang Kaihua,CHN,16.02.94,1,Taian,19.09.2020
+1271,12,1:20:49,Jesus Calderon,MEX,13.04.97,11,Podebrady,02.04.2022
+1272,12,1:20:49,Gabriel Bordier,FRA,08.10.97,2,Aix-les-Bains,12.03.2023
+1273,12,1:20:50,Nikolay Polozov,RUS,10.10.51,5,Cherkassy,27.04.1980
+1274,12,1:20:50,Frants Kostyukevich,BLR,04.04.63,7,Kyiv,30.07.1988
+1275,12,1:20:50,Anatoliy Grigoriyev,RUS,24.12.60,1,Sochi,15.02.1990
+1276,12,1:20:50,Valentí Massana,ESP,05.07.70,1,La Coruña,15.05.1993
+1277,12,1:20:50,Michele Didoni,ITA,07.03.74,5,Beijing,26.04.1995
+1278,12,1:20:50,Walter Arena,ITA,30.05.64,23,Podébrady,19.04.1997
+1279,12,1:20:50,Mikhail Orlov,RUS,25.06.67,5,Cheboksary,30.08.1998
+1280,12,1:20:50,Alejandro López,MEX,09.02.75,2,Turku,21.05.2000
+1281,12,1:20:50,Modris Liepins,LAT,30.08.66,1,Aizpute,21.07.2000
+1282,12,1:20:50,Shi Yong,CHN,07.02.87,1-1,Nanning,25.02.2005
+1283,12,1:20:50,Ilya Markov,RUS,19.06.72,1,Miskolc,21.05.2005
+1284,12,1:20:50,Sergey Bakulin,RUS,13.11.86,5,Göteborg,08.08.2006
+1285,12,1:20:50,Luke Adams,AUS,22.10.76,2,Rio Maior,14.04.2007
+1286,12,1:20:50,Wang Hao,CHN,16.08.89,1,Guangzhou,21.11.2010
+1287,12,1:20:50,Dawid Tomala,POL,27.08.89,1,Zaniemysl,21.04.2012
+1288,12,1:20:50,Isamu Fujisawa,JPN,12.10.87,6,Kobe,17.02.2013
+1289,12,1:20:50,Zhao Qi,CHN,14.01.93,4,Taicang,01.03.2013
+1290,12,1:20:50,Erik Tysse,NOR,04.12.80,5,Podébrady,12.04.2014
+1291,12,1:20:50,Toshikazu Yamanishi,JPN,15.02.96,7,La Coruña,28.05.2016
+1292,12,1:20:50,Vasiliy Mizinov,RUS,29.12.97,3,Berlin,11.08.2018
+1293,12,1:20:50,Álvaro Martín,ESP,18.06.94,16,La Coruña,08.06.2019
+1294,12,1:20:50,Alex Wright,IRL,19.12.90,17,La Coruña,08.06.2019
+1295,12,1:20:50,Salih Korkmaz,TUR,14.04.97,7,München,20.08.2022
+1296,12,1:20:51,Hartwig Gauder,GER,10.11.54,3,Värnamo,29.05.1987
+1297,12,1:20:51,Robert Korzeniowski,POL,30.07.68,1,Gdynia,15.06.1996
+1298,12,1:20:51,Mikhail Khmelnitskiy,BLR,24.07.69,24,Podébrady,19.04.1997
+1299,12,1:20:51,Daniel García,MEX,28.10.71,1,Eisenhüttenstadt,09.05.1998
+1300,12,1:20:51,Aigars Fadejevs,LAT,27.12.75,8,Dudince,19.05.2001
+1301,12,1:20:51,Wang Shigang,CHN,22.02.81,7,Yangzhou,12.04.2003
+1302,12,1:20:51,Yevgeniy Misyulya,BLR,13.03.64,1,Minsk,03.06.2003
+1303,12,1:20:51,Aleksandr Prokhorov,RUS,22.01.86,6,Adler,19.02.2006
+1304,12,1:20:51,Ivano Brugnetti,ITA,01.09.76,2,Sesto San Giovan,01.05.2008
+1305,12,1:20:51,Grzergorz Sudol,POL,28.08.78,1,Zaniemysl,16.04.2011
+1306,12,1:20:51,Christopher Linke,GER,24.10.88,7,Taicang,22.04.2011
+1307,12,1:20:51,Pyotr Bogatyrev,RUS,11.03.91,2,Sochi,18.02.2012
+1308,12,1:20:51,Liu Jianmin,CHN,09.03.88,2,Huangshan,27.02.2014
+1309,12,1:20:51,Takumi Saito,JPN,23.03.93,20,Taicang,04.05.2014
+1310,12,1:20:51,Matej Tóth,SVK,10.02.83,2,Podébrady,11.04.2015
+1311,12,1:20:51,Jorge Alejandro Martínez,MEX,25.10.90,12,Podébrady,09.04.2016
+1312,12,1:20:51,Massimo Stano,ITA,27.02.92,4,Berlin,11.08.2018
+1313,12,1:20:51,Li Xingfu,CHN,18.07.02,11,Nomi,19.03.2023
+1314,13,1:20:52,David Smith,AUS,24.07.55,1,Pentage,21.08.1983
+1315,13,1:20:52,Ronald Weigel,GER,08.08.59,1,Berlin,16.05.1987
+1316,13,1:20:52,Axel Noack,GER,23.09.61,2,Berlin,16.05.1987
+1317,13,1:20:52,Zdzislaw Szlapkin,POL,18.01.61,1,Warszawa,19.06.1988
+1318,13,1:20:52,Vladimir Druchik,UKR,25.06.65,12,Moskva,26.05.1990
+1319,13,1:20:52,Robert Ihly,GER,05.05.63,6,Tokyo,24.08.1991
+1320,13,1:20:52,Viktor Osipov,RUS,04.05.65,9,Adler,14.02.1993
+1321,13,1:20:52,Robert Korzeniowski,POL,30.07.68,1,Warszawa,16.06.1995
+1322,13,1:20:52,Robert Korzeniowski,POL,30.07.68,4,Mézidon-Canon,01.05.1999
+1323,13,1:20:52,Dmitriy Yesipchuk,RUS,17.11.74,3,Moskva,19.05.2000
+1324,13,1:20:52,Robert Korzeniowski,POL,30.07.68,1,Kraków,05.08.2000
+1325,13,1:20:52,Ivan Trotskiy,BLR,27.05.76,5,München,06.08.2002
+1326,13,1:20:52,Alessandro Gandellini,ITA,30.04.73,2,Cheboksary,18.05.2003
+1327,13,1:20:52,Benjamin Kucinski,POL,01.06.82,5,La Coruña,05.06.2004
+1328,13,1:20:52,Daniel García,MEX,28.10.71,10,La Coruña,13.05.2006
+1329,13,1:20:52,Rolando Saquipay,ECU,21.07.79,4,Rio Maior,05.04.2008
+1330,13,1:20:52,Sergey Bakulin,RUS,13.11.86,1,Beograd,09.07.2009
+1331,13,1:20:52,Jesús Sánchez,MEX,23.03.76,7,Berlin,15.08.2009
+1332,13,1:20:52,Bertrand Moulinet,FRA,06.01.87,7,Lugano,18.03.2012
+1333,13,1:20:52,Erik Tysse,NOR,04.12.80,1,Vallensbæk,02.05.2015
+1334,13,1:20:52,Matteo Giupponi,ITA,08.10.88,2,Dudince,16.03.2016
+1335,13,1:20:52,Pedro Gómez,MEX,31.12.90,1,Taicang,23.04.2016
+1336,13,1:20:52,Zeng Qingcun,CHN,03.04.95,5,Huangshan,04.03.2017
+1337,13,1:20:52,Wang Kaihua,CHN,16.02.94,1,Tianjin,03.09.2017
+1338,13,1:20:52,Dane Bird-Smith,AUS,15.07.92,2,Adelaide,10.02.2019
+1339,13,1:20:52,Nils Brembach,GER,23.02.93,10,Podébrady,16.05.2021
+1340,13,1:20:52,Evan Dunfee,CAN,28.09.90,3,Melbourne,12.02.2023
+1341,13,1:20:53,Aivars Rumbenieks,LTU,10.05.51,6,Cherkassy,27.04.1980
+1342,13,1:20:53,Axel Noack,GER,23.09.61,6,New York City,03.05.1987
+1343,13,1:20:53,Artur Shumak,BLR,19.10.63,8,Kyiv,30.07.1988
+1344,13,1:20:53,Carlos Mercenário,MEX,03.05.67,7,Seoul,23.09.1988
+1345,13,1:20:53,Yevgeniy Zaikin,RUS,19.06.57,2,Sochi,15.02.1990
+1346,13,1:20:53,Joel Sánchez,MEX,15.09.67,4,Leamington,23.04.2000
+1347,13,1:20:53,Nick A'Hern,AUS,06.01.69,3,Naumburg,30.04.2000
+1348,13,1:20:53,Ilya Markov,RUS,19.06.72,3,Turku,21.05.2000
+1349,13,1:20:53,Artur Meleshkevich,BLR,11.04.75,8,Eisenhüttenstadt,17.06.2000
+1350,13,1:20:53,Noé Hernández,MEX,15.03.78,4,La Coruña,07.06.2003
+1351,13,1:20:53,Hatem Ghoula,TUN,07.06.73,4,La Coruña,02.06.2007
+1352,13,1:20:53,Rafal Augustyn,POL,14.05.84,2,Zaniemysl,21.04.2012
+1353,13,1:20:53,Pyotr Trofimov,RUS,18.12.83,2,Sochi,27.02.2015
+1354,13,1:20:53,Eider Arévalo,COL,09.03.93,1,Rio Maior,18.04.2015
+1355,13,1:20:53,Holger Pohle,GER,05.03.92,17,London,13.08.2017
+1356,13,1:20:53,Ivan Losev,UKR,26.01.86,1,Lutsk,10.03.2018
+1357,13,1:20:53,Tom Bosworth,GBR,17.01.90,4,Alytus,19.05.2019
+1358,13,1:20:53,Karl Junghannß,GER,06.04.96,12,Podebrady,02.04.2022
+1359,13,1:20:54,Ronald Weigel,GER,08.08.59,1,Køpenhavn,12.05.1984
+1360,13,1:20:54,Mao Xinyuan,CHN,02.07.71,5,Beijing,08.09.1993
+1361,13,1:20:54,Valentí Massana,ESP,05.07.70,1,Livorno,12.06.1994
+1362,13,1:20:54,Aigars Fadejevs,LAT,27.12.75,2,Barcelona,10.05.1998
+1363,13,1:20:54,Yevgeniy Misyulya,BLR,13.03.64,4,Calella,09.05.1999
+1364,13,1:20:54,Vladimir Andreyev,RUS,07.09.66,2,Cheboksary,25.05.2002
+1365,13,1:20:54,Robert Korzeniowski,POL,30.07.68,1,Wschowa,15.06.2002
+1366,13,1:20:54,Lu Ronghua,CHN,21.02.83,8,Yangzhou,12.04.2003
+1367,13,1:20:54,Juan Manuel Molina,ESP,15.03.79,2,Miskolc,21.05.2005
+1368,13,1:20:54,Sergey Chernov,BLR,05.02.79,11,La Coruña,13.05.2006
+1369,13,1:20:54,Kim Hyun-sub,KOR,31.05.85,2,Goyang,01.05.2007
+1370,13,1:20:54,Robert Heffernan,IRL,28.02.78,5,Lugano,20.03.2011
+1371,13,1:20:54,Wang Zhen,CHN,24.08.91,2,Daegu,28.08.2011
+1372,13,1:20:54,Ato Ibáñez,SWE,14.11.85,3,Dudince,16.03.2016
+1373,13,1:20:54,Isaac Palma,MEX,26.10.90,13,Podébrady,09.04.2016
+1374,13,1:20:54,Isaac Palma,MEX,26.10.90,2,Taicang,23.04.2016
+1375,13,1:20:54,Tomohiro Noda,JPN,24.01.95,2,Takahata,22.10.2017
+1376,13,1:20:54,Du Yucheng,CHN,17.03.99,4cB,Huangshan,20.03.2021
+1377,13,1:20:54,Gao Wenkui,CHN,28.07.95,15c,Huangshan,20.03.2021
+1378,13,1:20:54,Wang Kaihua,CHN,16.02.94,2,Xi'an,20.09.2021
+1379,13,1:20:54,Christopher Linke,GER,24.10.88,7,La Coruña,28.05.2022
+1380,13,1:20:55,Sándor Urbanik,HUN,15.12.64,1,Ozd,10.05.1992
+1381,13,1:20:55,Robert Korzeniowski,POL,30.07.68,2,La Coruña,15.05.1993
+1382,13,1:20:55,Grigoriy Kornev,RUS,14.03.61,2,Cheboksary,06.06.1993
+1383,13,1:20:55,Robert Korzeniowski,POL,30.07.68,3,La Coruña,21.05.1994
+1384,13,1:20:55,Hao Huanquan,CHN,23.12.74,4,Zhuhai,10.03.1996
+1385,13,1:20:55,Filiberto Pantoja,MEX,10.02.69,8,Naumburg,25.05.1997
+1386,13,1:20:55,Nathan Deakes,AUS,17.08.77,4,Edmonton,04.08.2001
+1387,13,1:20:55,Lu Ronghua,CHN,21.02.83,4,Kunshan,23.05.2004
+1388,13,1:20:55,Robert Heffernan,IRL,28.02.78,6,La Coruña,05.06.2004
+1389,13,1:20:55,Juan Manuel Molina,ESP,15.03.79,5,Athínai,20.08.2004
+1390,13,1:20:55,Zhao Chengliang,CHN,01.06.84,7,Nanning,25.02.2005
+1391,13,1:20:55,Aigars Fadejevs,LAT,27.12.75,5,Rio Maior,02.04.2005
+1392,13,1:20:55,Li Jianbo,CHN,14.11.86,1,La Coruña,09.06.2012
+1393,13,1:20:55,Jared Tallent,AUS,17.10.84,3,Lugano,16.03.2014
+1394,13,1:20:55,Zhong Heng,CHN,07.11.95,6,Huangshan,04.03.2017
+1395,13,1:20:55,Daisuke Matsunaga,JPN,24.03.95,1,Nomi,18.03.2018
+1396,13,1:20:55,Liu Zhenjiang,CHN,28.10.97,5cB,Huangshan,20.03.2021
+1397,13,1:20:56,Roman Mrazek,SVK,21.01.62,4,Hospitalet de Ll,27.05.1989
+1398,13,1:20:56,Thierry Toutain,FRA,14.02.62,3,San José,01.06.1991
+1399,13,1:20:56,Yevgeniy Misyulya,BLR,13.03.64,2,Barcelona,10.04.1994
+1400,13,1:20:56,Valentin Kononen,FIN,07.03.69,1,Rovaniemi,18.06.1995
+1401,13,1:20:56,Yevgeniy Misyulya,BLR,13.03.64,6,München,06.08.2002
+1402,13,1:20:56,Vladimir Andreyev,RUS,07.09.66,3,Cheboksary,18.05.2003
+1403,13,1:20:56,Aigars Fadejevs,LAT,27.12.75,5,La Coruña,07.06.2003
+1404,13,1:20:56,Viktor Burayev,RUS,23.02.82,1,Cheboksary,16.06.2003
+1405,13,1:20:56,Shi Yong,CHN,07.02.87,11,Yangzhou,22.04.2006
+1406,13,1:20:56,Erik Tysse,NOR,04.12.80,3,Rio Maior,14.04.2007
+1407,13,1:20:56,Ivan Trotskiy,BLR,27.05.76,14,Cheboksary,10.05.2008
+1408,13,1:20:56,Yin Jiaxing,CHN,16.03.94,7,Huangshan,04.03.2017
+1409,13,1:20:56,Takumi Saito,JPN,23.03.93,5,Nomi,19.03.2017
+1410,13,1:20:56,Jin Xiangqian,CHN,18.03.97,4,Huangshan,03.03.2018
+1411,13,1:20:56,Satoshi Maruo,JPN,28.11.91,18,La Coruña,08.06.2019
+1412,13,1:20:56,Sun Shuai,CHN,15.09.99,3,Xi'an,20.09.2021
+1413,13,1:20:56,José Alejandro Barrondo,GUA,16.09.96,1,Dudince,23.04.2022
+1414,14,1:20:57,Ronald Weigel,GER,08.08.59,1,Rostock,24.06.1988
+1415,14,1:20:57,Roman Mrazek,SVK,21.01.62,1,Hildesheim,23.08.1992
+1416,14,1:20:57,Chen Shaoguo,CHN,20.01.72,6,Beijing,29.04.1995
+1417,14,1:20:57,Rishat Shafikov,RUS,23.01.70,9,Naumburg,25.05.1997
+1418,14,1:20:57,Andreas Erm,GER,12.03.76,1J,Naumburg,23.05.1998
+1419,14,1:20:57,Noé Hernández,MEX,15.03.78,6,Eisenhüttenstadt,08.05.1999
+1420,14,1:20:57,Roman Rasskazov,RUS,28.04.79,6,Sydney,22.09.2000
+1421,14,1:20:57,Satoshi Yanagisawa,JPN,19.01.71,2,Kobe,27.01.2002
+1422,14,1:20:57,Georgiy Sergeyev,RUS,27.04.76,7,Adler,19.02.2006
+1423,14,1:20:57,Eder Sánchez,MEX,21.05.86,3,Beijing,18.04.2008
+1424,14,1:20:57,Rafal Augustyn,POL,14.05.84,2,Zaniemysl,16.04.2011
+1425,14,1:20:57,Robert Heffernan,IRL,28.02.78,4,Lugano,16.03.2014
+1426,14,1:20:57,Lukasz Nowak,POL,18.12.88,1,Zaniemysl,05.04.2014
+1427,14,1:20:57,Li Tianlei,CHN,13.01.95,4,Changbaishan,06.09.2015
+1428,14,1:20:57,Satoshi Maruo,JPN,28.11.91,1,Takahata,25.10.2015
+1429,14,1:20:57,Hassanine Sbaï,TUN,21.01.84,2,Durban,26.06.2016
+1430,14,1:20:57,Aleksey Shevchuk,RUS,10.08.97,4,Sochi,18.02.2017
+1431,14,1:20:57,Kolothum Thodi Irfan,IND,08.02.90,11,Nomi,17.03.2019
+1432,14,1:20:57,Julio César Salazar,MEX,08.07.93,19,La Coruña,08.06.2019
+1433,14,1:20:57,Tomohiro Noda,JPN,24.01.95,7,Kobe,21.02.2021
+1434,14,1:20:57,Akasdeep Singh,IND,22.11.99,12,Nomi,19.03.2023
+1435,14,1:20:58,Daniel Bautista,MEX,04.08.52,1,Japala,30.03.1980
+1436,14,1:20:58,Valeriy Borisov,KAZ,18.09.66,6,Leningrad,11.06.1988
+1437,14,1:20:58,Vyacheslav Cherepanov,RUS,02.11.64,4,Sochi,19.02.1989
+1438,14,1:20:58,Pavol Blazek,SVK,09.07.58,1,Balassagyarmat,22.09.1990
+1439,14,1:20:58,Sergio Vieira,POR,20.02.76,25,Podébrady,19.04.1997
+1440,14,1:20:58,Robert Valícek,SVK,10.03.69,26,Podébrady,19.04.1997
+1441,14,1:20:58,Valentin Kononen,FIN,07.03.69,3,Turku,24.05.1998
+1442,14,1:20:58,Julio Martínez,GUA,27.09.73,4,Winnipeg,26.07.1999
+1443,14,1:20:58,Pei Chuang,CHN,05.12.81,2,Guangzhou,19.11.2001
+1444,14,1:20:58,Zhao Chengliang,CHN,01.06.84,25,Cixi,23.04.2005
+1445,14,1:20:58,Wang Leilei,CHN,14.02.89,5,Jinan,22.10.2009
+1446,14,1:20:58,Erick Barrondo,GUA,14.06.91,4,Dublin,26.06.2011
+1447,14,1:20:58,Matteo Giupponi,ITA,08.10.88,8,Lugano,18.03.2012
+1448,14,1:20:58,Grzergorz Sudol,POL,28.08.78,3,Zaniemysl,21.04.2012
+1449,14,1:20:58,Eder Sánchez,MEX,21.05.86,3,Saransk,12.05.2012
+1450,14,1:20:58,Iñaki Gómez,MEX,16.01.88,13,London,04.08.2012
+1451,14,1:20:58,Denis Strelkov,RUS,26.10.90,1,Sochi,22.03.2014
+1452,14,1:20:58,Nils Brembach,GER,23.02.93,14,Podébrady,09.04.2016
+1453,14,1:20:58,Miguel Ángel López,ESP,03.07.88,11,Rio de Janeiro,12.08.2016
+1454,14,1:20:58,Tom Bosworth,GBR,17.01.90,2,Rio Maior,01.04.2017
+1455,14,1:20:58,Perseus Karlström,SWE,02.05.90,1,Alytus,18.09.2020
+1456,14,1:20:58,Marius Ziukas,LTU,29.06.85,5,Dudince,20.03.2021
+1457,14,1:20:59,Jozef Pribilinec,SVK,06.07.60,2,Helsinki,07.08.1983
+1458,14,1:20:59,Maurizio Damilano,ITA,06.04.57,7,New York City,03.05.1987
+1459,14,1:20:59,Yuriy Begunov,RUS,30.05.62,3,Moskva,22.04.1990
+1460,14,1:20:59,Valdas Kazlauskas,LTU,23.02.58,6,Hildesheim,16.09.1990
+1461,14,1:20:59,Miguel Ángel Rodríguez,MEX,15.01.67,3,La Coruña,15.05.1993
+1462,14,1:20:59,João Vieira,POR,20.02.76,27,Podébrady,19.04.1997
+1463,14,1:20:59,Fernando Vazquez,ESP,04.05.71,28,Podébrady,19.04.1997
+1464,14,1:20:59,Jacek Müller,POL,03.11.73,6,Eisenhüttenstadt,10.05.1997
+1465,14,1:20:59,Nick A'Hern,AUS,06.01.69,2,Adelaide,26.01.1999
+1466,14,1:20:59,Alejandro López,MEX,09.02.75,1,Turku,03.06.2001
+1467,14,1:20:59,Ivan Trotskiy,BLR,27.05.76,1,Brest,04.06.2002
+1468,14,1:20:59,Juan Manuel Molina,ESP,15.03.79,2,Lloret de Mar,10.04.2005
+1469,14,1:20:59,Meng Ke,CHN,08.12.87,26,Cixi,23.04.2005
+1470,14,1:20:59,Sun Chao,CHN,08.01.87,7,Nanjing,19.10.2005
+1471,14,1:20:59,Cui Zhide,CHN,11.01.83,12,Yangzhou,22.04.2006
+1472,14,1:20:59,Vitaliy Talankov,BLR,29.04.82,1,Brest,31.05.2008
+1473,14,1:20:59,Luis Fernando López,COL,03.06.79,9,Beijing,16.08.2008
+1474,14,1:20:59,Miguel Ángel López,ESP,03.07.88,2,La Coruña,09.06.2012
+1475,14,1:20:59,Kolothum Thodi Irfan,IND,08.02.90,5,Taicang,01.03.2013
+1476,14,1:20:59,Tomohiro Noda,JPN,24.01.95,5,Kobe,15.02.2015
+1477,14,1:20:59,Irfan Kolothum Thodi,IND,08.02.90,6,Nomi,19.03.2017
+1478,14,1:20:59,Álvaro Martín,ESP,18.06.94,5,Alytus,17.05.2019
+1479,14,1:20:59,Giorgio Rubino,ITA,30.04.73,20,La Coruña,08.06.2019
+1480,14,1:20:59,Álvaro Martín,ESP,18.06.94,5,Murcia,14.03.2021
+1481,14,1:20:59,Wayne Snyman,RSA,08.03.85,6,Dudince,20.03.2021
+1482,14,1:20:59,César Rodríguez,PER,25.06.97,10,Eugene,15.07.2022

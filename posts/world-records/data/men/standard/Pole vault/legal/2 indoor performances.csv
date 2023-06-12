@@ -1,0 +1,2335 @@
+,0,1,2,3,4,5,6,7
+0,1,6.22,Armand Duplantis,SWE,10.11.99,1cA,Clermont-Ferrand,25.02.2023
+1,2,6.20,Armand Duplantis,SWE,10.11.99,1,Beograd,20.03.2022
+2,3,6.19,Armand Duplantis,SWE,10.11.99,1,Beograd,07.03.2022
+3,4,6.18,Armand Duplantis,SWE,10.11.99,1,Glasgow,15.02.2020
+4,5,6.17,Armand Duplantis,SWE,10.11.99,1,Torun,08.02.2020
+5,6,6.16,Renaud Lavillenie,FRA,18.09.86,1,Donetsk,15.02.2014
+6,7,6.15,Sergey Bubka,UKR,04.12.63,1,Donetsk,21.02.1993
+7,8,6.14,Sergey Bubka,UKR,04.12.63,1,Liévin,13.02.1993
+8,9,6.13,Sergey Bubka,UKR,04.12.63,1,Berlin,21.02.1992
+9,10,6.12,Sergey Bubka,UKR,04.12.63,1,Grenoble,23.03.1991
+10,11,6.11,Sergey Bubka,UKR,04.12.63,1,Donetsk,19.03.1991
+11,12,6.10,Sergey Bubka,UKR,04.12.63,1,San Sebastián,15.03.1991
+12,12,6.10,Armand Duplantis,SWE,10.11.99,1,Beograd,24.02.2021
+13,12,6.10,Armand Duplantis,SWE,10.11.99,1,Uppsala,02.02.2023
+14,15,6.08,Sergey Bubka,UKR,04.12.63,1,Volgograd,09.02.1991
+15,15,6.08,Renaud Lavillenie,FRA,18.09.86,1,Bydgoszcz,31.01.2014
+16,17,6.07,Armand Duplantis,SWE,10.11.99,1,Liévin,19.02.2020
+17,18,6.06,Steve Hooker,AUS,16.07.82,1,Boston,07.02.2009
+18,18,6.06,Renaud Lavillenie,FRA,18.09.86,1cA,Aubière,27.02.2021
+19,18,6.06,Armand Duplantis,SWE,10.11.99,1,Berlin,10.02.2023
+20,21,6.05,Sergey Bubka,UKR,04.12.63,1,Donetsk,17.03.1990
+21,21,6.05,Sergey Bubka,UKR,04.12.63,1,Berlin,05.03.1993
+22,21,6.05,Sergey Bubka,UKR,04.12.63,1,Grenoble,06.02.1994
+23,21,6.05,Armand Duplantis,SWE,10.11.99,1,Torun,07.03.2021
+24,21,6.05,Armand Duplantis,SWE,10.11.99,1,Birmingham,19.02.2022
+25,21,6.05,Christopher Nilsen,USA,13.01.98,1cA,Rouen,05.03.2022
+26,27,6.04,Renaud Lavillenie,FRA,18.09.86,1cA,Rouen,25.01.2014
+27,27,6.04,Renaud Lavillenie,FRA,18.09.86,1,Praha,07.03.2015
+28,27,6.04,Armand Duplantis,SWE,10.11.99,1,Uppsala,09.02.2022
+29,30,6.03,Sergey Bubka,UKR,04.12.63,1,Osaka,11.02.1989
+30,30,6.03,Renaud Lavillenie,FRA,18.09.86,1,Paris,05.03.2011
+31,30,6.03,Renaud Lavillenie,FRA,18.09.86,1,Jablonec nad Nisou,05.03.2016
+32,30,6.03,Armand Duplantis,SWE,10.11.99,1cA,Rouen,06.02.2021
+33,30,6.03,Armand Duplantis,SWE,10.11.99,1,Berlin,04.02.2022
+34,35,6.02,Rodion Gataullin,RUS,23.11.65,1,Gomel,04.02.1989
+35,35,6.02,Jeff Hartwig,USA,25.09.67,1,Sindelfingen,10.03.2002
+36,35,6.02,Renaud Lavillenie,FRA,18.09.86,1,Berlin,14.02.2015
+37,35,6.02,Renaud Lavillenie,FRA,18.09.86,1,Clermont-Ferrand,21.02.2016
+38,35,6.02,Renaud Lavillenie,FRA,18.09.86,1,Portland,17.03.2016
+39,35,6.02,Renaud Lavillenie,FRA,18.09.86,1,Tourcoing,31.01.2021
+40,35,6.02,Armand Duplantis,SWE,10.11.99,1,Karlsruhe,28.01.2022
+41,35,6.02,Christopher Nilsen,USA,13.01.98,1cA,Tourcoing,04.02.2022
+42,35,6.02,Armand Duplantis,SWE,10.11.99,1,Ad-Dawhah,14.05.2022
+43,44,6.01,Sergey Bubka,UKR,04.12.63,1,Grenoble,07.02.1993
+44,44,6.01,Steve Hooker,AUS,16.07.82,1,New York City,30.01.2009
+45,44,6.01,Steve Hooker,AUS,16.07.82,1,Ad-Dawhah,13.03.2010
+46,44,6.01,Renaud Lavillenie,FRA,18.09.86,1,Göteborg,03.03.2013
+47,44,6.01,Renaud Lavillenie,FRA,18.09.86,1cA,Nevers,07.02.2015
+48,44,6.01,Renaud Lavillenie,FRA,18.09.86,1,Aubière,22.02.2015
+49,44,6.01,Sam Kendricks,USA,07.09.92,1c1,Rouen,08.02.2020
+50,44,6.01,Armand Duplantis,SWE,10.11.99,1,Clermont-Ferrand,23.02.2020
+51,44,6.01,Armand Duplantis,SWE,10.11.99,1,Düsseldorf,31.01.2021
+52,44,6.01,Armand Duplantis,SWE,10.11.99,1,Liévin,15.02.2023
+53,54,6.00,Rodion Gataullin,RUS,23.11.65,1,Leningrad,22.01.1989
+54,54,6.00,Sergey Bubka,UKR,04.12.63,1,Sevilla,09.03.1991
+55,54,6.00,Sergey Bubka,UKR,04.12.63,1,Los Angeles,15.02.1992
+56,54,6.00,Rodion Gataullin,RUS,23.11.65,1,Moskva,02.02.1993
+57,54,6.00,Rodion Gataullin,RUS,23.11.65,2,Liévin,13.02.1993
+58,54,6.00,Sergey Bubka,UKR,04.12.63,1,Clermont-Ferrand,28.01.1994
+59,54,6.00,Sergey Bubka,UKR,04.12.63,1,Liévin,19.02.1995
+60,54,6.00,Maksim Tarasov,RUS,02.12.70,1,Budapest,05.02.1999
+61,54,6.00,Jean Galfione,FRA,09.06.71,1,Maebashi,06.03.1999
+62,54,6.00,Danny Ecker,GER,21.07.77,1,Dortmund,11.02.2001
+63,54,6.00,Jeff Hartwig,USA,25.09.67,1,Donetsk,24.02.2002
+64,54,6.00,Steve Hooker,AUS,16.07.82,1,Paris,13.02.2009
+65,54,6.00,Renaud Lavillenie,FRA,18.09.86,1,Rouen,24.01.2015
+66,54,6.00A,Shawnacy Barber,CAN,27.05.94,1cA,Reno,15.01.2016
+67,54,6.00,Piotr Lisek,POL,16.08.92,1,Potsdam,04.02.2017
+68,54,6.00,Armand Duplantis,SWE,10.11.99,1,Düsseldorf,04.02.2020
+69,54,6.00,KC Lightfoot,USA,11.11.99,1,Lubbock,13.02.2021
+70,54,6.00A,Sondre Guttormsen,NOR,01.06.99,1,Albuquerque,10.03.2023
+71,72,5.98,Rodion Gataullin,RUS,23.11.65,1,Grenoble,12.03.1989
+72,73,5.97,Sergey Bubka,UKR,04.12.63,1,Torino,17.03.1987
+73,74,5.96,Sergey Bubka,UKR,04.12.63,1,Osaka,15.01.1987
+74,74,5.96,Rodion Gataullin,RUS,23.11.65,1,Madrid,11.02.1993
+75,74,5.96,Danny Ecker,GER,21.07.77,1,Chemnitz,09.02.2001
+76,74,5.96,Lawrence Johnson,USA,07.05.74,1,Atlanta,03.03.2001
+77,74,5.96,Menno Vloon,NED,11.05.94,2cA,Aubière,27.02.2021
+78,79,5.95,Sergey Bubka,UKR,04.12.63,1,New York City,28.02.1986
+79,79,5.95,Sergey Bubka,UKR,04.12.63,1,Liévin,18.02.1996
+80,79,5.95,Maksim Tarasov,RUS,02.12.70,1,München,22.06.1997
+81,79,5.95,Jean Galfione,FRA,09.06.71,1,Dunkerque,27.02.1999
+82,79,5.95,Jeff Hartwig,USA,25.09.67,2,Maebashi,06.03.1999
+83,79,5.95,Tim Lobinger,GER,03.09.72,1,Chemnitz,18.02.2000
+84,79,5.95,Lawrence Johnson,USA,07.05.74,1,Lisboa,10.03.2001
+85,79,5.95,Renaud Lavillenie,FRA,18.09.86,1,Istanbul,10.03.2012
+86,79,5.95,Renaud Lavillenie,FRA,18.09.86,1,Karlsruhe,29.01.2021
+87,79,5.95,KC Lightfoot,USA,11.11.99,1,Lubbock,30.01.2021
+88,79,5.95,KC Lightfoot,USA,11.11.99,1,Dortmund,12.02.2022
+89,79,5.95,Thiago Braz da Silva,BRA,16.12.93,2,Beograd,20.03.2022
+90,91,5.94,Sergey Bubka,UKR,04.12.63,1,Inglewood,21.02.1986
+91,91,5.94,Philippe Collet,FRA,13.12.63,1,Grenoble,10.03.1990
+92,91,5.94,Renaud Lavillenie,FRA,18.09.86,1,Metz,24.02.2013
+93,91,5.94,Renaud Lavillenie,FRA,18.09.86,2,Clermont-Ferrand,23.02.2020
+94,91,5.94,KC Lightfoot,USA,11.11.99,1,Lubbock,16.01.2021
+95,96,5.93,Billy Olson,USA,19.07.58,1,East Rutherford,08.02.1986
+96,96,5.93,Tye Harvey,USA,25.09.74,2,Atlanta,03.03.2001
+97,96,5.93,Renaud Lavillenie,FRA,18.09.86,1cA,Nevers,18.02.2012
+98,96,5.93,Renaud Lavillenie,FRA,18.09.86,1,Aubière,17.02.2013
+99,96,5.93,Renaud Lavillenie,FRA,18.09.86,1cA,Aulnay-sous-Bois,21.12.2013
+100,96,5.93,Thiago Braz da Silva,BRA,16.12.93,1,Berlin,13.02.2016
+101,96,5.93,Renaud Lavillenie,FRA,18.09.86,1,Aubière,27.02.2016
+102,96,5.93,Sam Kendricks,USA,07.09.92,1,Clermont-Ferrand,25.02.2018
+103,96,5.93,Renaud Lavillenie,FRA,18.09.86,2,Clermont-Ferrand,25.02.2018
+104,96,5.93,Piotr Lisek,POL,16.08.92,1,Clermont-Ferrand,24.02.2019
+105,96,5.93,Sam Kendricks,USA,07.09.92,2,Clermont-Ferrand,24.02.2019
+106,96,5.93,Renaud Lavillenie,FRA,18.09.86,2=c,Rouen,06.02.2021
+107,96,5.93,Christopher Nilsen,USA,13.01.98,2=c,Rouen,06.02.2021
+108,96,5.93,KC Lightfoot,USA,11.11.99,1,Fayetteville,13.03.2021
+109,11,5.92,Sergey Bubka,UKR,04.12.63,1,Moskva,08.02.1986
+110,11,5.92,Philippe Collet,FRA,13.12.63,2,Grenoble,12.03.1989
+111,11,5.92,Sergey Bubka,UKR,04.12.63,1,Sevilla,27.02.1990
+112,11,5.92,Maksim Tarasov,RUS,02.12.70,1=,Stockholm,19.02.1998
+113,11,5.92,Igor Potapovich,KAZ,06.09.67,1=,Stockholm,19.02.1998
+114,11,5.92,Jeff Hartwig,USA,25.09.67,1,Atlanta,27.02.1999
+115,11,5.92,Steve Hooker,AUS,16.07.82,1,Donetsk,15.02.2009
+116,11,5.92,Renaud Lavillenie,FRA,18.09.86,1cA,Aubière,15.01.2011
+117,11,5.92,Björn Otto,GER,16.10.77,1,Potsdam,18.02.2012
+118,11,5.92,Björn Otto,GER,16.10.77,1,Karlsruhe,26.02.2012
+119,11,5.92,Renaud Lavillenie,FRA,18.09.86,1cA,Rouen,26.01.2013
+120,11,5.92,Renaud Lavillenie,FRA,18.09.86,1,Malmö,25.02.2015
+121,11,5.92,Shawnacy Barber,CAN,27.05.94,1,Zürich,02.09.2015
+122,11,5.92,Piotr Lisek,POL,16.08.92,1,Cottbus,25.01.2017
+123,11,5.92,Armand Duplantis,SWE,10.11.99,1,Fayetteville,22.02.2019
+124,11,5.92,Renaud Lavillenie,FRA,18.09.86,1,Bordeaux,16.01.2021
+125,11,5.92,KC Lightfoot,USA,11.11.99,2,Berlin,04.02.2022
+126,11,5.92,Christopher Nilsen,USA,13.01.98,2,Uppsala,09.02.2022
+127,11,5.92,KC Lightfoot,USA,11.11.99,3,Uppsala,09.02.2022
+128,11,5.92,Sam Kendricks,USA,07.09.92,1cA,Rouen,11.03.2023
+129,11,5.92,Christopher Nilsen,USA,13.01.98,2cA,Rouen,11.03.2023
+130,13,5.91,Joe Dial,USA,26.10.62,1,Columbia,01.02.1986
+131,13,5.91,Viktor Ryzhenkov,UZB,25.08.66,2,San Sebastián,15.03.1991
+132,13,5.91,Sergey Bubka,UKR,04.12.63,1,Stockholm,05.02.1992
+133,13,5.91,Sergey Bubka,UKR,04.12.63,1,San Sebastián,02.03.1993
+134,13,5.91,Maksim Tarasov,RUS,02.12.70,1,Budapest,06.02.1998
+135,13,5.91,Sergey Bubka,UKR,04.12.63,1,Liévin,22.02.1998
+136,13,5.91,Maksim Tarasov,RUS,02.12.70,2,Liévin,22.02.1998
+137,13,5.91A,Jeff Hartwig,USA,25.09.67,1,Reno,22.01.1999
+138,13,5.91A,Jeff Hartwig,USA,25.09.67,1,Flagstaff,17.02.2002
+139,13,5.91,Shawnacy Barber,CAN,27.05.94,1,Fayetteville,13.03.2015
+140,13,5.91,Renaud Lavillenie,FRA,18.09.86,1,Karlsruhe,06.02.2016
+141,13,5.91,Shawnacy Barber,CAN,27.05.94,2,Clermont-Ferrand,21.02.2016
+142,13,5.91,Piotr Lisek,POL,16.08.92,1,Torun,15.02.2018
+143,13,5.91,Timur Morgunov,RUS,12.10.96,1,Zürich,29.08.2018
+144,13,5.91A,KC Lightfoot,USA,11.11.99,1cA,Reno,14.01.2022
+145,13,5.91,Christopher Nilsen,USA,13.01.98,1,Metz,12.02.2022
+146,13,5.91,Christopher Nilsen,USA,13.01.98,1,Liévin,17.02.2022
+147,13,5.91,Christopher Nilsen,USA,13.01.98,1,Spokane,26.02.2022
+148,13,5.91,Menno Vloon,NED,11.05.94,1,Apeldoorn,27.02.2022
+149,13,5.91,Ernest John Obiena,PHI,17.11.95,2cA,Rouen,05.03.2022
+150,13,5.91,Thiago Braz da Silva,BRA,16.12.93,3cA,Rouen,05.03.2022
+151,13,5.91,KC Lightfoot,USA,11.11.99,2,Uppsala,02.02.2023
+152,13,5.91,Ernest John Obiena,PHI,17.11.95,3,Uppsala,02.02.2023
+153,13,5.91A,Sam Kendricks,USA,07.09.92,1,Albuquerque,18.02.2023
+154,13,5.91,Kurtis Marschall,AUS,25.04.97,2cA,Clermont-Ferrand,25.02.2023
+155,13,5.91,Menno Vloon,NED,11.05.94,3cA,Clermont-Ferrand,25.02.2023
+156,13,5.91A,Zachery Bradford,USA,29.11.99,2,Albuquerque,10.03.2023
+157,15,5.90,Ferenc Salbert,FRA,05.08.60,1,Grenoble,14.03.1987
+158,15,5.90,Rodion Gataullin,RUS,23.11.65,1,Vilnius,24.01.1988
+159,15,5.90,Rodion Gataullin,RUS,23.11.65,1,Piræus,08.03.1989
+160,15,5.90,Sergey Bubka,UKR,04.12.63,1,Donetsk,14.01.1990
+161,15,5.90,Sergey Bubka,UKR,04.12.63,1,Osaka,12.02.1990
+162,15,5.90,Rodion Gataullin,RUS,23.11.65,1,Piræus,07.03.1990
+163,15,5.90,Sergey Bubka,UKR,04.12.63,2,Grenoble,10.03.1990
+164,15,5.90,Grigoriy Yegorov,KAZ,12.01.67,1,Yokohama,11.03.1990
+165,15,5.90,Sergey Bubka,UKR,04.12.63,1,Donetsk,13.01.1991
+166,15,5.90,Viktor Ryzhenkov,UZB,25.08.66,2,Volgograd,09.02.1991
+167,15,5.90,Sergey Bubka,UKR,04.12.63,1,Liévin,25.01.1992
+168,15,5.90,Sergey Bubka,UKR,04.12.63,1,Osaka,11.02.1992
+169,15,5.90,Grigoriy Yegorov,KAZ,12.01.67,2,Moskva,02.02.1993
+170,15,5.90,Igor Trandenkov,RUS,17.08.66,2,Grenoble,07.02.1993
+171,15,5.90,Maksim Tarasov,RUS,02.12.70,2,Madrid,11.02.1993
+172,15,5.90,Rodion Gataullin,RUS,23.11.65,1,Toronto,13.03.1993
+173,15,5.90,Maksim Tarasov,RUS,02.12.70,1,Madrid,11.02.1994
+174,15,5.90,Rodion Gataullin,RUS,23.11.65,1,Liévin,13.02.1994
+175,15,5.90,Jean Galfione,FRA,09.06.71,2,Liévin,13.02.1994
+176,15,5.90,Sergey Bubka,UKR,04.12.63,1,Donetsk,20.02.1994
+177,15,5.90,Pyotr Bochkaryov,RUS,03.11.67,1,Paris,12.03.1994
+178,15,5.90,Sergey Bubka,UKR,04.12.63,1,Donetsk,12.02.1995
+179,15,5.90,Sergey Bubka,UKR,04.12.63,1,Barcelona,11.03.1995
+180,15,5.90,Sergey Bubka,UKR,04.12.63,1,Donetsk,28.01.1996
+181,15,5.90,Rodion Gataullin,RUS,23.11.65,2,Liévin,18.02.1996
+182,15,5.90,Maksim Tarasov,RUS,02.12.70,1,Budapest,01.02.1997
+183,15,5.90,Okkert Brits,RSA,22.08.73,1,Liévin,16.02.1997
+184,15,5.90,Igor Potapovich,KAZ,06.09.67,1,Paris,08.03.1997
+185,15,5.90,Maksim Tarasov,RUS,02.12.70,1,Gent,08.02.1998
+186,15,5.90,Jeff Hartwig,USA,25.09.67,1,Jonesboro,14.06.1998
+187,15,5.90,Maksim Tarasov,RUS,02.12.70,1,Madrid,16.02.1999
+188,15,5.90,Danny Ecker,GER,21.07.77,1,Karlsruhe,20.02.1999
+189,15,5.90,Maksim Tarasov,RUS,02.12.70,1,Donetsk,21.02.1999
+190,15,5.90A,Jeff Hartwig,USA,25.09.67,1,Reno,21.01.2000
+191,15,5.90,Michael Stolle,GER,17.12.74,2,Chemnitz,18.02.2000
+192,15,5.90,Tye Harvey,USA,25.09.74,2,Lisboa,10.03.2001
+193,15,5.90,Tim Mack,USA,15.09.72,1,Jonesboro,27.06.2004
+194,15,5.90,Igor Pavlov,RUS,18.07.79,1,Madrid,05.03.2005
+195,15,5.90,Björn Otto,GER,16.10.77,1,Leipzig,17.02.2007
+196,15,5.90,Yevgeniy Lukyanenko,RUS,23.01.85,1,Valencia,09.03.2008
+197,15,5.90,Renaud Lavillenie,FRA,18.09.86,1,Liévin,08.02.2011
+198,15,5.90,Dmitriy Starodubtsev,RUS,03.01.86,1,Chelyabinsk,29.12.2011
+199,15,5.90,Björn Otto,GER,16.10.77,1,Cottbus,30.01.2013
+200,15,5.90,Björn Otto,GER,16.10.77,1,Düsseldorf,08.02.2013
+201,15,5.90,Malte Mohr,GER,24.07.86,1,Berlin,01.03.2014
+202,15,5.90,Shawnacy Barber,CAN,27.05.94,1,Fayetteville,14.02.2015
+203,15,5.90,Piotr Lisek,POL,16.08.92,1,Bad Oeynhausen,28.02.2015
+204,15,5.90,Sam Kendricks,USA,07.09.92,1,Portland,11.03.2016
+205,15,5.90,Thiago Braz da Silva,BRA,16.12.93,1=c,Rouen,10.02.2018
+206,15,5.90,Renaud Lavillenie,FRA,18.09.86,1=c,Rouen,10.02.2018
+207,15,5.90,Renaud Lavillenie,FRA,18.09.86,1,Birmingham,04.03.2018
+208,15,5.90,Sam Kendricks,USA,07.09.92,1cA,Rouen,09.02.2019
+209,15,5.90,Pawel Wojciechowski,POL,06.06.89,1,Glasgow,02.03.2019
+210,15,5.90,Sam Kendricks,USA,07.09.92,2,Liévin,19.02.2020
+211,15,5.90,Christopher Nilsen,USA,13.01.98,1,Vermillion,23.01.2021
+212,15,5.90,KC Lightfoot,USA,11.11.99,1,College Station,23.01.2021
+213,15,5.90,KC Lightfoot,USA,11.11.99,1,Clemson,26.02.2021
+214,15,5.90,Christopher Nilsen,USA,13.01.98,3,Beograd,20.03.2022
+215,15,5.90A,Sondre Guttormsen,NOR,01.06.99,1,Albuquerque,04.02.2023
+216,21,5.89A,Billy Olson,USA,19.07.58,1,Albuquerque,25.01.1986
+217,21,5.89,Shawnacy Barber,CAN,27.05.94,1,Glasgow,20.02.2016
+218,21,5.89,KC Lightfoot,USA,11.11.99,2,Karlsruhe,28.01.2022
+219,22,5.88,Billy Olson,USA,19.07.58,1,Los Angeles,17.01.1986
+220,22,5.88,Jeff Hartwig,USA,25.09.67,1,Jonesboro,22.02.2004
+221,22,5.88,Shawnacy Barber,CAN,27.05.94,1,Belton,02.01.2006
+222,22,5.88,Björn Otto,GER,16.10.77,1,Stuttgart,03.02.2007
+223,22,5.88,Renaud Lavillenie,FRA,18.09.86,1,Donetsk,12.02.2011
+224,22,5.88,Maksim Mazurik,UKR,02.04.83,2,Donetsk,12.02.2011
+225,22,5.88,Shawnacy Barber,CAN,27.05.94,1,Akron,07.02.2015
+226,22,5.88,Raphael Holzdeppe,GER,28.09.89,1,Karlsruhe,03.02.2018
+227,22,5.88,Pawel Wojciechowski,POL,06.06.89,3,Clermont-Ferrand,25.02.2018
+228,22,5.88,Axel Chapelle,FRA,24.04.95,4,Clermont-Ferrand,25.02.2018
+229,22,5.88,Armand Duplantis,SWE,10.11.99,5,Clermont-Ferrand,25.02.2018
+230,22,5.88,Piotr Lisek,POL,16.08.92,6,Clermont-Ferrand,25.02.2018
+231,22,5.88,Kevin Ménaldo,FRA,12.07.92,7,Clermont-Ferrand,25.02.2018
+232,22,5.88,Andrew Irwin,USA,23.01.93,1cA,Fayetteville,08.02.2019
+233,22,5.88,Christopher Nilsen,USA,13.01.98,1,Paris,06.03.2022
+234,23,5.87,Sergey Bubka,UKR,04.12.63,1,Osaka,15.01.1986
+235,23,5.87,Sergey Bubka,UKR,04.12.63,1,San Sebastián,04.03.1992
+236,23,5.87,Jeff Hartwig,USA,25.09.67,1,New York City,01.02.2002
+237,23,5.87,Malte Mohr,GER,24.07.86,2,Karlsruhe,26.02.2012
+238,23,5.87,Shawnacy Barber,CAN,27.05.94,1,Belton,03.01.2015
+239,23,5.87,Piotr Lisek,POL,16.08.92,1,Dessau,11.02.2015
+240,23,5.87,Piotr Lisek,POL,16.08.92,1,Lódz,16.02.2017
+241,23,5.87,Andrew Irwin,USA,23.01.93,1c2,Black Springs,26.06.2018
+242,23,5.87,Armand Duplantis,SWE,10.11.99,1,Baton Rouge,01.02.2019
+243,23,5.87,Kurtis Marschall,AUS,25.04.97,3,Clermont-Ferrand,24.02.2019
+244,23,5.87,Sam Kendricks,USA,07.09.92,3,Clermont-Ferrand,23.02.2020
+245,23,5.87,Menno Vloon,NED,11.05.94,1cA,Clermont-Ferrand,19.02.2022
+246,23,5.87,Ernest John Obiena,PHI,17.11.95,1,Torun,08.02.2023
+247,24,5.86,Billy Olson,USA,19.07.58,1,Saskatoon,28.12.1985
+248,24,5.86,Earl Bell,USA,25.08.55,1,Portland,24.01.1987
+249,24,5.86,Rodion Gataullin,RUS,23.11.65,1,Moskva,14.02.1995
+250,24,5.86,Igor Trandenkov,RUS,17.08.66,1,Stockholm,25.02.1996
+251,24,5.86,Okkert Brits,RSA,22.08.73,1,Stockholm,20.02.1997
+252,24,5.86,Jeff Hartwig,USA,25.09.67,1,New York City,13.02.1998
+253,24,5.86,Michael Stolle,GER,17.12.74,1,Dortmund,13.02.1999
+254,24,5.86,Danny Ecker,GER,21.07.77,2,Dortmund,13.02.1999
+255,24,5.86,Aleksandr Averbukh,ISR,01.10.74,1,Stockholm,15.02.2001
+256,24,5.86,Romain Mesnil,FRA,13.06.77,1,Toulouse,04.03.2001
+257,24,5.86,Jeff Hartwig,USA,25.09.67,1,Jonesboro,04.07.2004
+258,24,5.86,Steve Hooker,AUS,16.07.82,1cA,Stockholm,18.02.2009
+259,24,5.86,Pawel Wojciechowski,POL,06.06.89,1,Gent,13.02.2011
+260,24,5.86,Malte Mohr,GER,24.07.86,1,Potsdam,19.02.2011
+261,24,5.86,Maksim Mazurik,UKR,02.04.83,2,Potsdam,19.02.2011
+262,24,5.86A,Brad Walker,USA,21.06.81,1,Albuquerque,26.02.2012
+263,24,5.86,Renaud Lavillenie,FRA,18.09.86,1cA,Reno,19.01.2013
+264,24,5.86,Renaud Lavillenie,FRA,18.09.86,1,Karlsruhe,31.01.2015
+265,24,5.86,Thiago Braz da Silva,BRA,16.12.93,1,Rouen,28.01.2017
+266,24,5.86,Piotr Lisek,POL,16.08.92,1,Berlin,10.02.2017
+267,24,5.86,Renaud Lavillenie,FRA,18.09.86,1c1,Aubiére,14.01.2018
+268,24,5.86,Piotr Lisek,POL,16.08.92,1,Düsseldorf,06.02.2018
+269,24,5.86,Shawnacy Barber,CAN,27.05.94,2,Zürich,29.08.2018
+270,24,5.86,Kurtis Marschall,AUS,25.04.97,3,Zürich,29.08.2018
+271,24,5.86,Sam Kendricks,USA,07.09.92,1,Berlin,01.02.2019
+272,24,5.86,Timur Morgunov,RUS,12.10.96,1,Moskva,09.02.2020
+273,24,5.86,Torben Blech,GER,12.02.95,2,Düsseldorf,31.01.2021
+274,24,5.86,Armand Duplantis,SWE,10.11.99,1,Liévin,09.02.2021
+275,24,5.86,Christopher Nilsen,USA,13.01.98,2,Liévin,09.02.2021
+276,24,5.86,Sam Kendricks,USA,07.09.92,1,Lodz,12.02.2021
+277,24,5.86,Ernest John Obiena,PHI,17.11.95,2,Lodz,12.02.2021
+278,24,5.86,Christopher Nilsen,USA,13.01.98,3cA,Aubière,27.02.2021
+279,24,5.86,Menno Vloon,NED,11.05.94,1cA,Nevers,29.01.2022
+280,24,5.86,KC Lightfoot,USA,11.11.99,2,Spokane,26.02.2022
+281,24,5.86,Emmanouíl Karális,GRE,20.10.99,1,Piræus,18.02.2023
+282,24,5.86A,Jacob Wooten,USA,22.04.97,2,Albuquerque,18.02.2023
+283,24,5.86A,KC Lightfoot,USA,11.11.99,3,Albuquerque,18.02.2023
+284,28,5.85,Thierry Vigneron,FRA,09.03.60,1,Göteborg,04.03.1984
+285,28,5.85,Sergey Bubka,UKR,04.12.63,1,Stuttgart,01.02.1987
+286,28,5.85,Thierry Vigneron,FRA,09.03.60,1,Liévin,22.02.1987
+287,28,5.85,Ferenc Salbert,FRA,05.08.60,2,Liévin,22.02.1987
+288,28,5.85,Sergey Bubka,UKR,04.12.63,1,Indianapolis,08.03.1987
+289,28,5.85,Sergey Bubka,UKR,04.12.63,1,Moskva,21.02.1988
+290,28,5.85,Miroslaw Chmara,POL,09.05.64,1,Berlin,24.02.1989
+291,28,5.85,Rodion Gataullin,RUS,23.11.65,1,New York City,24.02.1989
+292,28,5.85,Rodion Gataullin,RUS,23.11.65,1,Budapest,04.03.1989
+293,28,5.85,Grigoriy Yegorov,KAZ,12.01.67,1,Chelyabinsk,03.02.1990
+294,28,5.85,Sergey Bubka,UKR,04.12.63,1,Stuttgart,04.02.1990
+295,28,5.85,Thierry Vigneron,FRA,09.03.60,1,Colombes,24.02.1990
+296,28,5.85,Grigoriy Yegorov,KAZ,12.01.67,2,Donetsk,17.03.1990
+297,28,5.85,Rodion Gataullin,RUS,23.11.65,3,Donetsk,17.03.1990
+298,28,5.85,Rodion Gataullin,RUS,23.11.65,3,Volgograd,09.02.1991
+299,28,5.85,Sergey Bubka,UKR,04.12.63,1,München,03.03.1991
+300,28,5.85,Pyotr Bochkaryov,RUS,03.11.67,1,Genova,01.03.1992
+301,28,5.85,Sergey Bubka,UKR,04.12.63,1,Donetsk,08.03.1992
+302,28,5.85,Rodion Gataullin,RUS,23.11.65,1,Sankt Peterburg,23.01.1993
+303,28,5.85,Rodion Gataullin,RUS,23.11.65,2,Berlin,05.03.1993
+304,28,5.85,Sergey Bubka,UKR,04.12.63,1,Osaka,11.02.1994
+305,28,5.85,Sergey Bubka,UKR,04.12.63,1,Berlin,04.03.1994
+306,28,5.85,Igor Trandenkov,RUS,17.08.66,2,Donetsk,12.02.1995
+307,28,5.85,Nick Hysong,USA,09.12.71,1,Atlanta,04.03.1995
+308,28,5.85,Maksim Tarasov,RUS,02.12.70,2,Donetsk,28.01.1996
+309,28,5.85,Sergey Bubka,UKR,04.12.63,1,New York City,02.02.1996
+310,28,5.85,Dmitriy Markov,BLR,14.03.75,1,Stockholm,09.03.1996
+311,28,5.85,Igor Potapovich,KAZ,06.09.67,2,Liévin,16.02.1997
+312,28,5.85,Lawrence Johnson,USA,07.05.74,1,Atlanta,01.03.1997
+313,28,5.85,Lawrence Johnson,USA,07.05.74,2,Paris,08.03.1997
+314,28,5.85,Michael Stolle,GER,17.12.74,1,Chemnitz,29.01.1999
+315,28,5.85,Jeff Hartwig,USA,25.09.67,1,Fairfax,19.02.1999
+316,28,5.85,Andrej Tiwontschik,GER,13.07.70,2,Karlsruhe,20.02.1999
+317,28,5.85,Nick Hysong,USA,09.12.71,2,Atlanta,27.02.1999
+318,28,5.85,Jacob Davis,USA,29.04.78,1,Indianapolis,06.03.1999
+319,28,5.85,Danny Ecker,GER,21.07.77,3,Maebashi,06.03.1999
+320,28,5.85,Jeff Hartwig,USA,25.09.67,1,Fayetteville,12.02.2000
+321,28,5.85,Danny Ecker,GER,21.07.77,1,Erfurt,02.02.2001
+322,28,5.85,Romain Mesnil,FRA,13.06.77,3,Lisboa,10.03.2001
+323,28,5.85,Tim Mack,USA,15.09.72,2,Donetsk,24.02.2002
+324,28,5.85,Derek Miles,USA,28.09.72,1c1,Donetsk,12.02.2005
+325,28,5.85,Denis Yurchenko,UKR,27.01.78,2,Madrid,05.03.2005
+326,28,5.85,Daniel Ryland,USA,06.08.79,1,Jonesboro,24.07.2005
+327,28,5.85,Jeff Hartwig,USA,25.09.67,1,Vermillion,18.02.2006
+328,28,5.85,Jeff Hartwig,USA,25.09.67,1,Jonesboro,19.05.2007
+329,28,5.85,Yevgeniy Lukyanenko,RUS,23.01.85,1,Moskva,27.01.2008
+330,28,5.85,Brad Walker,USA,21.06.81,2,Valencia,09.03.2008
+331,28,5.85,Renaud Lavillenie,FRA,18.09.86,1,Paris,28.02.2010
+332,28,5.85,Renaud Lavillenie,FRA,18.09.86,1,Cottbus,26.01.2011
+333,28,5.85,Malte Mohr,GER,24.07.86,1,Düsseldorf,11.02.2011
+334,28,5.85,Renaud Lavillenie,FRA,18.09.86,1,Aubière,19.02.2011
+335,28,5.85,Renaud Lavillenie,FRA,18.09.86,1,Donetsk,09.02.2013
+336,28,5.85,Björn Otto,GER,16.10.77,1,Dortmund,24.02.2013
+337,28,5.85,Björn Otto,GER,16.10.77,1,Dessau,06.03.2013
+338,28,5.85,Piotr Lisek,POL,16.08.92,2,Malmö,25.02.2015
+339,28,5.85,Aleksandr Gripich,RUS,21.09.86,2,Praha,07.03.2015
+340,28,5.85,Piotr Lisek,POL,16.08.92,3,Praha,07.03.2015
+341,28,5.85,Renaud Lavillenie,FRA,18.09.86,2,Berlin,13.02.2016
+342,28,5.85,Piotr Lisek,POL,16.08.92,1,Beograd,03.03.2017
+343,28,5.85,Konstandínos Fillipp,GRE,26.11.86,2,Beograd,03.03.2017
+344,28,5.85,Pawel Wojciechowski,POL,06.06.89,3,Beograd,03.03.2017
+345,28,5.85A,Sam Kendricks,USA,07.09.92,1,Albuquerque,04.03.2017
+346,28,5.85,Konstandínos Fillipp,GRE,26.11.86,1,Madrid,08.02.2018
+347,28,5.85,Timur Morgunov,RUS,12.10.96,1,Moskva,13.02.2018
+348,28,5.85,Sam Kendricks,USA,07.09.92,2,Birmingham,04.03.2018
+349,28,5.85,Piotr Lisek,POL,16.08.92,3,Birmingham,04.03.2018
+350,28,5.85,Piotr Lisek,POL,16.08.92,1,Cottbus,30.01.2019
+351,28,5.85,Piotr Lisek,POL,16.08.92,2,Glasgow,02.03.2019
+352,28,5.85,Sam Kendricks,USA,07.09.92,1,Des Moines,27.04.2019
+353,28,5.85A,Matthew Ludwig,USA,05.07.96,1,Albuquerque,14.02.2020
+354,28,5.85,Zack McWhorter,USA,07.01.99,1,New York City,04.02.2022
+355,28,5.85,Valentin Lavillenie,FRA,16.07.91,4,Beograd,20.03.2022
+356,35,5.84,Pyotr Bochkaryov,RUS,03.11.67,1=,Grenoble,14.03.1992
+357,35,5.84,Jean Galfione,FRA,09.06.71,1=,Grenoble,14.03.1992
+358,35,5.84,Jeff Hartwig,USA,25.09.67,1,Jonesboro,18.01.1999
+359,35,5.84,Ruslan Yeremenko,UKR,31.07.78,1,Stuttgart,29.01.2005
+360,35,5.84,Malte Mohr,GER,24.07.86,1,Stuttgart,05.02.2011
+361,35,5.84,Björn Otto,GER,16.10.77,1,Dessau,02.03.2012
+362,35,5.84,Renaud Lavillenie,FRA,18.09.86,1cA,Aubière,11.01.2014
+363,35,5.84,Malte Mohr,GER,24.07.86,1,Leipzig,23.02.2014
+364,35,5.84,Raphael Holzdeppe,GER,28.09.89,1cA,Rouen,23.01.2016
+365,35,5.84,Konstandínos Fillipp,GRE,26.11.86,3=,Clermont-Ferrand,21.02.2016
+366,35,5.84,Sam Kendricks,USA,07.09.92,3=,Clermont-Ferrand,21.02.2016
+367,35,5.84,Pawel Wojciechowski,POL,06.06.89,5,Clermont-Ferrand,21.02.2016
+368,35,5.84,Sam Kendricks,USA,07.09.92,1,Paris,27.01.2019
+369,35,5.84,Sondre Guttormsen,NOR,01.06.99,1,Cambridge,28.01.2023
+370,37,5.83,Sergey Bubka,UKR,04.12.63,1,Inglewood,10.02.1984
+371,37,5.83,Jani Lehtonen,FIN,11.08.68,1,Stockholm,08.03.1994
+372,37,5.83,Lawrence Johnson,USA,07.05.74,1,Indianapolis,12.03.1994
+373,37,5.83A,Brad Walker,USA,21.06.81,1,Reno,21.01.2005
+374,37,5.83,Fabian Schulze,GER,07.03.84,2,Stuttgart,03.02.2007
+375,37,5.83,Malte Mohr,GER,24.07.86,1,Leipzig,13.02.2010
+376,37,5.83,Malte Mohr,GER,24.07.86,1,Dessau,02.02.2011
+377,37,5.83,Renaud Lavillenie,FRA,18.09.86,1,Aubière,12.01.2013
+378,37,5.83,Konstandínos Fillipp,GRE,26.11.86,1,Linz,31.01.2013
+379,37,5.83,Renaud Lavillenie,FRA,18.09.86,1,Karlsruhe,02.02.2013
+380,37,5.83,Björn Otto,GER,16.10.77,1,Pardubice,05.02.2013
+381,37,5.83,Björn Otto,GER,16.10.77,1,Potsdam,16.02.2013
+382,37,5.83,Luke Cutts,GBR,13.02.88,2cA,Rouen,25.01.2014
+383,37,5.83,Shawnacy Barber,CAN,27.05.94,1,Clermont-Ferrand,05.02.2017
+384,37,5.83,Piotr Lisek,POL,16.08.92,1,Torun,19.02.2017
+385,37,5.83,Piotr Lisek,POL,16.08.92,1,Berlin,26.01.2018
+386,37,5.83,Piotr Lisek,POL,16.08.92,1,Cottbus,31.01.2018
+387,37,5.83,Renaud Lavillenie,FRA,18.09.86,2,Karlsruhe,03.02.2018
+388,37,5.83,Timur Morgunov,RUS,12.10.96,1,Moskva,04.02.2018
+389,37,5.83A,Scott Houston,USA,11.06.90,1,Albuquerque,17.02.2018
+390,37,5.83,Piotr Lisek,POL,16.08.92,1,Torun,18.02.2018
+391,37,5.83,Renaud Lavillenie,FRA,18.09.86,1,Liévin,18.02.2018
+392,37,5.83,Armand Duplantis,SWE,10.11.99,1,Fayetteville,25.01.2019
+393,37,5.83,Matthew Ludwig,USA,05.07.96,1,Akron,25.01.2019
+394,37,5.83,Piotr Lisek,POL,16.08.92,1,Torun,17.02.2019
+395,37,5.83,Armand Duplantis,SWE,10.11.99,1,Birmingham AL,08.03.2019
+396,37,5.83,Andrew Irwin,USA,23.01.93,1,Des Moines,24.04.2019
+397,37,5.83,KC Lightfoot,USA,11.11.99,1,Ames,15.02.2020
+398,37,5.83,Sam Kendricks,USA,07.09.92,4cA,Rouen,06.02.2021
+399,37,5.83,Pål  Haugen Lillefos,NOR,04.06.01,1,Uppsala,13.02.2022
+400,37,5.83,KC Lightfoot,USA,11.11.99,1,Karlsruhe,27.01.2023
+401,37,5.83,Kurtis Marschall,AUS,25.04.97,2,Karlsruhe,27.01.2023
+402,37,5.83,Emmanouíl Karális,GRE,20.10.99,3,Karlsruhe,27.01.2023
+403,40,5.82,Sergey Bubka,UKR,04.12.63,1,Milano,01.02.1984
+404,40,5.82,Maksim Tarasov,RUS,02.12.70,1,New York City,07.02.1992
+405,40,5.82,István Bagyula,HUN,02.01.69,2,New York City,07.02.1992
+406,40,5.82,Maksim Tarasov,RUS,02.12.70,1,Fairfax,09.02.1992
+407,40,5.82,Jeff Hartwig,USA,25.09.67,1,Jonesboro,01.02.1997
+408,40,5.82,Andrej Tiwontschik,GER,13.07.70,1,Dortmund,09.02.1997
+409,40,5.82,Sergey Bubka,UKR,04.12.63,1,Birmingham,15.02.1998
+410,40,5.82,Derek Miles,USA,28.09.72,1,Vermillion,16.02.2002
+411,40,5.82,Danny Ecker,GER,21.07.77,1,Dessau,24.02.2002
+412,40,5.82,Tim Lobinger,GER,03.09.72,1,Stockholm,18.02.2003
+413,40,5.82,Giuseppe Gibilisco,ITA,05.01.79,1,Donetsk,15.02.2004
+414,40,5.82,Björn Otto,GER,16.10.77,1,Münster,23.09.2004
+415,40,5.82,Tim Lobinger,GER,03.09.72,1,Göteborg,08.02.2006
+416,40,5.82,Danny Ecker,GER,21.07.77,1,Cottbus,31.01.2007
+417,40,5.82,Björn Otto,GER,16.10.77,2,Cottbus,31.01.2007
+418,40,5.82,Derek Miles,USA,28.09.72,1,Vermillion,24.01.2009
+419,40,5.82,Yevgeniy Lukyanenko,RUS,23.01.85,2,Donetsk,15.02.2009
+420,40,5.82,Jeremy Scott,USA,21.05.81,1,Jonesboro,14.06.2009
+421,40,5.82,Renaud Lavillenie,FRA,18.09.86,1cA,Aulnay-sous-Bois,05.12.2009
+422,40,5.82,Przemyslaw Czerwinsk,POL,28.07.83,1,Donetsk,06.03.2010
+423,40,5.82,Renaud Lavillenie,FRA,18.09.86,1,Donetsk,11.02.2012
+424,40,5.82,Björn Otto,GER,16.10.77,2,Donetsk,11.02.2012
+425,40,5.82,Raphael Holzdeppe,GER,28.09.89,3,Karlsruhe,26.02.2012
+426,40,5.82,Raphael Holzdeppe,GER,28.09.89,2cA,Rouen,26.01.2013
+427,40,5.82,Armand Duplantis,SWE,10.11.99,1,New York City,11.03.2017
+428,40,5.82,Andrew Irwin,USA,23.01.93,1c1,Black Springs,26.06.2018
+429,40,5.82,Timur Morgunov,RUS,12.10.96,1,Linz,12.09.2018
+430,40,5.82,Renaud Lavillenie,FRA,18.09.86,1,Tignes,10.01.2019
+431,40,5.82,Melker Svärd Jacobss,SWE,08.01.94,1,Bærum,10.02.2019
+432,40,5.82A,Kyle Pater,USA,24.12.94,1,Colorado Springs,18.01.2020
+433,40,5.82A,Zack McWhorter,USA,07.01.99,1,Provo,10.12.2021
+434,40,5.82,Sondre Guttormsen,NOR,01.06.99,1,Fayetteville,12.02.2022
+435,40,5.82,KC Lightfoot,USA,11.11.99,1,Maryville,12.01.2023
+436,40,5.82,Ernest John Obiena,PHI,17.11.95,1cA,Roubaix,27.01.2023
+437,40,5.82,Kurtis Marschall,AUS,25.04.97,4,Uppsala,02.02.2023
+438,40,5.82,Pål  Haugen Lillefos,NOR,04.06.01,5,Uppsala,02.02.2023
+439,40,5.82,Jacob Wooten,USA,22.04.97,1,Mondeville,08.02.2023
+440,40,5.82,Rutger Koppelaar,NED,01.05.93,2,Torun,08.02.2023
+441,40,5.82,Ben Broeders,BEL,21.06.95,3,Torun,08.02.2023
+442,40,5.82,Menno Vloon,NED,11.05.94,4,Torun,08.02.2023
+443,40,5.82,Ernest John Obiena,PHI,17.11.95,2,Berlin,10.02.2023
+444,40,5.82,Kurtis Marschall,AUS,25.04.97,3,Berlin,10.02.2023
+445,40,5.82,Sam Kendricks,USA,07.09.92,1,Metz,11.02.2023
+446,40,5.82,Christopher Nilsen,USA,13.01.98,2,Metz,11.02.2023
+447,40,5.82,Torben Blech,GER,12.02.95,1,Dortmund,12.02.2023
+448,40,5.82,Claudio Michel Stecc,ITA,23.11.91,2,Liévin,15.02.2023
+449,40,5.82,Kurtis Marschall,AUS,25.04.97,3=,Liévin,15.02.2023
+450,40,5.82,Jacob Wooten,USA,22.04.97,3=,Liévin,15.02.2023
+451,40,5.82,Christopher Nilsen,USA,13.01.98,5,Liévin,15.02.2023
+452,40,5.82,Menno Vloon,NED,11.05.94,1,Apeldoorn,19.02.2023
+453,40,5.82,Ethan Cormont,FRA,29.09.00,3cA,Rouen,11.03.2023
+454,40,5.82,Menno Vloon,NED,11.05.94,4cA,Rouen,11.03.2023
+455,45,5.81,Sergey Bubka,UKR,04.12.63,1,Vilnius,15.01.1984
+456,45,5.81,Marian Kolasa,POL,12.08.59,1,Praha,13.02.1986
+457,45,5.81,Sergey Bubka,UKR,04.12.63,1,Rosemont,16.02.1986
+458,45,5.81,Rodion Gataullin,RUS,23.11.65,1,Tashkent,26.12.1986
+459,45,5.81,Thierry Vigneron,FRA,09.03.60,1,New York City,05.02.1988
+460,45,5.81,Earl Bell,USA,25.08.55,2,New York City,05.02.1988
+461,45,5.81,Joe Dial,USA,26.10.62,1,Houston,28.01.1989
+462,45,5.81,Sergey Bubka,UKR,04.12.63,1,Sevilla,28.02.1989
+463,45,5.81,Viktor Ryzhenkov,UZB,25.08.66,1,Madrid,13.02.1991
+464,45,5.81,István Bagyula,HUN,02.01.69,1,Indianapolis,09.03.1991
+465,45,5.81,Igor Potapovich,KAZ,06.09.67,3,San Sebastián,15.03.1991
+466,45,5.81,Grigoriy Yegorov,KAZ,12.01.67,4,San Sebastián,15.03.1991
+467,45,5.81,Igor Potapovich,KAZ,06.09.67,2,Donetsk,19.03.1991
+468,45,5.81,Maksim Tarasov,RUS,02.12.70,1,Madrid,14.02.1992
+469,45,5.81,Viktor Ryzhenkov,UZB,25.08.66,2,Madrid,14.02.1992
+470,45,5.81,Grigoriy Yegorov,KAZ,12.01.67,1,Minsk,18.02.1993
+471,45,5.81,Maksim Tarasov,RUS,02.12.70,1,Birmingham,20.02.1993
+472,45,5.81,Maksim Tarasov,RUS,02.12.70,2,San Sebastián,02.03.1993
+473,45,5.81,Igor Trandenkov,RUS,17.08.66,3,San Sebastián,02.03.1993
+474,45,5.81,Maksim Tarasov,RUS,02.12.70,1,Madrid,09.02.1996
+475,45,5.81,Tim Lobinger,GER,03.09.72,1,Dortmund,09.02.1996
+476,45,5.81,Viktor Chistyakov,RUS,09.02.75,2,Stockholm,25.02.1996
+477,45,5.81A,Jeff Hartwig,USA,25.09.67,1,Reno,24.01.1997
+478,45,5.81A,Pat Manson,USA,29.11.67,1,Air Force Academy,06.02.1998
+479,45,5.81,Jeff Hartwig,USA,25.09.67,1,Jonesboro,13.04.1998
+480,45,5.81,Tim Lobinger,GER,03.09.72,3,Dortmund,13.02.1999
+481,45,5.81,Michael Stolle,GER,17.12.74,1,Meckenheim,04.02.2000
+482,45,5.81,Jean Galfione,FRA,09.06.71,1,Rennes,05.02.2000
+483,45,5.81,Tim Lobinger,GER,03.09.72,1,Madrid,16.02.2000
+484,45,5.81,Nick Hysong,USA,09.12.71,1,Cedar Falls,27.02.2000
+485,45,5.81,Lawrence Johnson,USA,07.05.74,1,Atlanta,04.03.2000
+486,45,5.81,Aleksandr Averbukh,ISR,01.10.74,1,Eaubonne,07.02.2001
+487,45,5.81,Lawrence Johnson,USA,07.05.74,1,Knoxville,16.02.2001
+488,45,5.81,Pavel Gerasimov,RUS,29.05.79,2,Toulouse,04.03.2001
+489,45,5.81,Nick Buckfield,GBR,05.06.73,1,Bad Segeberg,08.02.2002
+490,45,5.81,Tim Lobinger,GER,03.09.72,1,Chemnitz,07.02.2003
+491,45,5.81,Adam Ptácek,CZE,08.10.80,2,Chemnitz,07.02.2003
+492,45,5.81,Tim Lobinger,GER,03.09.72,1,Donetsk,16.02.2003
+493,45,5.81,Toby Stevenson,USA,19.11.76,1c1,Seattle,31.01.2004
+494,45,5.81,Björn Otto,GER,16.10.77,1,Leipzig,29.02.2004
+495,45,5.81,Derek Miles,USA,28.09.72,1,Jonesboro,13.06.2004
+496,45,5.81,Derek Miles,USA,28.09.72,1,Stockholm,15.02.2005
+497,45,5.81,Daniel Ryland,USA,06.08.79,1,Jonesboro,17.07.2005
+498,45,5.81,Tim Lobinger,GER,03.09.72,1,Wien,31.01.2006
+499,45,5.81,Aleksandr Averbukh,ISR,01.10.74,1,Gent,26.02.2006
+500,45,5.81,Steve Hooker,AUS,16.07.82,1,Boston,27.01.2007
+501,45,5.81,Yevgeniy Lukyanenko,RUS,23.01.85,1,Stuttgart,02.02.2008
+502,45,5.81,Igor Pavlov,RUS,18.07.79,2,Stuttgart,02.02.2008
+503,45,5.81,Maksim Mazurik,UKR,02.04.83,1,Donetsk,16.02.2008
+504,45,5.81,Igor Pavlov,RUS,18.07.79,2,Donetsk,16.02.2008
+505,45,5.81,Yevgeniy Lukyanenko,RUS,23.01.85,3,Donetsk,16.02.2008
+506,45,5.81,Tim Lobinger,GER,03.09.72,1=,Stockholm,21.02.2008
+507,45,5.81,Yevgeniy Lukyanenko,RUS,23.01.85,1=,Stockholm,21.02.2008
+508,45,5.81,Renaud Lavillenie,FRA,18.09.86,1,Aulnay-sous-Bois,05.12.2008
+509,45,5.81,Renaud Lavillenie,FRA,18.09.86,1,Moskva,01.02.2009
+510,45,5.81,Pavel Gerasimov,RUS,29.05.79,2cA,Stockholm,18.02.2009
+511,45,5.81,Alhaji Jeng,SWE,13.12.81,3cA,Stockholm,18.02.2009
+512,45,5.81,Renaud Lavillenie,FRA,18.09.86,1,Torino,08.03.2009
+513,45,5.81A,Jérôme Clavier,FRA,03.05.83,1c,Villeurbanne,22.01.2011
+514,45,5.81,Malte Mohr,GER,24.07.86,1,Zweibrücken,08.03.2013
+515,45,5.81,Luke Cutts,GBR,13.02.88,2,Donetsk,15.02.2014
+516,45,5.81,Robert Sobera,POL,19.01.91,2,Berlin,14.02.2015
+517,45,5.81,Aleksandr Gripich,RUS,21.09.86,1,Moskva,19.02.2015
+518,45,5.81,Xue Changrui,CHN,31.05.91,1,Orléans,16.01.2016
+519,45,5.81,Renaud Lavillenie,FRA,18.09.86,1,Tignes,11.01.2018
+520,45,5.81,Shawnacy Barber,CAN,27.05.94,8,Clermont-Ferrand,25.02.2018
+521,45,5.81,Pawel Wojciechowski,POL,06.06.89,4,Zürich,29.08.2018
+522,45,5.81,Renaud Lavillenie,FRA,18.09.86,5=,Zürich,29.08.2018
+523,45,5.81,Piotr Lisek,POL,16.08.92,5=,Zürich,29.08.2018
+524,45,5.81,Christopher Nilsen,USA,13.01.98,1,Lincoln,01.02.2020
+525,45,5.81,Sam Kendricks,USA,07.09.92,3,Düsseldorf,31.01.2021
+526,45,5.81,Menno Vloon,NED,11.05.94,4,Düsseldorf,31.01.2021
+527,45,5.81,Zachery Bradford,USA,29.11.99,1,Columbia,10.04.2021
+528,45,5.81A,Christopher Nilsen,USA,13.01.98,2cA,Reno,14.01.2022
+529,45,5.81A,Jacob Wooten,USA,22.04.97,3cA,Reno,14.01.2022
+530,45,5.81,Jacob Wooten,USA,22.04.97,2cA,Nevers,29.01.2022
+531,45,5.81,Renaud Lavillenie,FRA,18.09.86,2cA,Tourcoing,04.02.2022
+532,45,5.81,Oleg Zernikel,GER,16.04.95,3,Berlin,04.02.2022
+533,45,5.81,Matthew Ludwig,USA,05.07.96,3cA,Tourcoing,04.02.2022
+534,45,5.81,Emmanouíl Karális,GRE,20.10.99,4,Uppsala,09.02.2022
+535,45,5.81,Pål  Haugen Lillefos,NOR,04.06.01,5,Uppsala,09.02.2022
+536,45,5.81,Ernest John Obiena,PHI,17.11.95,1,Lodz,11.02.2022
+537,45,5.81,Thiago Braz da Silva,BRA,16.12.93,2,Liévin,17.02.2022
+538,45,5.81,Menno Vloon,NED,11.05.94,3,Liévin,17.02.2022
+539,45,5.81,Thiago Braz da Silva,BRA,16.12.93,2,Birmingham,19.02.2022
+540,45,5.81,Emmanouíl Karális,GRE,20.10.99,2cA,Clermont-Ferrand,19.02.2022
+541,45,5.81,Bo Kanda Lita Baehre,GER,29.04.99,1,Düsseldorf,20.02.2022
+542,45,5.81,Ernest John Obiena,PHI,17.11.95,1,Torun,22.02.2022
+543,45,5.81,Zack McWhorter,USA,07.01.99,3,Spokane,26.02.2022
+544,45,5.81,Matthew Ludwig,USA,05.07.96,4,Spokane,26.02.2022
+545,45,5.81,Jacob Wooten,USA,22.04.97,5,Spokane,26.02.2022
+546,45,5.81,Thibaut Collet,FRA,17.06.99,1,Miramas,27.02.2022
+547,45,5.81,Valentin Lavillenie,FRA,16.07.91,2,Miramas,27.02.2022
+548,45,5.81,Jacob Wooten,USA,22.04.97,4cA,Rouen,05.03.2022
+549,45,5.81,Valentin Lavillenie,FRA,16.07.91,5cA,Rouen,05.03.2022
+550,45,5.81,Jacob Wooten,USA,22.04.97,1cA,Belton,30.12.2022
+551,45,5.81A,Thibaut Collet,FRA,17.06.99,1,Reno,13.01.2023
+552,45,5.81A,Jacob Wooten,USA,22.04.97,2,Reno,13.01.2023
+553,45,5.81,Sam Kendricks,USA,07.09.92,1,Cottbus,25.01.2023
+554,45,5.81,Austin Miller,USA,01.06.94,1,Blacksburg,04.02.2023
+555,45,5.81,Branson Ellis,USA,19.07.00,1,Fayetteville,11.02.2023
+556,45,5.81A,Matthew Ludwig,USA,05.07.96,4,Albuquerque,18.02.2023
+557,45,5.81,Thibaut Collet,FRA,17.06.99,4cA,Clermont-Ferrand,25.02.2023
+558,55,5.80,Billy Olson,USA,19.07.58,1,Toronto,04.02.1983
+559,55,5.80,Billy Olson,USA,19.07.58,2,Inglewood,10.02.1984
+560,55,5.80,Dave Volz,USA,02.05.62,1,New York City,14.02.1986
+561,55,5.80,Joe Dial,USA,26.10.62,1,San Diego,23.02.1986
+562,55,5.80A,Joe Dial,USA,26.10.62,1,Boulder,08.03.1986
+563,55,5.80,Thierry Vigneron,FRA,09.03.60,1,Colombes,20.12.1986
+564,55,5.80,Rodion Gataullin,RUS,23.11.65,1,Minsk,18.01.1987
+565,55,5.80,Earl Bell,USA,25.08.55,1,East Rutherford,14.02.1987
+566,55,5.80,Thierry Vigneron,FRA,09.03.60,1,Paris,14.02.1987
+567,55,5.80,Marian Kolasa,POL,12.08.59,3,Liévin,22.02.1987
+568,55,5.80,Earl Bell,USA,25.08.55,2,Indianapolis,08.03.1987
+569,55,5.80,Thierry Vigneron,FRA,09.03.60,3,Indianapolis,08.03.1987
+570,55,5.80,Ferenc Salbert,FRA,05.08.60,4,Indianapolis,08.03.1987
+571,55,5.80,Philippe Collet,FRA,13.12.63,2,Grenoble,14.03.1987
+572,55,5.80,Sergey Bubka,UKR,04.12.63,1,Stuttgart,31.01.1988
+573,55,5.80,Rodion Gataullin,RUS,23.11.65,1,Fairfax,14.02.1988
+574,55,5.80,Miroslaw Chmara,POL,09.05.64,1,Grenoble,12.03.1988
+575,55,5.80,Philippe Collet,FRA,13.12.63,2,Grenoble,12.03.1988
+576,55,5.80,Joe Dial,USA,26.10.62,1,East Rutherford,10.02.1989
+577,55,5.80,Sergey Bubka,UKR,04.12.63,1,Den Haag,22.02.1989
+578,55,5.80,Grigoriy Yegorov,KAZ,12.01.67,2,Budapest,04.03.1989
+579,55,5.80,Rodion Gataullin,RUS,23.11.65,1,Tashkent,14.01.1990
+580,55,5.80,Sergey Bubka,UKR,04.12.63,1,Sindelfingen,21.01.1990
+581,55,5.80,Sergey Bubka,UKR,04.12.63,1,Berlin,23.02.1990
+582,55,5.80,Rodion Gataullin,RUS,23.11.65,1,Stockholm,24.02.1990
+583,55,5.80,Rodion Gataullin,RUS,23.11.65,1,Glasgow,04.03.1990
+584,55,5.80,István Bagyula,HUN,02.01.69,1,East Rutherford,08.02.1991
+585,55,5.80,Philippe Collet,FRA,13.12.63,1,Liévin,17.02.1991
+586,55,5.80,Sergey Bubka,UKR,04.12.63,1,Karlsruhe,24.02.1991
+587,55,5.80,Viktor Ryzhenkov,UZB,25.08.66,2,Sevilla,09.03.1991
+588,55,5.80,Pyotr Bochkaryov,RUS,03.11.67,1,Moskva,19.01.1992
+589,55,5.80,Maksim Tarasov,RUS,02.12.70,1,Allston,25.01.1992
+590,55,5.80,Grigoriy Yegorov,KAZ,12.01.67,2,Liévin,25.01.1992
+591,55,5.80,Vasiliy Bubka,UKR,26.11.60,3,Liévin,25.01.1992
+592,55,5.80,Igor Trandenkov,RUS,17.08.66,1,Moskva,07.02.1992
+593,55,5.80,Maksim Tarasov,RUS,02.12.70,1,Budapest,12.02.1992
+594,55,5.80,Bill Payne,USA,21.12.67,2,Los Angeles,15.02.1992
+595,55,5.80,Grigoriy Yegorov,KAZ,12.01.67,2,Berlin,21.02.1992
+596,55,5.80,Rodion Gataullin,RUS,23.11.65,1,Birmingham,22.02.1992
+597,55,5.80,Jean Galfione,FRA,09.06.71,1,Paris,22.02.1992
+598,55,5.80,Maksim Tarasov,RUS,02.12.70,2,Birmingham,22.02.1992
+599,55,5.80,Kory Tarpenning,USA,27.02.62,3,Birmingham,22.02.1992
+600,55,5.80,István Bagyula,HUN,02.01.69,2,Genova,01.03.1992
+601,55,5.80,Igor Trandenkov,RUS,17.08.66,2,Sankt Peterburg,23.01.1993
+602,55,5.80,Rodion Gataullin,RUS,23.11.65,1,Moskva,26.01.1993
+603,55,5.80,Maksim Tarasov,RUS,02.12.70,1,Glasgow,30.01.1993
+604,55,5.80,Maksim Tarasov,RUS,02.12.70,1,Budapest,05.02.1993
+605,55,5.80,Maksim Tarasov,RUS,02.12.70,3,Liévin,13.02.1993
+606,55,5.80,Grigoriy Yegorov,KAZ,12.01.67,2,Donetsk,21.02.1993
+607,55,5.80,Igor Trandenkov,RUS,17.08.66,3,Donetsk,21.02.1993
+608,55,5.80,Rodion Gataullin,RUS,23.11.65,1,Moskva,27.02.1993
+609,55,5.80,Jean Galfione,FRA,09.06.71,1,Liévin,28.02.1993
+610,55,5.80,Igor Trandenkov,RUS,17.08.66,3,Berlin,05.03.1993
+611,55,5.80,Werner Holl,GER,28.01.70,1,Nördlingen,07.03.1993
+612,55,5.80,Grigoriy Yegorov,KAZ,12.01.67,2,Toronto,13.03.1993
+613,55,5.80,Jean Galfione,FRA,09.06.71,3,Toronto,13.03.1993
+614,55,5.80,Igor Trandenkov,RUS,17.08.66,4,Toronto,13.03.1993
+615,55,5.80,Rodion Gataullin,RUS,23.11.65,2,Grenoble,06.02.1994
+616,55,5.80,Maksim Tarasov,RUS,02.12.70,3,Grenoble,06.02.1994
+617,55,5.80,Pyotr Bochkaryov,RUS,03.11.67,4,Grenoble,06.02.1994
+618,55,5.80,Rodion Gataullin,RUS,23.11.65,2,Madrid,11.02.1994
+619,55,5.80,Lawrence Johnson,USA,07.05.74,1,Knoxville,18.02.1994
+620,55,5.80,Aleksandr Korchagin,KAZ,25.01.72,1,Alma-Ata,19.02.1994
+621,55,5.80,Kory Tarpenning,USA,27.02.62,2,Donetsk,20.02.1994
+622,55,5.80,Igor Trandenkov,RUS,17.08.66,3,Donetsk,20.02.1994
+623,55,5.80,Jean Galfione,FRA,09.06.71,4,Donetsk,20.02.1994
+624,55,5.80,Denis Petushinskiy,RUS,29.01.67,1,Athínai,28.02.1994
+625,55,5.80,Jean Galfione,FRA,09.06.71,2,Paris,12.03.1994
+626,55,5.80,Rodion Gataullin,RUS,23.11.65,1,Sankt Peterburg,09.01.1995
+627,55,5.80,Sergey Bubka,UKR,04.12.63,1,Moskva,27.01.1995
+628,55,5.80,Pyotr Bochkaryov,RUS,03.11.67,1,Grenoble,29.01.1995
+629,55,5.80,Viktor Chistyakov,RUS,09.02.75,2,Grenoble,29.01.1995
+630,55,5.80,Igor Trandenkov,RUS,17.08.66,1,New York City,03.02.1995
+631,55,5.80,Rodion Gataullin,RUS,23.11.65,1,Maebashi,05.02.1995
+632,55,5.80A,Bill Payne,USA,21.12.67,1,Reno,10.02.1995
+633,55,5.80A,Pat Manson,USA,29.11.67,2,Reno,10.02.1995
+634,55,5.80,Pyotr Bochkaryov,RUS,03.11.67,3,Donetsk,12.02.1995
+635,55,5.80,Maksim Tarasov,RUS,02.12.70,2,Moskva,14.02.1995
+636,55,5.80,Pyotr Bochkaryov,RUS,03.11.67,2,Liévin,19.02.1995
+637,55,5.80,Maksim Tarasov,RUS,02.12.70,1,Volgograd,24.02.1995
+638,55,5.80,Igor Trandenkov,RUS,17.08.66,1,Stockholm,27.02.1995
+639,55,5.80,Sergey Bubka,UKR,04.12.63,1,Berlin,03.03.1995
+640,55,5.80,Andrej Tiwontschik,GER,13.07.70,2,Berlin,03.03.1995
+641,55,5.80,Tim Bright,USA,28.07.60,2,Atlanta,04.03.1995
+642,55,5.80,Igor Potapovich,KAZ,06.09.67,2,Barcelona,11.03.1995
+643,55,5.80,Jean Galfione,FRA,09.06.71,2,New York City,02.02.1996
+644,55,5.80,Maksim Tarasov,RUS,02.12.70,3,New York City,02.02.1996
+645,55,5.80,Sergey Bubka,UKR,04.12.63,1,Paris,11.02.1996
+646,55,5.80,Sergey Bubka,UKR,04.12.63,1,Moskva,14.02.1996
+647,55,5.80,Igor Trandenkov,RUS,17.08.66,2,Moskva,14.02.1996
+648,55,5.80,Maksim Tarasov,RUS,02.12.70,3=,Moskva,14.02.1996
+649,55,5.80,Igor Potapovich,KAZ,06.09.67,3=,Moskva,14.02.1996
+650,55,5.80,Igor Potapovich,KAZ,06.09.67,3=,Liévin,18.02.1996
+651,55,5.80,Igor Trandenkov,RUS,17.08.66,3=,Liévin,18.02.1996
+652,55,5.80,Andrej Tiwontschik,GER,13.07.70,5,Liévin,18.02.1996
+653,55,5.80,Dmitriy Markov,BLR,14.03.75,1,Moskva,28.02.1996
+654,55,5.80,Viktor Chistyakov,RUS,09.02.75,2,Stockholm,09.03.1996
+655,55,5.80,Pyotr Bochkaryov,RUS,03.11.67,3,Stockholm,09.03.1996
+656,55,5.80,Jeff Hartwig,USA,25.09.67,1,Indianapolis,22.12.1996
+657,55,5.80,Vadim Strogalyov,RUS,09.02.75,1,Moskva,06.01.1997
+658,55,5.80,Pyotr Bochkaryov,RUS,03.11.67,1,Donetsk,26.01.1997
+659,55,5.80,Jean Galfione,FRA,09.06.71,2,Donetsk,26.01.1997
+660,55,5.80,Vadim Strogalyov,RUS,09.02.75,1,Stuttgart,02.02.1997
+661,55,5.80,Maksim Tarasov,RUS,02.12.70,1,New York City,07.02.1997
+662,55,5.80,Okkert Brits,RSA,22.08.73,1,Gent,12.02.1997
+663,55,5.80,Lawrence Johnson,USA,07.05.74,1,Knoxville,14.02.1997
+664,55,5.80,Jeff Hartwig,USA,25.09.67,1,Carbondale,15.02.1997
+665,55,5.80,Maksim Tarasov,RUS,02.12.70,3,Liévin,16.02.1997
+666,55,5.80,Vadim Strogalyov,RUS,09.02.75,4,Liévin,16.02.1997
+667,55,5.80,Pyotr Bochkaryov,RUS,03.11.67,5,Liévin,16.02.1997
+668,55,5.80,Maksim Tarasov,RUS,02.12.70,1,Volgograd,22.02.1997
+669,55,5.80,Scott Hennig,USA,17.04.69,1=,Fairfax,22.02.1997
+670,55,5.80,Dean Starkey,USA,27.03.67,1=,Fairfax,22.02.1997
+671,55,5.80,Alain Andji,FRA,20.11.74,1,Bordeaux,23.02.1997
+672,55,5.80,Okkert Brits,RSA,22.08.73,1,Berlin,28.02.1997
+673,55,5.80,Bill Deering,USA,20.07.71,2,Atlanta,01.03.1997
+674,55,5.80,Maksim Tarasov,RUS,02.12.70,3,Paris,08.03.1997
+675,55,5.80A,Jeff Hartwig,USA,25.09.67,1,Reno,23.01.1998
+676,55,5.80,Sergey Bubka,UKR,04.12.63,1,Donetsk,25.01.1998
+677,55,5.80,Michael Stolle,GER,17.12.74,1,Karlsruhe,25.01.1998
+678,55,5.80,Danny Ecker,GER,21.07.77,1,Stuttgart,01.02.1998
+679,55,5.80,Vadim Strogalyov,RUS,09.02.75,2,Stuttgart,01.02.1998
+680,55,5.80,Sergey Bubka,UKR,04.12.63,1,Tampere,04.02.1998
+681,55,5.80,Vadim Strogalyov,RUS,09.02.75,2,Tampere,04.02.1998
+682,55,5.80,Michael Stolle,GER,17.12.74,1,Sindelfingen,14.02.1998
+683,55,5.80,Okkert Brits,RSA,22.08.73,3,Liévin,22.02.1998
+684,55,5.80,Tim Lobinger,GER,03.09.72,1,Valencia,28.02.1998
+685,55,5.80,Michael Stolle,GER,17.12.74,2,Valencia,28.02.1998
+686,55,5.80,Jean Galfione,FRA,09.06.71,1,Clermont-Ferrand,21.01.1999
+687,55,5.80,Romain Mesnil,FRA,13.06.77,2,Clermont-Ferrand,21.01.1999
+688,55,5.80,Lawrence Johnson,USA,07.05.74,1,San Diego,23.01.1999
+689,55,5.80,Jeff Hartwig,USA,25.09.67,1,New York City,05.02.1999
+690,55,5.80,Andrej Tiwontschik,GER,13.07.70,1,Stuttgart,07.02.1999
+691,55,5.80,Jeff Hartwig,USA,25.09.67,1,Los Angeles,13.02.1999
+692,55,5.80,Tim Lobinger,GER,03.09.72,3,Karlsruhe,20.02.1999
+693,55,5.80,Jean Galfione,FRA,09.06.71,2,Donetsk,21.02.1999
+694,55,5.80,Grigoriy Yegorov,KAZ,12.01.67,3,Donetsk,21.02.1999
+695,55,5.80,José Manuel Arcos,ESP,19.01.73,1,Zaragoza,27.02.1999
+696,55,5.80,Lawrence Johnson,USA,07.05.74,3,Atlanta,27.02.1999
+697,55,5.80,Russ Buller,USA,10.09.78,4,Atlanta,27.02.1999
+698,55,5.80A,Chad Harting,USA,20.02.72,2,Reno,21.01.2000
+699,55,5.80,Tim Lobinger,GER,03.09.72,1,Dortmund,30.01.2000
+700,55,5.80,Michael Stolle,GER,17.12.74,2,Dortmund,30.01.2000
+701,55,5.80,Aleksandr Averbukh,ISR,01.10.74,1,Piræus,09.02.2000
+702,55,5.80,Lawrence Johnson,USA,07.05.74,2,Fayetteville,12.02.2000
+703,55,5.80,Maksim Tarasov,RUS,02.12.70,1,Liévin,13.02.2000
+704,55,5.80,Jeff Hartwig,USA,25.09.67,1,Donetsk,18.02.2000
+705,55,5.80,Maksim Tarasov,RUS,02.12.70,3,Chemnitz,18.02.2000
+706,55,5.80A,Lawrence Johnson,USA,07.05.74,1,Reno,19.01.2001
+707,55,5.80,Danny Ecker,GER,21.07.77,1,Dortmund,28.01.2001
+708,55,5.80,Aleksandr Averbukh,ISR,01.10.74,1,Donetsk,04.02.2001
+709,55,5.80,Jeff Hartwig,USA,25.09.67,1,Fayetteville,10.02.2001
+710,55,5.80,Lawrence Johnson,USA,07.05.74,2,Fayetteville,10.02.2001
+711,55,5.80,Tye Harvey,USA,25.09.74,2,Stockholm,15.02.2001
+712,55,5.80,Danny Ecker,GER,21.07.77,3,Stockholm,15.02.2001
+713,55,5.80,Michael Stolle,GER,17.12.74,1,Dortmund,24.02.2001
+714,55,5.80,Tim Mack,USA,15.09.72,3,Atlanta,03.03.2001
+715,55,5.80,Lars Börgeling,GER,16.04.79,1,Sindelfingen,04.03.2001
+716,55,5.80,Lawrence Johnson,USA,07.05.74,1,Knoxville,06.01.2002
+717,55,5.80,Ruslan Yeremenko,UKR,31.07.78,1=,Erfurt,01.02.2002
+718,55,5.80,Tim Lobinger,GER,03.09.72,1=,Erfurt,01.02.2002
+719,55,5.80,Pavel Gerasimov,RUS,29.05.79,3,Donetsk,24.02.2002
+720,55,5.80,Jeff Hartwig,USA,25.09.67,1,Göteborg,05.03.2002
+721,55,5.80A,Derek Miles,USA,28.09.72,1,Reno,18.01.2003
+722,55,5.80,Romain Mesnil,FRA,13.06.77,1,Mondeville,15.02.2003
+723,55,5.80,Tim Lobinger,GER,03.09.72,1,Leipzig,22.02.2003
+724,55,5.80,Brad Walker,USA,21.06.81,1,Fayetteville,14.03.2003
+725,55,5.80,Tim Lobinger,GER,03.09.72,1,Birmingham,15.03.2003
+726,55,5.80A,Derek Miles,USA,28.09.72,1c1,Reno,10.01.2004
+727,55,5.80,Igor Pavlov,RUS,18.07.79,1,Moskva,01.02.2004
+728,55,5.80,Aleksandr Averbukh,ISR,01.10.74,2,Moskva,01.02.2004
+729,55,5.80,Jeff Hartwig,USA,25.09.67,1,Jonesboro,18.02.2004
+730,55,5.80,Toby Stevenson,USA,19.11.76,1,Boston,28.02.2004
+731,55,5.80,Igor Pavlov,RUS,18.07.79,1,Budapest,07.03.2004
+732,55,5.80,Denis Yurchenko,UKR,27.01.78,1,Cottbus,26.01.2005
+733,55,5.80,Igor Pavlov,RUS,18.07.79,1,Potsdam,05.02.2005
+734,55,5.80,Igor Pavlov,RUS,18.07.79,2c1,Donetsk,12.02.2005
+735,55,5.80,Denis Yurchenko,UKR,27.01.78,3c1,Donetsk,12.02.2005
+736,55,5.80,Tim Lobinger,GER,03.09.72,3,Madrid,05.03.2005
+737,55,5.80,Daniel Ryland,USA,06.08.79,1,Jonesboro,10.07.2005
+738,55,5.80,Tim Lobinger,GER,03.09.72,1,Cottbus,25.01.2006
+739,55,5.80,Paul Burgess,AUS,14.08.79,1,Donetsk,12.02.2006
+740,55,5.80,Alhaji Jeng,SWE,13.12.81,2,Donetsk,12.02.2006
+741,55,5.80,Tim Lobinger,GER,03.09.72,1,Karlsruhe,26.02.2006
+742,55,5.80,Jeff Hartwig,USA,25.09.67,1,Bad Oeynhausen,04.03.2006
+743,55,5.80,Brad Walker,USA,21.06.81,1,Moskva,12.03.2006
+744,55,5.80,Igor Pavlov,RUS,18.07.79,1,Moskva,28.01.2007
+745,55,5.80,Brad Walker,USA,21.06.81,1,New York City,02.02.2007
+746,55,5.80,Steve Hooker,AUS,16.07.82,2,New York City,02.02.2007
+747,55,5.80,Björn Otto,GER,16.10.77,1,Leipzig,09.02.2007
+748,55,5.80,Danny Ecker,GER,21.07.77,2,Leipzig,09.02.2007
+749,55,5.80,Paul Burgess,AUS,14.08.79,1,Donetsk,10.02.2007
+750,55,5.80,Viktor Chistyakov,AUS,09.02.75,2,Donetsk,10.02.2007
+751,55,5.80,Aleksandr Korchmyd,UKR,22.01.82,3,Donetsk,10.02.2007
+752,55,5.80,Danny Ecker,GER,21.07.77,2,Leipzig,17.02.2007
+753,55,5.80,Jeff Hartwig,USA,25.09.67,1,Boston,24.02.2007
+754,55,5.80A,Derek Miles,USA,28.09.72,1,Reno,04.01.2008
+755,55,5.80,Jérôme Clavier,FRA,03.05.83,1cA,Limoges,02.02.2008
+756,55,5.80,Tim Lobinger,GER,03.09.72,1,Leipzig,17.02.2008
+757,55,5.80,Tim Lobinger,GER,03.09.72,1,Sindelfingen,23.02.2008
+758,55,5.80,Danny Ecker,GER,21.07.77,2,Sindelfingen,23.02.2008
+759,55,5.80,Tim Lobinger,GER,03.09.72,1,Chemnitz,29.02.2008
+760,55,5.80,Steve Hooker,AUS,16.07.82,3,Valencia,09.03.2008
+761,55,5.80,Jacob Pauli,USA,15.06.79,1cA,Champaign,19.07.2008
+762,55,5.80,Danny Ecker,GER,21.07.77,1,Leipzig,21.02.2009
+763,55,5.80,Alexander Straub,GER,14.10.83,2,Leipzig,21.02.2009
+764,55,5.80,Malte Mohr,GER,24.07.86,1,Sindelfingen,23.01.2011
+765,55,5.80,Renaud Lavillenie,FRA,18.09.86,1,Chemnitz,27.01.2011
+766,55,5.80,Romain Mesnil,FRA,13.06.77,2,Aubière,19.02.2011
+767,55,5.80,Dmitriy Starodubtsev,RUS,03.01.86,1,Chelyabinsk,14.01.2012
+768,55,5.80A,Brad Walker,USA,21.06.81,1c1,Reno,20.01.2012
+769,55,5.80,Björn Otto,GER,16.10.77,2,Istanbul,10.03.2012
+770,55,5.80,Brad Walker,USA,21.06.81,3,Istanbul,10.03.2012
+771,55,5.80,Yang Yangsheng,CHN,05.01.88,2,Düsseldorf,08.02.2013
+772,55,5.80,Konstandínos Fillipp,GRE,26.11.86,2,Donetsk,09.02.2013
+773,55,5.80,Malte Mohr,GER,24.07.86,2,Dortmund,24.02.2013
+774,55,5.80,Konstandínos Fillipp,GRE,26.11.86,2,Dessau,06.03.2013
+775,55,5.80,Björn Otto,GER,16.10.77,1,Bad Oeynhausen,09.03.2013
+776,55,5.80,Konstandínos Fillipp,GRE,26.11.86,1,Sopot,08.03.2014
+777,55,5.80,Malte Mohr,GER,24.07.86,2,Sopot,08.03.2014
+778,55,5.80,Jan Kudlicka,CZE,29.04.88,3,Sopot,08.03.2014
+779,55,5.80,Shawnacy Barber,CAN,27.05.94,1,Akron,10.01.2015
+780,55,5.80,Renaud Lavillenie,FRA,18.09.86,1cA,Aubière,10.01.2015
+781,55,5.80,Piotr Lisek,POL,16.08.92,1cA,Orléans,17.01.2015
+782,55,5.80,Shawnacy Barber,CAN,27.05.94,1,New York City,31.01.2015
+783,55,5.80,Piotr Lisek,POL,16.08.92,1,Potsdam,07.02.2015
+784,55,5.80,Robert Sobera,POL,19.01.91,2,Potsdam,07.02.2015
+785,55,5.80,Valentin Lavillenie,FRA,16.07.91,2cA,Nevers,07.02.2015
+786,55,5.80,Shawnacy Barber,CAN,27.05.94,1,Akron,20.02.2015
+787,55,5.80,Piotr Lisek,POL,16.08.92,1,Torun,21.02.2015
+788,55,5.80,Shawnacy Barber,CAN,27.05.94,1,Mount Pleasant,28.02.2015
+789,55,5.80,Robert Sobera,POL,19.01.91,4,Praha,07.03.2015
+790,55,5.80,Jake Blankenship,USA,15.03.94,2,Fayetteville,13.03.2015
+791,55,5.80,Timur Morgunov,RUS,12.10.96,1,Volgograd,02.03.2016
+792,55,5.80,Sam Kendricks,USA,07.09.92,2,Portland,17.03.2016
+793,55,5.80,Timur Morgunov,RUS,12.10.96,1,Chelyabinsk,11.01.2017
+794,55,5.80,Jan Kudlicka,CZE,29.04.88,4,Beograd,03.03.2017
+795,55,5.80,Raphael Holzdeppe,GER,28.09.89,5,Beograd,03.03.2017
+796,55,5.80,Axel Chapelle,FRA,24.04.95,6,Beograd,03.03.2017
+797,55,5.80,Dmitriy Zhelyabin,RUS,20.05.90,1,Moskva,25.01.2018
+798,55,5.80,Piotr Lisek,POL,16.08.92,2,Madrid,08.02.2018
+799,55,5.80,Christopher Nilsen,USA,13.01.98,1,Lincoln,16.02.2018
+800,55,5.80,Kurtis Marschall,AUS,25.04.97,4,Birmingham,04.03.2018
+801,55,5.80,Raphael Holzdeppe,GER,28.09.89,5=,Birmingham,04.03.2018
+802,55,5.80,Emmanouíl Karális,GRE,20.10.99,5=,Birmingham,04.03.2018
+803,55,5.80A,Jacob Wooten,USA,22.04.97,1cA,Reno,17.01.2019
+804,55,5.80A,Matthew Ludwig,USA,05.07.96,2cA,Reno,17.01.2019
+805,55,5.80,Melker Svärd Jacobss,SWE,08.01.94,2,Cottbus,30.01.2019
+806,55,5.80,Pawel Wojciechowski,POL,06.06.89,1=,Lódz,04.02.2019
+807,55,5.80,Piotr Lisek,POL,16.08.92,1=,Lódz,04.02.2019
+808,55,5.80,Andrew Irwin,USA,23.01.93,1,New York City,23.02.2019
+809,55,5.80,Pawel Wojciechowski,POL,06.06.89,4,Clermont-Ferrand,24.02.2019
+810,55,5.80,Thiago Braz da Silva,BRA,16.12.93,5,Clermont-Ferrand,24.02.2019
+811,55,5.80,Claudio Michel Stecc,ITA,23.11.91,6,Clermont-Ferrand,24.02.2019
+812,55,5.80,Christopher Nilsen,USA,13.01.98,2,Des Moines,27.04.2019
+813,55,5.80,Andrew Irwin,USA,23.01.93,3,Des Moines,27.04.2019
+814,55,5.80,Andrew Irwin,USA,23.01.93,1,Norman,04.01.2020
+815,55,5.80,Renaud Lavillenie,FRA,18.09.86,1,Bordeaux,18.01.2020
+816,55,5.80,Sam Kendricks,USA,07.09.92,2,Düsseldorf,04.02.2020
+817,55,5.80,Harry Coppell,GBR,11.07.96,2c1,Rouen,08.02.2020
+818,55,5.80,Cole Walsh,USA,14.06.95,3c1,Rouen,08.02.2020
+819,55,5.80,Sam Kendricks,USA,07.09.92,1,Lódz,11.02.2020
+820,55,5.80A,Zachery Bradford,USA,29.11.99,1c,Fayetteville,14.02.2020
+821,55,5.80A,Branson Ellis,USA,19.07.00,2,Albuquerque,14.02.2020
+822,55,5.80,Ben Broeders,BEL,21.06.95,3,Liévin,19.02.2020
+823,55,5.80,Ben Broeders,BEL,21.06.95,4,Clermont-Ferrand,23.02.2020
+824,55,5.80,Harry Coppell,GBR,11.07.96,5,Clermont-Ferrand,23.02.2020
+825,55,5.80,Cole Walsh,USA,14.06.95,6,Clermont-Ferrand,23.02.2020
+826,55,5.80,Sam Kendricks,USA,07.09.92,1,Ulsteinvik,28.02.2020
+827,55,5.80,Renaud Lavillenie,FRA,18.09.86,1,Liévin,01.03.2020
+828,55,5.80,Matthew Ludwig,USA,05.07.96,2,Karlsruhe,29.01.2021
+829,55,5.80,Ernest John Obiena,PHI,17.11.95,1,Berlin,05.02.2021
+830,55,5.80,Torben Blech,GER,12.02.95,2,Berlin,05.02.2021
+831,55,5.80,Renaud Lavillenie,FRA,18.09.86,3,Liévin,09.02.2021
+832,55,5.80,Thiago Braz da Silva,BRA,16.12.93,3,Lodz,12.02.2021
+833,55,5.80,Christopher Nilsen,USA,13.01.98,1,Val-de-Reuil,14.02.2021
+834,55,5.80,Sam Kendricks,USA,07.09.92,1,Torun,17.02.2021
+835,55,5.80,Piotr Lisek,POL,16.08.92,2,Torun,17.02.2021
+836,55,5.80,Ernest John Obiena,PHI,17.11.95,3,Torun,17.02.2021
+837,55,5.80,Ethan Cormont,FRA,29.09.00,4cA,Aubière,27.02.2021
+838,55,5.80,Valentin Lavillenie,FRA,16.07.91,5cA,Aubière,27.02.2021
+839,55,5.80,Valentin Lavillenie,FRA,16.07.91,2,Torun,07.03.2021
+840,55,5.80,Piotr Lisek,POL,16.08.92,3,Torun,07.03.2021
+841,55,5.80,Zack McWhorter,USA,07.01.99,2,Fayetteville,13.03.2021
+842,55,5.80,Ersu Sasma,TUR,30.09.99,1,Bursa,12.06.2022
+843,55,5.80,Pål  Haugen Lillefos,NOR,04.06.01,1,Karlstad,12.02.2023
+844,55,5.80,Ben Broeders,BEL,21.06.95,1,Gent,19.02.2023
+845,55,5.80,Pål  Haugen Lillefos,NOR,04.06.01,1,Bærum,19.02.2023
+846,55,5.80,Sondre Guttormsen,NOR,01.06.99,1,Istanbul,05.03.2023
+847,55,5.80,Emmanouíl Karális,GRE,20.10.99,2=,Istanbul,05.03.2023
+848,55,5.80,Piotr Lisek,POL,16.08.92,2=,Istanbul,05.03.2023
+849,85,5.79,Billy Olson,USA,19.07.58,2,New York City,14.02.1986
+850,85,5.79,Joe Dial,USA,26.10.62,1,Norman,07.02.1987
+851,85,5.79,Okkert Brits,RSA,22.08.73,3,Stockholm,19.02.1998
+852,85,5.79,Andrew Irwin,USA,23.01.93,1,Black Springs,19.05.2018
+853,85,5.79,Andrew Irwin,USA,23.01.93,1,Norman,16.02.2019
+854,85,5.78,Montxu Miranda,ESP,27.12.76,1,Sevilla,07.02.1998
+855,85,5.78,Tim Lobinger,GER,03.09.72,1,Karlsruhe,13.02.2005
+856,85,5.78,Konstandínos Fillipp,GRE,26.11.86,2,Pardubice,05.02.2013
+857,85,5.78,Ilya Mudrov,RUS,17.11.91,3,Malmö,25.02.2015
+858,85,5.78,Kevin Ménaldo,FRA,12.07.92,1,Bordeaux,19.02.2017
+859,85,5.78,Piotr Lisek,POL,16.08.92,1,Potsdam,20.01.2018
+860,85,5.78,Sam Kendricks,USA,07.09.92,2,Cottbus,31.01.2018
+861,85,5.78,Sam Kendricks,USA,07.09.92,2,Düsseldorf,06.02.2018
+862,85,5.78,Konstandínos Fillipp,GRE,26.11.86,3,Düsseldorf,06.02.2018
+863,85,5.78,Pawel Wojciechowski,POL,06.06.89,1,Szczecin,11.02.2018
+864,85,5.78,Melker Svärd Jacobss,SWE,08.01.94,1,Uppsala,11.02.2018
+865,85,5.78,Shawnacy Barber,CAN,27.05.94,2,Szczecin,11.02.2018
+866,85,5.78A,Sam Kendricks,USA,07.09.92,2,Albuquerque,17.02.2018
+867,85,5.78A,Mike Arnold,USA,13.08.90,3,Albuquerque,17.02.2018
+868,85,5.78,Sam Kendricks,USA,07.09.92,1,Torun,06.02.2019
+869,85,5.78,Piotr Lisek,POL,16.08.92,1,Szczecin,12.02.2019
+870,85,5.78,Kurtis Marschall,AUS,25.04.97,2,Szczecin,12.02.2019
+871,85,5.78,Claudio Michel Stecc,ITA,23.11.91,3,Szczecin,12.02.2019
+872,87,5.77,Rodion Gataullin,RUS,23.11.65,1,Stockholm,19.02.1991
+873,87,5.77,Hermann Fehringer,AUT,08.12.62,1,Wien,24.02.1991
+874,87,5.77,Igor Potapovich,KAZ,06.09.67,2,San Sebastián,04.03.1992
+875,87,5.77,Javier Garcia Chico,ESP,22.07.66,3,Grenoble,14.03.1992
+876,87,5.77,Pavel Gerasimov,RUS,29.05.79,2,Donetsk,15.02.2004
+877,87,5.77,Denis Yurchenko,UKR,27.01.78,2,Stuttgart,29.01.2005
+878,87,5.77,Björn Otto,GER,16.10.77,1,Moskva,05.02.2012
+879,87,5.77,Steven Lewis,GBR,20.05.86,2,Dessau,02.03.2012
+880,87,5.77,Jan Kudlicka,CZE,29.04.88,1,Praha,17.02.2013
+881,87,5.77,Renaud Lavillenie,FRA,18.09.86,1,Gateshead,23.06.2013
+882,87,5.77,Konstandínos Fillipp,GRE,26.11.86,1,Piræus,08.02.2014
+883,87,5.77,Piotr Lisek,POL,16.08.92,1,Bad Oeynhausen,01.03.2014
+884,87,5.77A,Seito Yamamoto,JPN,11.03.92,2cA,Reno,15.01.2016
+885,87,5.77,Konstandínos Fillipp,GRE,26.11.86,2cA,Rouen,23.01.2016
+886,87,5.77,Kevin Ménaldo,FRA,12.07.92,3cA,Rouen,23.01.2016
+887,87,5.77,Shawnacy Barber,CAN,27.05.94,1,Cottbus,27.01.2016
+888,87,5.77,Carlo Paech,GER,18.12.92,1,Potsdam,06.02.2016
+889,87,5.77,Shawnacy Barber,CAN,27.05.94,2,Karlsruhe,06.02.2016
+890,87,5.77,Jérôme Clavier,FRA,03.05.83,2,Potsdam,06.02.2016
+891,87,5.77,Robert Sobera,POL,19.01.91,1,Torun,12.02.2016
+892,87,5.77,Piotr Lisek,POL,16.08.92,2,Torun,12.02.2016
+893,87,5.77A,Mike Arnold,USA,13.08.90,1,Flagstaff,13.02.2016
+894,87,5.77,Raphael Holzdeppe,GER,28.09.89,3,Berlin,13.02.2016
+895,87,5.77,Sam Kendricks,USA,07.09.92,1,Boston,14.02.2016
+896,87,5.77,Shawnacy Barber,CAN,27.05.94,1,Athlone,17.02.2016
+897,87,5.77,Piotr Lisek,POL,16.08.92,6,Clermont-Ferrand,21.02.2016
+898,87,5.77,Jan Kudlicka,CZE,29.04.88,1,Ostrava,28.02.2016
+899,87,5.77,KC Lightfoot,USA,11.11.99,1,Ames,29.02.2020
+900,87,5.77,Zachery Bradford,USA,29.11.99,2,Ames,29.02.2020
+901,87,5.77,Valentin Lavillenie,FRA,16.07.91,1,Miramas,21.02.2021
+902,87,5.77,Ernest John Obiena,PHI,17.11.95,2,Cottbus,25.01.2023
+903,87,5.77,Ernest John Obiena,PHI,17.11.95,1,Lodz,04.02.2023
+904,87,5.77,Ben Broeders,BEL,21.06.95,3,Metz,11.02.2023
+905,90,5.76,Billy Olson,USA,19.07.58,1,Los Angeles,21.01.1983
+906,90,5.76,Igor Potapovich,KAZ,06.09.67,1,New York City,01.02.1991
+907,90,5.76,Hermann Fehringer,AUT,08.12.62,1,Wien,14.02.1991
+908,90,5.76,Javier Garcia Chico,ESP,22.07.66,3,Madrid,14.02.1992
+909,90,5.76,Lawrence Johnson,USA,07.05.74,1,Johnson City,30.01.1999
+910,90,5.76,Danny Ecker,GER,21.07.77,1,Bielefeld,12.02.1999
+911,90,5.76,Denis Yurchenko,UKR,27.01.78,2,Stockholm,15.02.2005
+912,90,5.76,Jeff Hartwig,USA,25.09.67,1,Karlstad,24.02.2005
+913,90,5.76,Björn Otto,GER,16.10.77,1,Bad Oeynhausen,12.03.2005
+914,90,5.76,Dmitriy Kuptsov,RUS,09.11.82,1,Chelyabinsk,15.01.2006
+915,90,5.76,Aleksandr Korchmyd,UKR,22.01.82,1,Karlsruhe,29.01.2006
+916,90,5.76,Dmitriy Kuptsov,RUS,09.11.82,1,Stockholm,02.02.2006
+917,90,5.76,Spas Bukhalov,BUL,14.11.80,1,Sofia,04.02.2006
+918,90,5.76,Alhaji Jeng,SWE,13.12.81,2,Göteborg,08.02.2006
+919,90,5.76,Igor Pavlov,RUS,18.07.79,1,Gent,04.02.2007
+920,90,5.76,Tim Lobinger,GER,03.09.72,1,Dormagen,25.01.2008
+921,90,5.76,Fabian Schulze,GER,07.03.84,3,Stuttgart,02.02.2008
+922,90,5.76,Sergey Kucheryanu,RUS,30.06.85,1,Paris,22.02.2008
+923,90,5.76,Pavel Gerasimov,RUS,29.05.79,2,Moskva,01.02.2009
+924,90,5.76,Jeremy Scott,USA,21.05.81,1,Linz,05.02.2009
+925,90,5.76,Tobias Scherbarth,GER,17.08.85,1,Stuttgart,07.02.2009
+926,90,5.76,Alexander Straub,GER,14.10.83,1,Karlsruhe,15.02.2009
+927,90,5.76,Pavel Gerasimov,RUS,29.05.79,2,Torino,08.03.2009
+928,90,5.76,Alexander Straub,GER,14.10.83,3,Torino,08.03.2009
+929,90,5.76,Michal Balner,CZE,12.09.82,1,Praha,28.02.2010
+930,90,5.76,Jérôme Clavier,FRA,03.05.83,2,Paris,05.03.2011
+931,90,5.76,Björn Otto,GER,16.10.77,2,Göteborg,03.03.2013
+932,90,5.76,Malte Mohr,GER,24.07.86,3,Göteborg,03.03.2013
+933,90,5.76,Konstandínos Fillipp,GRE,26.11.86,4,Göteborg,03.03.2013
+934,90,5.76,Pawel Wojciechowski,POL,06.06.89,1cA,Orléans,18.01.2014
+935,90,5.76,Xue Changrui,CHN,31.05.91,1cA,Nice,08.02.2014
+936,90,5.76,Jérôme Clavier,FRA,03.05.83,2cA,Nice,08.02.2014
+937,90,5.76,Thiago Braz da Silva,BRA,16.12.93,3,Donetsk,15.02.2014
+938,90,5.76,Piotr Lisek,POL,16.08.92,1,Dessau,27.02.2014
+939,90,5.76,Sam Kendricks,USA,07.09.92,1,Boston,28.02.2015
+940,90,5.76,Ivan Horvat,CRO,17.08.93,1,Beograd,25.02.2017
+941,90,5.76,Piotr Lisek,POL,16.08.92,2,Berlin,01.02.2019
+942,90,5.76,Pawel Wojciechowski,POL,06.06.89,3,Berlin,01.02.2019
+943,90,5.76,Jacob Wooten,USA,22.04.97,4,Liévin,17.02.2022
+944,90,5.76,Emmanouíl Karális,GRE,20.10.99,5,Liévin,17.02.2022
+945,90,5.76,Aliounne Sène,FRA,03.02.96,3,Miramas,27.02.2022
+946,90,5.76,Kurtis Marschall,AUS,25.04.97,2,Paris,06.03.2022
+947,90,5.76,Valentin Lavillenie,FRA,16.07.91,3,Paris,06.03.2022
+948,90,5.76,Zachery Bradford,USA,29.11.99,1,Lubbock,28.01.2023
+949,90,5.76,KC Lightfoot,USA,11.11.99,1,Berlin,29.01.2023
+950,90,5.76,Zachery Bradford,USA,29.11.99,1,Lubbock,11.02.2023
+951,95,5.75,Billy Olson,USA,19.07.58,1,Ottawa,14.01.1983
+952,95,5.75,Pierre Quinon,FRA,20.02.62,2,Göteborg,04.03.1984
+953,95,5.75,Sergey Bubka,UKR,04.12.63,1,Paris,19.01.1985
+954,95,5.75,Thierry Vigneron,FRA,09.03.60,1,Paris,16.02.1985
+955,95,5.75,Dave Volz,USA,02.05.62,1,Kobe,09.03.1985
+956,95,5.75,Mike Tully,USA,21.10.56,1,Westwood,18.05.1985
+957,95,5.75,Aleksandr Krupskiy,RUS,04.01.60,1,Sochi,25.05.1985
+958,95,5.75,Marian Kolasa,POL,12.08.59,1,Berlin,14.02.1986
+959,95,5.75,Billy Olson,USA,19.07.58,2,Inglewood,21.02.1986
+960,95,5.75,Vasiliy Bubka,UKR,26.11.60,2,New York City,28.02.1986
+961,95,5.75,Thierry Vigneron,FRA,09.03.60,1,Colombes,17.12.1986
+962,95,5.75,Rodion Gataullin,RUS,23.11.65,1,Penza,07.02.1987
+963,95,5.75,Philippe Collet,FRA,13.12.63,4,Liévin,22.02.1987
+964,95,5.75,Marian Kolasa,POL,12.08.59,5,Indianapolis,08.03.1987
+965,95,5.75,Sergey Kulibaba,KAZ,24.07.59,1,Klaipeda,18.03.1987
+966,95,5.75,Thierry Vigneron,FRA,09.03.60,1,Valencia,23.02.1988
+967,95,5.75,Rodion Gataullin,RUS,23.11.65,1,Budapest,06.03.1988
+968,95,5.75,Kory Tarpenning,USA,27.02.62,3,Grenoble,12.03.1988
+969,95,5.75,Rodion Gataullin,RUS,23.11.65,1,Tashkent,08.01.1989
+970,95,5.75,Grigoriy Yegorov,KAZ,12.01.67,1,Vilnius,14.01.1989
+971,95,5.75,Igor Potapovich,KAZ,06.09.67,1,Minsk,15.01.1989
+972,95,5.75,Valeriy Ishutin,UZB,05.09.65,2,Leningrad,22.01.1989
+973,95,5.75,Grigoriy Yegorov,KAZ,12.01.67,1,Den Haag,19.02.1989
+974,95,5.75,Igor Potapovich,KAZ,06.09.67,2,Den Haag,19.02.1989
+975,95,5.75,Miroslaw Chmara,POL,09.05.64,2,Den Haag,22.02.1989
+976,95,5.75,Joe Dial,USA,26.10.62,2,Athínai,08.03.1989
+977,95,5.75,Grigoriy Yegorov,KAZ,12.01.67,2,Glasgow,04.03.1990
+978,95,5.75,Rodion Gataullin,RUS,23.11.65,3,Grenoble,10.03.1990
+979,95,5.75,Hermann Fehringer,AUT,08.12.62,4,Grenoble,10.03.1990
+980,95,5.75,Philippe Collet,FRA,13.12.63,4,Donetsk,17.03.1990
+981,95,5.75,Viktor Ryzhenkov,UZB,25.08.66,1,Moskva,01.06.1990
+982,95,5.75,Maksim Tarasov,RUS,02.12.70,2,Moskva,01.06.1990
+983,95,5.75,Kory Tarpenning,USA,27.02.62,2,Liévin,17.02.1991
+984,95,5.75,Viktor Ryzhenkov,UZB,25.08.66,1,Paris,23.02.1991
+985,95,5.75,Grigoriy Yegorov,KAZ,12.01.67,3,Donetsk,19.03.1991
+986,95,5.75,Javier Garcia Chico,ESP,22.07.66,1,Zaragoza,18.01.1992
+987,95,5.75,Jean Galfione,FRA,09.06.71,4,Liévin,25.01.1992
+988,95,5.75,Jean Galfione,FRA,09.06.71,1,Miramas,31.01.1992
+989,95,5.75,Pyotr Bochkaryov,RUS,03.11.67,1,Moskva,01.02.1992
+990,95,5.75,Viktor Ryzhenkov,UZB,25.08.66,1,Bordeaux,02.02.1992
+991,95,5.75,Rodion Gataullin,RUS,23.11.65,1,Glasgow,08.02.1992
+992,95,5.75,Delko Lesov,BUL,06.01.67,1,Sofia,09.02.1992
+993,95,5.75,Kory Tarpenning,USA,27.02.62,1,Bordeaux,16.02.1992
+994,95,5.75,Philippe D'Encausse,FRA,24.03.67,1,Grenoble,20.03.1993
+995,95,5.75,Grigoriy Yegorov,KAZ,12.01.67,2,Grenoble,20.03.1993
+996,95,5.75,Igor Potapovich,KAZ,06.09.67,3,Grenoble,20.03.1993
+997,95,5.75,Vasiliy Bubka,UKR,26.11.60,2,Clermont-Ferrand,28.01.1994
+998,95,5.75,Kory Tarpenning,USA,27.02.62,3,Liévin,13.02.1994
+999,95,5.75,Denis Petushinskiy,RUS,29.01.67,2,Berlin,04.03.1994
+1000,95,5.75,Igor Trandenkov,RUS,17.08.66,3,Paris,12.03.1994
+1001,95,5.75,Denis Petushinskiy,RUS,29.01.67,4,Paris,12.03.1994
+1002,95,5.75,Igor Trandenkov,RUS,17.08.66,3,Liévin,19.02.1995
+1003,95,5.75,Vadim Strogalyov,RUS,09.02.75,2,Volgograd,24.02.1995
+1004,95,5.75,Viktor Chistyakov,RUS,09.02.75,3,Volgograd,24.02.1995
+1005,95,5.75,Okkert Brits,RSA,22.08.73,3=,Barcelona,11.03.1995
+1006,95,5.75,Andrej Tiwontschik,GER,13.07.70,3=,Barcelona,11.03.1995
+1007,95,5.75,Tim Lobinger,GER,03.09.72,1,Gent,07.02.1996
+1008,95,5.75,Pyotr Bochkaryov,RUS,03.11.67,1,Moskva,24.02.1996
+1009,95,5.75,Tim Lobinger,GER,03.09.72,1,Karlsruhe,24.02.1996
+1010,95,5.75,Dmitriy Markov,BLR,14.03.75,2,Moskva,24.02.1996
+1011,95,5.75A,Lawrence Johnson,USA,07.05.74,2,Reno,24.01.1997
+1012,95,5.75,Vadim Strogalyov,RUS,09.02.75,1,Stange,25.01.1997
+1013,95,5.75,Vadim Strogalyov,RUS,09.02.75,2,Gent,12.02.1997
+1014,95,5.75,Vladimir Stankin,RUS,02.01.74,2,Volgograd,22.02.1997
+1015,95,5.75,Yevgeniy Smiryagin,RUS,17.05.76,1,Sindelfingen,01.03.1997
+1016,95,5.75,Tim Lobinger,GER,03.09.72,2,Sindelfingen,01.03.1997
+1017,95,5.75,Kory Tarpenning,USA,27.02.62,3=,Atlanta,01.03.1997
+1018,95,5.75,Pat Manson,USA,29.11.67,3=,Atlanta,01.03.1997
+1019,95,5.75,Riaan Botha,RSA,08.11.70,4,Paris,08.03.1997
+1020,95,5.75,Tim Lobinger,GER,03.09.72,5,Paris,08.03.1997
+1021,95,5.75,Jean Galfione,FRA,09.06.71,2,München,22.06.1997
+1022,95,5.75,Pyotr Bochkaryov,RUS,03.11.67,1,Moskva,14.02.1998
+1023,95,5.75,Tim Lobinger,GER,03.09.72,2,Sindelfingen,14.02.1998
+1024,95,5.75,Pavel Burlachenko,RUS,07.04.76,1,Genova,18.02.1998
+1025,95,5.75,Pavel Burlachenko,RUS,07.04.76,1,Moskva,27.02.1998
+1026,95,5.75,Scott Hennig,USA,17.04.69,1,Atlanta,28.02.1998
+1027,95,5.75,Danny Ecker,GER,21.07.77,3,Valencia,28.02.1998
+1028,95,5.75,Tim Lobinger,GER,03.09.72,1,Berlin,06.03.1998
+1029,95,5.75A,Nick Hysong,USA,09.12.71,1,Flagstaff,16.01.1999
+1030,95,5.75,Tim Lobinger,GER,03.09.72,2,Chemnitz,29.01.1999
+1031,95,5.75,Jean Galfione,FRA,09.06.71,1,Liévin,13.02.1999
+1032,95,5.75,Yevgeniy Smiryagin,RUS,17.05.76,1,Stockholm,17.02.2000
+1033,95,5.75,Lawrence Johnson,USA,07.05.74,1,Blacksburg,26.02.2000
+1034,95,5.75,Aleksandr Averbukh,ISR,01.10.74,1,Gent,26.02.2000
+1035,95,5.75,Tye Harvey,USA,25.09.74,1,Halle,16.02.2001
+1036,95,5.75,Russ Buller,USA,10.09.78,4,Atlanta,03.03.2001
+1037,95,5.75,Tim Lobinger,GER,03.09.72,2,Sindelfingen,04.03.2001
+1038,95,5.75,Stepán Janácek,CZE,12.06.77,3,Sindelfingen,04.03.2001
+1039,95,5.75,Terrence Mahon,USA,05.10.70,1,Fayetteville,02.02.2002
+1040,95,5.75,Tim Lobinger,GER,03.09.72,1,Wien,02.03.2002
+1041,95,5.75,Patrik Kristiansson,SWE,03.06.77,2,Wien,02.03.2002
+1042,95,5.75,Lars Börgeling,GER,16.04.79,3,Wien,02.03.2002
+1043,95,5.75,Lars Börgeling,GER,16.04.79,2,Sindelfingen,10.03.2002
+1044,95,5.75,Aleksandr Korchmyd,UKR,22.01.82,1,Brovary,08.02.2003
+1045,95,5.75,Michael Stolle,GER,17.12.74,2,Leipzig,22.02.2003
+1046,95,5.75,Derek Miles,USA,28.09.72,1,Boston,01.03.2003
+1047,95,5.75,Michael Stolle,GER,17.12.74,2,Birmingham,15.03.2003
+1048,95,5.75,Rens Blom,NED,01.03.77,3,Birmingham,15.03.2003
+1049,95,5.75,Igor Pavlov,RUS,18.07.79,1,Moskva,18.01.2004
+1050,95,5.75,Igor Pavlov,RUS,18.07.79,1,Moskva,18.02.2004
+1051,95,5.75,Denis Yurchenko,UKR,27.01.78,1,Sumy,22.02.2004
+1052,95,5.75,Tim Lobinger,GER,03.09.72,1,Dortmund,22.02.2004
+1053,95,5.75,Okkert Brits,RSA,22.08.73,1,Chemnitz,27.02.2004
+1054,95,5.75,Rens Blom,NED,01.03.77,2,Chemnitz,27.02.2004
+1055,95,5.75,Jeff Hartwig,USA,25.09.67,2,Boston,28.02.2004
+1056,95,5.75,Russ Buller,USA,10.09.78,3,Boston,28.02.2004
+1057,95,5.75,Igor Pavlov,RUS,18.07.79,q,Budapest,06.03.2004
+1058,95,5.75,Daniel Ryland,USA,06.08.79,2,Jonesboro,04.07.2004
+1059,95,5.75,Ruslan Yeremenko,UKR,31.07.78,2,Cottbus,26.01.2005
+1060,95,5.75,Vladislav Revenko,UKR,15.11.84,1c2,Donetsk,12.02.2005
+1061,95,5.75,Danny Ecker,GER,21.07.77,1,Sindelfingen,20.02.2005
+1062,95,5.75,Richard Spiegelburg,GER,12.08.77,1,Chemnitz,25.02.2005
+1063,95,5.75,Romain Mesnil,FRA,13.06.77,1c3,Epinal,11.02.2006
+1064,95,5.75,Fabian Schulze,GER,07.03.84,1,Düsseldorf,17.02.2006
+1065,95,5.75,Brad Walker,USA,21.06.81,1,Boston,25.02.2006
+1066,95,5.75,Fabian Schulze,GER,07.03.84,2,Karlsruhe,26.02.2006
+1067,95,5.75,Björn Otto,GER,16.10.77,3,Karlsruhe,26.02.2006
+1068,95,5.75,Björn Otto,GER,16.10.77,1,Dessau,21.01.2007
+1069,95,5.75,Viktor Chistyakov,AUS,09.02.75,1,Moskva,24.01.2007
+1070,95,5.75,Paul Burgess,AUS,14.08.79,1,Glasgow,27.01.2007
+1071,95,5.75,Lars Börgeling,GER,16.04.79,3,Leipzig,09.02.2007
+1072,95,5.75,Tim Lobinger,GER,03.09.72,3,Leipzig,17.02.2007
+1073,95,5.75,Fabian Schulze,GER,07.03.84,4,Leipzig,17.02.2007
+1074,95,5.75,Maksim Mazurik,UKR,02.04.83,2,Moskva,27.01.2008
+1075,95,5.75,Pavel Gerasimov,RUS,29.05.79,3,Moskva,27.01.2008
+1076,95,5.75,Sergey Kucheryanu,RUS,30.06.85,4,Moskva,27.01.2008
+1077,95,5.75,Derek Miles,USA,28.09.72,1,Göteborg,29.01.2008
+1078,95,5.75,Yevgeniy Lukyanenko,RUS,23.01.85,1,Moskva,09.02.2008
+1079,95,5.75,Alexander Straub,GER,14.10.83,1,Birmingham,16.02.2008
+1080,95,5.75,Tobias Scherbarth,GER,17.08.85,2,Chemnitz,29.02.2008
+1081,95,5.75,Jérôme Clavier,FRA,03.05.83,4,Valencia,09.03.2008
+1082,95,5.75,Jeremy Scott,USA,21.05.81,1,Jonesboro,04.06.2008
+1083,95,5.75,Pavel Gerasimov,RUS,29.05.79,1,Moskva,11.01.2009
+1084,95,5.75,Steven Lewis,GBR,20.05.86,1,Manchester,17.01.2009
+1085,95,5.75,Pavel Gerasimov,RUS,29.05.79,1,Moskva,14.02.2009
+1086,95,5.75,Malte Mohr,GER,24.07.86,3,Leipzig,21.02.2009
+1087,95,5.75,Alexander Straub,GER,14.10.83,1,Stuttgart,06.02.2010
+1088,95,5.75,Malte Mohr,GER,24.07.86,2,Liévin,08.02.2011
+1089,95,5.75,Konstandínos Fillipp,GRE,26.11.86,1,Ankara,18.02.2012
+1090,95,5.75,Malte Mohr,GER,24.07.86,4,Istanbul,10.03.2012
+1091,95,5.75,Malte Mohr,GER,24.07.86,1,München,15.12.2012
+1092,95,5.75,Malte Mohr,GER,24.07.86,1,München,15.12.2012
+1093,95,5.75,Yang Yangsheng,CHN,05.01.88,1cA,Nevers,23.02.2013
+1094,95,5.75,Xue Changrui,CHN,31.05.91,2ca,Nevers,23.02.2013
+1095,95,5.75,Hendrik Gruber,GER,28.09.86,3,Dortmund,24.02.2013
+1096,95,5.75,Tobias Scherbarth,GER,17.08.85,4,Dortmund,24.02.2013
+1097,95,5.75,Björn Otto,GER,16.10.77,q,Göteborg,02.03.2013
+1098,95,5.75,Konstandínos Fillipp,GRE,26.11.86,q,Göteborg,02.03.2013
+1099,95,5.75,Konstandínos Fillipp,GRE,26.11.86,2,Bad Oeynhausen,09.03.2013
+1100,95,5.75,Kevin Ménaldo,FRA,12.07.92,2cA,Aubière,11.01.2014
+1101,95,5.75A,Renaud Lavillenie,FRA,18.09.86,1,Reno,17.01.2014
+1102,95,5.75,Kevin Ménaldo,FRA,12.07.92,3cA,Rouen,25.01.2014
+1103,95,5.75,Pawel Wojciechowski,POL,06.06.89,4cA,Rouen,25.01.2014
+1104,95,5.75,Robert Sobera,POL,19.01.91,2,Bydgoszcz,31.01.2014
+1105,95,5.75,Jan Kudlicka,CZE,29.04.88,1,Praha,01.02.2014
+1106,95,5.75,Malte Mohr,GER,24.07.86,1,Karlsruhe,01.02.2014
+1107,95,5.75,Xue Changrui,CHN,31.05.91,1cA,Dijon,01.02.2014
+1108,95,5.75,Piotr Lisek,POL,16.08.92,1,Spala,08.02.2014
+1109,95,5.75,Piotr Lisek,POL,16.08.92,1,Praha,25.02.2014
+1110,95,5.75,Jan Kudlicka,CZE,29.04.88,2,Praha,25.02.2014
+1111,95,5.75,Thiago Braz da Silva,BRA,16.12.93,4,Sopot,08.03.2014
+1112,95,5.75,Xue Changrui,CHN,31.05.91,5,Sopot,08.03.2014
+1113,95,5.75A,Shawnacy Barber,CAN,27.05.94,1,Albuquerque,15.03.2014
+1114,95,5.75,Andrew Irwin,USA,23.01.93,2,Fayetteville,14.02.2015
+1115,95,5.75,Konstandínos Fillipp,GRE,26.11.86,5,Praha,07.03.2015
+1116,95,5.75,Huang Bokai,CHN,26.09.96,1,Ad-Dawhah,20.02.2016
+1117,95,5.75,Piotr Lisek,POL,16.08.92,3,Portland,17.03.2016
+1118,95,5.75,Shawnacy Barber,CAN,27.05.94,4=,Portland,17.03.2016
+1119,95,5.75,Jan Kudlicka,CZE,29.04.88,4=,Portland,17.03.2016
+1120,95,5.75,Armand Duplantis,SWE,10.11.99,1,New York City,11.02.2017
+1121,95,5.75,Ivan Horvat,CRO,17.08.93,7,Beograd,03.03.2017
+1122,95,5.75,Timur Morgunov,RUS,12.10.96,1,Sankt Peterburg,08.02.2018
+1123,95,5.75,Xue Changrui,CHN,31.05.91,1,Liévin,13.02.2018
+1124,95,5.75,Axel Chapelle,FRA,24.04.95,2,Liévin,13.02.2018
+1125,95,5.75,Emmanouíl Karális,GRE,20.10.99,1,Mondeville,02.02.2019
+1126,95,5.75,Christopher Nilsen,USA,13.01.98,1,Brookings,22.02.2019
+1127,95,5.75,Melker Svärd Jacobss,SWE,08.01.94,3,Glasgow,02.03.2019
+1128,95,5.75A,Kyle Pater,USA,24.12.94,3=,Albuquerque,14.02.2020
+1129,95,5.75A,Cole Walsh,USA,14.06.95,3=,Albuquerque,14.02.2020
+1130,95,5.75,Sam Kendricks,USA,07.09.92,2,Glasgow,15.02.2020
+1131,95,5.75,Ben Broeders,BEL,21.06.95,3,Glasgow,15.02.2020
+1132,95,5.75,Pawel Wojciechowski,POL,06.06.89,4,Glasgow,15.02.2020
+1133,95,5.75,Branson Ellis,USA,19.07.00,1,College Station,22.02.2020
+1134,95,5.75,Scott Houston,USA,11.06.90,1,Lynchburg,23.01.2021
+1135,95,5.75,Zachery Bradford,USA,29.11.99,2,Lubbock,30.01.2021
+1136,95,5.75,Pål  Haugen Lillefos,NOR,04.06.01,1,Sollentuna,29.01.2022
+1137,95,5.75,Sondre Guttormsen,NOR,01.06.99,2,New York City,04.02.2022
+1138,95,5.75,Jacob Wooten,USA,22.04.97,1,Mondeville,09.02.2022
+1139,95,5.75,Timur Morgunov,RUS,12.10.96,1,Moskva,26.02.2022
+1140,95,5.75,Sondre Guttormsen,NOR,01.06.99,1,Birmingham AL,11.03.2022
+1141,95,5.75,Menno Vloon,NED,11.05.94,5=,Beograd,20.03.2022
+1142,95,5.75,Ben Broeders,BEL,21.06.95,5=,Beograd,20.03.2022
+1143,95,5.75,Kurtis Marschall,AUS,25.04.97,7,Beograd,20.03.2022
+1144,95,5.75,Sondre Guttormsen,NOR,01.06.99,8,Beograd,20.03.2022
+1145,95,5.75,Oleg Zernikel,GER,16.04.95,9,Beograd,20.03.2022
+1146,95,5.75,Keaton Daniel,USA,08.04.01,1,Fayetteville,27.01.2023
+1147,95,5.75,Yao Jie,CHN,21.09.90,2cA,Roubaix,27.01.2023
+1148,95,5.75,Matvey Volkov,BLR,13.03.04,1,Mogilyov,18.02.2023
+1149,95,5.75,Torben Blech,GER,12.02.95,q,Istanbul,04.03.2023
+1150,95,5.75,Emmanouíl Karális,GRE,20.10.99,q,Istanbul,04.03.2023
+1151,95,5.75,Ben Broeders,BEL,21.06.95,q,Istanbul,04.03.2023
+1152,95,5.75,Ethan Cormont,FRA,29.09.00,q,Istanbul,04.03.2023
+1153,95,5.75,Claudio Michel Stecc,ITA,23.11.91,q,Istanbul,04.03.2023
+1154,95,5.75,Mikhail Shmykov,RUS,15.02.01,1,Moskva,12.03.2023
+1155,11,5.74,Billy Olson,USA,19.07.58,1,Kansas City,27.02.1982
+1156,11,5.74,Aleksanders Obizhaje,LAT,16.09.59,1,Moskva,12.02.1983
+1157,11,5.74,Pavel Bogatyryov,RUS,19.03.61,1,Novosibirsk,06.07.1983
+1158,11,5.74,Jan Netscher,CZE,15.11.75,1,Praha,21.01.1996
+1159,11,5.74,Jan Kudlicka,CZE,29.04.88,2,Jablonec nad Nisou,05.03.2016
+1160,11,5.74,Valentin Lavillenie,FRA,16.07.91,4=c,Rouen,08.02.2020
+1161,11,5.74,Thiago Braz da Silva,BRA,16.12.93,4=c,Rouen,08.02.2020
+1162,11,5.74,Mathieu Collet,FRA,15.03.95,6,Rouen,08.02.2020
+1163,11,5.74,Sondre Guttormsen,NOR,01.06.99,1,Kalmar,06.02.2021
+1164,11,5.74,Piotr Lisek,POL,16.08.92,4,Liévin,09.02.2021
+1165,11,5.74,Ethan Cormont,FRA,29.09.00,4cA,Tourcoing,04.02.2022
+1166,11,5.74,Aliounne Sène,FRA,03.02.96,5cA,Tourcoing,04.02.2022
+1167,11,5.74,Menno Vloon,NED,11.05.94,6cA,Tourcoing,04.02.2022
+1168,11,5.74,Bo Kanda Lita Baehre,GER,29.04.99,2,Dortmund,12.02.2023
+1169,11,5.74,Matthew Ludwig,USA,05.07.96,3,Dortmund,12.02.2023
+1170,11,5.74,Branson Ellis,USA,19.07.00,1,Spokane,25.02.2023
+1171,11,5.73,Billy Olson,USA,19.07.58,1,San Diego,19.02.1982
+1172,11,5.73,Vladimir Polyakov,RUS,17.04.60,2,Moskva,12.02.1983
+1173,11,5.73,Thierry Vigneron,FRA,09.03.60,1,Vittel,04.02.1984
+1174,11,5.73,Delko Lesov,BUL,06.01.67,1,Athínai,06.02.1988
+1175,11,5.73,Scott Davis,USA,12.12.61,1,Cleveland,18.02.1988
+1176,11,5.73,Igor Potapovich,KAZ,06.09.67,2,Stockholm,08.03.1994
+1177,11,5.73,Danny Ecker,GER,21.07.77,1,Halle,21.01.1998
+1178,11,5.73,Tim Lobinger,GER,03.09.72,1,Dortmund,30.01.1998
+1179,11,5.73,Scott Hennig,USA,17.04.69,1,Sindelfingen,08.03.1998
+1180,11,5.73,Danny Ecker,GER,21.07.77,2,Sindelfingen,08.03.1998
+1181,11,5.73,Michael Stolle,GER,17.12.74,1,Meckenheim,22.01.1999
+1182,11,5.73,Danny Ecker,GER,21.07.77,2,Meckenheim,22.01.1999
+1183,11,5.73,Tim Lobinger,GER,03.09.72,1,Karlsruhe,24.01.1999
+1184,11,5.73,Romain Mesnil,FRA,13.06.77,2,Rennes,05.02.2000
+1185,11,5.73,Derek Miles,USA,28.09.72,1,Liévin,23.02.2003
+1186,11,5.73,Jeff Hartwig,USA,25.09.67,2,Liévin,23.02.2003
+1187,11,5.73,Lars Börgeling,GER,16.04.79,1,Karlsruhe,28.02.2003
+1188,11,5.73,Rens Blom,NED,01.03.77,2,Karlsruhe,28.02.2003
+1189,11,5.73,Jeff Hartwig,USA,25.09.67,1,Bad Oeynhausen,01.03.2003
+1190,11,5.73,Vasiliy Gorshkov,RUS,05.02.77,1,Sindelfingen,08.03.2003
+1191,11,5.73,Richard Spiegelburg,GER,12.08.77,2,Sindelfingen,08.03.2003
+1192,11,5.73,Ilian Efremov,BUL,02.08.70,1,Sofia,24.01.2004
+1193,11,5.73,Patrik Kristiansson,SWE,03.06.77,1,Tallinn,25.02.2004
+1194,11,5.73,Toby Stevenson,USA,19.11.76,1,Münster,25.08.2005
+1195,11,5.73,Tim Lobinger,GER,03.09.72,2,Münster,25.08.2005
+1196,11,5.73,Björn Otto,GER,16.10.77,3,Münster,25.08.2005
+1197,11,5.73,Jeff Hartwig,USA,25.09.67,1,New York City,03.02.2006
+1198,11,5.73,Renaud Lavillenie,FRA,18.09.86,1,Aubière,06.03.2010
+1199,11,5.73,Karsten Dilla,GER,17.07.89,1,Bad Oeynhausen,03.03.2012
+1200,11,5.73,Björn Otto,GER,16.10.77,2,Karlsruhe,02.02.2013
+1201,11,5.73,Hendrik Gruber,GER,28.09.86,2,Potsdam,16.02.2013
+1202,11,5.73,Aleksandr Gripich,RUS,21.09.86,2,Karlsruhe,31.01.2015
+1203,11,5.73,Valentin Lavillenie,FRA,16.07.91,3,Berlin,14.02.2015
+1204,11,5.73,Piotr Lisek,POL,16.08.92,4,Berlin,14.02.2015
+1205,11,5.73,Konstandínos Fillipp,GRE,26.11.86,1,Orléans,14.01.2017
+1206,11,5.73,Raphael Holzdeppe,GER,28.09.89,2,Cottbus,25.01.2017
+1207,11,5.73,Jan Kudlicka,CZE,29.04.88,1,Praha,21.02.2017
+1208,11,5.73,Konstandínos Fillipp,GRE,26.11.86,3,Cottbus,31.01.2018
+1209,11,5.73,Armand Duplantis,SWE,10.11.99,1cA,Fayetteville,09.02.2018
+1210,11,5.73,Konstandínos Fillipp,GRE,26.11.86,9,Clermont-Ferrand,25.02.2018
+1211,11,5.73,Raphael Holzdeppe,GER,28.09.89,10,Clermont-Ferrand,25.02.2018
+1212,11,5.73A,Sondre Guttormsen,NOR,01.06.99,1,Albuquerque,08.02.2019
+1213,11,5.73,Christopher Nilsen,USA,13.01.98,2,Birmingham AL,08.03.2019
+1214,11,5.73,Jacob Wooten,USA,22.04.97,3,Birmingham AL,08.03.2019
+1215,11,5.73,Valentin Lavillenie,FRA,16.07.91,2,Bordeaux,18.01.2020
+1216,11,5.73,Claudio Michel Stecc,ITA,23.11.91,3,Bordeaux,18.01.2020
+1217,11,5.73,Jacob Wooten,USA,22.04.97,5=c,Rouen,06.02.2021
+1218,11,5.73,Ethan Cormont,FRA,29.09.00,5=c,Rouen,06.02.2021
+1219,11,5.73,Cole Walsh,USA,14.06.95,7cA,Rouen,06.02.2021
+1220,11,5.73,Zachery Bradford,USA,29.11.99,2,Clemson,26.02.2021
+1221,11,5.73A,Tray Oates,USA,14.03.95,1,Albuquerque,11.02.2022
+1222,11,5.73A,Clayton Fritsch,USA,29.12.98,1,Albuquerque,19.02.2022
+1223,11,5.73,Emmanouíl Karális,GRE,20.10.99,1,Piræus,26.02.2022
+1224,11,5.73,Clayton Fritsch,USA,29.12.98,1,Houston,27.01.2023
+1225,11,5.73,Torben Blech,GER,12.02.95,4,Berlin,10.02.2023
+1226,11,5.73,Rutger Koppelaar,NED,01.05.93,6,Liévin,15.02.2023
+1227,11,5.73,Menno Vloon,NED,11.05.94,7,Liévin,15.02.2023
+1228,12,5.72,Billy Olson,USA,19.07.58,1,Louisville,06.02.1982
+1229,12,5.72,Thierry Vigneron,FRA,09.03.60,1,Colombes,14.12.1983
+1230,12,5.72,Aleksandr Parnov,UZB,10.05.59,1,Kaunas,13.01.1985
+1231,12,5.72,Serge Ferreira,FRA,11.08.59,1,Paris,03.02.1985
+1232,12,5.72,Marian Kolasa,POL,12.08.59,1,Stuttgart,02.02.1986
+1233,12,5.72,Pierre Quinon,FRA,20.02.62,3,New York City,14.02.1986
+1234,12,5.72,Earl Bell,USA,25.08.55,1,New York City,27.02.1987
+1235,12,5.72,Scott Shaffer,USA,31.05.64,1,West Lafayette,20.01.1990
+1236,12,5.72,Kory Tarpenning,USA,27.02.62,2,Grenoble,23.03.1991
+1237,12,5.72,Philippe D'Encausse,FRA,24.03.67,3=,Grenoble,23.03.1991
+1238,12,5.72,Javier Garcia Chico,ESP,22.07.66,3=,Grenoble,23.03.1991
+1239,12,5.72,Jean Galfione,FRA,09.06.71,1,Clermont-Ferrand,19.01.1992
+1240,12,5.72,Denis Petushinskiy,RUS,29.01.67,1,Moskva,22.02.1992
+1241,12,5.72,Igor Trandenkov,RUS,17.08.66,1,Stockholm,09.02.1993
+1242,12,5.72,Pyotr Bochkaryov,RUS,03.11.67,2,Stockholm,09.02.1993
+1243,12,5.72,Martin Voss,DEN,05.09.67,1,Malmö,25.02.1995
+1244,12,5.72A,David Cox,USA,07.08.72,1,Reno,27.01.1996
+1245,12,5.72,Yevgeniy Smiryagin,RUS,17.05.76,1,Zweibrücken,31.01.1997
+1246,12,5.72,Danny Ecker,GER,21.07.77,2,Dortmund,09.02.1997
+1247,12,5.72,Lawrence Johnson,USA,07.05.74,2,Birmingham,15.02.1998
+1248,12,5.72,Igor Potapovich,KAZ,06.09.67,3,Birmingham,15.02.1998
+1249,12,5.72,Jeff Hartwig,USA,25.09.67,1,Jonesboro,06.12.1998
+1250,12,5.72,Grigoriy Yegorov,KAZ,12.01.67,2,Budapest,05.02.1999
+1251,12,5.72,Khalid Lachheb,FRA,16.01.75,1,Soissons,06.03.1999
+1252,12,5.72,Tim Lobinger,GER,03.09.72,1,Köln,06.02.2000
+1253,12,5.72,Michael Stolle,GER,17.12.74,2,Köln,06.02.2000
+1254,12,5.72,Okkert Brits,RSA,22.08.73,3,Köln,06.02.2000
+1255,12,5.72,Martin Eriksson,SWE,15.06.71,1,Glasgow,05.03.2000
+1256,12,5.72,Jeff Hartwig,USA,25.09.67,1,Cedar Falls,18.02.2001
+1257,12,5.72,Andrej Tiwontschik,GER,13.07.70,1,Clermont-Ferrand,16.03.2001
+1258,12,5.72,Tim Mack,USA,15.09.72,1,New York City,02.03.2002
+1259,12,5.72,Tye Harvey,USA,25.09.74,2,New York City,02.03.2002
+1260,12,5.72,Tim Lobinger,GER,03.09.72,1,Dortmund,05.02.2003
+1261,12,5.72,Björn Otto,GER,16.10.77,1,Potsdam,09.02.2003
+1262,12,5.72,Rens Blom,NED,01.03.77,2,Potsdam,09.02.2003
+1263,12,5.72,Lars Börgeling,GER,16.04.79,3,Potsdam,09.02.2003
+1264,12,5.72,Tim Lobinger,GER,03.09.72,4,Potsdam,09.02.2003
+1265,12,5.72,Vasiliy Gorshkov,RUS,05.02.77,2,Mondeville,15.02.2003
+1266,12,5.72,Adam Ptácek,CZE,08.10.80,1,Praha,19.02.2003
+1267,12,5.72,Tim Lobinger,GER,03.09.72,1,Karlsruhe,15.02.2004
+1268,12,5.72,Denis Yurchenko,UKR,27.01.78,3=,Donetsk,15.02.2004
+1269,12,5.72,Derek Miles,USA,28.09.72,3=,Donetsk,15.02.2004
+1270,12,5.72,Aleksandr Averbukh,ISR,01.10.74,5,Donetsk,15.02.2004
+1271,12,5.72,Daniel Ryland,USA,06.08.79,1,Jonesboro,23.05.2007
+1272,12,5.72,Alexander Straub,GER,14.10.83,1,Sindelfingen,19.01.2008
+1273,12,5.72,Derek Miles,USA,28.09.72,2,Boston,07.02.2009
+1274,12,5.72,Romain Mesnil,FRA,13.06.77,2,Paris,13.02.2009
+1275,12,5.72,Derek Miles,USA,28.09.72,3,Paris,13.02.2009
+1276,12,5.72,Derek Miles,USA,28.09.72,3,Donetsk,15.02.2009
+1277,12,5.72,Alhaji Jeng,SWE,13.12.81,4,Donetsk,15.02.2009
+1278,12,5.72,Jeremy Scott,USA,21.05.81,1,Jonesboro,16.05.2009
+1279,12,5.72,Viktor Chistyakov,RUS,09.02.75,1,Athínai,17.02.2010
+1280,12,5.72,Scott Roth,USA,25.06.88,1,Seattle,26.02.2010
+1281,12,5.72,Steven Lewis,GBR,20.05.86,2,Donetsk,06.03.2010
+1282,12,5.72,Jordan Scott,USA,22.02.88,1,Jonesboro,04.05.2010
+1283,12,5.72,Maksim Mazurik,UKR,02.04.83,1,Stockholm,19.06.2011
+1284,12,5.72,Malte Mohr,GER,24.07.86,2,Stockholm,19.06.2011
+1285,12,5.72,Karsten Dilla,GER,17.07.89,1,Leverkusen,14.01.2012
+1286,12,5.72,Raphael Holzdeppe,GER,28.09.89,1,Sindelfingen,21.01.2012
+1287,12,5.72,Konstandínos Fillipp,GRE,26.11.86,1cA,Villeurbanne,21.01.2012
+1288,12,5.72,Konstandínos Fillipp,GRE,26.11.86,1,Cottbus,25.01.2012
+1289,12,5.72,Malte Mohr,GER,24.07.86,1,Chemnitz,27.01.2012
+1290,12,5.72,Raphael Holzdeppe,GER,28.09.89,2,Chemnitz,27.01.2012
+1291,12,5.72,Karsten Dilla,GER,17.07.89,1,Glasgow,28.01.2012
+1292,12,5.72,Lukasz Michalski,POL,17.08.88,1,Bordeaux,28.01.2012
+1293,12,5.72,Lukasz Michalski,POL,17.08.88,1,Bydgoszcz,08.02.2012
+1294,12,5.72,Malte Mohr,GER,24.07.86,3,Donetsk,11.02.2012
+1295,12,5.72,Lázaro Borges,CUB,19.06.86,4,Donetsk,11.02.2012
+1296,12,5.72,Raphael Holzdeppe,GER,28.09.89,1,Liévin,14.02.2012
+1297,12,5.72,Romain Mesnil,FRA,13.06.77,2,Liévin,14.02.2012
+1298,12,5.72,Maksim Mazurik,UKR,02.04.83,2,Potsdam,18.02.2012
+1299,12,5.72,Steven Lewis,GBR,20.05.86,2cA,Nevers,18.02.2012
+1300,12,5.72,Dmitriy Starodubtsev,RUS,03.01.86,1,Moskva,24.02.2012
+1301,12,5.72,Renaud Lavillenie,FRA,18.09.86,1,Aubière,25.02.2012
+1302,12,5.72,Steve Hooker,AUS,16.07.82,1,Perth,11.05.2012
+1303,12,5.72,Thiago Braz da Silva,BRA,16.12.93,1,Malmö,08.02.2014
+1304,12,5.72,Robert Sobera,POL,19.01.91,1,Sopot,22.02.2014
+1305,12,5.72,Sam Kendricks,USA,07.09.92,1,Birmingham AL,31.01.2016
+1306,12,5.72,Jake Blankenship,USA,15.03.94,1cA,Blacksburg,06.02.2016
+1307,12,5.72,Piotr Lisek,POL,16.08.92,3=,Potsdam,06.02.2016
+1308,12,5.72,Robert Sobera,POL,19.01.91,3=,Potsdam,06.02.2016
+1309,12,5.72,Pawel Wojciechowski,POL,06.06.89,1,Torun,05.03.2016
+1310,12,5.72,Robert Sobera,POL,19.01.91,2,Torun,05.03.2016
+1311,12,5.72,Armand Duplantis,SWE,10.11.99,1,Baton Rouge,04.02.2017
+1312,12,5.72,Kevin Ménaldo,FRA,12.07.92,1,Paris,08.02.2017
+1313,12,5.72,Ivan Horvat,CRO,17.08.93,1,Beograd,18.02.2017
+1314,12,5.72,Christopher Nilsen,USA,13.01.98,1,Minneapolis,27.01.2018
+1315,12,5.72,Pawel Wojciechowski,POL,06.06.89,2,Torun,18.02.2018
+1316,12,5.72,Valentin Lavillenie,FRA,16.07.91,2,Liévin,18.02.2018
+1317,12,5.72,Kevin Ménaldo,FRA,12.07.92,3,Liévin,18.02.2018
+1318,12,5.72,Jacob Wooten,USA,22.04.97,1,Clemson,09.02.2019
+1319,12,5.72,Aliounne Sène,FRA,03.02.96,1,Orléans,11.01.2020
+1320,12,5.72,Valentin Lavillenie,FRA,16.07.91,2,Bordeaux,16.01.2021
+1321,12,5.72,Viktor Pintusov,RUS,07.02.00,1,Chelyabinsk,19.01.2021
+1322,12,5.72,Cole Walsh,USA,14.06.95,3,Karlsruhe,29.01.2021
+1323,12,5.72,Torben Blech,GER,12.02.95,4,Karlsruhe,29.01.2021
+1324,12,5.72,Cole Walsh,USA,14.06.95,1,Mondeville,30.01.2021
+1325,12,5.72,Ethan Cormont,FRA,29.09.00,2,Tourcoing,31.01.2021
+1326,12,5.72,Valentin Lavillenie,FRA,16.07.91,3,Tourcoing,31.01.2021
+1327,12,5.72,Bo Kanda Lita Baehre,GER,29.04.99,5,Düsseldorf,31.01.2021
+1328,12,5.72,Oleg Zernikel,GER,16.04.95,3,Berlin,05.02.2021
+1329,12,5.72,Ersu Sasma,TUR,30.09.99,1,Istanbul,07.02.2021
+1330,12,5.72,Piotr Lisek,POL,16.08.92,4,Lodz,12.02.2021
+1331,12,5.72,Jacob Wooten,USA,22.04.97,2,Val-de-Reuil,14.02.2021
+1332,12,5.72,Menno Vloon,NED,11.05.94,1,Apeldoorn,20.02.2021
+1333,12,5.72,Torben Blech,GER,12.02.95,1,Dortmund,21.02.2021
+1334,12,5.72,Emmanouíl Karális,GRE,20.10.99,1,Piræus,05.02.2022
+1335,12,5.72,Dave Volz,USA,02.05.62,1c1,Blacksburg,05.02.2022
+1336,12,5.72,Bo Kanda Lita Baehre,GER,29.04.99,2,Dortmund,12.02.2022
+1337,12,5.72,Oleg Zernikel,GER,16.04.95,3,Dortmund,12.02.2022
+1338,12,5.72,Nate Richartz,USA,02.11.94,4,Dortmund,12.02.2022
+1339,12,5.72,Zack McWhorter,USA,07.01.99,1,Spokane,19.02.2022
+1340,12,5.72,Pål  Haugen Lillefos,NOR,04.06.01,1,Bergen,15.01.2023
+1341,12,5.72,Zachery Bradford,USA,29.11.99,1,Lubbock,20.01.2023
+1342,12,5.72,Ben Broeders,BEL,21.06.95,3,Cottbus,25.01.2023
+1343,12,5.72,Gillian Ladwig,GER,03.12.98,4,Cottbus,25.01.2023
+1344,12,5.72,Torben Blech,GER,12.02.95,4,Karlsruhe,27.01.2023
+1345,12,5.72,Bo Kanda Lita Baehre,GER,29.04.99,5,Karlsruhe,27.01.2023
+1346,12,5.72,Christopher Nilsen,USA,13.01.98,2,Mondeville,08.02.2023
+1347,12,5.72,Clayton Fritsch,USA,29.12.98,3=,Mondeville,08.02.2023
+1348,12,5.72,Matthew Ludwig,USA,05.07.96,3=,Mondeville,08.02.2023
+1349,12,5.72,Claudio Michel Stecc,ITA,23.11.91,5,Torun,08.02.2023
+1350,12,5.72,Sam Kendricks,USA,07.09.92,5,Mondeville,08.02.2023
+1351,12,5.72,Piotr Lisek,POL,16.08.92,6,Torun,08.02.2023
+1352,12,5.72,Jacob Wooten,USA,22.04.97,4,Metz,11.02.2023
+1353,12,5.72,Thibaut Collet,FRA,17.06.99,5,Metz,11.02.2023
+1354,12,5.72,Ethan Cormont,FRA,29.09.00,6,Metz,11.02.2023
+1355,12,5.72,Torben Blech,GER,12.02.95,1,Dortmund,18.02.2023
+1356,12,5.72,Bo Kanda Lita Baehre,GER,29.04.99,2,Dortmund,18.02.2023
+1357,12,5.72,Emmanouíl Karális,GRE,20.10.99,1,Osijek,22.02.2023
+1358,12,5.72,Piotr Lisek,POL,16.08.92,2,Osijek,22.02.2023
+1359,12,5.72,Emmanouíl Karális,GRE,20.10.99,5cA,Rouen,11.03.2023
+1360,12,5.72,Mathieu Collet,FRA,15.03.95,6cA,Rouen,11.03.2023
+1361,13,5.71,Billy Olson,USA,19.07.58,1,Toronto,29.01.1982
+1362,13,5.71,Billy Olson,USA,19.07.58,1,New York City,25.02.1983
+1363,13,5.71,Dan Ripley,USA,07.10.53,2,New York City,25.02.1983
+1364,13,5.71,Billy Olson,USA,19.07.58,1,Dallas,04.02.1984
+1365,13,5.71,Pierre Quinon,FRA,20.02.62,2,Dallas,04.02.1984
+1366,13,5.71,Jeff Buckingham,USA,14.06.60,1,East Rutherford,09.02.1985
+1367,13,5.71,Philippe Collet,FRA,13.12.63,1,Liévin,25.01.1986
+1368,13,5.71,Marian Kolasa,POL,12.08.59,1,Karlsruhe,31.01.1986
+1369,13,5.71,Billy Olson,USA,19.07.58,1,San Diego,22.02.1987
+1370,13,5.71,Hermann Fehringer,AUT,08.12.62,1,Wien,21.02.1990
+1371,13,5.71,István Bagyula,HUN,02.01.69,1,Los Angeles,18.01.1991
+1372,13,5.71A,Scott Huffman,USA,30.11.64,1,Reno,16.02.1991
+1373,13,5.71,Grigoriy Yegorov,KAZ,12.01.67,4,Madrid,14.02.1992
+1374,13,5.71,Grigoriy Yegorov,KAZ,12.01.67,1,Sevilla,28.02.1992
+1375,13,5.71,Scott Huffman,USA,30.11.64,1,Jonesboro,05.08.1992
+1376,13,5.71,Pat Manson,USA,29.11.67,2,Jonesboro,05.08.1992
+1377,13,5.71,Greg West,USA,19.05.67,1,New York City,26.02.1993
+1378,13,5.71,Jani Lehtonen,FIN,11.08.68,1,Kuortane,27.12.1993
+1379,13,5.71A,Pat Manson,USA,29.11.67,1,Reno,20.01.1995
+1380,13,5.71A,Tim Bright,USA,28.07.60,2,Reno,20.01.1995
+1381,13,5.71,Bill Payne,USA,21.12.67,1,Johnson City,28.01.1995
+1382,13,5.71A,Nick Hysong,USA,09.12.71,1,Flagstaff,18.02.1995
+1383,13,5.71,Michael Stolle,GER,17.12.74,1,Zweibrücken,26.01.1996
+1384,13,5.71,Pyotr Bochkaryov,RUS,03.11.67,2,Madrid,09.02.1996
+1385,13,5.71,Scott Hennig,USA,17.04.69,1,Lubbock,10.02.1996
+1386,13,5.71,Igor Potapovich,KAZ,06.09.67,2,Stockholm,20.02.1997
+1387,13,5.71,Montxu Miranda,ESP,27.12.76,1,Ciudad de Málaga,17.01.1998
+1388,13,5.71,Grigoriy Yegorov,KAZ,12.01.67,1,Valencia,14.02.1998
+1389,13,5.71,Martin Eriksson,SWE,15.06.71,4,Stockholm,19.02.1998
+1390,13,5.71,Trond Barthel,NOR,11.09.70,1,Stange,30.01.1999
+1391,13,5.71,Danny Ecker,GER,21.07.77,1,Halle,31.01.1999
+1392,13,5.71,Trond Barthel,NOR,11.09.70,4,Dortmund,13.02.1999
+1393,13,5.71,José Manuel Arcos,ESP,19.01.73,1,Sevilla,20.02.1999
+1394,13,5.71,Danny Ecker,GER,21.07.77,1,Sindelfingen,28.02.1999
+1395,13,5.71,Tim Lobinger,GER,03.09.72,2,Sindelfingen,28.02.1999
+1396,13,5.71,Tim Lobinger,GER,03.09.72,2,Meckenheim,04.02.2000
+1397,13,5.71,Jeff Hartwig,USA,25.09.67,2,Madrid,16.02.2000
+1398,13,5.71A,Nick Hysong,USA,09.12.71,1,Flagstaff,20.02.2000
+1399,13,5.71,Tye Harvey,USA,25.09.74,2,Atlanta,04.03.2000
+1400,13,5.71,Jeff Hartwig,USA,25.09.67,3,Atlanta,04.03.2000
+1401,13,5.71,Tim Mack,USA,15.09.72,4,Atlanta,04.03.2000
+1402,13,5.71,Yevgeniy Smiryagin,RUS,17.05.76,3,Toulouse,04.03.2001
+1403,13,5.71,Romain Mesnil,FRA,13.06.77,1,Clermont-Ferrand,08.02.2002
+1404,13,5.71,Tim Lobinger,GER,03.09.72,1,Erfurt,31.01.2003
+1405,13,5.71,Adam Ptácek,CZE,08.10.80,2,Erfurt,31.01.2003
+1406,13,5.71,Giuseppe Gibilisco,ITA,05.01.79,2,Donetsk,16.02.2003
+1407,13,5.71,Derek Miles,USA,28.09.72,3,Donetsk,16.02.2003
+1408,13,5.71,Aleksandr Averbukh,ISR,01.10.74,1,Göteborg,03.02.2004
+1409,13,5.71,Giuseppe Gibilisco,ITA,05.01.79,1,Dortmund,04.02.2004
+1410,13,5.71,Tommy Skipper,USA,14.09.84,1,Nampa,07.02.2004
+1411,13,5.71,Denis Yurchenko,UKR,27.01.78,1,Stockholm,12.02.2004
+1412,13,5.71,Aleksandr Averbukh,ISR,01.10.74,2,Stockholm,12.02.2004
+1413,13,5.71,Romain Mesnil,FRA,13.06.77,3,Stockholm,12.02.2004
+1414,13,5.71,Jeff Hartwig,USA,25.09.67,1c2,Fayetteville,13.02.2004
+1415,13,5.71,Toby Stevenson,USA,19.11.76,1c2,Des Moines,24.04.2004
+1416,13,5.71,Tye Harvey,USA,25.09.74,2,Jonesboro,13.06.2004
+1417,13,5.71,Ruslan Yeremenko,UKR,31.07.78,1,Erfurt,04.02.2005
+1418,13,5.71,Brad Walker,USA,21.06.81,2,Erfurt,04.02.2005
+1419,13,5.71,Igor Pavlov,RUS,18.07.79,3,Stockholm,15.02.2005
+1420,13,5.71,Alhaji Jeng,SWE,13.12.81,4,Stockholm,15.02.2005
+1421,13,5.71A,Nick Hysong,USA,09.12.71,1,Flagstaff,19.02.2005
+1422,13,5.71,Jeff Hartwig,USA,25.09.67,1,Tallinn,20.02.2005
+1423,13,5.71,Jeff Hartwig,USA,25.09.67,2,Bad Oeynhausen,12.03.2005
+1424,13,5.71,Bubba McLean,USA,02.09.79,1=,Jonesboro,12.06.2005
+1425,13,5.71,Daniel Ryland,USA,06.08.79,1=,Jonesboro,12.06.2005
+1426,13,5.71,Tim Lobinger,GER,03.09.72,2,Karlsruhe,29.01.2006
+1427,13,5.71,Fabian Schulze,GER,07.03.84,3,Karlsruhe,29.01.2006
+1428,13,5.71A,Russ Buller,USA,10.09.78,1,Flagstaff,04.02.2006
+1429,13,5.71,Brad Walker,USA,21.06.81,1,Seattle,12.02.2006
+1430,13,5.71A,Giovani Lanaro,MEX,27.09.81,1,Flagstaff,18.02.2006
+1431,13,5.71A,Russ Buller,USA,10.09.78,2,Flagstaff,18.02.2006
+1432,13,5.71,Tommy Skipper,USA,14.09.84,1,Seattle,25.02.2006
+1433,13,5.71,Aleksandr Korchmyd,UKR,22.01.82,2,Gent,04.02.2007
+1434,13,5.71,Danny Ecker,GER,21.07.77,1,Birmingham,03.03.2007
+1435,13,5.71,Denis Yurchenko,UKR,27.01.78,2,Birmingham,03.03.2007
+1436,13,5.71,Björn Otto,GER,16.10.77,3,Birmingham,03.03.2007
+1437,13,5.71,Alexander Straub,GER,14.10.83,1,Düsseldorf,08.02.2008
+1438,13,5.71,Tim Lobinger,GER,03.09.72,2,Düsseldorf,08.02.2008
+1439,13,5.71,Alhaji Jeng,SWE,13.12.81,4,Donetsk,16.02.2008
+1440,13,5.71,Leonid Kivalov,RUS,01.04.88,3,Stockholm,21.02.2008
+1441,13,5.71,Steven Lewis,GBR,20.05.86,1,Tsaotun,14.03.2008
+1442,13,5.71A,Jeff Hartwig,USA,25.09.67,1,Jonesboro,31.05.2008
+1443,13,5.71,Giovani Lanaro,MEX,27.09.81,4cA,Stockholm,18.02.2009
+1444,13,5.71,Derek Miles,USA,28.09.72,5cA,Stockholm,18.02.2009
+1445,13,5.71,Steven Lewis,GBR,20.05.86,4,Torino,08.03.2009
+1446,13,5.71,Alhaji Jeng,SWE,13.12.81,5,Torino,08.03.2009
+1447,13,5.71,Kevin Rans,BEL,19.08.82,1,Gent,31.01.2010
+1448,13,5.71,Steven Lewis,GBR,20.05.86,1cA,Paris,02.03.2010
+1449,13,5.71,Renaud Lavillenie,FRA,18.09.86,1cA,Paris,02.03.2010
+1450,13,5.71,Jérôme Clavier,FRA,03.05.83,3cA,Paris,02.03.2010
+1451,13,5.71,Kevin Rans,BEL,19.08.82,1,Liévin,05.03.2010
+1452,13,5.71,Konstandínos Fillipp,GRE,26.11.86,1,Peanía,12.02.2011
+1453,13,5.71,Malte Mohr,GER,24.07.86,3,Paris,05.03.2011
+1454,13,5.71,Pawel Wojciechowski,POL,06.06.89,4,Paris,05.03.2011
+1455,13,5.71,Augusto Dutra de Oli,BRA,16.07.90,1,São Caetano do Sul,02.03.2013
+1456,13,5.71,Jan Kudlicka,CZE,29.04.88,5,Göteborg,03.03.2013
+1457,13,5.71,Robert Sobera,POL,19.01.91,6=,Göteborg,03.03.2013
+1458,13,5.71,Steven Lewis,GBR,20.05.86,6=,Göteborg,03.03.2013
+1459,13,5.71,Luke Cutts,GBR,13.02.88,1cA,Villeurbanne,14.12.2013
+1460,13,5.71,Malte Mohr,GER,24.07.86,2,Dessau,27.02.2014
+1461,13,5.71,Alhaji Jeng,SWE,13.12.81,3,Dessau,27.02.2014
+1462,13,5.71,Renaud Lavillenie,FRA,18.09.86,1,Des Moines,23.04.2014
+1463,13,5.71,Steven Lewis,GBR,20.05.86,2,Des Moines,23.04.2014
+1464,13,5.71,Sam Kendricks,USA,07.09.92,2,Belton,03.01.2015
+1465,13,5.71A,Steven Lewis,GBR,20.05.86,1,Albuquerque,06.02.2015
+1466,13,5.71,Konstandínos Fillipp,GRE,26.11.86,2,Dessau,11.02.2015
+1467,13,5.71,Renaud Lavillenie,FRA,18.09.86,1c1,Aulnay-sous-Bois,18.12.2015
+1468,13,5.71,Sam Kendricks,USA,07.09.92,1,Nashville,29.01.2016
+1469,13,5.71A,Raphael Holzdeppe,GER,28.09.89,1c,Zweibrücken,31.01.2016
+1470,13,5.71,Sam Kendricks,USA,07.09.92,2,Glasgow,17.02.2016
+1471,13,5.71,Carlo Paech,GER,18.12.92,1,Bad Oeynhausen,05.03.2016
+1472,13,5.71,Piotr Lisek,POL,16.08.92,2,Clermont-Ferrand,05.02.2017
+1473,13,5.71,Thiago Braz da Silva,BRA,16.12.93,3=,Clermont-Ferrand,05.02.2017
+1474,13,5.71,Konstandínos Fillipp,GRE,26.11.86,3=,Clermont-Ferrand,05.02.2017
+1475,13,5.71,Pawel Wojciechowski,POL,06.06.89,5,Clermont-Ferrand,05.02.2017
+1476,13,5.71,Renaud Lavillenie,FRA,18.09.86,6,Clermont-Ferrand,05.02.2017
+1477,13,5.71,Jan Kudlicka,CZE,29.04.88,7,Clermont-Ferrand,05.02.2017
+1478,13,5.71,Konstandínos Fillipp,GRE,26.11.86,2,Beograd,25.02.2017
+1479,13,5.71,Konstandínos Fillipp,GRE,26.11.86,1cA,Orléans,13.01.2018
+1480,13,5.71,Scott Houston,USA,11.06.90,1,Lynchburg,09.02.2018
+1481,13,5.71,Piotr Lisek,POL,16.08.92,3,Szczecin,11.02.2018
+1482,13,5.71,Sam Kendricks,USA,07.09.92,4,Szczecin,11.02.2018
+1483,13,5.71,Emmanouíl Karális,GRE,20.10.99,1cA,Praha,13.02.2018
+1484,13,5.71,Sam Kendricks,USA,07.09.92,7=,Zürich,29.08.2018
+1485,13,5.71,Konstandínos Fillipp,GRE,26.11.86,7=,Zürich,29.08.2018
+1486,13,5.71,Andrew Irwin,USA,23.01.93,1,Fayetteville,11.01.2019
+1487,13,5.71,Axel Chapelle,FRA,24.04.95,1cA,Orléans,12.01.2019
+1488,13,5.71,Aliounne Sène,FRA,03.02.96,2cA,Orléans,12.01.2019
+1489,13,5.71,Melker Svärd Jacobss,SWE,08.01.94,3cA,Orléans,12.01.2019
+1490,13,5.71A,Matthew Ludwig,USA,05.07.96,1c1,Reno,18.01.2019
+1491,13,5.71A,Seito Yamamoto,JPN,11.03.92,2c1,Reno,18.01.2019
+1492,13,5.71,Christopher Nilsen,USA,13.01.98,1,Minneapolis,26.01.2019
+1493,13,5.71,Sondre Guttormsen,NOR,01.06.99,1,New York City,26.01.2019
+1494,13,5.71,Scott Houston,USA,11.06.90,1,Blacksburg,02.02.2019
+1495,13,5.71,Christopher Nilsen,USA,13.01.98,2cA,Fayetteville,08.02.2019
+1496,13,5.71,Sam Kendricks,USA,07.09.92,1,Liévin,10.02.2019
+1497,13,5.71,Piotr Lisek,POL,16.08.92,2,Liévin,10.02.2019
+1498,13,5.71,Timur Morgunov,RUS,12.10.96,1,Chelyabinsk,16.01.2020
+1499,13,5.71,Ersu Sasma,TUR,30.09.99,1,Istanbul,24.01.2021
+1500,13,5.71A,Nate Richartz,USA,02.11.94,4cA,Reno,14.01.2022
+1501,13,5.71A,Sondre Guttormsen,NOR,01.06.99,5cA,Reno,14.01.2022
+1502,13,5.71,Valentin Lavillenie,FRA,16.07.91,3,Karlsruhe,28.01.2022
+1503,13,5.71,Oleg Zernikel,GER,16.04.95,4,Karlsruhe,28.01.2022
+1504,13,5.71,Ethan Cormont,FRA,29.09.00,5,Karlsruhe,28.01.2022
+1505,13,5.71,Bo Kanda Lita Baehre,GER,29.04.99,6,Karlsruhe,28.01.2022
+1506,13,5.71,Emmanouíl Karális,GRE,20.10.99,7,Karlsruhe,28.01.2022
+1507,13,5.71,Thiago Braz da Silva,BRA,16.12.93,2,Lodz,11.02.2022
+1508,13,5.71,Piotr Lisek,POL,16.08.92,3,Lodz,11.02.2022
+1509,13,5.71,Jacob Wooten,USA,22.04.97,2,Metz,12.02.2022
+1510,13,5.71,Emmanouíl Karális,GRE,20.10.99,,Liévin,17.02.2022
+1511,13,5.71,Piotr Lisek,POL,16.08.92,6,Liévin,17.02.2022
+1512,13,5.71,Kurtis Marschall,AUS,25.04.97,7,Liévin,17.02.2022
+1513,13,5.71,Matthew Ludwig,USA,05.07.96,8,Liévin,17.02.2022
+1514,13,5.71,Valentin Lavillenie,FRA,16.07.91,9,Liévin,17.02.2022
+1515,13,5.71,Dave Volz,USA,02.05.62,1,Blacksburg,19.02.2022
+1516,13,5.71,Ben Broeders,BEL,21.06.95,3,Birmingham,19.02.2022
+1517,13,5.71,Kurtis Marschall,AUS,25.04.97,3cA,Clermont-Ferrand,19.02.2022
+1518,13,5.71,Ethan Cormont,FRA,29.09.00,3cA,Clermont-Ferrand,19.02.2022
+1519,13,5.71,Mathieu Collet,FRA,15.03.95,3cA,Clermont-Ferrand,19.02.2022
+1520,13,5.71,Piotr Lisek,POL,16.08.92,2,Düsseldorf,20.02.2022
+1521,13,5.71,Matthew Ludwig,USA,05.07.96,3,Düsseldorf,20.02.2022
+1522,13,5.71,Sam Kendricks,USA,07.09.92,4,Düsseldorf,20.02.2022
+1523,13,5.71,Oleg Zernikel,GER,16.04.95,5,Düsseldorf,20.02.2022
+1524,13,5.71,Ben Broeders,BEL,21.06.95,2,Torun,22.02.2022
+1525,13,5.71,Thiago Braz da Silva,BRA,16.12.93,3,Torun,22.02.2022
+1526,13,5.71,Menno Vloon,NED,11.05.94,4,Torun,22.02.2022
+1527,13,5.71,Ethan Cormont,FRA,29.09.00,4=,Miramas,27.02.2022
+1528,13,5.71,Seito Yamamoto,JPN,11.03.92,4=,Miramas,27.02.2022
+1529,13,5.71,Ethan Cormont,FRA,29.09.00,6cA,Rouen,05.03.2022
+1530,13,5.71,Mathieu Collet,FRA,15.03.95,7cA,Rouen,05.03.2022
+1531,13,5.71,KC Lightfoot,USA,11.11.99,2,Ad-Dawhah,14.05.2022
+1532,13,5.71,Ben Broeders,BEL,21.06.95,3,Ad-Dawhah,14.05.2022
+1533,13,5.71,Christopher Nilsen,USA,13.01.98,4,Ad-Dawhah,14.05.2022
+1534,13,5.71,Valentin Lavillenie,FRA,16.07.91,5,Ad-Dawhah,14.05.2022
+1535,13,5.71A,Sondre Guttormsen,NOR,01.06.99,3,Reno,13.01.2023
+1536,13,5.71A,KC Lightfoot,USA,11.11.99,4,Reno,13.01.2023
+1537,13,5.71,Christopher Nilsen,USA,13.01.98,1,Vermillion,04.02.2023
+1538,13,5.71A,Luke Winder,USA,02.08.95,5,Albuquerque,18.02.2023
+1539,13,5.71A,Carson Waters,USA,05.06.96,6,Albuquerque,18.02.2023
+1540,13,5.71,Ethan Cormont,FRA,29.09.00,5cA,Clermont-Ferrand,25.02.2023
+1541,13,5.71,Ben Broeders,BEL,21.06.95,6cA,Clermont-Ferrand,25.02.2023
+1542,13,5.71,Valentin Lavillenie,FRA,16.07.91,7cA,Clermont-Ferrand,25.02.2023
+1543,13,5.71A,Kyle Rademeyer,RSA,29.01.02,3,Albuquerque,10.03.2023
+1544,15,5.70,Konstantin Volkov,RUS,28.02.60,1,Moskva,06.07.1980
+1545,15,5.70,Serge Ferreira,FRA,11.08.59,1,Nice,17.08.1980
+1546,15,5.70,Thierry Vigneron,FRA,09.03.60,1,Lyon,18.01.1981
+1547,15,5.70,Thierry Vigneron,FRA,09.03.60,1,Grenoble,22.02.1981
+1548,15,5.70,Viktor Spasov,UKR,19.07.59,1,Milano,07.03.1982
+1549,15,5.70,Billy Olson,USA,19.07.58,1,Dallas,05.02.1983
+1550,15,5.70,Billy Olson,USA,19.07.58,1,Abilene,12.03.1983
+1551,15,5.70,Billy Olson,USA,19.07.58,1,Los Angeles,20.01.1984
+1552,15,5.70,Pierre Quinon,FRA,20.02.62,2,Los Angeles,20.01.1984
+1553,15,5.70,Sergey Bubka,UKR,04.12.63,1,Leningrad,22.01.1984
+1554,15,5.70,Billy Olson,USA,19.07.58,1,New York City,27.01.1984
+1555,15,5.70,Earl Bell,USA,25.08.55,1,Rosemont,29.01.1984
+1556,15,5.70,Sergey Bubka,UKR,04.12.63,1,East Rutherford,11.02.1984
+1557,15,5.70,Earl Bell,USA,25.08.55,2,East Rutherford,11.02.1984
+1558,15,5.70,Vasiliy Bubka,UKR,26.11.60,1,Moskva,01.03.1984
+1559,15,5.70,Sergey Bubka,UKR,04.12.63,1,Donetsk,05.01.1985
+1560,15,5.70,Thierry Vigneron,FRA,09.03.60,1,Paris,12.01.1985
+1561,15,5.70,Thierry Vigneron,FRA,09.03.60,2,Paris,19.01.1985
+1562,15,5.70,Aleksandr Krupskiy,RUS,04.01.60,1,Kishinyov,16.02.1985
+1563,15,5.70,Vasiliy Bubka,UKR,26.11.60,2,Kishinyov,16.02.1985
+1564,15,5.70,Serge Ferreira,FRA,11.08.59,2,Paris,16.02.1985
+1565,15,5.70,Dave Volz,USA,02.05.62,1,Richfield,17.02.1985
+1566,15,5.70,Sergey Bubka,UKR,04.12.63,1,Piræus,03.03.1985
+1567,15,5.70,Aleksandr Krupskiy,RUS,04.01.60,2,Piræus,03.03.1985
+1568,15,5.70,Rodion Gataullin,RUS,23.11.65,1,Minsk,19.01.1986
+1569,15,5.70,Rodion Gataullin,RUS,23.11.65,1,Leningrad,25.01.1986
+1570,15,5.70A,Brad Pursley,USA,24.05.60,2,Albuquerque,25.01.1986
+1571,15,5.70,Wladyslaw Kozakiewic,FRG,08.12.53,1,Toronto,31.01.1986
+1572,15,5.70,Dave Volz,USA,02.05.62,1,Dallas,01.02.1986
+1573,15,5.70,Rodion Gataullin,RUS,23.11.65,2,Moskva,08.02.1986
+1574,15,5.70,Marian Kolasa,POL,12.08.59,1,Nördlingen,16.02.1986
+1575,15,5.70,Atanas Tarev,BUL,31.01.58,1,Madrid,23.02.1986
+1576,15,5.70,Marian Kolasa,POL,12.08.59,2,Madrid,23.02.1986
+1577,15,5.70,Philippe Collet,FRA,13.12.63,3,New York City,28.02.1986
+1578,15,5.70,Dave Volz,USA,02.05.62,1,Kobe,05.03.1986
+1579,15,5.70,Thierry Vigneron,FRA,09.03.60,1,Liévin,15.01.1987
+1580,15,5.70,Ferenc Salbert,FRA,05.08.60,2,Liévin,15.01.1987
+1581,15,5.70,Sergey Bubka,UKR,04.12.63,1,Sindelfingen,30.01.1987
+1582,15,5.70,Ferenc Salbert,FRA,05.08.60,2,Sindelfingen,30.01.1987
+1583,15,5.70,Marian Kolasa,POL,12.08.59,1,Zabrze,08.02.1987
+1584,15,5.70,Joe Dial,USA,26.10.62,1,Oklahoma City,13.02.1987
+1585,15,5.70,Brian Oldfield,USA,01.06.45,2,East Rutherford,14.02.1987
+1586,15,5.70,Ferenc Salbert,FRA,05.08.60,2,Paris,14.02.1987
+1587,15,5.70,Viktor Spasov,UKR,19.07.59,1,Moskva,15.02.1987
+1588,15,5.70,Earl Bell,USA,25.08.55,1,Inglewood,21.02.1987
+1589,15,5.70,Vladimir Polyakov,RUS,17.04.60,1,Bryansk,08.03.1987
+1590,15,5.70,Atanas Tarev,BUL,31.01.58,6,Indianapolis,08.03.1987
+1591,15,5.70,Earl Bell,USA,25.08.55,3=,Grenoble,14.03.1987
+1592,15,5.70,Atanas Tarev,BUL,31.01.58,3=,Grenoble,14.03.1987
+1593,15,5.70,Marian Kolasa,POL,12.08.59,5,Grenoble,14.03.1987
+1594,15,5.70,Rodion Gataullin,RUS,23.11.65,1,Vilnius,10.01.1988
+1595,15,5.70,Earl Bell,USA,25.08.55,1,Jonesboro,15.01.1988
+1596,15,5.70,Aleksandr Zhukov,MKD,25.01.65,1,Minsk,17.01.1988
+1597,15,5.70,Grigoriy Yegorov,KAZ,12.01.67,1,Toronto,29.01.1988
+1598,15,5.70,Mike Tully,USA,21.10.56,2,Toronto,29.01.1988
+1599,15,5.70,Thierry Vigneron,FRA,09.03.60,2,Stuttgart,31.01.1988
+1600,15,5.70,Philippe Collet,FRA,13.12.63,3,Stuttgart,31.01.1988
+1601,15,5.70,Thierry Vigneron,FRA,09.03.60,1,Osaka,11.02.1988
+1602,15,5.70,Valeriy Ishutin,UZB,05.09.65,1,Volgograd,11.02.1988
+1603,15,5.70,Earl Bell,USA,25.08.55,1,East Rutherford,13.02.1988
+1604,15,5.70,Earl Bell,USA,25.08.55,2,Fairfax,14.02.1988
+1605,15,5.70,Scott Davis,USA,12.12.61,2,Valencia,23.02.1988
+1606,15,5.70,Philippe Collet,FRA,13.12.63,1,Vittel,27.02.1988
+1607,15,5.70,Nikolay Nikolov,BUL,15.10.64,2,Budapest,06.03.1988
+1608,15,5.70,Atanas Tarev,BUL,31.01.58,3,Budapest,06.03.1988
+1609,15,5.70,Miroslaw Chmara,POL,09.05.64,4,Budapest,06.03.1988
+1610,15,5.70,Earl Bell,USA,25.08.55,4,Grenoble,12.03.1988
+1611,15,5.70,Sergey Bubka,UKR,04.12.63,1,Barcelona,14.01.1989
+1612,15,5.70,Valeriy Ishutin,UZB,05.09.65,2,Minsk,15.01.1989
+1613,15,5.70,Joe Dial,USA,26.10.62,1,Los Angeles,20.01.1989
+1614,15,5.70,Kory Tarpenning,USA,27.02.62,1,Portland,21.01.1989
+1615,15,5.70,Igor Trandenkov,RUS,17.08.66,3,Leningrad,22.01.1989
+1616,15,5.70,Miroslaw Chmara,POL,09.05.64,1,Liévin,28.01.1989
+1617,15,5.70,Grigoriy Yegorov,KAZ,12.01.67,1,New York City,03.02.1989
+1618,15,5.70,Miroslaw Chmara,POL,09.05.64,1,Zabrze,04.02.1989
+1619,15,5.70,Igor Potapovich,KAZ,06.09.67,2,Gomel,04.02.1989
+1620,15,5.70,Marian Kolasa,POL,12.08.59,2,Zabrze,04.02.1989
+1621,15,5.70,Joe Dial,USA,26.10.62,1,Fairfax,05.02.1989
+1622,15,5.70,Tim Bright,USA,28.07.60,2,Osaka,11.02.1989
+1623,15,5.70,Joe Dial,USA,26.10.62,1,Inglewood,17.02.1989
+1624,15,5.70,Rodion Gataullin,RUS,23.11.65,2,Inglewood,17.02.1989
+1625,15,5.70,Miroslaw Chmara,POL,09.05.64,3,Den Haag,19.02.1989
+1626,15,5.70,Igor Potapovich,KAZ,06.09.67,3,Den Haag,22.02.1989
+1627,15,5.70,Billy Olson,USA,19.07.58,2,New York City,24.02.1989
+1628,15,5.70,Joe Dial,USA,26.10.62,3,New York City,24.02.1989
+1629,15,5.70,Igor Trandenkov,RUS,17.08.66,1,Moskva,26.02.1989
+1630,15,5.70,Joe Dial,USA,26.10.62,3,Budapest,04.03.1989
+1631,15,5.70,Grigoriy Yegorov,KAZ,12.01.67,3,Athínai,08.03.1989
+1632,15,5.70,Miroslaw Chmara,POL,09.05.64,3=,Grenoble,11.03.1989
+1633,15,5.70,Earl Bell,USA,25.08.55,3=,Grenoble,11.03.1989
+1634,15,5.70,Billy Olson,USA,19.07.58,5,Grenoble,11.03.1989
+1635,15,5.70,Philippe D'Encausse,FRA,24.03.67,6,Grenoble,11.03.1989
+1636,15,5.70,Kory Tarpenning,USA,27.02.62,7,Grenoble,11.03.1989
+1637,15,5.70,Vasiliy Bubka,UKR,26.11.60,8,Grenoble,11.03.1989
+1638,15,5.70,Thierry Vigneron,FRA,09.03.60,1,Liévin,11.01.1990
+1639,15,5.70,Rodion Gataullin,RUS,23.11.65,1,Minsk,21.01.1990
+1640,15,5.70,Viktor Ryzhenkov,UZB,25.08.66,1,Moskva,21.01.1990
+1641,15,5.70,Ferenc Salbert,FRA,05.08.60,1,Liévin,27.01.1990
+1642,15,5.70,Vasiliy Bubka,UKR,26.11.60,1,Zweibrücken,02.02.1990
+1643,15,5.70,István Bagyula,HUN,02.01.69,1,Fairfax,04.02.1990
+1644,15,5.70,Philippe Collet,FRA,13.12.63,2,Stuttgart,04.02.1990
+1645,15,5.70,Kory Tarpenning,USA,27.02.62,1,East Rutherford,09.02.1990
+1646,15,5.70,Philippe Collet,FRA,13.12.63,1,Paris,10.02.1990
+1647,15,5.70,Tim Bright,USA,28.07.60,2,Osaka,12.02.1990
+1648,15,5.70,Kory Tarpenning,USA,27.02.62,1,Inglewood,16.02.1990
+1649,15,5.70,Scott Huffman,USA,30.11.64,2,Inglewood,16.02.1990
+1650,15,5.70,Tim Bright,USA,28.07.60,3,Inglewood,16.02.1990
+1651,15,5.70,Hermann Fehringer,AUT,08.12.62,1,Wien,18.02.1990
+1652,15,5.70,István Bagyula,HUN,02.01.69,1,New York City,23.02.1990
+1653,15,5.70,Tim Bright,USA,28.07.60,2,New York City,23.02.1990
+1654,15,5.70,Thierry Vigneron,FRA,09.03.60,3=,Glasgow,04.03.1990
+1655,15,5.70,Hermann Fehringer,AUT,08.12.62,3=,Glasgow,04.03.1990
+1656,15,5.70,Hermann Fehringer,AUT,08.12.62,2,Athínai,07.03.1990
+1657,15,5.70,Thierry Vigneron,FRA,09.03.60,5=,Grenoble,10.03.1990
+1658,15,5.70,Kory Tarpenning,USA,27.02.62,5=,Grenoble,10.03.1990
+1659,15,5.70,Tim Bright,USA,28.07.60,7,Grenoble,10.03.1990
+1660,15,5.70,Philippe D'Encausse,FRA,24.03.67,8=,Grenoble,10.03.1990
+1661,15,5.70,Javier Garcia Chico,ESP,22.07.66,8=,Grenoble,10.03.1990
+1662,15,5.70,Vasiliy Bubka,UKR,26.11.60,5,Donetsk,17.03.1990
+1663,15,5.70,Aleksandr Zhukov,MKD,25.01.65,1,Kishinyov,03.02.1991
+1664,15,5.70,Igor Potapovich,KAZ,06.09.67,1,Fairfax,03.02.1991
+1665,15,5.70,Vladimir Polyakov,RUS,17.04.60,4,Volgograd,09.02.1991
+1666,15,5.70,Sergey Fomenko,UKR,07.06.67,5,Volgograd,09.02.1991
+1667,15,5.70,Asko Peltoniemi,FIN,07.02.63,1,Tampere,17.02.1991
+1668,15,5.70,Viktor Ryzhenkov,UZB,25.08.66,1,Gent,20.02.1991
+1669,15,5.70,Ferenc Salbert,FRA,05.08.60,2,Paris,23.02.1991
+1670,15,5.70,Grigoriy Yegorov,KAZ,12.01.67,1,Moskva,24.02.1991
+1671,15,5.70,Vladimir Polyakov,RUS,17.04.60,1,Budapest,26.02.1991
+1672,15,5.70,Grigoriy Yegorov,KAZ,12.01.67,2,München,03.03.1991
+1673,15,5.70,Ferenc Salbert,FRA,05.08.60,3,Sevilla,09.03.1991
+1674,15,5.70,Kory Tarpenning,USA,27.02.62,4,Sevilla,09.03.1991
+1675,15,5.70,Hermann Fehringer,AUT,08.12.62,5,Sevilla,09.03.1991
+1676,15,5.70,Pierre Quinon,FRA,20.02.62,4,Donetsk,19.03.1991
+1677,15,5.70,Viktor Ryzhenkov,UZB,25.08.66,5,Donetsk,19.03.1991
+1678,15,5.70,Bill Payne,USA,21.12.67,1,Hamilton,10.01.1992
+1679,15,5.70,Dave Volz,USA,02.05.62,1,Carbonda,18.01.1992
+1680,15,5.70,Bill Payne,USA,21.12.67,5,Liévin,25.01.1992
+1681,15,5.70,Kory Tarpenning,USA,27.02.62,6=,Liévin,25.01.1992
+1682,15,5.70,Dean Starkey,USA,27.03.67,6=,Liévin,25.01.1992
+1683,15,5.70,Viktor Ryzhenkov,UZB,25.08.66,1,Gent,29.01.1992
+1684,15,5.70,Denis Petushinskiy,RUS,29.01.67,2,Gent,29.01.1992
+1685,15,5.70,Philippe Collet,FRA,13.12.63,2,Miramas,31.01.1992
+1686,15,5.70,Konstantin Semyonov,RUS,20.11.69,2,Moskva,01.02.1992
+1687,15,5.70,Igor Trandenkov,RUS,17.08.66,3,Moskva,01.02.1992
+1688,15,5.70,István Bagyula,HUN,02.01.69,2,Bordeaux,02.02.1992
+1689,15,5.70,Bill Payne,USA,21.12.67,3,New York City,07.02.1992
+1690,15,5.70,Bill Payne,USA,21.12.67,2,Fairfax,09.02.1992
+1691,15,5.70,István Bagyula,HUN,02.01.69,3,Fairfax,09.02.1992
+1692,15,5.70,Vasiliy Bubka,UKR,26.11.60,2,Osaka,11.02.1992
+1693,15,5.70,Tim Bright,USA,28.07.60,3,Los Angeles,15.02.1992
+1694,15,5.70,Jean Galfione,FRA,09.06.71,2,Bordeaux,16.02.1992
+1695,15,5.70,Kory Tarpenning,USA,27.02.62,1=,Genova,18.02.1992
+1696,15,5.70,Scott Huffman,USA,30.11.64,1=,Genova,18.02.1992
+1697,15,5.70,Javier Garcia Chico,ESP,22.07.66,2,Paris,22.02.1992
+1698,15,5.70,Bill Payne,USA,21.12.67,4,Birmingham,22.02.1992
+1699,15,5.70,Grigoriy Yegorov,KAZ,12.01.67,1,München,23.02.1992
+1700,15,5.70,Dean Starkey,USA,27.03.67,1,New York City,28.02.1992
+1701,15,5.70,István Bagyula,HUN,02.01.69,1,Princeton,07.03.1992
+1702,15,5.70,Scott Huffman,USA,30.11.64,2,Donetsk,08.03.1992
+1703,15,5.70,Vasiliy Bubka,UKR,26.11.60,3=,Donetsk,08.03.1992
+1704,15,5.70,Igor Trandenkov,RUS,17.08.66,3=,Donetsk,08.03.1992
+1705,15,5.70,Sergey Bubka,UKR,04.12.63,4=,Grenoble,14.03.1992
+1706,15,5.70,Kory Tarpenning,USA,27.02.62,4=,Grenoble,14.03.1992
+1707,15,5.70,Vasiliy Bubka,UKR,26.11.60,6,Grenoble,14.03.1992
+1708,15,5.70,Philippe D'Encausse,FRA,24.03.67,7,Grenoble,14.03.1992
+1709,15,5.70,Rodion Gataullin,RUS,23.11.65,1,Sankt Peterburg,27.12.1992
+1710,15,5.70A,Bill Payne,USA,21.12.67,1,Reno,23.01.1993
+1711,15,5.70,Denis Petushinskiy,RUS,29.01.67,3,Moskva,02.02.1993
+1712,15,5.70,Valeriy Ishutin,UZB,05.09.65,4,Moskva,02.02.1993
+1713,15,5.70,Delko Lesov,BUL,06.01.67,1,Sofia,06.02.1993
+1714,15,5.70,Pyotr Bochkaryov,RUS,03.11.67,3,Grenoble,07.02.1993
+1715,15,5.70,Bill Payne,USA,21.12.67,1,Gent,10.02.1993
+1716,15,5.70,Pyotr Bochkaryov,RUS,03.11.67,3,Madrid,11.02.1993
+1717,15,5.70,Yevgeniy Bondarenko,RUS,08.10.66,1,Moskva,13.02.1993
+1718,15,5.70,Grigoriy Yegorov,KAZ,12.01.67,2,Moskva,13.02.1993
+1719,15,5.70,Jean Galfione,FRA,09.06.71,4,Liévin,13.02.1993
+1720,15,5.70,Bill Payne,USA,21.12.67,5,Liévin,13.02.1993
+1721,15,5.70,Igor Trandenkov,RUS,17.08.66,6,Liévin,13.02.1993
+1722,15,5.70,Bill Payne,USA,21.12.67,1,Los Angeles,20.02.1993
+1723,15,5.70,Vasiliy Bubka,UKR,26.11.60,4,Donetsk,21.02.1993
+1724,15,5.70,Thierry Vigneron,FRA,09.03.60,2,Liévin,28.02.1993
+1725,15,5.70,Igor Trandenkov,RUS,17.08.66,4,Grenoble,20.03.1993
+1726,15,5.70,Rodion Gataullin,RUS,23.11.65,5,Grenoble,20.03.1993
+1727,15,5.70A,Pat Manson,USA,29.11.67,1,Reno,22.01.1994
+1728,15,5.70,Bill Payne,USA,21.12.67,1,Johnson City,22.01.1994
+1729,15,5.70,Philippe D'Encausse,FRA,24.03.67,3,Clermont-Ferrand,28.01.1994
+1730,15,5.70,Jean Galfione,FRA,09.06.71,4,Clermont-Ferrand,28.01.1994
+1731,15,5.70,Kory Tarpenning,USA,27.02.62,5,Clermont-Ferrand,28.01.1994
+1732,15,5.70,Igor Potapovich,KAZ,06.09.67,6,Clermont-Ferrand,28.01.1994
+1733,15,5.70,Philippe Collet,FRA,13.12.63,7,Clermont-Ferrand,28.01.1994
+1734,15,5.70,Aleksandr Korchagin,KAZ,25.01.72,1,Moskva,01.02.1994
+1735,15,5.70,Grigoriy Yegorov,KAZ,12.01.67,2,Moskva,01.02.1994
+1736,15,5.70,Andrey Skvortsov,RUS,25.12.68,1,Moskva,04.02.1994
+1737,15,5.70,Denis Petushinskiy,RUS,29.01.67,1,Fairfax,06.02.1994
+1738,15,5.70,Kory Tarpenning,USA,27.02.62,2,Fairfax,06.02.1994
+1739,15,5.70,Philippe D'Encausse,FRA,24.03.67,5,Grenoble,06.02.1994
+1740,15,5.70,Igor Potapovich,KAZ,06.09.67,6,Grenoble,06.02.1994
+1741,15,5.70,Scott Huffman,USA,30.11.64,1,Gent,09.02.1994
+1742,15,5.70,Denis Petushinskiy,RUS,29.01.67,3,Madrid,11.02.1994
+1743,15,5.70,Igor Trandenkov,RUS,17.08.66,4,Liévin,13.02.1994
+1744,15,5.70,Maksim Tarasov,RUS,02.12.70,5,Liévin,13.02.1994
+1745,15,5.70,Brent Burns,USA,02.05.69,1,Los Angeles,19.02.1994
+1746,15,5.70,Scott Huffman,USA,30.11.64,5,Donetsk,20.02.1994
+1747,15,5.70,Philippe D'Encausse,FRA,24.03.67,6,Donetsk,20.02.1994
+1748,15,5.70,Pyotr Bochkaryov,RUS,03.11.67,7,Donetsk,20.02.1994
+1749,15,5.70,Jean Galfione,FRA,09.06.71,1,Bordeaux,26.02.1994
+1750,15,5.70,Igor Trandenkov,RUS,17.08.66,1,Lipetsk,27.02.1994
+1751,15,5.70,Lawrence Johnson,USA,07.05.74,1,Gainesville,27.02.1994
+1752,15,5.70,Grigoriy Yegorov,KAZ,12.01.67,2,Athínai,28.02.1994
+1753,15,5.70,Grigoriy Yegorov,KAZ,12.01.67,3,Berlin,04.03.1994
+1754,15,5.70,István Nagy,HUN,28.04.59,4,Berlin,04.03.1994
+1755,15,5.70,Kory Tarpenning,USA,27.02.62,1,Atlanta,05.03.1994
+1756,15,5.70,István Bagyula,HUN,02.01.69,5,Paris,12.03.1994
+1757,15,5.70,José Manuel Arcos,ESP,19.01.73,1,Zaragoza,28.01.1995
+1758,15,5.70,Kory Tarpenning,USA,27.02.62,3=,Grenoble,29.01.1995
+1759,15,5.70,Igor Potapovich,KAZ,06.09.67,3=,Grenoble,29.01.1995
+1760,15,5.70,Rodion Gataullin,RUS,23.11.65,3=,Grenoble,29.01.1995
+1761,15,5.70,Sergey Bubka,UKR,04.12.63,2,New York City,03.02.1995
+1762,15,5.70,Kory Tarpenning,USA,27.02.62,3,New York City,03.02.1995
+1763,15,5.70,Viktor Chistyakov,RUS,09.02.75,1,Ludwigshafen,10.02.1995
+1764,15,5.70,Patrik Stenlund,SWE,11.10.68,1,Skellefteå,11.02.1995
+1765,15,5.70,Kory Tarpenning,USA,27.02.62,4,Donetsk,12.02.1995
+1766,15,5.70,Sergey Bubka,UKR,04.12.63,3,Moskva,14.02.1995
+1767,15,5.70,Viktor Chistyakov,RUS,09.02.75,4,Moskva,14.02.1995
+1768,15,5.70,Kory Tarpenning,USA,27.02.62,4,Liévin,19.02.1995
+1769,15,5.70,Rodion Gataullin,RUS,23.11.65,5,Liévin,19.02.1995
+1770,15,5.70,Bill Payne,USA,21.12.67,6,Liévin,19.02.1995
+1771,15,5.70,Pat Manson,USA,29.11.67,1,Fairfax,25.02.1995
+1772,15,5.70,Andrej Tiwontschik,GER,13.07.70,1,Sindelfingen,25.02.1995
+1773,15,5.70,Bill Payne,USA,21.12.67,2,Fairfax,25.02.1995
+1774,15,5.70,Igor Trandenkov,RUS,17.08.66,3,Berlin,03.03.1995
+1775,15,5.70,Tim Lobinger,GER,03.09.72,1,Sindelfingen,04.03.1995
+1776,15,5.70,Dean Starkey,USA,27.03.67,3,Atlanta,04.03.1995
+1777,15,5.70,István Bagyula,HUN,02.01.69,4=,Atlanta,04.03.1995
+1778,15,5.70,Kory Tarpenning,USA,27.02.62,4=,Atlanta,04.03.1995
+1779,15,5.70,Igor Potapovich,KAZ,06.09.67,4=,Atlanta,04.03.1995
+1780,15,5.70,Bill Deering,USA,20.07.71,7,Atlanta,04.03.1995
+1781,15,5.70,Nick Hysong,USA,09.12.71,5,Barcelona,11.03.1995
+1782,15,5.70,José Manuel Arcos,ESP,19.01.73,6,Barcelona,11.03.1995
+1783,15,5.70,Pyotr Bochkaryov,RUS,03.11.67,1,Moskva,06.01.1996
+1784,15,5.70A,Dean Starkey,USA,27.03.67,1,Reno,19.01.1996
+1785,15,5.70,Denis Petushinskiy,RUS,29.01.67,1,Moskva,19.01.1996
+1786,15,5.70,Jean Galfione,FRA,09.06.71,3,Donetsk,28.01.1996
+1787,15,5.70,Pyotr Bochkaryov,RUS,03.11.67,4,Donetsk,28.01.1996
+1788,15,5.70,Michael Stolle,GER,17.12.74,1,Stuttgart,04.02.1996
+1789,15,5.70,Viktor Chistyakov,RUS,09.02.75,2,Stuttgart,04.02.1996
+1790,15,5.70,Jean Galfione,FRA,09.06.71,2,Paris,11.02.1996
+1791,15,5.70,Rodion Gataullin,RUS,23.11.65,5,Moskva,14.02.1996
+1792,15,5.70,Lawrence Johnson,USA,07.05.74,1,Knoxville,16.02.1996
+1793,15,5.70,Jean Galfione,FRA,09.06.71,6,Liévin,18.02.1996
+1794,15,5.70,Viktor Chistyakov,AUS,09.02.75,7,Liévin,18.02.1996
+1795,15,5.70,Andrej Tiwontschik,GER,13.07.70,2,Karlsruhe,24.02.1996
+1796,15,5.70,Viktor Chistyakov,RUS,09.02.75,2,Moskva,28.02.1996
+1797,15,5.70,Pat Manson,USA,29.11.67,1,Atlanta,02.03.1996
+1798,15,5.70,Peter Widén,SWE,02.07.67,4,Stockholm,09.03.1996
+1799,15,5.70,Martin Eriksson,SWE,15.06.71,5,Stockholm,09.03.1996
+1800,15,5.70,Pyotr Bochkaryov,RUS,03.11.67,2,Moskva,06.01.1997
+1801,15,5.70,Denis Petushinskiy,RUS,29.01.67,3,Moskva,06.01.1997
+1802,15,5.70,Rodion Gataullin,RUS,23.11.65,3,Donetsk,26.01.1997
+1803,15,5.70,Denis Petushinskiy,RUS,29.01.67,4,Donetsk,26.01.1997
+1804,15,5.70,Pat Manson,USA,29.11.67,1,Chemnitz,29.01.1997
+1805,15,5.70,Alain Andji,FRA,20.11.74,2,Budapest,01.02.1997
+1806,15,5.70,Jean Galfione,FRA,09.06.71,3,Budapest,01.02.1997
+1807,15,5.70,Danny Ecker,GER,21.07.77,2,Stuttgart,02.02.1997
+1808,15,5.70,Pyotr Bochkaryov,RUS,03.11.67,3,Stuttgart,02.02.1997
+1809,15,5.70,Pyotr Bochkaryov,RUS,03.11.67,1,Madrid,05.02.1997
+1810,15,5.70,Scott Hennig,USA,17.04.69,2,New York City,07.02.1997
+1811,15,5.70,Pat Manson,USA,29.11.67,3,New York City,07.02.1997
+1812,15,5.70,Dean Starkey,USA,27.03.67,4=,New York City,07.02.1997
+1813,15,5.70,Alain Andji,FRA,20.11.74,4=,New York City,07.02.1997
+1814,15,5.70,Tim Lobinger,GER,03.09.72,1,Karlsruhe,14.02.1997
+1815,15,5.70,Javier Garcia Chico,ESP,22.07.66,1,Zaragoza,15.02.1997
+1816,15,5.70,Alain Andji,FRA,20.11.74,6,Liévin,16.02.1997
+1817,15,5.70,Dmitriy Markov,AUS,14.03.75,7,Liévin,16.02.1997
+1818,15,5.70,Jean Galfione,FRA,09.06.71,8,Liévin,16.02.1997
+1819,15,5.70,Michael Stolle,GER,17.12.74,1,Dortmund,22.02.1997
+1820,15,5.70,Javier Garcia Chico,ESP,22.07.66,1,Valencia,22.02.1997
+1821,15,5.70,Pat Manson,USA,29.11.67,3,Fairfax,22.02.1997
+1822,15,5.70,Lawrence Johnson,USA,07.05.74,4,Fairfax,22.02.1997
+1823,15,5.70,Bill Deering,USA,20.07.71,5,Fairfax,22.02.1997
+1824,15,5.70,Jean Galfione,FRA,09.06.71,2,Bordeaux,23.02.1997
+1825,15,5.70,Igor Potapovich,KAZ,06.09.67,2,Berlin,28.02.1997
+1826,15,5.70,Scott Hennig,USA,17.04.69,5=,Atlanta,01.03.1997
+1827,15,5.70,Dean Starkey,USA,27.03.67,5=,Atlanta,01.03.1997
+1828,15,5.70,Riaan Botha,RSA,08.11.70,q,Paris,07.03.1997
+1829,15,5.70,Tim Lobinger,GER,03.09.72,q,Paris,07.03.1997
+1830,15,5.70,Tim Lobinger,GER,03.09.72,3,München,22.06.1997
+1831,15,5.70,Vyacheslav Shuteyev,UKR,07.10.71,1,Kharkov,26.12.1997
+1832,15,5.70,Grigoriy Yegorov,KAZ,12.01.67,1,Valencia,10.01.1998
+1833,15,5.70,Tim Lobinger,GER,03.09.72,1,Chemnitz,23.01.1998
+1834,15,5.70A,Scott Hennig,USA,17.04.69,2,Reno,23.01.1998
+1835,15,5.70A,Ruhan Isim,TUR,05.06.70,1c2,Reno,24.01.1998
+1836,15,5.70,Dean Starkey,USA,27.03.67,2,Donetsk,25.01.1998
+1837,15,5.70,Peter Widén,SWE,02.07.67,3,Donetsk,25.01.1998
+1838,15,5.70,Ilian Efremov,BUL,02.08.70,1,Sofia,31.01.1998
+1839,15,5.70,Igor Potapovich,KAZ,06.09.67,3,Stuttgart,01.02.1998
+1840,15,5.70,Pat Manson,USA,29.11.67,4,Stuttgart,01.02.1998
+1841,15,5.70,Alain Andji,FRA,20.11.74,1,Madrid,03.02.1998
+1842,15,5.70,Fabio Pizzolato,ITA,16.03.75,1,Genova,07.02.1998
+1843,15,5.70,Pavel Burlachenko,RUS,07.04.76,1,Moskva,08.02.1998
+1844,15,5.70,Tim Lobinger,GER,03.09.72,2,Gent,08.02.1998
+1845,15,5.70,Yevgeniy Smiryagin,RUS,17.05.76,2,Moskva,08.02.1998
+1846,15,5.70,Lawrence Johnson,USA,07.05.74,3,Gent,08.02.1998
+1847,15,5.70,Igor Trandenkov,RUS,17.08.66,2,Moskva,14.02.1998
+1848,15,5.70,Fabio Pizzolato,ITA,16.03.75,2,Genova,18.02.1998
+1849,15,5.70,Montxu Miranda,ESP,27.12.76,3,Genova,18.02.1998
+1850,15,5.70,Igor Potapovich,KAZ,06.09.67,4,Liévin,22.02.1998
+1851,15,5.70,Romain Mesnil,FRA,13.06.77,5,Liévin,22.02.1998
+1852,15,5.70,Pat Manson,USA,29.11.67,6,Liévin,22.02.1998
+1853,15,5.70,Montxu Miranda,ESP,27.12.76,4,Valencia,28.02.1998
+1854,15,5.70,Danny Ecker,GER,21.07.77,2,Berlin,06.03.1998
+1855,15,5.70,Trond Barthel,NOR,11.09.70,1,Maebashi,07.03.1998
+1856,15,5.70,Andrej Tiwontschik,GER,13.07.70,1,Ludwigshafen,16.01.1999
+1857,15,5.70,Alain Andji,FRA,20.11.74,3,Clermont-Ferrand,21.01.1999
+1858,15,5.70,Rens Blom,NED,01.03.77,1,Düsseldorf,22.01.1999
+1859,15,5.70A,Nick Hysong,USA,09.12.71,2,Reno,22.01.1999
+1860,15,5.70,Montxu Miranda,ESP,27.12.76,1,Madrid,23.01.1999
+1861,15,5.70,Danny Ecker,GER,21.07.77,3,Chemnitz,29.01.1999
+1862,15,5.70A,Nick Hysong,USA,09.12.71,1,Flagstaff,30.01.1999
+1863,15,5.70,Montxu Miranda,ESP,27.12.76,1,Valencia,30.01.1999
+1864,15,5.70,Nick Hysong,USA,09.12.71,2,New York City,05.02.1999
+1865,15,5.70,Tim Lobinger,GER,03.09.72,2,Stuttgart,07.02.1999
+1866,15,5.70,Jean Galfione,FRA,09.06.71,3,Stuttgart,07.02.1999
+1867,15,5.70,Montxu Miranda,ESP,27.12.76,4,Stuttgart,07.02.1999
+1868,15,5.70,Nick Hysong,USA,09.12.71,2,Los Angeles,13.02.1999
+1869,15,5.70,Lawrence Johnson,USA,07.05.74,3,Los Angeles,13.02.1999
+1870,15,5.70,Lawrence Johnson,USA,07.05.74,2,Fairfax,19.02.1999
+1871,15,5.70,Jacob Davis,USA,29.04.78,1,Manhattan,20.02.1999
+1872,15,5.70,István Bagyula,HUN,02.01.69,1,Budapest,20.02.1999
+1873,15,5.70,Michael Stolle,GER,17.12.74,4,Karlsruhe,20.02.1999
+1874,15,5.70,Rodion Gataullin,RUS,23.11.65,4,Donetsk,21.02.1999
+1875,15,5.70,Tim Mack,USA,15.09.72,5,Atlanta,27.02.1999
+1876,15,5.70,Igor Potapovich,KAZ,06.09.67,4=,Maebashi,06.03.1999
+1877,15,5.70,José Manuel Arcos,ESP,19.01.73,4=,Maebashi,06.03.1999
+1878,15,5.70,Andrej Tiwontschik,GER,13.07.70,6=,Maebashi,06.03.1999
+1879,15,5.70,Romain Mesnil,FRA,13.06.77,6=,Maebashi,06.03.1999
+1880,15,5.70A,Nick Hysong,USA,09.12.71,3,Reno,21.01.2000
+1881,15,5.70A,Tye Harvey,USA,25.09.74,4,Reno,21.01.2000
+1882,15,5.70,Tim Lobinger,GER,03.09.72,1,Sindelfingen,22.01.2000
+1883,15,5.70,Aleksandr Averbukh,ISR,01.10.74,3,Dortmund,30.01.2000
+1884,15,5.70,Jeff Hartwig,USA,25.09.67,1,New York City,04.02.2000
+1885,15,5.70,Lawrence Johnson,USA,07.05.74,2,New York City,04.02.2000
+1886,15,5.70,Maurilio Mariani,ITA,22.04.73,2,Piræus,09.02.2000
+1887,15,5.70,Tim Lobinger,GER,03.09.72,1,Sindelfingen,12.02.2000
+1888,15,5.70,Okkert Brits,RSA,22.08.73,2,Liévin,13.02.2000
+1889,15,5.70,Rodion Gataullin,RUS,23.11.65,3,Liévin,13.02.2000
+1890,15,5.70,Tim Lobinger,GER,03.09.72,,Chemnitz,18.02.2000
+1891,15,5.70,Rodion Gataullin,RUS,23.11.65,2,Donetsk,18.02.2000
+1892,15,5.70,Yevgeniy Smiryagin,RUS,17.05.76,3,Donetsk,18.02.2000
+1893,15,5.70,Martin Eriksson,SWE,15.06.71,1,Tampere,20.02.2000
+1894,15,5.70,Martin Eriksson,SWE,15.06.71,2,Gent,26.02.2000
+1895,15,5.70,Russ Buller,USA,10.09.78,1,Fayetteville,10.03.2000
+1896,15,5.70A,Derek Miles,USA,28.09.72,2,Reno,19.01.2001
+1897,15,5.70,Lawrence Johnson,USA,07.05.74,1,New York City,02.02.2001
+1898,15,5.70,Montxu Miranda,ESP,27.12.76,1,Sevilla,03.02.2001
+1899,15,5.70,Okkert Brits,RSA,22.08.73,2,Donetsk,04.02.2001
+1900,15,5.70,Denis Yurchenko,UKR,27.01.78,3,Donetsk,04.02.2001
+1901,15,5.70,Grigoriy Yegorov,KAZ,12.01.67,4,Donetsk,04.02.2001
+1902,15,5.70,Tim Mack,USA,15.09.72,3,Fayetteville,10.02.2001
+1903,15,5.70,Russ Buller,USA,10.09.78,4,Fayetteville,10.02.2001
+1904,15,5.70,Chad Harting,USA,20.02.72,5,Fayetteville,10.02.2001
+1905,15,5.70,Tye Harvey,USA,25.09.74,2,Dortmund,11.02.2001
+1906,15,5.70,Pavel Gerasimov,RUS,29.05.79,1,Moskva,17.02.2001
+1907,15,5.70,Vasiliy Gorshkov,RUS,05.02.77,2,Moskva,17.02.2001
+1908,15,5.70,Rodion Gataullin,RUS,23.11.65,1,Gent,23.02.2001
+1909,15,5.70,Michael Stolle,GER,17.12.74,4,Sindelfingen,04.03.2001
+1910,15,5.70,Aleksandr Averbukh,ISR,01.10.74,4,Lisboa,10.03.2001
+1911,15,5.70,Pavel Gerasimov,RUS,29.05.79,5,Lisboa,10.03.2001
+1912,15,5.70,Montxu Miranda,ESP,27.12.76,6,Lisboa,10.03.2001
+1913,15,5.70A,Derek Miles,USA,28.09.72,1,Reno,11.01.2002
+1914,15,5.70,Tim Lobinger,GER,03.09.72,1,Karlsruhe,25.01.2002
+1915,15,5.70,Lars Börgeling,GER,16.04.79,1,Dortmund,27.01.2002
+1916,15,5.70,Jeff Hartwig,USA,25.09.67,1,Boston,27.01.2002
+1917,15,5.70,Tye Harvey,USA,25.09.74,2,Boston,27.01.2002
+1918,15,5.70,Danny Ecker,GER,21.07.77,2=,Dortmund,27.01.2002
+1919,15,5.70,Tim Lobinger,GER,03.09.72,2=,Dortmund,27.01.2002
+1920,15,5.70,Lawrence Johnson,USA,07.05.74,3,Boston,27.01.2002
+1921,15,5.70,Ruslan Yeremenko,UKR,31.07.78,4,Dortmund,27.01.2002
+1922,15,5.70,Lawrence Johnson,USA,07.05.74,2,New York City,01.02.2002
+1923,15,5.70,Lars Börgeling,GER,16.04.79,3,Erfurt,01.02.2002
+1924,15,5.70,Derek Miles,USA,28.09.72,3,New York City,01.02.2002
+1925,15,5.70,Denis Yurchenko,UKR,27.01.78,4,Erfurt,01.02.2002
+1926,15,5.70,Derek Miles,USA,28.09.72,1,Lincoln,09.02.2002
+1927,15,5.70,Jeff Hartwig,USA,25.09.67,2,Lincoln,09.02.2002
+1928,15,5.70,Ruslan Yeremenko,UKR,31.07.78,1,Praha,14.02.2002
+1929,15,5.70,Stepán Janácek,CZE,12.06.77,2,Praha,14.02.2002
+1930,15,5.70,Adam Kolasa,POL,02.08.75,3,Praha,14.02.2002
+1931,15,5.70,Richard Spiegelburg,GER,12.08.77,1,Senftenberg,16.02.2002
+1932,15,5.70,Tim Lobinger,GER,03.09.72,1,Chemnitz,22.02.2002
+1933,15,5.70,Stepán Janácek,CZE,12.06.77,2,Chemnitz,22.02.2002
+1934,15,5.70,Vasiliy Gorshkov,RUS,05.02.77,3,Chemnitz,22.02.2002
+1935,15,5.70,Montxu Miranda,ESP,27.12.76,1,Valencia,23.02.2002
+1936,15,5.70,Lars Börgeling,GER,16.04.79,2,Dessau,24.02.2002
+1937,15,5.70,Nick Hysong,USA,09.12.71,4,Donetsk,24.02.2002
+1938,15,5.70,Rodion Gataullin,RUS,23.11.65,5,Donetsk,24.02.2002
+1939,15,5.70,Denis Yurchenko,UKR,27.01.78,6,Donetsk,24.02.2002
+1940,15,5.70,Adam Kolasa,POL,02.08.75,7,Donetsk,24.02.2002
+1941,15,5.70,Adam Kolasa,POL,02.08.75,4,Wien,02.03.2002
+1942,15,5.70,Thibaut Duval,BEL,01.02.79,5,Wien,02.03.2002
+1943,15,5.70,Vasiliy Gorshkov,RUS,05.02.77,1,Moskva,07.01.2003
+1944,15,5.70A,Jeff Hartwig,USA,25.09.67,2,Reno,18.01.2003
+1945,15,5.70A,Tye Harvey,USA,25.09.74,3,Reno,18.01.2003
+1946,15,5.70,Tim Lobinger,GER,03.09.72,1,Dessau,25.01.2003
+1947,15,5.70,Björn Otto,GER,16.10.77,1,Cottbus,29.01.2003
+1948,15,5.70,Paul Terek,USA,20.10.79,1,Seattle,01.02.2003
+1949,15,5.70,Derek Miles,USA,28.09.72,1,New York City,07.02.2003
+1950,15,5.70,Romain Mesnil,FRA,13.06.77,1,Gent,09.02.2003
+1951,15,5.70,Oscar Janson,SWE,22.07.75,1,Malmö,22.02.2003
+1952,15,5.70,Richard Spiegelburg,GER,12.08.77,3,Leipzig,22.02.2003
+1953,15,5.70,Vasiliy Gorshkov,RUS,05.02.77,1,Moskva,27.02.2003
+1954,15,5.70,Dmitriy Kuptsov,RUS,09.11.82,2,Moskva,27.02.2003
+1955,15,5.70,Adam Ptácek,CZE,08.10.80,1,Bratislava,01.03.2003
+1956,15,5.70,Stepán Janácek,CZE,12.06.77,2,Bratislava,01.03.2003
+1957,15,5.70,Jeremy Scott,USA,21.05.81,2,Boston,01.03.2003
+1958,15,5.70,Tim Mack,USA,15.09.72,3,Boston,01.03.2003
+1959,15,5.70,Russ Buller,USA,10.09.78,4,Boston,01.03.2003
+1960,15,5.70,Vasiliy Gorshkov,RUS,05.02.77,4,Birmingham,15.03.2003
+1961,15,5.70,Derek Miles,USA,28.09.72,5,Birmingham,15.03.2003
+1962,15,5.70A,Daichi Sawano,JPN,16.09.80,1c2,Reno,10.01.2004
+1963,15,5.70,Jeff Hartwig,USA,25.09.67,1,Vermillion,17.01.2004
+1964,15,5.70,Patrik Kristiansson,SWE,03.06.77,1,Dessau,25.01.2004
+1965,15,5.70,Björn Otto,GER,16.10.77,1,Cottbus,28.01.2004
+1966,15,5.70,Rens Blom,NED,01.03.77,1,Stuttgart,31.01.2004
+1967,15,5.70,Giuseppe Gibilisco,ITA,05.01.79,2,Stuttgart,31.01.2004
+1968,15,5.70,Toby Stevenson,USA,19.11.76,1,New York City,06.02.2004
+1969,15,5.70,Ruslan Yeremenko,UKR,31.07.78,1,Leipzig,07.02.2004
+1970,15,5.70,Tye Harvey,USA,25.09.74,2,Leipzig,07.02.2004
+1971,15,5.70,Björn Otto,GER,16.10.77,1,Leipzig,14.02.2004
+1972,15,5.70,Pavel Gerasimov,RUS,29.05.79,2,Moskva,18.02.2004
+1973,15,5.70,Björn Otto,GER,16.10.77,2,Dortmund,22.02.2004
+1974,15,5.70,Tim Lobinger,GER,03.09.72,3,Chemnitz,27.02.2004
+1975,15,5.70,Michael Stolle,GER,17.12.74,4,Chemnitz,27.02.2004
+1976,15,5.70,Tim Lobinger,GER,03.09.72,2,Leipzig,29.02.2004
+1977,15,5.70,Rens Blom,NED,01.03.77,q,Budapest,06.03.2004
+1978,15,5.70,Giuseppe Gibilisco,ITA,05.01.79,q,Budapest,06.03.2004
+1979,15,5.70,Adam Ptácek,CZE,08.10.80,q,Budapest,06.03.2004
+1980,15,5.70,Patrik Kristiansson,SWE,03.06.77,q,Budapest,06.03.2004
+1981,15,5.70,Romain Mesnil,FRA,13.06.77,q,Budapest,06.03.2004
+1982,15,5.70,Tim Lobinger,GER,03.09.72,q,Budapest,06.03.2004
+1983,15,5.70,Denis Yurchenko,UKR,27.01.78,q,Budapest,06.03.2004
+1984,15,5.70,Okkert Brits,RSA,22.08.73,q,Budapest,06.03.2004
+1985,15,5.70,Adam Ptácek,CZE,08.10.80,2,Budapest,07.03.2004
+1986,15,5.70,Denis Yurchenko,UKR,27.01.78,3,Budapest,07.03.2004
+1987,15,5.70,Patrik Kristiansson,SWE,03.06.77,4,Budapest,07.03.2004
+1988,15,5.70,Tim Lobinger,GER,03.09.72,5,Budapest,07.03.2004
+1989,15,5.70,Jeff Hartwig,USA,25.09.67,1,Bad Oeynhausen,13.03.2004
+1990,15,5.70,Brad Walker,USA,21.06.81,1,Fayetteville,13.03.2004
+1991,15,5.70,Oscar Janson,SWE,22.07.75,2,Bad Oeynhausen,13.03.2004
+1992,15,5.70,Derek Miles,USA,28.09.72,2,Jonesboro,27.06.2004
+1993,15,5.70,Daniel Ryland,USA,06.08.79,3,Jonesboro,27.06.2004
+1994,15,5.70,Bubba McLean,USA,02.09.79,4,Jonesboro,27.06.2004
+1995,15,5.70,Tim Lobinger,GER,03.09.72,2,Münster,23.09.2004
+1996,15,5.70,Ruslan Yeremenko,UKR,31.07.78,1,Dessau,22.01.2005
+1997,15,5.70,Igor Pavlov,RUS,18.07.79,1,Moskva,22.01.2005
+1998,15,5.70,Björn Otto,GER,16.10.77,3,Cottbus,26.01.2005
+1999,15,5.70,Lars Börgeling,GER,16.04.79,3,Stuttgart,29.01.2005
+2000,15,5.70,Brad Walker,USA,21.06.81,4,Stuttgart,29.01.2005
+2001,15,5.70,Derek Miles,USA,28.09.72,1,New York City,04.02.2005
+2002,15,5.70,Björn Otto,GER,16.10.77,1,Leipzig,06.02.2005
+2003,15,5.70,Danny Ecker,GER,21.07.77,2,Leipzig,06.02.2005
+2004,15,5.70,Spas Bukhalov,BUL,14.11.80,1,Sofia,12.02.2005
+2005,15,5.70,Aleksandr Korchmyd,UKR,22.01.82,2c2,Donetsk,12.02.2005
+2006,15,5.70,Brad Walker,USA,21.06.81,4c1,Donetsk,12.02.2005
+2007,15,5.70,Jean Galfione,FRA,09.06.71,2,Karlsruhe,13.02.2005
+2008,15,5.70,Fabian Schulze,GER,07.03.84,2,Sindelfingen,20.02.2005
+2009,15,5.70,Tim Lobinger,GER,03.09.72,3,Sindelfingen,20.02.2005
+2010,15,5.70,Björn Otto,GER,16.10.77,4,Sindelfingen,20.02.2005
+2011,15,5.70,Danny Ecker,GER,21.07.77,2,Chemnitz,25.02.2005
+2012,15,5.70,Tim Lobinger,GER,03.09.72,q,Madrid,04.03.2005
+2013,15,5.70,Artyom Kuptsov,RUS,22.04.84,q,Madrid,04.03.2005
+2014,15,5.70,Igor Pavlov,RUS,18.07.79,q,Madrid,04.03.2005
+2015,15,5.70,Jean Galfione,FRA,09.06.71,q,Madrid,04.03.2005
+2016,15,5.70,Denis Yurchenko,UKR,27.01.78,q,Madrid,04.03.2005
+2017,15,5.70,Alhaji Jeng,SWE,13.12.81,q,Madrid,04.03.2005
+2018,15,5.70,Fabian Schulze,GER,07.03.84,q,Madrid,04.03.2005
+2019,15,5.70,Björn Otto,GER,16.10.77,q,Madrid,04.03.2005
+2020,15,5.70,Björn Otto,GER,16.10.77,4,Madrid,05.03.2005
+2021,15,5.70,Fabian Schulze,GER,07.03.84,5,Madrid,05.03.2005
+2022,15,5.70,Björn Otto,GER,16.10.77,1,Dessau,21.01.2006
+2023,15,5.70,Ruslan Yeremenko,UKR,31.07.78,2,Cottbus,25.01.2006
+2024,15,5.70,Björn Otto,GER,16.10.77,3,Cottbus,25.01.2006
+2025,15,5.70A,Robinson Pratt,MEX,25.02.80,1c1,Reno,28.01.2006
+2026,15,5.70,Tim Lobinger,GER,03.09.72,2,Stockholm,02.02.2006
+2027,15,5.70,Aleksandr Korchmyd,UKR,22.01.82,3,Stockholm,02.02.2006
+2028,15,5.70,Denis Yurchenko,UKR,27.01.78,1,Stuttgart,04.02.2006
+2029,15,5.70,Tim Lobinger,GER,03.09.72,2,Stuttgart,04.02.2006
+2030,15,5.70,Fabian Schulze,GER,07.03.84,3,Stuttgart,04.02.2006
+2031,15,5.70,Jeff Hartwig,USA,25.09.67,1c2,Fayetteville,10.02.2006
+2032,15,5.70,Lars Börgeling,GER,16.04.79,1,Leipzig,12.02.2006
+2033,15,5.70,Tim Lobinger,GER,03.09.72,2,Leipzig,12.02.2006
+2034,15,5.70,Przemyslaw Czerwinsk,POL,28.07.83,3,Donetsk,12.02.2006
+2035,15,5.70,Aleksandr Korchmyd,UKR,22.01.82,4,Donetsk,12.02.2006
+2036,15,5.70,Denis Yurchenko,UKR,27.01.78,5,Donetsk,12.02.2006
+2037,15,5.70,Kevin Rans,BEL,19.08.82,6,Donetsk,12.02.2006
+2038,15,5.70,Tim Mack,USA,15.09.72,1,Knoxville,17.02.2006
+2039,15,5.70,Lars Börgeling,GER,16.04.79,2,Düsseldorf,17.02.2006
+2040,15,5.70,Romain Mesnil,FRA,13.06.77,3,Düsseldorf,17.02.2006
+2041,15,5.70,Björn Otto,GER,16.10.77,4,Düsseldorf,17.02.2006
+2042,15,5.70,Aleksandr Averbukh,ISR,01.10.74,5,Düsseldorf,17.02.2006
+2043,15,5.70,Tim Lobinger,GER,03.09.72,6,Düsseldorf,17.02.2006
+2044,15,5.70,Maksim Mazurik,UKR,02.04.83,1,Sumy,22.02.2006
+2045,15,5.70,Jeff Hartwig,USA,25.09.67,2,Boston,25.02.2006
+2046,15,5.70,Tim Lobinger,GER,03.09.72,1,Chemnitz,03.03.2006
+2047,15,5.70,Lars Börgeling,GER,16.04.79,2,Chemnitz,03.03.2006
+2048,15,5.70,Jeff Hartwig,USA,25.09.67,q,Moskva,11.03.2006
+2049,15,5.70,Brad Walker,USA,21.06.81,q,Moskva,11.03.2006
+2050,15,5.70,Denis Yurchenko,UKR,27.01.78,q,Moskva,11.03.2006
+2051,15,5.70,Aleksandr Averbukh,ISR,01.10.74,q,Moskva,11.03.2006
+2052,15,5.70,Alhaji Jeng,SWE,13.12.81,2,Moskva,11.03.2006
+2053,15,5.70,Igor Pavlov,RUS,18.07.79,1,Moskva,13.01.2007
+2054,15,5.70,Brad Walker,USA,21.06.81,1,Seattle,13.01.2007
+2055,15,5.70,Viktor Chistyakov,AUS,09.02.75,2,Moskva,13.01.2007
+2056,15,5.70A,Jeff Hartwig,USA,25.09.67,1,Reno,19.01.2007
+2057,15,5.70,Igor Pavlov,RUS,18.07.79,2,Dessau,21.01.2007
+2058,15,5.70,Lars Börgeling,GER,16.04.79,3,Dessau,21.01.2007
+2059,15,5.70,Danny Ecker,GER,21.07.77,2,Glasgow,27.01.2007
+2060,15,5.70,Björn Otto,GER,16.10.77,1,Dormagen,28.01.2007
+2061,15,5.70,Sergey Kucheryanu,RUS,30.06.85,1,Moskva,31.01.2007
+2062,15,5.70,Jérôme Clavier,FRA,03.05.83,1,Eaubonne,02.02.2007
+2063,15,5.70,Jeff Hartwig,USA,25.09.67,3,New York City,02.02.2007
+2064,15,5.70,Ilian Efremov,BUL,02.08.70,1,Sofia,03.02.2007
+2065,15,5.70,Lars Börgeling,GER,16.04.79,3,Stuttgart,03.02.2007
+2066,15,5.70,Paul Burgess,AUS,14.08.79,4,Stuttgart,03.02.2007
+2067,15,5.70,Tim Lobinger,GER,03.09.72,5,Stuttgart,03.02.2007
+2068,15,5.70,Danny Ecker,GER,21.07.77,6,Stuttgart,03.02.2007
+2069,15,5.70,Jeff Hartwig,USA,25.09.67,1,Düsseldorf,06.02.2007
+2070,15,5.70,Björn Otto,GER,16.10.77,2,Düsseldorf,06.02.2007
+2071,15,5.70,Romain Mesnil,FRA,13.06.77,1,Aubière,09.02.2007
+2072,15,5.70,Adam Kolasa,POL,02.08.75,4,Leipzig,09.02.2007
+2073,15,5.70,Brad Walker,USA,21.06.81,4,Donetsk,10.02.2007
+2074,15,5.70,Danny Ecker,GER,21.07.77,1,Karlsruhe,11.02.2007
+2075,15,5.70,Tim Lobinger,GER,03.09.72,2,Karlsruhe,11.02.2007
+2076,15,5.70,Jeff Hartwig,USA,25.09.67,3,Karlsruhe,11.02.2007
+2077,15,5.70,Viktor Chistyakov,RUS,09.02.75,1,Chelyabinsk,15.02.2007
+2078,15,5.70,Lars Börgeling,GER,16.04.79,5,Leipzig,17.02.2007
+2079,15,5.70,Ilian Efremov,BUL,02.08.70,1,Piræus,21.02.2007
+2080,15,5.70,Tim Lobinger,GER,03.09.72,1,Chemnitz,23.02.2007
+2081,15,5.70,Richard Spiegelburg,GER,12.08.77,2,Chemnitz,23.02.2007
+2082,15,5.70,Lars Börgeling,GER,16.04.79,3,Chemnitz,23.02.2007
+2083,15,5.70,Fabian Schulze,GER,07.03.84,4,Chemnitz,23.02.2007
+2084,15,5.70,Björn Otto,GER,16.10.77,1,Piræus,24.02.2007
+2085,15,5.70,Björn Otto,GER,16.10.77,q,Birmingham,02.03.2007
+2086,15,5.70,Jeremy Scott,USA,21.05.81,1,Jonesboro,06.08.2007
+2087,15,5.70A,Toby Stevenson,USA,19.11.76,2,Reno,04.01.2008
+2088,15,5.70,Sergey Kucheryanu,RUS,30.06.85,1,Moskva,12.01.2008
+2089,15,5.70,Yevgeniy Lukyanenko,RUS,23.01.85,1,Krasnodar,15.01.2008
+2090,15,5.70,Sergey Kucheryanu,RUS,30.06.85,1,Moskva,19.01.2008
+2091,15,5.70,Björn Otto,GER,16.10.77,2,Dormagen,25.01.2008
+2092,15,5.70,Dmitriy Starodubtsev,RUS,03.01.86,5,Moskva,27.01.2008
+2093,15,5.70,Tommy Skipper,USA,14.09.84,1,New York City,01.02.2008
+2094,15,5.70,Steven Lewis,GBR,20.05.86,2cA,Limoges,02.02.2008
+2095,15,5.70,Tim Lobinger,GER,03.09.72,4,Stuttgart,02.02.2008
+2096,15,5.70,Jeff Hartwig,USA,25.09.67,5,Stuttgart,02.02.2008
+2097,15,5.70,Björn Otto,GER,16.10.77,6,Stuttgart,02.02.2008
+2098,15,5.70,Maksim Mazurik,UKR,02.04.83,1,Eaubonne,08.02.2008
+2099,15,5.70,Jérôme Clavier,FRA,03.05.83,2,Eaubonne,08.02.2008
+2100,15,5.70,Denis Yurchenko,UKR,27.01.78,1,Potsdam,09.02.2008
+2101,15,5.70,Tim Lobinger,GER,03.09.72,1,Karlsruhe,10.02.2008
+2102,15,5.70,Danny Ecker,GER,21.07.77,2,Karlsruhe,10.02.2008
+2103,15,5.70,Paul Burgess,AUS,14.08.79,1,Donetsk,12.02.2008
+2104,15,5.70,Tim Lobinger,GER,03.09.72,1,Dessau,15.02.2008
+2105,15,5.70,Romain Mesnil,FRA,13.06.77,1,Bordeaux,17.02.2008
+2106,15,5.70,Maksim Mazurik,UKR,02.04.83,2,Paris,22.02.2008
+2107,15,5.70,Renaud Lavillenie,FRA,18.09.86,3,Paris,22.02.2008
+2108,15,5.70,Brad Walker,USA,21.06.81,1,Boston,23.02.2008
+2109,15,5.70,Alhaji Jeng,SWE,13.12.81,1,Malmö,23.02.2008
+2110,15,5.70,Jérôme Clavier,FRA,03.05.83,1,Gent,24.02.2008
+2111,15,5.70,Tim Lobinger,GER,03.09.72,q,Valencia,08.03.2008
+2112,15,5.70,Derek Miles,USA,28.09.72,q,Valencia,08.03.2008
+2113,15,5.70,Maksim Mazurik,UKR,02.04.83,q,Valencia,08.03.2008
+2114,15,5.70,Jérôme Clavier,FRA,03.05.83,q,Valencia,08.03.2008
+2115,15,5.70,Brad Walker,USA,21.06.81,q,Valencia,08.03.2008
+2116,15,5.70,Steve Hooker,AUS,16.07.82,q,Valencia,08.03.2008
+2117,15,5.70,Yevgeniy Lukyanenko,RUS,23.01.85,q,Valencia,08.03.2008
+2118,15,5.70,Tim Lobinger,GER,03.09.72,5,Valencia,09.03.2008
+2119,15,5.70,Maksim Mazurik,UKR,02.04.83,6,Valencia,09.03.2008
+2120,15,5.70,Alhaji Jeng,SWE,13.12.81,7,Valencia,09.03.2008
+2121,15,5.70,Tobias Scherbarth,GER,17.08.85,1,Leverkusen,17.01.2009
+2122,15,5.70,Aleksandr Korchmyd,UKR,22.01.82,1,Zaporizhzhya,27.01.2009
+2123,15,5.70,Derek Miles,USA,28.09.72,2,New York City,30.01.2009
+2124,15,5.70,Fabian Schulze,GER,07.03.84,1,Leipzig,01.02.2009
+2125,15,5.70,Romain Mesnil,FRA,13.06.77,2,Stuttgart,07.02.2009
+2126,15,5.70,Alexander Straub,GER,14.10.83,3,Stuttgart,07.02.2009
+2127,15,5.70,Danny Ecker,GER,21.07.77,4,Stuttgart,07.02.2009
+2128,15,5.70,Tobias Scherbarth,GER,17.08.85,1,Düsseldorf,13.02.2009
+2129,15,5.70,Dmitriy Starodubtsev,RUS,03.01.86,2,Moskva,14.02.2009
+2130,15,5.70,Fabian Schulze,GER,07.03.84,2,Karlsruhe,15.02.2009
+2131,15,5.70,Jeremy Scott,USA,21.05.81,1,Jonesboro,20.02.2009
+2132,15,5.70,Romain Mesnil,FRA,13.06.77,1,Liévin,21.02.2009
+2133,15,5.70,Tim Lobinger,GER,03.09.72,4,Leipzig,21.02.2009
+2134,15,5.70,Viktor Chistyakov,RUS,09.02.75,1,Athínai,25.02.2009
+2135,15,5.70,Steven Lewis,GBR,20.05.86,q,Torino,07.03.2009
+2136,15,5.70,Romain Mesnil,FRA,13.06.77,q,Torino,07.03.2009
+2137,15,5.70,Renaud Lavillenie,FRA,18.09.86,q,Torino,07.03.2009
+2138,15,5.70,Pavel Gerasimov,RUS,29.05.79,q,Torino,07.03.2009
+2139,15,5.70,Alexander Straub,GER,14.10.83,q,Torino,07.03.2009
+2140,15,5.70,Lukasz Michalski,POL,17.08.88,q,Torino,07.03.2009
+2141,15,5.70,Spas Bukhalov,BUL,14.11.80,q,Torino,07.03.2009
+2142,15,5.70,Konstandínos Fillipp,GRE,26.11.86,1cA,Manchester,16.01.2010
+2143,15,5.70,Renaud Lavillenie,FRA,18.09.86,1,Bordeaux,24.01.2010
+2144,15,5.70,Aleksandr Gripich,RUS,21.09.86,1,Cottbus,27.01.2010
+2145,15,5.70,Aleksandr Gripich,RUS,21.09.86,1,Krasnodar,30.01.2010
+2146,15,5.70,Alexander Straub,GER,14.10.83,1,Düsseldorf,03.02.2010
+2147,15,5.70,Hendrik Gruber,GER,28.09.86,2,Düsseldorf,03.02.2010
+2148,15,5.70,Viktor Chistyakov,RUS,09.02.75,2=,Stuttgart,06.02.2010
+2149,15,5.70,Raphael Holzdeppe,GER,28.09.89,2=,Stuttgart,06.02.2010
+2150,15,5.70,Renaud Lavillenie,FRA,18.09.86,4,Stuttgart,06.02.2010
+2151,15,5.70,Maksim Mazurik,UKR,02.04.83,1,Potsdam,13.02.2010
+2152,15,5.70,Michal Balner,CZE,12.09.82,1,Praha,17.02.2010
+2153,15,5.70,Giuseppe Gibilisco,ITA,05.01.79,1,Dessau,20.02.2010
+2154,15,5.70A,Tim Mack,USA,15.09.72,1,Albuquerque,27.02.2010
+2155,15,5.70,Malte Mohr,GER,24.07.86,1,Karlsruhe,27.02.2010
+2156,15,5.70A,Derek Miles,USA,28.09.72,2,Albuquerque,27.02.2010
+2157,15,5.70,Alexander Straub,GER,14.10.83,2,Karlsruhe,27.02.2010
+2158,15,5.70,Lukasz Michalski,POL,17.08.88,1,Spala,28.02.2010
+2159,15,5.70,Dmitriy Starodubtsev,RUS,03.01.86,1,Moskva,28.02.2010
+2160,15,5.70,Malte Mohr,GER,24.07.86,2,Ad-Dawhah,13.03.2010
+2161,15,5.70,Fabian Schulze,GER,07.03.84,2,Sindelfingen,23.01.2011
+2162,15,5.70,Igor Pavlov,RUS,18.07.79,1,Moskva,29.01.2011
+2163,15,5.70,Maksim Mazurik,UKR,02.04.83,2,Stuttgart,05.02.2011
+2164,15,5.70,Romain Mesnil,FRA,13.06.77,3,Liévin,08.02.2011
+2165,15,5.70,Michal Balner,CZE,12.09.82,3,Donetsk,12.02.2011
+2166,15,5.70,Igor Pavlov,RUS,18.07.79,4,Donetsk,12.02.2011
+2167,15,5.70,Pawel Wojciechowski,POL,06.06.89,1,Spala,19.02.2011
+2168,15,5.70,Dmitriy Starodubtsev,RUS,03.01.86,1,Omsk,24.12.2011
+2169,15,5.70A,Brad Walker,USA,21.06.81,1,Albuquerque,27.01.2012
+2170,15,5.70,Hendrik Gruber,GER,28.09.86,1,Metz,29.02.2012
+2171,15,5.70,Lázaro Borges,CUB,19.06.86,5=,Istanbul,10.03.2012
+2172,15,5.70,Steven Lewis,GBR,20.05.86,5=,Istanbul,10.03.2012
+2173,15,5.70,Konstandínos Fillipp,GRE,26.11.86,7,Istanbul,10.03.2012
+2174,15,5.70,Renaud Lavillenie,FRA,18.09.86,1,Lyon,09.11.2012
+2175,15,5.70,Konstandínos Fillipp,GRE,26.11.86,1,Linz,02.02.2013
+2176,15,5.70,Sergey Kucheryanu,RUS,30.06.85,3,Donetsk,09.02.2013
+2177,15,5.70,Malte Mohr,GER,24.07.86,4,Donetsk,09.02.2013
+2178,15,5.70,Jan Kudlicka,CZE,29.04.88,5,Donetsk,09.02.2013
+2179,15,5.70,Björn Otto,GER,16.10.77,1,Bydgoszcz,12.02.2013
+2180,15,5.70,Fábio Gomes da Silva,BRA,04.08.83,1,São Caetano do Sul,23.02.2013
+2181,15,5.70,Raphael Holzdeppe,GER,28.09.89,5,Dortmund,24.02.2013
+2182,15,5.70,Jan Kudlicka,CZE,29.04.88,q,Göteborg,02.03.2013
+2183,15,5.70,Steven Lewis,GBR,20.05.86,q,Göteborg,02.03.2013
+2184,15,5.70,Renaud Lavillenie,FRA,18.09.86,q,Göteborg,02.03.2013
+2185,15,5.70,Andrew Irwin,USA,23.01.93,1,Fayetteville,08.03.2013
+2186,15,5.70,Xue Changrui,CHN,31.05.91,2cA,Orléans,18.01.2014
+2187,15,5.70,Edi Maia,POR,10.11.87,3cA,Orléans,18.01.2014
+2188,15,5.70,Konstandínos Fillipp,GRE,26.11.86,4cA,Orléans,18.01.2014
+2189,15,5.70,Piotr Lisek,POL,16.08.92,1,Spala,26.01.2014
+2190,15,5.70A,Sam Kendricks,USA,07.09.92,1,Albuquerque,14.02.2014
+2191,15,5.70,Jan Kudlicka,CZE,29.04.88,2=,Berlin,01.03.2014
+2192,15,5.70,Konstandínos Fillipp,GRE,26.11.86,2=,Berlin,01.03.2014
+2193,15,5.70A,Sam Kendricks,USA,07.09.92,2,Albuquerque,15.03.2014
+2194,15,5.70,Sam Kendricks,USA,07.09.92,2,Akron,10.01.2015
+2195,15,5.70,Konstandínos Fillipp,GRE,26.11.86,2cA,Orléans,17.01.2015
+2196,15,5.70,Aleksandr Gripich,RUS,21.09.86,1,Volgograd,24.01.2015
+2197,15,5.70,Valentin Lavillenie,FRA,16.07.91,2,Rouen,24.01.2015
+2198,15,5.70,Anton Ivakin,RUS,03.02.91,2,Volgograd,24.01.2015
+2199,15,5.70,Piotr Lisek,POL,16.08.92,3,Rouen,24.01.2015
+2200,15,5.70,Aleksandr Gripich,RUS,21.09.86,1,Cottbus,27.01.2015
+2201,15,5.70,Piotr Lisek,POL,16.08.92,1,Torun,03.02.2015
+2202,15,5.70,Andrew Irwin,USA,23.01.93,1,Fayetteville,21.02.2015
+2203,15,5.70,Tobias Scherbarth,GER,17.08.85,1,Karlsruhe,22.02.2015
+2204,15,5.70,Konstandínos Fillipp,GRE,26.11.86,4,Malmö,25.02.2015
+2205,15,5.70,Tobias Scherbarth,GER,17.08.85,q,Praha,06.03.2015
+2206,15,5.70,Jan Kudlicka,CZE,29.04.88,q,Praha,06.03.2015
+2207,15,5.70,Konstandínos Fillipp,GRE,26.11.86,q,Praha,06.03.2015
+2208,15,5.70,Robert Sobera,POL,19.01.91,q,Praha,06.03.2015
+2209,15,5.70,Aleksandr Gripich,RUS,21.09.86,q,Praha,06.03.2015
+2210,15,5.70,Piotr Lisek,POL,16.08.92,q,Praha,06.03.2015
+2211,15,5.70,Renaud Lavillenie,FRA,18.09.86,q,Praha,06.03.2015
+2212,15,5.70,Shawnacy Barber,CAN,27.05.94,1,Akron,09.01.2016
+2213,15,5.70,Raphael Holzdeppe,GER,28.09.89,1,Merzig,16.01.2016
+2214,15,5.70,Renaud Lavillenie,FRA,18.09.86,4cA,Rouen,23.01.2016
+2215,15,5.70,Shawnacy Barber,CAN,27.05.94,5cA,Rouen,23.01.2016
+2216,15,5.70,Carlo Paech,GER,18.12.92,2,Cottbus,27.01.2016
+2217,15,5.70,Michal Balner,CZE,12.09.82,3,Cottbus,27.01.2016
+2218,15,5.70,Raphael Holzdeppe,GER,28.09.89,3,Karlsruhe,06.02.2016
+2219,15,5.70,Georgiy Gorokhov,RUS,20.04.93,1,Moskva,10.02.2016
+2220,15,5.70,Pawel Wojciechowski,POL,06.06.89,3,Torun,12.02.2016
+2221,15,5.70,Konstandínos Fillipp,GRE,26.11.86,1,Piræus,13.02.2016
+2222,15,5.70,Huang Bokai,CHN,26.09.96,1,Gent,13.02.2016
+2223,15,5.70,Luke Cutts,GBR,13.02.88,2,Glasgow,20.02.2016
+2224,15,5.70,Paul Pujats,LAT,06.08.91,1,Black Springs,28.02.2016
+2225,15,5.70,Georgiy Gorokhov,RUS,20.04.93,2,Chelyabinsk,11.01.2017
+2226,15,5.70,Ilya Mudrov,RUS,17.11.91,1,Moskva,18.01.2017
+2227,15,5.70A,Victor Weirich,USA,25.10.87,1,Air Force Academy,19.01.2017
+2228,15,5.70,Konstandínos Fillipp,GRE,26.11.86,2,Rouen,28.01.2017
+2229,15,5.70,Kevin Ménaldo,FRA,12.07.92,3,Rouen,28.01.2017
+2230,15,5.70,Axel Chapelle,FRA,24.04.95,4,Rouen,28.01.2017
+2231,15,5.70,Christopher Nilsen,USA,13.01.98,1cA,Fayetteville,10.02.2017
+2232,15,5.70,Thiago Braz da Silva,BRA,16.12.93,2,Berlin,10.02.2017
+2233,15,5.70,Raphael Holzdeppe,GER,28.09.89,3,Berlin,10.02.2017
+2234,15,5.70,Timur Morgunov,RUS,12.10.96,1,Sankt Peterburg,14.02.2017
+2235,15,5.70,Dmitriy Zhelyabin,RUS,20.05.90,2,Sankt Peterburg,14.02.2017
+2236,15,5.70,Andrew Irwin,USA,23.01.93,1,Fayetteville,17.02.2017
+2237,15,5.70,Armand Duplantis,SWE,10.11.99,1,Baton Rouge,18.02.2017
+2238,15,5.70,Konstandínos Fillipp,GRE,26.11.86,1,Piræus,19.02.2017
+2239,15,5.70,Emmanouíl Karális,GRE,20.10.99,2,Piræus,19.02.2017
+2240,15,5.70,Georgiy Gorokhov,RUS,20.04.93,1,Moskva,20.02.2017
+2241,15,5.70,Xue Changrui,CHN,31.05.91,1,Xianlin,23.02.2017
+2242,15,5.70,Christopher Nilsen,USA,13.01.98,1,College Station,10.03.2017
+2243,15,5.70,Konstandínos Fillipp,GRE,26.11.86,1,Piræus,26.01.2018
+2244,15,5.70,Thiago Braz da Silva,BRA,16.12.93,2,Berlin,26.01.2018
+2245,15,5.70,Renaud Lavillenie,FRA,18.09.86,3,Berlin,26.01.2018
+2246,15,5.70,Scott Houston,USA,11.06.90,1,Lynchburg,03.02.2018
+2247,15,5.70,Pawel Wojciechowski,POL,06.06.89,3,Karlsruhe,03.02.2018
+2248,15,5.70,Menno Vloon,NED,11.05.94,4,Düsseldorf,06.02.2018
+2249,15,5.70,Pawel Wojciechowski,POL,06.06.89,5,Düsseldorf,06.02.2018
+2250,15,5.70,Shawnacy Barber,CAN,27.05.94,6,Düsseldorf,06.02.2018
+2251,15,5.70,Konstandínos Fillipp,GRE,26.11.86,3cA,Rouen,10.02.2018
+2252,15,5.70,Shawnacy Barber,CAN,27.05.94,2,Torun,15.02.2018
+2253,15,5.70,Sam Kendricks,USA,07.09.92,1,Athlone,21.02.2018
+2254,15,5.70,Armand Duplantis,SWE,10.11.99,7=,Birmingham,04.03.2018
+2255,15,5.70,Konstandínos Fillipp,GRE,26.11.86,7=,Birmingham,04.03.2018
+2256,15,5.70,Melker Svärd Jacobss,SWE,08.01.94,9,Birmingham,04.03.2018
+2257,15,5.70,Hussain Asim Al-Hiza,KSA,04.01.98,1,College Station,09.03.2018
+2258,15,5.70,Claudio Michel Stecc,ITA,23.11.91,1cA,Nevers,19.01.2019
+2259,15,5.70,Renaud Lavillenie,FRA,18.09.86,2cA,Nevers,19.01.2019
+2260,15,5.70,Sam Kendricks,USA,07.09.92,3,Cottbus,30.01.2019
+2261,15,5.70,Konstandínos Fillipp,GRE,26.11.86,4,Cottbus,30.01.2019
+2262,15,5.70,Robert Sobera,POL,19.01.91,3,Lódz,04.02.2019
+2263,15,5.70,Emmanouíl Karális,GRE,20.10.99,1,Piræus,09.02.2019
+2264,15,5.70,Bo Kanda Lita Baehre,GER,29.04.99,1,Chemnitz,10.02.2019
+2265,15,5.70,Axel Chapelle,FRA,24.04.95,7=,Clermont-Ferrand,24.02.2019
+2266,15,5.70,Melker Svärd Jacobss,SWE,08.01.94,7=,Clermont-Ferrand,24.02.2019
+2267,15,5.70,Emmanouíl Karális,GRE,20.10.99,q,Glasgow,01.03.2019
+2268,15,5.70,Piotr Lisek,POL,16.08.92,q,Glasgow,01.03.2019
+2269,15,5.70,Sondre Guttormsen,NOR,01.06.99,q,Glasgow,01.03.2019
+2270,15,5.70,Bo Kanda Lita Baehre,GER,29.04.99,q,Glasgow,01.03.2019
+2271,15,5.70,Claudio Michel Stecc,ITA,23.11.91,q,Glasgow,01.03.2019
+2272,15,5.70,Georgiy Gorokhov,RUS,20.04.93,q,Glasgow,01.03.2019
+2273,15,5.70,Melker Svärd Jacobss,SWE,08.01.94,q,Glasgow,01.03.2019
+2274,15,5.70A,Zack McWhorter,USA,07.01.99,1,Provo,13.12.2019
+2275,15,5.70,KC Lightfoot,USA,11.11.99,1,Iowa City,18.01.2020
+2276,15,5.70,Renaud Lavillenie,FRA,18.09.86,1,Karlsruhe,31.01.2020
+2277,15,5.70,Valentin Lavillenie,FRA,16.07.91,2,Karlsruhe,31.01.2020
+2278,15,5.70,Menno Vloon,NED,11.05.94,3,Karlsruhe,31.01.2020
+2279,15,5.70,Torben Blech,GER,12.02.95,3,Düsseldorf,04.02.2020
+2280,15,5.70,Ben Broeders,BEL,21.06.95,4=,Düsseldorf,04.02.2020
+2281,15,5.70,Rutger Koppelaar,NED,01.05.93,4=,Düsseldorf,04.02.2020
+2282,15,5.70,Torben Blech,GER,12.02.95,1=,Dortmund,09.02.2020
+2283,15,5.70,Ben Broeders,BEL,21.06.95,1=,Dortmund,09.02.2020
+2284,15,5.70,Menno Vloon,NED,11.05.94,3,Dortmund,09.02.2020
+2285,15,5.70,Bo Kanda Lita Baehre,GER,29.04.99,4,Dortmund,09.02.2020
+2286,15,5.70A,Andrew Irwin,USA,23.01.93,5=,Albuquerque,14.02.2020
+2287,15,5.70A,Jacob Wooten,USA,22.04.97,5=,Albuquerque,14.02.2020
+2288,15,5.70,Aliounne Sène,FRA,03.02.96,4,Liévin,19.02.2020
+2289,15,5.70,Rutger Koppelaar,NED,01.05.93,5,Liévin,19.02.2020
+2290,15,5.70,Bo Kanda Lita Baehre,GER,29.04.99,1,Leipzig,23.02.2020
+2291,15,5.70,Pål  Haugen Lillefos,NOR,04.06.01,2,Ulsteinvik,28.02.2020
+2292,15,5.70,Timur Morgunov,RUS,12.10.96,1,Moskva,29.02.2020
+2293,15,5.70,Pawel Wojciechowski,POL,06.06.89,1,Torun,01.03.2020
+2294,15,5.70,Valentin Lavillenie,FRA,16.07.91,2,Liévin,01.03.2020
+2295,15,5.70,Andrew Irwin,USA,23.01.93,1,Fayetteville,21.02.2021
+2296,15,5.70,Thiago Braz da Silva,BRA,16.12.93,2=,Beograd,24.02.2021
+2297,15,5.70,Piotr Lisek,POL,16.08.92,2=,Beograd,24.02.2021
+2298,15,5.70,Thiago Braz da Silva,BRA,16.12.93,6cA,Aubière,27.02.2021
+2299,15,5.70,Cole Walsh,USA,14.06.95,7cA,Aubière,27.02.2021
+2300,15,5.70,Menno Vloon,NED,11.05.94,q,Torun,06.03.2021
+2301,15,5.70,Oleg Zernikel,GER,16.04.95,q,Torun,06.03.2021
+2302,15,5.70,Piotr Lisek,POL,16.08.92,q,Torun,06.03.2021
+2303,15,5.70,Oleg Zernikel,GER,16.04.95,4,Torun,07.03.2021
+2304,15,5.70,Menno Vloon,NED,11.05.94,5=,Torun,07.03.2021
+2305,15,5.70,Ersu Sasma,TUR,30.09.99,5=,Torun,07.03.2021
+2306,15,5.70,Zachery Bradford,USA,29.11.99,3,Fayetteville,13.03.2021
+2307,15,5.70,Ding Bangchao,CHN,11.10.96,1,Jinan,17.03.2021
+2308,15,5.70,Takuma Ishikawa,JPN,08.22.97,1,Osaka,18.03.2021
+2309,15,5.70,Seito Yamamoto,JPN,11.03.92,2,Osaka,18.03.2021
+2310,15,5.70,Ernest John Obiena,PHI,17.11.95,4,Berlin,04.02.2022
+2311,15,5.70,Bo Kanda Lita Baehre,GER,29.04.99,5,Berlin,04.02.2022
+2312,15,5.70,Piotr Lisek,POL,16.08.92,6,Berlin,04.02.2022
+2313,15,5.70,Pål  Haugen Lillefos,NOR,04.06.01,1,Ulsteinvik,06.02.2022
+2314,15,5.70,Thiago Braz da Silva,BRA,16.12.93,6=,Uppsala,09.02.2022
+2315,15,5.70,Menno Vloon,NED,11.05.94,6=,Uppsala,09.02.2022
+2316,15,5.70,Sam Kendricks,USA,07.09.92,8=,Uppsala,09.02.2022
+2317,15,5.70,Ernest John Obiena,PHI,17.11.95,8=,Uppsala,09.02.2022
+2318,15,5.70,Zack McWhorter,USA,07.01.99,2,Birmingham AL,11.03.2022
+2319,15,5.70,Clayton Fritsch,USA,29.12.98,3,Birmingham AL,11.03.2022
+2320,15,5.70,Mikko Paavola,FIN,16.01.98,1,Kuortane,18.06.2022
+2321,15,5.70,Pål  Haugen Lillefos,NOR,04.06.01,2,Berlin,29.01.2023
+2322,15,5.70,Sam Kendricks,USA,07.09.92,3,Berlin,29.01.2023
+2323,15,5.70,Torben Blech,GER,12.02.95,4,Berlin,29.01.2023
+2324,15,5.70,Gillian Ladwig,GER,03.12.98,5,Berlin,29.01.2023
+2325,15,5.70,Matthew Ludwig,USA,05.07.96,1,Gent,04.02.2023
+2326,15,5.70,Sam Kendricks,USA,07.09.92,2,Lodz,04.02.2023
+2327,15,5.70,Piotr Lisek,POL,16.08.92,3,Lodz,04.02.2023
+2328,15,5.70,Claudio Michel Stecc,ITA,23.11.91,4,Lodz,04.02.2023
+2329,15,5.70,Sondre Guttormsen,NOR,01.06.99,1,Hanover,25.02.2023
+2330,15,5.70,Torben Blech,GER,12.02.95,4,Istanbul,05.03.2023
+2331,15,5.70,Ethan Cormont,FRA,29.09.00,5,Istanbul,05.03.2023
+2332,15,5.70,Claudio Michel Stecc,ITA,23.11.91,6,Istanbul,05.03.2023
+2333,15,5.70,Aleksandr Solovyov,RUS,18.02.02,2,Moskva,12.03.2023

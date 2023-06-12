@@ -1,0 +1,124 @@
+---
+title: "Track and Field World Record Progression"
+author: "Thomas Camminady"
+date: "2023-06-07"
+categories: [viz, sports]
+format: html
+execute:
+  echo: true
+jupyter: python3
+---
+
+
+```{python}
+import altair as alt
+import polars as pl
+from alltime_athletics_python.io import download_data
+from alltime_athletics_python.io import import_running_only_events
+
+# download_data()
+df = import_running_only_events("./data")
+```
+
+
+```{python}
+# | label: fig-world-records
+# | fig-cap: "Progression of world records."
+# | cap-location: margin
+
+world_records = (
+    df.filter(pl.col("event").str.contains("walk") == False)
+    .filter(pl.col("event type") == "standard")
+    .sort("sex", "distance", "event", "date of event")
+    .with_columns(
+        pl.col("result seconds")
+        .cummin()
+        .over("sex", "event")
+        .alias("world record time")
+    )
+    .filter(pl.col("result seconds") == pl.col("world record time"))
+    .groupby("sex", "event", "result seconds", maintain_order=True)
+    .first()
+    .with_columns(
+        (
+            100
+            * pl.col("result seconds")
+            / pl.col("result seconds").min().over("sex", "event")
+        ).alias("percent of wr")
+    )
+)
+
+world_records = pl.concat(
+    [
+        world_records,
+        world_records.filter(pl.col("rank") == 1).with_columns(
+            [
+                pl.lit("2023-06-07")
+                .str.strptime(pl.Date, format="%Y-%m-%d")
+                .alias("date of event"),
+                pl.lit(-1).cast(pl.Int64).alias("rank"),
+            ]
+        ),
+    ]
+).with_columns(pl.col("sex").apply(lambda s: s.title()))
+
+data = world_records.select(
+    "date of event", "percent of wr", "event", "sex", "name", "rank"
+).to_pandas()
+legend_selection = alt.selection_point(fields=["event"], bind="legend")
+legend_selection_empty = alt.selection_point(
+    fields=["event"], bind="legend", empty=False
+)
+
+base = (
+    alt.Chart(data)
+    .encode(
+        x=alt.X("date of event:T")
+        .scale(domain=("1950-01-01", "2026-01-01"))
+        .title("Year"),
+        y=alt.Y("percent of wr:Q")
+        .scale(domain=(100, 110))
+        .axis(values=list(range(100, 120, 2)))
+        .title("Time in % of current WR"),
+        color=alt.Color(
+            "event:N",
+            sort=world_records.sort("distance")["event"]
+            .unique(maintain_order=True)
+            .to_list(),
+        )
+        .scale(scheme="dark2")
+        .title("Event"),
+        # strokeDash="sex:N",
+        opacity=alt.condition(legend_selection, alt.value(1), alt.value(0)),
+    )
+    .properties(width=800, height=500)
+    .add_params(legend_selection)
+    .add_params(legend_selection_empty)
+)
+
+base_no_endpoint = base.transform_filter(alt.datum["rank"] > 0)
+
+text = base_no_endpoint.encode(
+    text="name:N",
+    opacity=alt.condition(legend_selection_empty, alt.value(0.9), alt.value(0.0)),
+)
+
+
+chart = (
+    alt.layer(
+        base.mark_line(interpolate="step-after", clip=True, strokeWidth=3),
+        base_no_endpoint.mark_point(filled=True, clip=True, size=100),
+        text.mark_text(clip=True, fontSize=14, angle=270 + 45, align="left", dx=15),
+    )
+    .facet(
+        row=alt.Row("sex:N").title("").header(labelAngle=0),
+        title="World Record Progression",
+    )
+    .resolve_scale(x="independent")
+)
+chart
+
+```
+
+This is some text.
+Some more text

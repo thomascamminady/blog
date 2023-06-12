@@ -1,0 +1,294 @@
+,0,1,2,3,4,5,6,7
+0,1,38:06,Yusuke Suzuki,JPN,02.01.88,1,Nomi,15.03.2015
+1,2,38:25,Sergey Shirobokov,RUS,10.02.99,1,Cheboksary,09.06.2018
+2,3,38:27,Isamu Fujisawa,JPN,12.10.87,1=,Nomi,17.03.2019
+3,3,38:27,Yusuke Suzuki,JPN,02.01.88,1=,Nomi,17.03.2019
+4,3,38:27,Koki Ikeda,JPN,03.05.98,1=,Nomi,17.03.2019
+5,3,38:27,Masatora Kawano,JPN,23.10.98,1=,Nomi,17.03.2019
+6,3,38:27,Toshikazu Yamanishi,JPN,15.02.96,1=,Nomi,17.03.2019
+7,8,38:28,Vladimir Kanaykin,RUS,21.03.85,1=,Saransk,29.09.2007
+8,8,38:28,Valeriy Borchin,RUS,03.07.86,1=,Saransk,29.09.2007
+9,8,38:28,Igor Yerokhin,RUS,04.09.85,1=,Saransk,29.09.2007
+10,8,38:28,Sergey Morozov,RUS,21.03.88,1=,Saransk,29.09.2007
+11,12,38:34,Francisco Javier Fernández,ESP,05.03.77,1,Turku,28.04.2002
+12,13,38:36,Francisco Javier Fernández,ESP,05.03.77,1,La Coruña,02.06.2007
+13,14,38:37,Roman Rasskazov,RUS,28.04.79,1,Moskva,19.05.2000
+14,15,38:38,Francisco Javier Fernández,ESP,05.03.77,1,Saint-Denis,23.08.2003
+15,16,38:46,Valeriy Borchin,RUS,03.07.86,1=,Adler,23.02.2008
+16,16,38:46,Sergey Bakulin,RUS,13.11.86,1=,Adler,23.02.2008
+17,18,38:48,Daisuke Matsunaga,JPN,24.03.95,6,Nomi,17.03.2019
+18,19,38:51,Isamu Fujisawa,JPN,12.10.87,1=,Kobe,21.02.2016
+19,19,38:51,Eiki Takahashi,JPN,19.11.92,1=,Kobe,21.02.2016
+20,21,38:52,Francisco Javier Fernández,ESP,05.03.77,1,La Coruña,13.05.2006
+21,22,38:53,Francisco Javier Fernández,ESP,05.03.77,1,München,06.08.2002
+22,23,38:58,Francisco Javier Fernández,ESP,05.03.77,1,La Coruña,04.06.2005
+23,24,38:59,Francisco Javier Fernández,ESP,05.03.77,1,Sesto San Giovanni,01.05.2003
+24,25,39:00,Robert Korzeniowski,POL,30.07.68,2,Sesto San Giovanni,01.05.2003
+25,26,39:02,Ilya Markov,RUS,19.06.72,2,La Coruña,04.06.2005
+26,26,39:02,Yusuke Suzuki,JPN,02.01.88,1=,Kobe,16.02.2014
+27,26,39:02,Eiki Takahashi,JPN,19.11.92,1=,Kobe,16.02.2014
+28,26,39:02,Isamu Fujisawa,JPN,12.10.87,1=,Kobe,16.02.2014
+29,26,39:02,Wang Zhen,CHN,24.08.91,1,La Coruña,06.06.2015
+30,31,39:03,Igor Yerokhin,RUS,04.09.85,1=,Adler,19.02.2006
+31,31,39:03,Sergey Bakulin,RUS,13.11.86,1=,Adler,19.02.2006
+32,33,39:04,Andrey Krivov,RUS,14.11.85,3,Adler,23.02.2008
+33,34,39:05,Lu Ronghua,CHN,21.02.83,1=,Dudince,26.06.2005
+34,34,39:05,Yu Chaohong,CHN,12.12.76,1=,Dudince,26.06.2005
+35,34,39:05,Cui Zhide,CHN,11.01.83,1=,Dudince,26.06.2005
+36,37,39:06,Isamu Fujisawa,JPN,12.10.87,1,Kobe,17.02.2019
+37,38,39:07,Eiki Takahashi,JPN,19.11.92,1=,Kobe,19.02.2017
+38,38,39:07,Isamu Fujisawa,JPN,12.10.87,1=,Kobe,19.02.2017
+39,40,39:08,Jared Tallent,AUS,17.10.84,1,Hobart,14.02.2010
+40,40,39:08,Toshikazu Yamanishi,JPN,15.02.96,3,Kobe,19.02.2017
+41,42,39:09,Roman Rasskazov,RUS,28.04.79,1,Adler,20.02.2000
+42,43,39:10,Jefferson Pérez,ECU,01.07.74,2,Saint-Denis,23.08.2003
+43,44,39:11,Viktor Burayev,RUS,23.02.82,3,Saint-Denis,23.08.2003
+44,44,39:11,Roman Rasskazov,RUS,28.04.79,4,Saint-Denis,23.08.2003
+45,44,39:11,Noé Hernández,MEX,15.03.78,5,Saint-Denis,23.08.2003
+46,44,39:11,Vladimir Andreyev,RUS,07.09.66,6,Saint-Denis,23.08.2003
+47,48,39:12,Bernardo Segura,MEX,11.02.70,7,Saint-Denis,23.08.2003
+48,48,39:12,Ivan Trotskiy,BLR,27.05.76,8,Saint-Denis,23.08.2003
+49,48,39:12,Satoshi Maruo,JPN,28.11.91,4,Kobe,19.02.2017
+50,51,39:13,Alejandro López,MEX,09.02.75,9,Saint-Denis,23.08.2003
+51,51,39:13,Vladimir Kanaykin,RUS,21.03.85,1,Cheboksary,12.06.2004
+52,53,39:16,Artur Meleshkevich,BLR,11.04.75,1=,Eisenhüttenstadt,17.06.2000
+53,53,39:16,Andreas Erm,GER,12.03.76,1=,Eisenhüttenstadt,17.06.2000
+54,55,39:17,Robert Korzeniowski,POL,30.07.68,3=,Eisenhüttenstadt,17.06.2000
+55,55,39:17,Dmitriy Yesipchuk,RUS,17.11.74,3=,Eisenhüttenstadt,17.06.2000
+56,55,39:17,Francisco Javier Fernández,ESP,05.03.77,3=,Eisenhüttenstadt,17.06.2000
+57,55,39:17,Jirí Malysa,CZE,14.08.66,3=,Eisenhüttenstadt,17.06.2000
+58,55,39:17,Aigars Fadejevs,LAT,27.12.75,3=,Eisenhüttenstadt,17.06.2000
+59,55,39:17,Zhu Hongjun,CHN,18.08.83,4,Dudince,26.06.2005
+60,55,39:17,Cai Zelin,CHN,11.04.91,2,La Coruña,06.06.2015
+61,55,39:17,Takumi Saito,JPN,23.03.93,3,Kobe,21.02.2016
+62,63,39:18,Daisuke Matsunaga,JPN,24.03.95,1,Nomi,19.03.2017
+63,63,39:18,Toshikazu Yamanishi,JPN,15.02.96,2,Kobe,17.02.2019
+64,65,39:19,Hatem Ghoula,TUN,07.06.73,10,Saint-Denis,23.08.2003
+65,65,39:19,Hatem Ghoula,TUN,07.06.73,2,La Coruña,02.06.2007
+66,65,39:19,Takumi Saito,JPN,23.03.93,5,Kobe,19.02.2017
+67,65,39:19,Eiki Takahashi,JPN,19.11.92,3=,Kobe,17.02.2019
+68,65,39:19,Koki Ikeda,JPN,03.05.98,3=,Kobe,17.02.2019
+69,70,39:20,Ilya Markov,RUS,19.06.72,4=,Adler,23.02.2008
+70,70,39:20,Vladimir Stankin,RUS,02.01.74,4=,Adler,23.02.2008
+71,70,39:20,Viktor Burayev,RUS,23.02.82,4=,Adler,23.02.2008
+72,70,39:20,Vasiliy Mizinov,RUS,29.12.97,1=,Sochi,18.02.2019
+73,70,39:20,Sergey Shirobokov,RUS,10.02.99,1=,Sochi,18.02.2019
+74,75,39:21,Isamu Fujisawa,JPN,12.10.87,1=,Nomi,15.03.2020
+75,75,39:21,Koki Ikeda,JPN,03.05.98,1=,Nomi,15.03.2020
+76,77,39:22,Nathan Deakes,AUS,17.08.77,3,La Coruña,02.06.2007
+77,77,39:22,Takumi Saito,JPN,23.03.93,4,Kobe,16.02.2014
+78,77,39:22,Yuta Koga,JPN,15.07.99,3=,Nomi,15.03.2020
+79,77,39:22,Yusuke Suzuki,JPN,02.01.88,3=,Nomi,15.03.2020
+80,77,39:22,Eiki Takahashi,JPN,19.11.92,3=,Nomi,15.03.2020
+81,82,39:23,Stepan Yudin,RUS,03.04.80,3,Adler,19.02.2006
+82,83,39:24,Nathan Deakes,AUS,17.08.77,2,La Coruña,13.05.2006
+83,84,39:26,Chen Ding,CHN,05.08.92,3,La Coruña,06.06.2015
+84,85,39:27,Valentí Massana,ESP,05.07.70,4,La Coruña,06.06.1992
+85,85,39:27,Georgiy Sergeyev,RUS,27.04.76,4,Adler,19.02.2006
+86,87,39:28,Francisco Javier Fernández,ESP,05.03.77,,Rio Maior,02.04.2005
+87,87,39:28,Han Yucheng,CHN,16.12.78,4,La Coruña,02.06.2007
+88,89,39:29,Francisco Javier Fernández,ESP,05.03.77,1,Göteborg,08.08.2006
+89,89,39:29,Miguel Ángel López,ESP,03.07.88,4,La Coruña,06.06.2015
+90,89,39:29,Tomohiro Noda,JPN,24.01.95,5=,Kobe,17.02.2019
+91,89,39:29,Hirooki Arai,JPN,18.05.88,5=,Kobe,17.02.2019
+92,93,39:30,Francisco Javier Fernández,ESP,05.03.77,1=,Dudince,19.05.2001
+93,93,39:30,Yevgeniy Misyulya,BLR,13.03.64,1=,Dudince,19.05.2001
+94,93,39:30,Viktor Burayev,RUS,23.02.82,5,Adler,19.02.2006
+95,93,39:30,Dane Bird-Smith,AUS,15.07.92,5,La Coruña,06.06.2015
+96,93,39:30,Fumitaka Oikawa,JPN,05.04.95,,,17.02.2019
+97,93,39:30,Motofumi Suwa,JPN,22.10.99,7,Kobe,17.02.2019
+98,99,39:31,Andreas Erm,GER,12.03.76,3=,Dudince,19.05.2001
+99,99,39:31,Vladimir Andreyev,RUS,07.09.66,3=,Dudince,19.05.2001
+100,99,39:31,Jirí Malysa,CZE,14.08.66,3=,Dudince,19.05.2001
+101,99,39:31,Denis Nizhegorodov,RUS,26.07.80,3=,Dudince,19.05.2001
+102,99,39:31,Ivan Trotskiy,BLR,27.05.76,3=,Dudince,19.05.2001
+103,99,39:31,Viktor Burayev,RUS,23.02.82,3=,Dudince,19.05.2001
+104,99,39:31,Robert Korzeniowski,POL,30.07.68,1,Cheboksary,18.05.2003
+105,99,39:31,Francisco Javier Fernández,ESP,05.03.77,2,Cheboksary,18.05.2003
+106,99,39:31,Francisco Javier Fernández,ESP,05.03.77,1,Helsinki,06.08.2005
+107,10,39:32,Dmitriy Yesipchuk,RUS,17.11.74,2,Moskva,19.05.2000
+108,10,39:32,Ivano Brugnetti,ITA,01.09.76,2,Helsinki,06.08.2005
+109,10,39:32,Zhu Hongjun,CHN,18.08.83,3,Helsinki,06.08.2005
+110,10,39:32,Ilya Markov,RUS,19.06.72,4,Helsinki,06.08.2005
+111,10,39:32,Jefferson Pérez,ECU,01.07.74,5,Helsinki,06.08.2005
+112,10,39:32,Rolando Saquipay,ECU,21.07.79,6,Helsinki,06.08.2005
+113,10,39:32,Cristian Berdeja,MEX,21.06.81,7,Helsinki,06.08.2005
+114,10,39:32,Yu Chaohong,CHN,12.12.76,8,Helsinki,06.08.2005
+115,10,39:32,Juan Manuel Molina,ESP,15.03.79,9,Helsinki,06.08.2005
+116,10,39:32,Eder Sánchez,MEX,21.05.86,10,Helsinki,06.08.2005
+117,10,39:32,Aleksandr Yargunkin,RUS,06.01.81,7,Adler,23.02.2008
+118,10,39:32,Fumitaka Oikawa,JPN,05.04.95,6=,Kobe,19.02.2017
+119,10,39:32,Kai Kobayashi,JPN,28.02.93,6=,Kobe,19.02.2017
+120,10,39:32,Hirooki Arai,JPN,18.05.88,6=,Kobe,19.02.2017
+121,12,39:33,Andreas Erm,GER,12.03.76,1,Hildesheim,06.06.2004
+122,12,39:33,Ivan Trotskiy,BLR,27.05.76,11,Helsinki,06.08.2005
+123,12,39:33,Bernardo Segura,MEX,11.02.70,12,Helsinki,06.08.2005
+124,12,39:33,Luis Fernando López,COL,03.06.79,13,Helsinki,06.08.2005
+125,12,39:33,Hatem Ghoula,TUN,07.06.73,14,Helsinki,06.08.2005
+126,12,39:34,Jefferson Pérez,ECU,01.07.74,3,La Coruña,13.05.2006
+127,12,39:34,Hatem Ghoula,TUN,07.06.73,4,La Coruña,13.05.2006
+128,12,39:34,Han Yucheng,CHN,16.12.78,5,La Coruña,13.05.2006
+129,12,39:34,Jared Tallent,AUS,17.10.84,1,Hobart,19.02.2011
+130,12,39:34,Tomohiro Noda,JPN,24.01.95,9,Kobe,19.02.2017
+131,12,39:34,Kim Hyun-sub,KOR,31.05.85,2=,Nomi,19.03.2017
+132,12,39:34,Irfan Kolothum Thodi,IND,08.02.90,2=,Nomi,19.03.2017
+133,13,39:35,Vladimir Stankin,RUS,02.01.74,2,Adler,20.02.2000
+134,13,39:35,Luis Fernando López,COL,03.06.79,6,La Coruña,13.05.2006
+135,13,39:35,Ivano Brugnetti,ITA,01.09.76,1=,Leamington,20.03.2007
+136,13,39:35,Yohann Diniz,FRA,01.01.78,1=,Leamington,20.03.2007
+137,13,39:35,Satoshi Maruo,JPN,28.11.91,4,Kobe,21.02.2016
+138,13,39:36,Andrey Stadnichuk,RUS,14.12.73,3,Moskva,19.05.2000
+139,13,39:36,Viktor Burayev,RUS,23.02.82,7,La Coruña,13.05.2006
+140,13,39:36,Sergey Bakulin,RUS,13.11.86,8,La Coruña,13.05.2006
+141,13,39:36,Dmitriy Yesipchuk,RUS,17.11.74,8,Adler,23.02.2008
+142,14,39:38,Daisuke Matsunaga,JPN,24.03.95,5,Kobe,16.02.2014
+143,14,39:39,Vladimir Stankin,RUS,02.01.74,15,Helsinki,06.08.2005
+144,14,39:39,Liu Yunfeng,CHN,03.08.79,16,Helsinki,06.08.2005
+145,14,39:40,Andrey Krivov,RUS,14.11.85,1,Sochi,27.02.2015
+146,14,39:40,Perseus Karlström,SWE,02.05.90,1,Podébrady,09.04.2016
+147,14,39:41,Robert Korzeniowski,POL,30.07.68,1,La Coruña,07.06.2003
+148,14,39:41,Masatora Kawano,JPN,23.10.98,1=,Nomi,21.03.2021
+149,14,39:41,Eiki Takahashi,JPN,19.11.92,1=,Nomi,21.03.2021
+150,14,39:41,Yuta Koga,JPN,15.07.99,1=,Nomi,19.03.2023
+151,14,39:41,Yurato Murayama,JPN,29.09.98,1=,Nomi,19.03.2023
+152,14,39:41,Haruki Manju,JPN,10.04.01,1=,Nomi,19.03.2023
+153,14,39:41,Qian Haifeng,CHN,08.07.00,1=,Nomi,19.03.2023
+154,14,39:41,Declan Tingay,AUS,06.02.99,1=,Nomi,19.03.2023
+155,15,39:42,Andrey Yurin,UKR,20.01.84,17,Helsinki,06.08.2005
+156,15,39:42,Eder Sánchez,MEX,21.05.86,5,La Coruña,02.06.2007
+157,15,39:42,Jared Tallent,AUS,17.10.84,1,Melbourne,23.02.2008
+158,15,39:42,Salih Korkmaz,TUR,14.04.97,1,Podébrady,16.05.2021
+159,15,39:42,Kazuhiro Tateiwa,JPN,05.11.99,6=,Nomi,19.03.2023
+160,15,39:42,Vikash Singh,IND,06.07.96,6=,Nomi,19.03.2023
+161,15,39:42,Motofumi Suwa,JPN,22.10.99,6=,Nomi,19.03.2023
+162,15,39:42,Kento Yoshikawa,JPN,09.08.01,6=,Nomi,19.03.2023
+163,16,39:43,Cui Zhide,CHN,11.01.83,1,Kunshan,23.05.2004
+164,16,39:43,Hatem Ghoula,TUN,07.06.73,3,La Coruña,04.06.2005
+165,16,39:43,Dmitriy Yesipchuk,RUS,17.11.74,6,Adler,19.02.2006
+166,16,39:43,Wang Kaihua,CHN,16.02.94,1,Huangshan,04.03.2017
+167,16,39:43,Tomohiro Noda,JPN,24.01.95,4,Nomi,19.03.2017
+168,16,39:43,Akasdeep Singh,IND,22.11.99,10,Nomi,19.03.2023
+169,16,39:43,Paramjeet Singh Bisht,IND,03.03.02,10,Nomi,19.03.2023
+170,17,39:44,Denis Strelkov,RUS,26.10.90,1,Cheboksary,06.06.2014
+171,17,39:44,Takayuki Tanii,JPN,14.02.83,5=,Kobe,21.02.2016
+172,17,39:44,Hirooki Arai,JPN,18.05.88,5=,Kobe,21.02.2016
+173,17,39:44,Rihito Ishida,JPN,19.12.01,12,Nomi,19.03.2023
+174,17,39:44,Suraj Panwar,IND,02.04.01,12,Nomi,19.03.2023
+175,17,39:45,Valeriy Borchin,RUS,03.07.86,1,Saransk,03.06.2006
+176,17,39:47,Jefferson Pérez,ECU,01.07.74,3,Sesto San Giovanni,01.05.2003
+177,17,39:47,Hatem Ghoula,TUN,07.06.73,1,La Coruña,07.06.2008
+178,17,39:47,Erik Tysse,NOR,04.12.80,2,La Coruña,07.06.2008
+179,18,39:48,Alejandro López,MEX,09.02.75,1=,Vallensbæk,06.05.2000
+180,18,39:48,Nick A'Hern,AUS,06.01.69,1=,Vallensbæk,06.05.2000
+181,18,39:48,Giorgio Rubino,ITA,30.04.73,1,Berlin,15.08.2009
+182,18,39:48,Takumi Saito,JPN,23.03.93,5,Nomi,19.03.2017
+183,18,39:48,Isamu Fujisawa,JPN,12.10.87,1,London,13.08.2017
+184,18,39:49,Vladimir Andreyev,RUS,07.09.66,3,Cheboksary,18.05.2003
+185,18,39:49,Robert Heffernan,IRL,28.02.78,3,Leamington,20.03.2007
+186,18,39:49,Ivano Brugnetti,ITA,01.09.76,2,Berlin,15.08.2009
+187,18,39:50,Francisco Javier Fernández,ESP,05.03.77,,Sesto San Giovanni,01.05.2005
+188,18,39:50,Erik Tysse,NOR,04.12.80,3,Berlin,15.08.2009
+189,18,39:50,Christopher Linke,GER,24.10.88,2,London,13.08.2017
+190,18,39:50,Tom Bosworth,GBR,17.01.90,3,London,13.08.2017
+191,18,39:50,Wang Kaihua,CHN,16.02.94,4,London,13.08.2017
+192,18,39:50,Sergey Shirobokov,RUS,10.02.99,5,London,13.08.2017
+193,18,39:50,Daisuke Matsunaga,JPN,24.03.95,6,London,13.08.2017
+194,18,39:50,Dane Bird-Smith,AUS,15.07.92,7,London,13.08.2017
+195,18,39:50,Álvaro Martín,ESP,18.06.94,8,London,13.08.2017
+196,18,39:50,Eider Arévalo,COL,09.03.93,9,London,13.08.2017
+197,18,39:50,Kevin Campion,FRA,23.05.88,10,London,13.08.2017
+198,18,39:50,Aleksey Kudashkin,RUS,01.02.97,3,Sochi,18.02.2019
+199,20,39:51,Eiki Takahashi,JPN,19.11.92,11,London,13.08.2017
+200,20,39:51,Miguel Ángel López,ESP,03.07.88,12,London,13.08.2017
+201,20,39:51,Irfan Kolothum Thodi,IND,08.02.90,13,London,13.08.2017
+202,20,39:51,Caio Bonfim,BRA,19.03.91,14,London,13.08.2017
+203,20,39:51,Yurato Murayama,JPN,29.09.98,6=,Nomi,15.03.2020
+204,20,39:51,Fumitaka Oikawa,JPN,05.04.95,6=,Nomi,15.03.2020
+205,20,39:52,Francisco Javier Fernández,ESP,05.03.77,1,Cheboksary,10.05.2008
+206,20,39:52,Sergey Bakulin,RUS,13.11.86,2,Cheboksary,10.05.2008
+207,20,39:52,Andrey Krivov,RUS,14.11.85,3,Cheboksary,10.05.2008
+208,20,39:52,Ilya Markov,RUS,19.06.72,4,Cheboksary,10.05.2008
+209,20,39:52,Jared Tallent,AUS,17.10.84,5,Cheboksary,10.05.2008
+210,20,39:52,Hatem Ghoula,TUN,07.06.73,6,Cheboksary,10.05.2008
+211,20,39:52,Manuel Esteban Soto,COL,28.01.94,15,London,13.08.2017
+212,21,39:53,Michele Didoni,ITA,07.03.74,11,Saint-Denis,23.08.2003
+213,21,39:53,Gabriel Ortíz,MEX,08.12.81,9,La Coruña,13.05.2006
+214,21,39:53,Erik Tysse,NOR,04.12.80,7,Cheboksary,10.05.2008
+215,21,39:53,Robert Heffernan,IRL,28.02.78,8,Cheboksary,10.05.2008
+216,21,39:53,Valeriy Borchin,RUS,03.07.86,9,Cheboksary,10.05.2008
+217,21,39:53,Eder Sánchez,MEX,21.05.86,10,Cheboksary,10.05.2008
+218,21,39:53,Ivan Trotskiy,BLR,27.05.76,11,Cheboksary,10.05.2008
+219,21,39:53,Yusuke Suzuki,JPN,02.01.88,1,Nomi,14.03.2010
+220,21,39:53,Perseus Karlström,SWE,02.05.90,16,London,13.08.2017
+221,22,39:54,Alejandro López,MEX,09.02.75,1=,Tijuana,08.03.2003
+222,22,39:54,Robert Korzeniowski,POL,30.07.68,1=,Tijuana,08.03.2003
+223,22,39:54,Bernardo Segura,MEX,11.02.70,1=,Tijuana,08.03.2003
+224,22,39:54,Francisco Javier Fernández,ESP,05.03.77,1=,Tijuana,08.03.2003
+225,22,39:54,Marco Giungi,ITA,30.10.74,4,Cheboksary,18.05.2003
+226,22,39:54,Daniel García,MEX,28.10.71,10,La Coruña,13.05.2006
+227,22,39:54,Rolando Saquipay,ECU,21.07.79,12,Cheboksary,10.05.2008
+228,22,39:55,Bernardo Segura,MEX,11.02.70,1=,Sydney,22.09.2000
+229,22,39:55,Vladimir Andreyev,RUS,07.09.66,1=,Sydney,22.09.2000
+230,22,39:55,Francisco Javier Fernández,ESP,05.03.77,1=,Sydney,22.09.2000
+231,22,39:55,Andreas Erm,GER,12.03.76,1=,Sydney,22.09.2000
+232,22,39:55,Roman Rasskazov,RUS,28.04.79,1=,Sydney,22.09.2000
+233,22,39:55,Alessandro Gandellini,ITA,30.04.73,1=,Sydney,22.09.2000
+234,22,39:55,Noé Hernández,MEX,15.03.78,1=,Sydney,22.09.2000
+235,22,39:55,Robert Korzeniowski,POL,30.07.68,1=,Sydney,22.09.2000
+236,22,39:55,Roman Rasskazov,RUS,28.04.79,1=,Cheboksary,16.06.2001
+237,22,39:55,Aleksey Kronin,RUS,23.07.70,1=,Cheboksary,16.06.2001
+238,22,39:55,Dmitriy Yesipchuk,RUS,17.11.74,1=,Cheboksary,16.06.2001
+239,22,39:55,Luke Adams,AUS,22.10.76,12,Saint-Denis,23.08.2003
+240,22,39:55,Yu Chaohong,CHN,12.12.76,13,Saint-Denis,23.08.2003
+241,22,39:55,Yevgeniy Misyulya,BLR,13.03.64,14,Saint-Denis,23.08.2003
+242,22,39:55,Ilya Markov,RUS,19.06.72,15,Saint-Denis,23.08.2003
+243,22,39:55,Juan Manuel Molina,ESP,15.03.79,,Naumburg,01.05.2004
+244,22,39:55,Viktor Burayev,RUS,23.02.82,18,Helsinki,06.08.2005
+245,22,39:55,Luke Adams,AUS,22.10.76,2,Melbourne,20.03.2006
+246,22,39:55,Francisco Javier Fernández,ESP,05.03.77,1,Rio Maior,01.04.2006
+247,22,39:55,Hirooki Arai,JPN,18.05.88,6,Kobe,16.02.2014
+248,22,39:55,Álvaro Martín,ESP,18.06.94,1,Cáceres,20.03.2016
+249,22,39:55,Yuki Kurumisawa,JPN,11.12.95,6=,Nomi,19.03.2017
+250,22,39:55,Devender Singh,IND,05.12.83,6=,Nomi,19.03.2017
+251,22,39:55,Kim Hyun-sub,KOR,31.05.85,17,London,13.08.2017
+252,22,39:55,Li Xingfu,CHN,18.07.02,14,Nomi,19.03.2023
+253,25,39:56,Nathan Deakes,AUS,17.08.77,9=,Sydney,22.09.2000
+254,25,39:56,Satoshi Yanagisawa,JPN,19.01.71,9=,Sydney,22.09.2000
+255,25,39:56,Daniel García,MEX,28.10.71,9=,Sydney,22.09.2000
+256,25,39:56,Jefferson Pérez,ECU,01.07.74,9=,Sydney,22.09.2000
+257,25,39:56,José David Domínguez,ESP,29.07.80,16,Saint-Denis,23.08.2003
+258,25,39:56,Toshihito Fujinohara,JPN,19.09.75,17,Saint-Denis,23.08.2003
+259,25,39:56,Eiichi Yoshizawa,JPN,05.09.80,18,Saint-Denis,23.08.2003
+260,25,39:56,David Márquez,ESP,13.10.77,19,Saint-Denis,23.08.2003
+261,25,39:56,Lorenzo Civallero,ITA,08.08.75,20,Saint-Denis,23.08.2003
+262,25,39:56,Juan Manuel Molina,ESP,15.03.79,13,Cheboksary,10.05.2008
+263,25,39:56,Takaki Matsuzaki,JPN,12.08.92,7=,Kobe,16.02.2014
+264,25,39:56,Takayuki Tanii,JPN,14.02.83,7=,Kobe,16.02.2014
+265,25,39:56,Koichiro Morioka,JPN,02.04.85,7=,Kobe,16.02.2014
+266,26,39:57,Ivano Brugnetti,ITA,01.09.76,1=,Tijuana,20.03.2004
+267,26,39:57,Alejandro López,MEX,09.02.75,1=,Tijuana,20.03.2004
+268,26,39:57,Robert Korzeniowski,POL,30.07.68,1=,Tijuana,20.03.2004
+269,26,39:57,Jefferson Pérez,ECU,01.07.74,1=,Tijuana,20.03.2004
+270,26,39:57,Robert Korzeniowski,POL,30.07.68,1,La Coruña,05.06.2004
+271,26,39:57,Luke Adams,AUS,22.10.76,14,Cheboksary,10.05.2008
+272,26,39:57,Luis Fernando López,COL,03.06.79,15,Cheboksary,10.05.2008
+273,26,39:57,Tom Bosworth,GBR,17.01.90,1,Gold Coast,08.04.2018
+274,27,39:58,João Vieira,POR,20.02.76,21,Saint-Denis,23.08.2003
+275,27,39:58,Rodrigo Flores,MEX,14.08.72,5,Tijuana,20.03.2004
+276,27,39:58,Dane Bird-Smith,AUS,15.07.92,2,Gold Coast,08.04.2018
+277,27,39:58,Samuel Gathimba,KEN,26.10.87,3,Gold Coast,08.04.2018
+278,27,39:58,Perseus Karlström,SWE,02.05.90,2,Podébrady,16.05.2021
+279,27,39:58,Kyle Swan,AUS,28.03.99,15,Nomi,19.03.2023
+280,28,39:59,Daniel Plaza,ESP,03.07.66,6,La Coruña,06.06.1992
+281,28,39:59,Wang Hao,CHN,02.02.85,4,Berlin,15.08.2009
+282,28,39:59,Adam Rutter,AUS,24.12.86,5,Berlin,15.08.2009
+283,28,39:59,Luis Fernando López,COL,03.06.79,6,Berlin,15.08.2009
+284,28,39:59,Matej Tóth,SVK,10.02.83,1=,Podébrady,12.04.2014
+285,28,39:59,Rafal Fedaczynski,POL,03.12.80,1=,Podébrady,12.04.2014
+286,28,39:59,Pyotr Trofimov,RUS,18.12.83,1=,Cheboksary,13.06.2015
+287,28,39:59,Takayuki Tanii,JPN,14.02.83,10,Kobe,19.02.2017
+288,28,39:59,Álvaro Martín,ESP,18.06.94,3=,Podébrady,16.05.2021
+289,28,39:59,Diego García Carrera,ESP,19.01.96,3=,Podébrady,16.05.2021
+290,28,39:59,Rhydian Cowley,AUS,04.01.91,16,Nomi,19.03.2023
+291,28,39:59,Kazuya Iwai,JPN,24.03.02,16,Nomi,19.03.2023
+292,28,39:59,Mitsuki Murate,JPN,25.11.00,16,Nomi,19.03.2023
