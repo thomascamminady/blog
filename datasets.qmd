@@ -12,3 +12,6 @@ Every cyclist and stage of the Tour de France (up to including 2022) in two CSV 
 
 Scrapes Peter Larsson's website Alltime Athletics.
 
+**[Abiturnoten data set](https://github.com/thomascamminady/abiturnoten)**
+
+German Abitur: Grade distribution over time.

@@ -102,7 +102,7 @@
     "href": "datasets.html",
     "title": "Data Sets",
     "section": "",
-    "text": "Tour de France\nEvery cyclist and stage of the Tour de France (up to including 2022) in two CSV files.\nAlltime Athletics\nScrapes Peter Larsson’s website Alltime Athletics."
+    "text": "Tour de France\nEvery cyclist and stage of the Tour de France (up to including 2022) in two CSV files.\nAlltime Athletics\nScrapes Peter Larsson’s website Alltime Athletics.\nAbiturnoten data set\nGerman Abitur: Grade distribution over time."
   },
   {
     "objectID": "blog.html",
@@ -110,12 +110,5 @@
     "title": "Blog",
     "section": "",
     "text": "Abiturnoten inflation in Germany\n\n\n\n\n\n\n\n\n\n\n\n\nJun 21, 2023\n\n\nThomas Camminady\n\n\n\n\n\n\n  \n\n\n\n\nTrack and Field World Record Progression\n\n\n\n\n\n\n\n\n\n\n\n\nJun 7, 2023\n\n\nThomas Camminady\n\n\n\n\n\n\n  \n\n\n\n\nComparing polars with pandas; my personal case study\n\n\n\n\n\n\n\n\n\n\n\n\nMar 5, 2023\n\n\nThomas Camminady\n\n\n\n\n\n\n  \n\n\n\n\nLogitech MX Mechanical Mini for Mac: Issues with M1 Mac\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 22, 2023\n\n\nThomas Camminady\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/gradeinflation/Abiturnoten.html#overview",
-    "href": "posts/gradeinflation/Abiturnoten.html#overview",
-    "title": "Abiturnoten inflation in Germany",
-    "section": "Overview",
-    "text": "Overview\n\n\n\nGrade inflation German Abitur"
   }
 ]
