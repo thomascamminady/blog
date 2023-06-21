@@ -119,6 +119,3 @@ chart = (
 chart
 
 ```
-
-This is some text.
-Some more text

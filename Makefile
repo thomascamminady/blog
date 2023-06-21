@@ -24,3 +24,8 @@ test:
 
 coverage:
 	pytest --cov=blog tests/
+
+
+publish:
+	poetry run quarto render posts/
+	poetry run  quarto preview /Users/thomascamminady/Repos/blog --render all --no-browser --port 2222

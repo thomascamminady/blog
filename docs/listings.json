@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/gradeinflation/Abiturnoten.html",
       "/posts/world-records/records.html",
       "/posts/polars-vs-pandas/index.html",
       "/posts/logitech-issue/index.html"

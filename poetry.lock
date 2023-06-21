@@ -148,6 +148,26 @@ jupyter = ["ipython (>=7.8.0)", "tokenize-rt (>=3.2.0)"]
 uvloop = ["uvloop (>=0.15.2)"]
 
 [[package]]
+name = "camminapy"
+version = "1.1.0"
+description = "My personal code collection."
+optional = false
+python-versions = ">=3.9,<4"
+files = [
+    {file = "camminapy-1.1.0-py3-none-any.whl", hash = "sha256:846e580cfb6b0fa35c3c4fd7cbefe9143cd77e3616d685e7f98a83b77521926e"},
+    {file = "camminapy-1.1.0.tar.gz", hash = "sha256:5cee75f427f4da7d91b8630f1f7cffa1ef6d1c7a13b3dbbc5da893f35aac3c00"},
+]
+
+[package.dependencies]
+altair = ">=5.0.0,<6.0.0"
+gitpython = ">=3.1.31,<4.0.0"
+pdoc = ">=13.1.1,<14.0.0"
+polars = ">=0.17.15"
+pyarrow = ">=12.0.0,<13.0.0"
+rich = ">=13.3.5,<14.0.0"
+toolz = ">=0.12.0,<0.13.0"
+
+[[package]]
 name = "cffi"
 version = "1.15.1"
 description = "Foreign Function Interface for Python calling C code."
@@ -458,6 +478,34 @@ files = [
 [package.extras]
 docs = ["furo (>=2023.3.27)", "sphinx (>=6.1.3)", "sphinx-autodoc-typehints (>=1.23,!=1.23.4)"]
 testing = ["covdefaults (>=2.3)", "coverage (>=7.2.3)", "diff-cover (>=7.5)", "pytest (>=7.3.1)", "pytest-cov (>=4)", "pytest-mock (>=3.10)", "pytest-timeout (>=2.1)"]
+
+[[package]]
+name = "gitdb"
+version = "4.0.10"
+description = "Git Object Database"
+optional = false
+python-versions = ">=3.7"
+files = [
+    {file = "gitdb-4.0.10-py3-none-any.whl", hash = "sha256:c286cf298426064079ed96a9e4a9d39e7f3e9bf15ba60701e95f5492f28415c7"},
+    {file = "gitdb-4.0.10.tar.gz", hash = "sha256:6eb990b69df4e15bad899ea868dc46572c3f75339735663b81de79b06f17eb9a"},
+]
+
+[package.dependencies]
+smmap = ">=3.0.1,<6"
+
+[[package]]
+name = "gitpython"
+version = "3.1.31"
+description = "GitPython is a Python library used to interact with Git repositories"
+optional = false
+python-versions = ">=3.7"
+files = [
+    {file = "GitPython-3.1.31-py3-none-any.whl", hash = "sha256:f04893614f6aa713a60cbbe1e6a97403ef633103cdd0ef5eb6efe0deb98dbe8d"},
+    {file = "GitPython-3.1.31.tar.gz", hash = "sha256:8ce3bcf69adfdf7c7d503e78fd3b1c492af782d58893b650adb2ac8912ddd573"},
+]
+
+[package.dependencies]
+gitdb = ">=4.0.1,<5"
 
 [[package]]
 name = "html5lib"
@@ -1171,6 +1219,25 @@ files = [
 ]
 
 [[package]]
+name = "pdoc"
+version = "13.1.1"
+description = "API Documentation for Python Projects"
+optional = false
+python-versions = ">=3.7"
+files = [
+    {file = "pdoc-13.1.1-py3-none-any.whl", hash = "sha256:9025c6cd2448b18662e88eacf84c6eb050dcbdc8ee5259aee5e40a1c2b417840"},
+    {file = "pdoc-13.1.1.tar.gz", hash = "sha256:2b8e341b1882ed8217e95c1f3f1f11d34f9ef93a5796287590162e2035296815"},
+]
+
+[package.dependencies]
+Jinja2 = ">=2.11.0"
+MarkupSafe = "*"
+pygments = ">=2.12.0"
+
+[package.extras]
+dev = ["black", "hypothesis", "mypy", "pygments (>=2.14.0)", "pytest", "pytest-cov", "pytest-timeout", "ruff", "tox", "types-pygments"]
+
+[[package]]
 name = "pexpect"
 version = "4.8.0"
 description = "Pexpect allows easy control of interactive console applications."
@@ -1841,6 +1908,17 @@ files = [
 ]
 
 [[package]]
+name = "smmap"
+version = "5.0.0"
+description = "A pure Python implementation of a sliding window memory map manager"
+optional = false
+python-versions = ">=3.6"
+files = [
+    {file = "smmap-5.0.0-py3-none-any.whl", hash = "sha256:2aba19d6a040e78d8b09de5c57e96207b09ed71d8e55ce0959eeee6c8e190d94"},
+    {file = "smmap-5.0.0.tar.gz", hash = "sha256:c840e62059cd3be204b0c9c9f74be2c09d5648eddd4580d9314c3ecde0b30936"},
+]
+
+[[package]]
 name = "stack-data"
 version = "0.6.2"
 description = "Extract data from python stack frames and tracebacks for informative displays"
@@ -1959,6 +2037,41 @@ docs = ["furo (>=2023.3.27)", "proselint (>=0.13)", "sphinx (>=6.1.3)", "sphinx-
 test = ["covdefaults (>=2.3)", "coverage (>=7.2.3)", "coverage-enable-subprocess (>=1)", "flaky (>=3.7)", "packaging (>=23.1)", "pytest (>=7.3.1)", "pytest-env (>=0.8.1)", "pytest-freezegun (>=0.4.2)", "pytest-mock (>=3.10)", "pytest-randomly (>=3.12)", "pytest-timeout (>=2.1)", "setuptools (>=67.7.1)", "time-machine (>=2.9)"]
 
 [[package]]
+name = "vl-convert-python"
+version = "0.10.3"
+description = "Convert Vega-Lite chart specifications to SVG, PNG, or Vega"
+optional = false
+python-versions = ">=3.7"
+files = [
+    {file = "vl_convert_python-0.10.3-cp310-cp310-macosx_10_7_x86_64.whl", hash = "sha256:c5fbc1995a082273c5fab3580400e0f290587dda302dc10781a49dd54335880b"},
+    {file = "vl_convert_python-0.10.3-cp310-cp310-macosx_11_0_arm64.whl", hash = "sha256:c28095287854c64147e6b60e2c8f235deb732b6462f6fd067b23f604d3319104"},
+    {file = "vl_convert_python-0.10.3-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:fedf080b8b57c04e988cd4dd2cb8493d2706f2c126b40ae47460f82a666dce00"},
+    {file = "vl_convert_python-0.10.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:523ff6f6d7076c0712d4c65d4bdd033038edc835649aef8d01aaec8a1063306b"},
+    {file = "vl_convert_python-0.10.3-cp310-none-win_amd64.whl", hash = "sha256:cb6f46fa876258b79c2beef1316c34f68069cbd4bad00bdd1e883645d0d69bdc"},
+    {file = "vl_convert_python-0.10.3-cp311-cp311-macosx_10_7_x86_64.whl", hash = "sha256:4e6d6792d31d7099fa2d2fb5b0e7f5ec88f54105f1eb198200dbb85ef393ddc9"},
+    {file = "vl_convert_python-0.10.3-cp311-cp311-macosx_11_0_arm64.whl", hash = "sha256:3052d35e8ebc2d360c78b933af8dd9fe2b29ef522ffe9b2831aad07fbd573919"},
+    {file = "vl_convert_python-0.10.3-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:bd92b02e73ffe2b6891ef74658e46053226c3b2080a4a3fb09ef35adf565cb11"},
+    {file = "vl_convert_python-0.10.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:bcd2b599666bde54d359bf2f77ae409732554aff31288a35e3e60fe1bffb2e18"},
+    {file = "vl_convert_python-0.10.3-cp311-none-win_amd64.whl", hash = "sha256:2532a1e6d2c5b283709b10b78799e91ebebfe1a943e1f0e5208d6782eb332dc6"},
+    {file = "vl_convert_python-0.10.3-cp37-cp37m-macosx_10_7_x86_64.whl", hash = "sha256:f6b4377258fd0634c0e713445b7ba38468f3579aca2ea4f4ab50b5b635a1a4b6"},
+    {file = "vl_convert_python-0.10.3-cp37-cp37m-macosx_11_0_arm64.whl", hash = "sha256:ee12873f8b66ff62c63f5fd71284a4ab0ee68755dc649e77c0b46dc4ec84a151"},
+    {file = "vl_convert_python-0.10.3-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:f189211b55cb7a0e32ab6d00fe71553a58614c987b0d283002e9fc0bfe5cf251"},
+    {file = "vl_convert_python-0.10.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:5af9f00e08aaa0d0e7d53d940fea9ffd45344e7c5da5b0922e2b0307918e0fd7"},
+    {file = "vl_convert_python-0.10.3-cp37-none-win_amd64.whl", hash = "sha256:2ef8ba0b082bc34cccfe10fbb0ae4594244940fd8234fd9c71d85af8b8cc7515"},
+    {file = "vl_convert_python-0.10.3-cp38-cp38-macosx_10_7_x86_64.whl", hash = "sha256:e1ee22e645958b6c0754edbeb9b5631ce2b1f32a80aab48f16722961a4fb9e1d"},
+    {file = "vl_convert_python-0.10.3-cp38-cp38-macosx_11_0_arm64.whl", hash = "sha256:9475f6b6b0b5c559724ef5418bea8889226fa50eff6b6cf55e5a0a29e76ca2d9"},
+    {file = "vl_convert_python-0.10.3-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:c3426f9c800627098a2e79d103cdb52062110336bdd234997b33954fbd26a701"},
+    {file = "vl_convert_python-0.10.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:63c9294fd3d58031e8b3d37ebfbc0a40d5a09671d93e060730697488db255205"},
+    {file = "vl_convert_python-0.10.3-cp38-none-win_amd64.whl", hash = "sha256:d91782f93e859a4528bb638a732024e41a82736671440faa38826ab91c8ab0d6"},
+    {file = "vl_convert_python-0.10.3-cp39-cp39-macosx_10_7_x86_64.whl", hash = "sha256:be448755bc38a9725140bb3a0dd0f7cf0644c3868f85685ca9df026021e98d17"},
+    {file = "vl_convert_python-0.10.3-cp39-cp39-macosx_11_0_arm64.whl", hash = "sha256:1f163c8db68d483926eccc8f787ee4d8483b5ab9188391dceb8ee77ebeeac152"},
+    {file = "vl_convert_python-0.10.3-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:abf16b4a46254f35e40335922e361e29b9dcbd55a7b5a8bb8c49fbd933ee3b1f"},
+    {file = "vl_convert_python-0.10.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:e635d5100a30d92e980b1fb75af282efd4a99db6a809bf81ce04cf6a2d639922"},
+    {file = "vl_convert_python-0.10.3-cp39-none-win_amd64.whl", hash = "sha256:0c180dd469de6996031b64de5ba52a58eae2863f39893301565b575e0cba2efa"},
+    {file = "vl_convert_python-0.10.3.tar.gz", hash = "sha256:bcfb015a6834c4a86bd126ef80c4fe6abb8609da798915fe1683532ae40b5d80"},
+]
+
+[[package]]
 name = "wcwidth"
 version = "0.2.6"
 description = "Measures the displayed width of unicode strings in a terminal"
@@ -1994,4 +2107,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "9de6cad45136d757d5ccabdcadd5fbda7c57ba64ac015d898c7be107a9ad92e7"
+content-hash = "a882a9b095a25a7b7212138ec2449b86dec793afda8feff49b455d8679a4a8f7"

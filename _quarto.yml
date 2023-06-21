@@ -1,7 +1,8 @@
 project:
   type: website
   output-dir: docs
-
+execute:
+  freeze: false  # never re-render during project render
 website:
   title: "Thomas Camminady"
   navbar:
