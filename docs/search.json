@@ -91,8 +91,8 @@
     "text": "Summary\nI want to summarize two things, performance and writing code.\nPerformance wise, my polars implementation is a factor 8 to 9 faster for my example. It seems like this might be a lower bound when moving to larger files but I will keep an eye on that. Given that I am only writing polars code since a month, I am happy with this performance gain.\nFrom an implementation point of view, I was much faster using pandas. I have been using pandas for two years now and I guess that’s just showing here. I really appreciate the auto complete feature for the column names which is a feature that I miss when using polars.\nI do like the chaining of operations, but it makes the code longer and it is a bit annoying having to write code like this (using pandas):\ndf[\"y\"] = 123 + df[\"x\"]\ndf[\"z\"] = 456 + df[\"y\"]\nin this way (using polars):\ndf.with_columns((pl.col(\"x\") + 123).alias(\"y\"))\n    .with_columns((pl.col(\"y\") + 456).alias(\"z\"))\nEspecially with long column names and black formatting, this can double the number of LOC.\nOverall I am quite happy with my polars experience and I will continue using it for project in the futures. One thing I hope for, is that altair can be used with polars data frames instead of needing to call .to_pandas() when passing the data to a chart.\nThanks for reading :)"
   },
   {
-    "objectID": "altair/main.html",
-    "href": "altair/main.html",
+    "objectID": "altair/getting_started.html",
+    "href": "altair/getting_started.html",
     "title": "Getting started",
     "section": "",
     "text": "We’ll be using the following packages in all of the upcoming posts. The package camminapy can be installed via poetry and running altair_theme provides sensible defaults.\n\nimport polars as pl\nimport numpy as np\nimport altair as alt\nfrom camminapy.plot import altair_theme\n\naltair_theme()\n\nWe’ll be using polars instead of pandas and altair&gt;=5.0.1."
