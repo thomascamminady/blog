@@ -83,7 +83,9 @@ regression = (
     .mark_line(clip=True)
 )
 alt.layer(
-    chart.encode(opacity=alt.condition(brush, alt.value(1.0), alt.value(0.1))),
+    chart.encode(
+        opacity=alt.condition(brush, alt.value(1.0), alt.value(0.1)),
+    ),
     regression,
 )
 ```
