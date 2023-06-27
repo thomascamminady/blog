@@ -41,7 +41,11 @@ chart
 Now we can add a linear regression line very easily
 ```{python}
 regression = chart.transform_regression(
-    "sepalLength", "sepalWidth", groupby=["species"], method="poly", order=5
+    "sepalLength",
+    "sepalWidth",
+    groupby=["species"],
+    method="poly",
+    order=5,
 ).mark_line()
 alt.layer(chart, regression)
 ```
