@@ -159,3 +159,7 @@ cython_debug/
 *.pyc
 .venv/
 logs/
+.DS_Store
+
+
+posts/.DS_Store
