@@ -1,0 +1,37 @@
+# Title
+
+```{python}
+import polars as pl
+import numpy as np
+import altair as alt
+
+np.random.seed(1)
+n = 500
+s = 10
+x = np.arange(n)
+y = np.cumsum(np.random.randn(s, n), axis=1)
+
+df = pl.DataFrame({"x": x} | {str(i): y[i, :] for i in range(s)}).melt(
+    id_vars=["x"],
+    value_vars=[str(i) for i in range(s)],
+    value_name="y",
+    variable_name="sample",
+)
+
+base = alt.Chart(df).encode(x="x:Q", y="y:Q").properties(width=600, height=200)
+alt.vconcat(
+    alt.layer(
+        base.mark_line(opacity=0.3).encode(detail="sample:N"),
+        base.mark_errorband(extent="stderr", color="black", opacity=0.5),
+    ),
+    alt.layer(
+        base.mark_line(opacity=0.3).encode(detail="sample:N"),
+        base.mark_errorband(extent="stdev", color="orange", opacity=0.5),
+    ),
+    alt.layer(
+        base.mark_line(opacity=0.3).encode(detail="sample:N"),
+        base.mark_errorband(extent="stdev", color="orange", opacity=0.5),
+        base.mark_errorband(extent="stderr", color="black", opacity=0.5),
+    ),
+)
+```

@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/uncertainty/main.html",
       "/posts/gradeinflation/Abiturnoten.html",
       "/posts/world-records/records.html",
       "/posts/polars-vs-pandas/index.html",

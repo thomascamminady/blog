@@ -109,6 +109,13 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Abiturnoten inflation in Germany\n\n\n\n\n\n\n\n\n\n\n\n\nJun 21, 2023\n\n\nThomas Camminady\n\n\n\n\n\n\n  \n\n\n\n\nTrack and Field World Record Progression\n\n\n\n\n\n\n\n\n\n\n\n\nJun 7, 2023\n\n\nThomas Camminady\n\n\n\n\n\n\n  \n\n\n\n\nComparing polars with pandas; my personal case study\n\n\n\n\n\n\n\n\n\n\n\n\nMar 5, 2023\n\n\nThomas Camminady\n\n\n\n\n\n\n  \n\n\n\n\nLogitech MX Mechanical Mini for Mac: Issues with M1 Mac\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 22, 2023\n\n\nThomas Camminady\n\n\n\n\n\n\nNo matching items"
+    "text": "Title\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nAbiturnoten inflation in Germany\n\n\n\n\n\n\n\n\n\n\n\n\nJun 21, 2023\n\n\nThomas Camminady\n\n\n\n\n\n\n  \n\n\n\n\nTrack and Field World Record Progression\n\n\n\n\n\n\n\n\n\n\n\n\nJun 7, 2023\n\n\nThomas Camminady\n\n\n\n\n\n\n  \n\n\n\n\nComparing polars with pandas; my personal case study\n\n\n\n\n\n\n\n\n\n\n\n\nMar 5, 2023\n\n\nThomas Camminady\n\n\n\n\n\n\n  \n\n\n\n\nLogitech MX Mechanical Mini for Mac: Issues with M1 Mac\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 22, 2023\n\n\nThomas Camminady\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/uncertainty/main.html",
+    "href": "posts/uncertainty/main.html",
+    "title": "Title",
+    "section": "",
+    "text": "Code\nimport polars as pl\nimport numpy as np\nimport altair as alt\n\nnp.random.seed(1)\nn = 500\ns = 10\nx = np.arange(n)\ny = np.cumsum(np.random.randn(s, n), axis=1)\n\ndf = pl.DataFrame({\"x\": x} | {str(i): y[i, :] for i in range(s)}).melt(\n    id_vars=[\"x\"],\n    value_vars=[str(i) for i in range(s)],\n    value_name=\"y\",\n    variable_name=\"sample\",\n)\n\nbase = alt.Chart(df).encode(x=\"x:Q\", y=\"y:Q\").properties(width=600, height=200)\nalt.vconcat(\n    alt.layer(\n        base.mark_line(opacity=0.3).encode(detail=\"sample:N\"),\n        base.mark_errorband(extent=\"stderr\", color=\"black\", opacity=0.5),\n    ),\n    alt.layer(\n        base.mark_line(opacity=0.3).encode(detail=\"sample:N\"),\n        base.mark_errorband(extent=\"stdev\", color=\"orange\", opacity=0.5),\n    ),\n    alt.layer(\n        base.mark_line(opacity=0.3).encode(detail=\"sample:N\"),\n        base.mark_errorband(extent=\"stdev\", color=\"orange\", opacity=0.5),\n        base.mark_errorband(extent=\"stderr\", color=\"black\", opacity=0.5),\n    ),\n)"
   }
 ]
