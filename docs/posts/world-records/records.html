@@ -193,109 +193,109 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <div class="cell" data-execution_count="1">
 <details>
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> altair <span class="im">as</span> alt</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> polars <span class="im">as</span> pl</span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> alltime_athletics_python.io <span class="im">import</span> download_data</span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> alltime_athletics_python.io <span class="im">import</span> import_running_only_events</span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="co"># download_data()</span></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> import_running_only_events(<span class="st">"./data"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1"></a><span class="im">import</span> altair <span class="im">as</span> alt</span>
+<span id="cb1-2"><a href="#cb1-2"></a><span class="im">import</span> polars <span class="im">as</span> pl</span>
+<span id="cb1-3"><a href="#cb1-3"></a><span class="im">from</span> alltime_athletics_python.io <span class="im">import</span> download_data</span>
+<span id="cb1-4"><a href="#cb1-4"></a><span class="im">from</span> alltime_athletics_python.io <span class="im">import</span> import_running_only_events</span>
+<span id="cb1-5"><a href="#cb1-5"></a></span>
+<span id="cb1-6"><a href="#cb1-6"></a><span class="co"># download_data()</span></span>
+<span id="cb1-7"><a href="#cb1-7"></a>df <span class="op">=</span> import_running_only_events(<span class="st">"./data"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
 <div class="cell caption-undefined" data-execution_count="2">
 <details>
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>world_records <span class="op">=</span> (</span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>    df.<span class="bu">filter</span>(pl.col(<span class="st">"event"</span>).<span class="bu">str</span>.contains(<span class="st">"walk"</span>) <span class="op">==</span> <span class="va">False</span>)</span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>    .<span class="bu">filter</span>(pl.col(<span class="st">"event type"</span>) <span class="op">==</span> <span class="st">"standard"</span>)</span>
-<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>    .sort(<span class="st">"sex"</span>, <span class="st">"distance"</span>, <span class="st">"event"</span>, <span class="st">"date of event"</span>)</span>
-<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>    .with_columns(</span>
-<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>        pl.col(<span class="st">"result seconds"</span>)</span>
-<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>        .cummin()</span>
-<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>        .over(<span class="st">"sex"</span>, <span class="st">"event"</span>)</span>
-<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>        .alias(<span class="st">"world record time"</span>)</span>
-<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>    )</span>
-<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>    .<span class="bu">filter</span>(pl.col(<span class="st">"result seconds"</span>) <span class="op">==</span> pl.col(<span class="st">"world record time"</span>))</span>
-<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>    .groupby(<span class="st">"sex"</span>, <span class="st">"event"</span>, <span class="st">"result seconds"</span>, maintain_order<span class="op">=</span><span class="va">True</span>)</span>
-<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>    .first()</span>
-<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>    .with_columns(</span>
-<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>        (</span>
-<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a>            <span class="dv">100</span></span>
-<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a>            <span class="op">*</span> pl.col(<span class="st">"result seconds"</span>)</span>
-<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a>            <span class="op">/</span> pl.col(<span class="st">"result seconds"</span>).<span class="bu">min</span>().over(<span class="st">"sex"</span>, <span class="st">"event"</span>)</span>
-<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a>        ).alias(<span class="st">"percent of wr"</span>)</span>
-<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a>    )</span>
-<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a>)</span>
-<span id="cb2-22"><a href="#cb2-22" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-23"><a href="#cb2-23" aria-hidden="true" tabindex="-1"></a>world_records <span class="op">=</span> pl.concat(</span>
-<span id="cb2-24"><a href="#cb2-24" aria-hidden="true" tabindex="-1"></a>    [</span>
-<span id="cb2-25"><a href="#cb2-25" aria-hidden="true" tabindex="-1"></a>        world_records,</span>
-<span id="cb2-26"><a href="#cb2-26" aria-hidden="true" tabindex="-1"></a>        world_records.<span class="bu">filter</span>(pl.col(<span class="st">"rank"</span>) <span class="op">==</span> <span class="dv">1</span>).with_columns(</span>
-<span id="cb2-27"><a href="#cb2-27" aria-hidden="true" tabindex="-1"></a>            [</span>
-<span id="cb2-28"><a href="#cb2-28" aria-hidden="true" tabindex="-1"></a>                pl.lit(<span class="st">"2023-06-07"</span>)</span>
-<span id="cb2-29"><a href="#cb2-29" aria-hidden="true" tabindex="-1"></a>                .<span class="bu">str</span>.strptime(pl.Date, <span class="bu">format</span><span class="op">=</span><span class="st">"%Y-%m-</span><span class="sc">%d</span><span class="st">"</span>)</span>
-<span id="cb2-30"><a href="#cb2-30" aria-hidden="true" tabindex="-1"></a>                .alias(<span class="st">"date of event"</span>),</span>
-<span id="cb2-31"><a href="#cb2-31" aria-hidden="true" tabindex="-1"></a>                pl.lit(<span class="op">-</span><span class="dv">1</span>).cast(pl.Int64).alias(<span class="st">"rank"</span>),</span>
-<span id="cb2-32"><a href="#cb2-32" aria-hidden="true" tabindex="-1"></a>            ]</span>
-<span id="cb2-33"><a href="#cb2-33" aria-hidden="true" tabindex="-1"></a>        ),</span>
-<span id="cb2-34"><a href="#cb2-34" aria-hidden="true" tabindex="-1"></a>    ]</span>
-<span id="cb2-35"><a href="#cb2-35" aria-hidden="true" tabindex="-1"></a>).with_columns(pl.col(<span class="st">"sex"</span>).<span class="bu">apply</span>(<span class="kw">lambda</span> s: s.title()))</span>
-<span id="cb2-36"><a href="#cb2-36" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-37"><a href="#cb2-37" aria-hidden="true" tabindex="-1"></a>data <span class="op">=</span> world_records.select(</span>
-<span id="cb2-38"><a href="#cb2-38" aria-hidden="true" tabindex="-1"></a>    <span class="st">"date of event"</span>, <span class="st">"percent of wr"</span>, <span class="st">"event"</span>, <span class="st">"sex"</span>, <span class="st">"name"</span>, <span class="st">"rank"</span></span>
-<span id="cb2-39"><a href="#cb2-39" aria-hidden="true" tabindex="-1"></a>).to_pandas()</span>
-<span id="cb2-40"><a href="#cb2-40" aria-hidden="true" tabindex="-1"></a>legend_selection <span class="op">=</span> alt.selection_point(fields<span class="op">=</span>[<span class="st">"event"</span>], bind<span class="op">=</span><span class="st">"legend"</span>)</span>
-<span id="cb2-41"><a href="#cb2-41" aria-hidden="true" tabindex="-1"></a>legend_selection_empty <span class="op">=</span> alt.selection_point(</span>
-<span id="cb2-42"><a href="#cb2-42" aria-hidden="true" tabindex="-1"></a>    fields<span class="op">=</span>[<span class="st">"event"</span>], bind<span class="op">=</span><span class="st">"legend"</span>, empty<span class="op">=</span><span class="va">False</span></span>
-<span id="cb2-43"><a href="#cb2-43" aria-hidden="true" tabindex="-1"></a>)</span>
-<span id="cb2-44"><a href="#cb2-44" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-45"><a href="#cb2-45" aria-hidden="true" tabindex="-1"></a>base <span class="op">=</span> (</span>
-<span id="cb2-46"><a href="#cb2-46" aria-hidden="true" tabindex="-1"></a>    alt.Chart(data)</span>
-<span id="cb2-47"><a href="#cb2-47" aria-hidden="true" tabindex="-1"></a>    .encode(</span>
-<span id="cb2-48"><a href="#cb2-48" aria-hidden="true" tabindex="-1"></a>        x<span class="op">=</span>alt.X(<span class="st">"date of event:T"</span>)</span>
-<span id="cb2-49"><a href="#cb2-49" aria-hidden="true" tabindex="-1"></a>        .scale(domain<span class="op">=</span>(<span class="st">"1950-01-01"</span>, <span class="st">"2026-01-01"</span>))</span>
-<span id="cb2-50"><a href="#cb2-50" aria-hidden="true" tabindex="-1"></a>        .title(<span class="st">"Year"</span>),</span>
-<span id="cb2-51"><a href="#cb2-51" aria-hidden="true" tabindex="-1"></a>        y<span class="op">=</span>alt.Y(<span class="st">"percent of wr:Q"</span>)</span>
-<span id="cb2-52"><a href="#cb2-52" aria-hidden="true" tabindex="-1"></a>        .scale(domain<span class="op">=</span>(<span class="dv">100</span>, <span class="dv">110</span>))</span>
-<span id="cb2-53"><a href="#cb2-53" aria-hidden="true" tabindex="-1"></a>        .axis(values<span class="op">=</span><span class="bu">list</span>(<span class="bu">range</span>(<span class="dv">100</span>, <span class="dv">120</span>, <span class="dv">2</span>)))</span>
-<span id="cb2-54"><a href="#cb2-54" aria-hidden="true" tabindex="-1"></a>        .title(<span class="st">"Time in </span><span class="sc">% o</span><span class="st">f current WR"</span>),</span>
-<span id="cb2-55"><a href="#cb2-55" aria-hidden="true" tabindex="-1"></a>        color<span class="op">=</span>alt.Color(</span>
-<span id="cb2-56"><a href="#cb2-56" aria-hidden="true" tabindex="-1"></a>            <span class="st">"event:N"</span>,</span>
-<span id="cb2-57"><a href="#cb2-57" aria-hidden="true" tabindex="-1"></a>            sort<span class="op">=</span>world_records.sort(<span class="st">"distance"</span>)[<span class="st">"event"</span>]</span>
-<span id="cb2-58"><a href="#cb2-58" aria-hidden="true" tabindex="-1"></a>            .unique(maintain_order<span class="op">=</span><span class="va">True</span>)</span>
-<span id="cb2-59"><a href="#cb2-59" aria-hidden="true" tabindex="-1"></a>            .to_list(),</span>
-<span id="cb2-60"><a href="#cb2-60" aria-hidden="true" tabindex="-1"></a>        )</span>
-<span id="cb2-61"><a href="#cb2-61" aria-hidden="true" tabindex="-1"></a>        .scale(scheme<span class="op">=</span><span class="st">"dark2"</span>)</span>
-<span id="cb2-62"><a href="#cb2-62" aria-hidden="true" tabindex="-1"></a>        .title(<span class="st">"Event"</span>),</span>
-<span id="cb2-63"><a href="#cb2-63" aria-hidden="true" tabindex="-1"></a>        <span class="co"># strokeDash="sex:N",</span></span>
-<span id="cb2-64"><a href="#cb2-64" aria-hidden="true" tabindex="-1"></a>        opacity<span class="op">=</span>alt.condition(legend_selection, alt.value(<span class="dv">1</span>), alt.value(<span class="dv">0</span>)),</span>
-<span id="cb2-65"><a href="#cb2-65" aria-hidden="true" tabindex="-1"></a>    )</span>
-<span id="cb2-66"><a href="#cb2-66" aria-hidden="true" tabindex="-1"></a>    .properties(width<span class="op">=</span><span class="dv">800</span>, height<span class="op">=</span><span class="dv">500</span>)</span>
-<span id="cb2-67"><a href="#cb2-67" aria-hidden="true" tabindex="-1"></a>    .add_params(legend_selection)</span>
-<span id="cb2-68"><a href="#cb2-68" aria-hidden="true" tabindex="-1"></a>    .add_params(legend_selection_empty)</span>
-<span id="cb2-69"><a href="#cb2-69" aria-hidden="true" tabindex="-1"></a>)</span>
-<span id="cb2-70"><a href="#cb2-70" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-71"><a href="#cb2-71" aria-hidden="true" tabindex="-1"></a>base_no_endpoint <span class="op">=</span> base.transform_filter(alt.datum[<span class="st">"rank"</span>] <span class="op">&gt;</span> <span class="dv">0</span>)</span>
-<span id="cb2-72"><a href="#cb2-72" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-73"><a href="#cb2-73" aria-hidden="true" tabindex="-1"></a>text <span class="op">=</span> base_no_endpoint.encode(</span>
-<span id="cb2-74"><a href="#cb2-74" aria-hidden="true" tabindex="-1"></a>    text<span class="op">=</span><span class="st">"name:N"</span>,</span>
-<span id="cb2-75"><a href="#cb2-75" aria-hidden="true" tabindex="-1"></a>    opacity<span class="op">=</span>alt.condition(legend_selection_empty, alt.value(<span class="fl">0.9</span>), alt.value(<span class="fl">0.0</span>)),</span>
-<span id="cb2-76"><a href="#cb2-76" aria-hidden="true" tabindex="-1"></a>)</span>
-<span id="cb2-77"><a href="#cb2-77" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-78"><a href="#cb2-78" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-79"><a href="#cb2-79" aria-hidden="true" tabindex="-1"></a>chart <span class="op">=</span> (</span>
-<span id="cb2-80"><a href="#cb2-80" aria-hidden="true" tabindex="-1"></a>    alt.layer(</span>
-<span id="cb2-81"><a href="#cb2-81" aria-hidden="true" tabindex="-1"></a>        base.mark_line(interpolate<span class="op">=</span><span class="st">"step-after"</span>, clip<span class="op">=</span><span class="va">True</span>, strokeWidth<span class="op">=</span><span class="dv">3</span>),</span>
-<span id="cb2-82"><a href="#cb2-82" aria-hidden="true" tabindex="-1"></a>        base_no_endpoint.mark_point(filled<span class="op">=</span><span class="va">True</span>, clip<span class="op">=</span><span class="va">True</span>, size<span class="op">=</span><span class="dv">100</span>),</span>
-<span id="cb2-83"><a href="#cb2-83" aria-hidden="true" tabindex="-1"></a>        text.mark_text(clip<span class="op">=</span><span class="va">True</span>, fontSize<span class="op">=</span><span class="dv">14</span>, angle<span class="op">=</span><span class="dv">270</span> <span class="op">+</span> <span class="dv">45</span>, align<span class="op">=</span><span class="st">"left"</span>, dx<span class="op">=</span><span class="dv">15</span>),</span>
-<span id="cb2-84"><a href="#cb2-84" aria-hidden="true" tabindex="-1"></a>    )</span>
-<span id="cb2-85"><a href="#cb2-85" aria-hidden="true" tabindex="-1"></a>    .facet(</span>
-<span id="cb2-86"><a href="#cb2-86" aria-hidden="true" tabindex="-1"></a>        row<span class="op">=</span>alt.Row(<span class="st">"sex:N"</span>).title(<span class="st">""</span>).header(labelAngle<span class="op">=</span><span class="dv">0</span>),</span>
-<span id="cb2-87"><a href="#cb2-87" aria-hidden="true" tabindex="-1"></a>        title<span class="op">=</span><span class="st">"World Record Progression"</span>,</span>
-<span id="cb2-88"><a href="#cb2-88" aria-hidden="true" tabindex="-1"></a>    )</span>
-<span id="cb2-89"><a href="#cb2-89" aria-hidden="true" tabindex="-1"></a>    .resolve_scale(x<span class="op">=</span><span class="st">"independent"</span>)</span>
-<span id="cb2-90"><a href="#cb2-90" aria-hidden="true" tabindex="-1"></a>)</span>
-<span id="cb2-91"><a href="#cb2-91" aria-hidden="true" tabindex="-1"></a>chart</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1"></a>world_records <span class="op">=</span> (</span>
+<span id="cb2-2"><a href="#cb2-2"></a>    df.<span class="bu">filter</span>(pl.col(<span class="st">"event"</span>).<span class="bu">str</span>.contains(<span class="st">"walk"</span>) <span class="op">==</span> <span class="va">False</span>)</span>
+<span id="cb2-3"><a href="#cb2-3"></a>    .<span class="bu">filter</span>(pl.col(<span class="st">"event type"</span>) <span class="op">==</span> <span class="st">"standard"</span>)</span>
+<span id="cb2-4"><a href="#cb2-4"></a>    .sort(<span class="st">"sex"</span>, <span class="st">"distance"</span>, <span class="st">"event"</span>, <span class="st">"date of event"</span>)</span>
+<span id="cb2-5"><a href="#cb2-5"></a>    .with_columns(</span>
+<span id="cb2-6"><a href="#cb2-6"></a>        pl.col(<span class="st">"result seconds"</span>)</span>
+<span id="cb2-7"><a href="#cb2-7"></a>        .cummin()</span>
+<span id="cb2-8"><a href="#cb2-8"></a>        .over(<span class="st">"sex"</span>, <span class="st">"event"</span>)</span>
+<span id="cb2-9"><a href="#cb2-9"></a>        .alias(<span class="st">"world record time"</span>)</span>
+<span id="cb2-10"><a href="#cb2-10"></a>    )</span>
+<span id="cb2-11"><a href="#cb2-11"></a>    .<span class="bu">filter</span>(pl.col(<span class="st">"result seconds"</span>) <span class="op">==</span> pl.col(<span class="st">"world record time"</span>))</span>
+<span id="cb2-12"><a href="#cb2-12"></a>    .groupby(<span class="st">"sex"</span>, <span class="st">"event"</span>, <span class="st">"result seconds"</span>, maintain_order<span class="op">=</span><span class="va">True</span>)</span>
+<span id="cb2-13"><a href="#cb2-13"></a>    .first()</span>
+<span id="cb2-14"><a href="#cb2-14"></a>    .with_columns(</span>
+<span id="cb2-15"><a href="#cb2-15"></a>        (</span>
+<span id="cb2-16"><a href="#cb2-16"></a>            <span class="dv">100</span></span>
+<span id="cb2-17"><a href="#cb2-17"></a>            <span class="op">*</span> pl.col(<span class="st">"result seconds"</span>)</span>
+<span id="cb2-18"><a href="#cb2-18"></a>            <span class="op">/</span> pl.col(<span class="st">"result seconds"</span>).<span class="bu">min</span>().over(<span class="st">"sex"</span>, <span class="st">"event"</span>)</span>
+<span id="cb2-19"><a href="#cb2-19"></a>        ).alias(<span class="st">"percent of wr"</span>)</span>
+<span id="cb2-20"><a href="#cb2-20"></a>    )</span>
+<span id="cb2-21"><a href="#cb2-21"></a>)</span>
+<span id="cb2-22"><a href="#cb2-22"></a></span>
+<span id="cb2-23"><a href="#cb2-23"></a>world_records <span class="op">=</span> pl.concat(</span>
+<span id="cb2-24"><a href="#cb2-24"></a>    [</span>
+<span id="cb2-25"><a href="#cb2-25"></a>        world_records,</span>
+<span id="cb2-26"><a href="#cb2-26"></a>        world_records.<span class="bu">filter</span>(pl.col(<span class="st">"rank"</span>) <span class="op">==</span> <span class="dv">1</span>).with_columns(</span>
+<span id="cb2-27"><a href="#cb2-27"></a>            [</span>
+<span id="cb2-28"><a href="#cb2-28"></a>                pl.lit(<span class="st">"2023-06-07"</span>)</span>
+<span id="cb2-29"><a href="#cb2-29"></a>                .<span class="bu">str</span>.strptime(pl.Date, <span class="bu">format</span><span class="op">=</span><span class="st">"%Y-%m-</span><span class="sc">%d</span><span class="st">"</span>)</span>
+<span id="cb2-30"><a href="#cb2-30"></a>                .alias(<span class="st">"date of event"</span>),</span>
+<span id="cb2-31"><a href="#cb2-31"></a>                pl.lit(<span class="op">-</span><span class="dv">1</span>).cast(pl.Int64).alias(<span class="st">"rank"</span>),</span>
+<span id="cb2-32"><a href="#cb2-32"></a>            ]</span>
+<span id="cb2-33"><a href="#cb2-33"></a>        ),</span>
+<span id="cb2-34"><a href="#cb2-34"></a>    ]</span>
+<span id="cb2-35"><a href="#cb2-35"></a>).with_columns(pl.col(<span class="st">"sex"</span>).<span class="bu">apply</span>(<span class="kw">lambda</span> s: s.title()))</span>
+<span id="cb2-36"><a href="#cb2-36"></a></span>
+<span id="cb2-37"><a href="#cb2-37"></a>data <span class="op">=</span> world_records.select(</span>
+<span id="cb2-38"><a href="#cb2-38"></a>    <span class="st">"date of event"</span>, <span class="st">"percent of wr"</span>, <span class="st">"event"</span>, <span class="st">"sex"</span>, <span class="st">"name"</span>, <span class="st">"rank"</span></span>
+<span id="cb2-39"><a href="#cb2-39"></a>).to_pandas()</span>
+<span id="cb2-40"><a href="#cb2-40"></a>legend_selection <span class="op">=</span> alt.selection_point(fields<span class="op">=</span>[<span class="st">"event"</span>], bind<span class="op">=</span><span class="st">"legend"</span>)</span>
+<span id="cb2-41"><a href="#cb2-41"></a>legend_selection_empty <span class="op">=</span> alt.selection_point(</span>
+<span id="cb2-42"><a href="#cb2-42"></a>    fields<span class="op">=</span>[<span class="st">"event"</span>], bind<span class="op">=</span><span class="st">"legend"</span>, empty<span class="op">=</span><span class="va">False</span></span>
+<span id="cb2-43"><a href="#cb2-43"></a>)</span>
+<span id="cb2-44"><a href="#cb2-44"></a></span>
+<span id="cb2-45"><a href="#cb2-45"></a>base <span class="op">=</span> (</span>
+<span id="cb2-46"><a href="#cb2-46"></a>    alt.Chart(data)</span>
+<span id="cb2-47"><a href="#cb2-47"></a>    .encode(</span>
+<span id="cb2-48"><a href="#cb2-48"></a>        x<span class="op">=</span>alt.X(<span class="st">"date of event:T"</span>)</span>
+<span id="cb2-49"><a href="#cb2-49"></a>        .scale(domain<span class="op">=</span>(<span class="st">"1950-01-01"</span>, <span class="st">"2026-01-01"</span>))</span>
+<span id="cb2-50"><a href="#cb2-50"></a>        .title(<span class="st">"Year"</span>),</span>
+<span id="cb2-51"><a href="#cb2-51"></a>        y<span class="op">=</span>alt.Y(<span class="st">"percent of wr:Q"</span>)</span>
+<span id="cb2-52"><a href="#cb2-52"></a>        .scale(domain<span class="op">=</span>(<span class="dv">100</span>, <span class="dv">110</span>))</span>
+<span id="cb2-53"><a href="#cb2-53"></a>        .axis(values<span class="op">=</span><span class="bu">list</span>(<span class="bu">range</span>(<span class="dv">100</span>, <span class="dv">120</span>, <span class="dv">2</span>)))</span>
+<span id="cb2-54"><a href="#cb2-54"></a>        .title(<span class="st">"Time in </span><span class="sc">% o</span><span class="st">f current WR"</span>),</span>
+<span id="cb2-55"><a href="#cb2-55"></a>        color<span class="op">=</span>alt.Color(</span>
+<span id="cb2-56"><a href="#cb2-56"></a>            <span class="st">"event:N"</span>,</span>
+<span id="cb2-57"><a href="#cb2-57"></a>            sort<span class="op">=</span>world_records.sort(<span class="st">"distance"</span>)[<span class="st">"event"</span>]</span>
+<span id="cb2-58"><a href="#cb2-58"></a>            .unique(maintain_order<span class="op">=</span><span class="va">True</span>)</span>
+<span id="cb2-59"><a href="#cb2-59"></a>            .to_list(),</span>
+<span id="cb2-60"><a href="#cb2-60"></a>        )</span>
+<span id="cb2-61"><a href="#cb2-61"></a>        .scale(scheme<span class="op">=</span><span class="st">"dark2"</span>)</span>
+<span id="cb2-62"><a href="#cb2-62"></a>        .title(<span class="st">"Event"</span>),</span>
+<span id="cb2-63"><a href="#cb2-63"></a>        <span class="co"># strokeDash="sex:N",</span></span>
+<span id="cb2-64"><a href="#cb2-64"></a>        opacity<span class="op">=</span>alt.condition(legend_selection, alt.value(<span class="dv">1</span>), alt.value(<span class="dv">0</span>)),</span>
+<span id="cb2-65"><a href="#cb2-65"></a>    )</span>
+<span id="cb2-66"><a href="#cb2-66"></a>    .properties(width<span class="op">=</span><span class="dv">800</span>, height<span class="op">=</span><span class="dv">500</span>)</span>
+<span id="cb2-67"><a href="#cb2-67"></a>    .add_params(legend_selection)</span>
+<span id="cb2-68"><a href="#cb2-68"></a>    .add_params(legend_selection_empty)</span>
+<span id="cb2-69"><a href="#cb2-69"></a>)</span>
+<span id="cb2-70"><a href="#cb2-70"></a></span>
+<span id="cb2-71"><a href="#cb2-71"></a>base_no_endpoint <span class="op">=</span> base.transform_filter(alt.datum[<span class="st">"rank"</span>] <span class="op">&gt;</span> <span class="dv">0</span>)</span>
+<span id="cb2-72"><a href="#cb2-72"></a></span>
+<span id="cb2-73"><a href="#cb2-73"></a>text <span class="op">=</span> base_no_endpoint.encode(</span>
+<span id="cb2-74"><a href="#cb2-74"></a>    text<span class="op">=</span><span class="st">"name:N"</span>,</span>
+<span id="cb2-75"><a href="#cb2-75"></a>    opacity<span class="op">=</span>alt.condition(legend_selection_empty, alt.value(<span class="fl">0.9</span>), alt.value(<span class="fl">0.0</span>)),</span>
+<span id="cb2-76"><a href="#cb2-76"></a>)</span>
+<span id="cb2-77"><a href="#cb2-77"></a></span>
+<span id="cb2-78"><a href="#cb2-78"></a></span>
+<span id="cb2-79"><a href="#cb2-79"></a>chart <span class="op">=</span> (</span>
+<span id="cb2-80"><a href="#cb2-80"></a>    alt.layer(</span>
+<span id="cb2-81"><a href="#cb2-81"></a>        base.mark_line(interpolate<span class="op">=</span><span class="st">"step-after"</span>, clip<span class="op">=</span><span class="va">True</span>, strokeWidth<span class="op">=</span><span class="dv">3</span>),</span>
+<span id="cb2-82"><a href="#cb2-82"></a>        base_no_endpoint.mark_point(filled<span class="op">=</span><span class="va">True</span>, clip<span class="op">=</span><span class="va">True</span>, size<span class="op">=</span><span class="dv">100</span>),</span>
+<span id="cb2-83"><a href="#cb2-83"></a>        text.mark_text(clip<span class="op">=</span><span class="va">True</span>, fontSize<span class="op">=</span><span class="dv">14</span>, angle<span class="op">=</span><span class="dv">270</span> <span class="op">+</span> <span class="dv">45</span>, align<span class="op">=</span><span class="st">"left"</span>, dx<span class="op">=</span><span class="dv">15</span>),</span>
+<span id="cb2-84"><a href="#cb2-84"></a>    )</span>
+<span id="cb2-85"><a href="#cb2-85"></a>    .facet(</span>
+<span id="cb2-86"><a href="#cb2-86"></a>        row<span class="op">=</span>alt.Row(<span class="st">"sex:N"</span>).title(<span class="st">""</span>).header(labelAngle<span class="op">=</span><span class="dv">0</span>),</span>
+<span id="cb2-87"><a href="#cb2-87"></a>        title<span class="op">=</span><span class="st">"World Record Progression"</span>,</span>
+<span id="cb2-88"><a href="#cb2-88"></a>    )</span>
+<span id="cb2-89"><a href="#cb2-89"></a>    .resolve_scale(x<span class="op">=</span><span class="st">"independent"</span>)</span>
+<span id="cb2-90"><a href="#cb2-90"></a>)</span>
+<span id="cb2-91"><a href="#cb2-91"></a>chart</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div id="fig-world-records" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">

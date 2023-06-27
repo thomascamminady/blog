@@ -27,5 +27,8 @@ coverage:
 
 
 publish:
-	poetry run quarto render posts/
-	poetry run  quarto preview /Users/thomascamminady/Repos/blog --render all --no-browser --port 2222
+	poetry run quarto render
+	git add altair/
+	git add docs/
+	git commit -am "Updating blog."
+	git push
