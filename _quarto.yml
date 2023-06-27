@@ -18,6 +18,7 @@ website:
 format:
   html:
     code-fold: true
+    code-line-numbers: true
     theme:
       - cosmo
       - styles.scss

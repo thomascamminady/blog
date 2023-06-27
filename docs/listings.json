@@ -2,6 +2,7 @@
   {
     "listing": "/altair.html",
     "items": [
+      "/altair/interactive_regression.html",
       "/altair/getting_started.html"
     ]
   },
