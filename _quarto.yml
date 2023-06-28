@@ -19,6 +19,8 @@ website:
         href: https://github.com/thomascamminady
       - icon: linkedin
         href: https://www.linkedin.com/in/camminady/
+      - icon: twitter
+        href: https://twitter.com/camminady
       - icon: code
         href: https://github.com/thomascamminady/blog
 
@@ -28,8 +30,8 @@ format:
     code-fold: true
     code-line-numbers: true
     theme:
-      - cosmo
-      - styles.scss
+      - minty
+      - custom.scss
 
 
 

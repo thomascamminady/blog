@@ -1,5 +1,5 @@
 ---
-title: "Data Sets"
+title: "Data sets"
 format: html
 page-layout: article
 ---
