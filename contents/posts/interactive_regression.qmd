@@ -8,7 +8,8 @@ format:
     code-line-numbers: true
 ---
 
-
+This example shows how to create an interactive plot with regression lines using `altair`.
+The regression lines will be computed over the window that is selected and update accordingly when moving the selected region.
 
 
 ```{python}

@@ -1,11 +1,26 @@
 ---
-title: "CV"
+title: ""
 about:
-  template: solana
+  template: marquee
+page-layout: article
+
 ---
 
-# Experience
+# It's me, hi!
 
+
+
+My name is Thomas, I'm a runner, mathematician, and currently working as a data scientist at Wahoo Fitness LLC.
+I studied Computational Engineering Science at RWTH Aachen University and then went ont to get a Ph.D. in applied mathematics from the Karlsruhe Institute of Technology.
+
+::: {.column-margin}
+![Can't find a good image, ffs!](IMG_0776.jpeg){width=300}
+:::
+
+When I'm not using `pandas` (or [`polars`](https://www.pola.rs/)) to turn wide dataframes into long ones, I like to run through forests and around tracks.
+
+
+# Experience
 **Wahoo Fitness, Atlanta/remote, Algorithm Developer**
 
 *Since March 2021*

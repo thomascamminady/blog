@@ -8,26 +8,30 @@ alt.data_transformers.disable_max_rows()
 
 
 def get_df() -> pl.DataFrame:
-    bundeslaender = {
-        "TH": "Thüringen",
-        "HB": "Bremen",
-        "SH": "Schleswig-Holstein",
-        "BW": "Baden-Württemberg",
-        "SN": "Sachsen",
-        "MV": "Mecklenburg-Vorpommern",
-        "BB": "Brandenburg",
-        "BY": "Bayern",
-        "BE": "Berlin",
-        "ST": "Sachsen-Anhalt",
-        "NW": "Nordrhein-Westfalen",
-        "NI": "Niedersachsen",
-        "HE": "Hessen",
-        "SL": "Saarland",
-        "HH": "Hamburg",
-        "RP": "Rheinland-Pfalz",
-    }
+    def bundeslaender(code):
+        d = {
+            "TH": "Thüringen",
+            "HB": "Bremen",
+            "SH": "Schleswig-Holstein",
+            "BW": "Baden-Württemberg",
+            "SN": "Sachsen",
+            "MV": "Mecklenburg-Vorpommern",
+            "BB": "Brandenburg",
+            "BY": "Bayern",
+            "BE": "Berlin",
+            "ST": "Sachsen-Anhalt",
+            "NW": "Nordrhein-Westfalen",
+            "NI": "Niedersachsen",
+            "HE": "Hessen",
+            "SL": "Saarland",
+            "HH": "Hamburg",
+            "RP": "Rheinland-Pfalz",
+        }
+
+        return d[code]
+
     df = pl.read_csv("data/Abiturnoten.csv").with_columns(
-        pl.col("Bundesland").apply(lambda code: bundeslaender[code])
+        pl.col("Bundesland").apply(lambda code: bundeslaender(code))
     )
 
     df_deutschland = (

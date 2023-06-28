@@ -1,6 +1,7 @@
 ---
 title: "Data Sets"
 format: html
+page-layout: article
 ---
 
 **[Tour de France](https://github.com/thomascamminady/LeTourDataSet)**

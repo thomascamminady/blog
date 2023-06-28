@@ -5,17 +5,23 @@ execute:
   freeze: false  # never re-render during project render
 resources:
   - CNAME
+
 website:
-  title: "Thomas Camminady"
+  title: "Dr. Thomas Camminady"
+  open-graph: true
+
   navbar:
     right:
-      - blog.qmd
-      - altair.qmd
-      - datasets.qmd
+      - index.qmd
+      - contents/blog.qmd
+      - contents/datasets.qmd
       - icon: github
         href: https://github.com/thomascamminady
       - icon: linkedin
         href: https://www.linkedin.com/in/camminady/
+      - icon: code
+        href: https://github.com/thomascamminady/blog
+
 
 format:
   html:
