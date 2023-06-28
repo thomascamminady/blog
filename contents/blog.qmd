@@ -6,9 +6,8 @@ listing:
   type: default
   categories: false
   sort-ui: false
-  filter-ui: false
+  filter-ui: true
 page-layout: article
-title-block-banner: false
 ---
 
 

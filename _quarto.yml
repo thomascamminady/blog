@@ -6,6 +6,9 @@ execute:
 resources:
   - CNAME
 
+title-block-banner: false
+
+
 website:
   title: "Dr. Thomas Camminady"
   open-graph: true
