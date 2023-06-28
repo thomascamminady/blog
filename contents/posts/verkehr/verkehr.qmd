@@ -12,6 +12,7 @@ Einfache und günstige Maßnahmen können die Lebensqualität der Bürger:innen 
 # Das Problem
 
 Nicht nur seit der Schließung der Autobahnbrücke gibt es folgende Probleme:
+
 - Ein enorm starkes Verkehrsaufkommen. Das Kreuzen der Hauptstraße im Stadtzentrum ist de facto nicht sicher möglich.
 - Zu viele LKW quetschen sich durch die Balver Hauptstraße. Neben dem Sicherheitsaspekt kommt hier auch ein erhöhtes Lärmaufkommen und Unfallgefahr hinzu. Erholung im Stadtgebiet ist nicht möglich.
 - Keine Radwege oder Fahrradschutzstreifen entlang der Hauptstraße. Stadtradeln ist zwar eine schöne Idee, sicher fühlt man sich aber nicht.
