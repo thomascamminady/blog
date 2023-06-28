@@ -2,6 +2,7 @@
 title: "Comparing polars with pandas; my personal case study"
 author: "Thomas Camminady"
 date: "2023-03-05"
+title-block-banner: false
 categories: [data science]
 ---
 

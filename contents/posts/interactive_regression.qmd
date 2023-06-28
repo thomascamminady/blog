@@ -2,6 +2,7 @@
 title: "Interactive regression"
 author: "Thomas Camminady"
 date: "2023-06-28"
+title-block-banner: false
 format:
   html:
     code-fold: false

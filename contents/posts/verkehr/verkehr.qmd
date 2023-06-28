@@ -2,7 +2,8 @@
 title: "Das Verkehrsproblem in Balve lösen"
 author: "Thomas Camminady"
 date: "2023-06-28"
-categories: [Balve]
+title-block-banner: false
+categories: [balve]
 ---
 
 

@@ -1,8 +1,8 @@
 project:
   type: website
   output-dir: docs
-execute:
-  freeze: false  # never re-render during project render
+# execute:
+#   freeze: false  # never re-render during project render
 resources:
   - CNAME
 

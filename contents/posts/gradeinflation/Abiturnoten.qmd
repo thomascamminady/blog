@@ -4,6 +4,7 @@ author: "Thomas Camminady"
 date: "2023-06-21"
 categories: [viz, education]
 format: html
+title-block-banner: false
 execute:
   echo: true
 jupyter: python3

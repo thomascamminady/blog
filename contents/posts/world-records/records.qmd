@@ -3,11 +3,11 @@ title: "Track and Field World Record Progression"
 author: "Thomas Camminady"
 date: "2023-06-07"
 categories: [viz, sports]
-format: html
-execute:
-  echo: true
-jupyter: python3
+title-block-banner: false
 ---
+
+The figure below show how the track and field world records have progressed over time.
+Click on the legend to highlight individual events and see the respective world record holders.
 
 
 ```{python}
@@ -21,13 +21,15 @@ df = import_running_only_events("./data")
 ```
 
 
+
+
 ```{python}
 # | label: fig-world-records
 # | fig-cap: "Progression of world records."
 # | cap-location: margin
 
 world_records = (
-    df.filter(pl.col("event").str.contains("walk") == False)
+    df.filter(pl.col("event").str.contains("walk") == True)
     .filter(pl.col("event type") == "standard")
     .sort("sex", "distance", "event", "date of event")
     .with_columns(

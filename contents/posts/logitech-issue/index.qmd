@@ -2,6 +2,7 @@
 title: "Logitech MX Mechanical Mini for Mac: Issues with M1 Mac"
 author: "Thomas Camminady"
 date: "2023-02-22"
+title-block-banner: false
 categories: [tech]
 ---
 
