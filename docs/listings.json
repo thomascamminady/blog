@@ -3,7 +3,7 @@
     "listing": "/contents/blog.html",
     "items": [
       "/contents/posts/verkehr/verkehr.html",
-      "/contents/posts/interactive_regression.html",
+      "/contents/posts/interactive-regression/interactive_regression.html",
       "/contents/posts/gradeinflation/Abiturnoten.html",
       "/contents/posts/world-records/records.html",
       "/contents/posts/polars-vs-pandas/index.html",
