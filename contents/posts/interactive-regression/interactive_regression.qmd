@@ -55,6 +55,8 @@ alt.layer(chart, regression)
 Now let's allow for some interactivity.
 We want to be able to select points and have the regression line be updated on that selection of points.
 However, we still want to plot it over the full domain, that's why we have to set `extent`.
+We'll make the stroke of the extrapolation range dashed and the interpolation range solid.
+
 ```{python}
 
 brush = alt.selection_interval()
@@ -72,7 +74,19 @@ chart = (
     .add_params(brush)
 )
 
-regression = (
+regression_solid = (
+    chart.transform_filter(brush)
+    .transform_regression(
+        "sepalLength",
+        "sepalWidth",
+        groupby=["species"],
+        method="poly",
+        order=2,
+    )
+    .mark_line(clip=True)
+)
+
+regression_dash = (
     chart.transform_filter(brush)
     .transform_regression(
         "sepalLength",
@@ -82,12 +96,15 @@ regression = (
         order=2,
         extent=[4, 8],
     )
-    .mark_line(clip=True)
+    .mark_line(clip=True, strokeDash=[5, 5])
 )
+
+
 alt.layer(
     chart.encode(
         opacity=alt.condition(brush, alt.value(1.0), alt.value(0.1)),
     ),
-    regression,
+    regression_dash,
+    regression_solid,
 )
 ```
