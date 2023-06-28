@@ -21,7 +21,7 @@ Nicht nur seit der Schließung der Autobahnbrücke gibt es folgende Probleme:
 
 Die Probleme lassen sich einfach entschärfen. Fahren im Stadtgebiet Balve kann sicherer gemacht werden, indem Tempo 30 eingeführt wird. Zudem verhindert ein LKW-Verbot zwischen Langenholthausen und Balve, dass sich schweres Gefährt durch die Stadtmitte quetscht. Der Verkehr kann problemlos umgeleitet werden. Dies ist in der folgenden Grafik illustriert. Fahrradschutzstreifen machen es für Autofahrer:innen deutlicher, dass nur bei ausreichendem Abstand überholt werden darf. Zudem ist ein Zebrastreifen auf Höhe der Volksbank notwendig um das Überqueren der Hauptstraße wieder sicher zu machen.
 
-![Elephant](umleitung.png)
+![Eine mögliche Umleitung](umleitung.png)
 
 # Die Ausreden
 
