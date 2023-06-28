@@ -1,5 +1,4 @@
 ---
-title: ""
 about:
   template: marquee
 page-layout: article
