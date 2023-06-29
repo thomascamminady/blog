@@ -81,7 +81,7 @@ regression_solid = (
         "sepalWidth",
         groupby=["species"],
         method="poly",
-        order=2,
+        order=3,
     )
     .mark_line(clip=True)
 )
@@ -93,7 +93,7 @@ regression_dash = (
         "sepalWidth",
         groupby=["species"],
         method="poly",
-        order=2,
+        order=3,
         extent=[4, 8],
     )
     .mark_line(clip=True, strokeDash=[5, 5])

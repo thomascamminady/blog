@@ -164,3 +164,7 @@ logs/
 
 posts/.DS_Store
 _freeze/
+
+contents/posts/nutri-score/en.openfoodfacts.org.products.csv
+contents/posts/nutri-score/en.openfoodfacts.org.products.parquet
+contents/posts/nutri-score/.temporary_altair_data/
