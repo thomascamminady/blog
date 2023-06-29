@@ -5,7 +5,7 @@ blog
 
 
 
-my personal blog
+my personal blog www.camminady.dev
 
 Development
 --------
