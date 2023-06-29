@@ -12,6 +12,7 @@ title-block-banner: false
 website:
   title: "Dr. Thomas Camminady"
   open-graph: true
+  cookie-consent: true
 
   navbar:
     right:
