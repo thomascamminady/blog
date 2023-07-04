@@ -8,7 +8,8 @@ page-layout: article
 
 Some 400k+ entries with performances of track and field athletes.
 
-**[Tour de France](https://github.com/thomascamminady/LeTourDataSet)**
+
+**[Tour de France](https://thomascamminady.github.io/LeTourDataSet/)**
 
 Every cyclist and stage of the Tour de France (up to including 2022) in two CSV files.
 
@@ -16,6 +17,7 @@ Every cyclist and stage of the Tour de France (up to including 2022) in two CSV 
 **[Alltime Athletics](https://github.com/thomascamminady/alltime_athletics_python)**
 
 Scrapes Peter Larsson's website Alltime Athletics.
+
 
 **[Abiturnoten data set](https://github.com/thomascamminady/abiturnoten)**
 

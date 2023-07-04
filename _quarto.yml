@@ -12,7 +12,8 @@ title-block-banner: false
 website:
   title: "Dr. Thomas Camminady"
   open-graph: true
-  cookie-consent: false
+  cookie-consent: true
+  google-analytics: "G-V6438QX03G"
 
   navbar:
     right:
