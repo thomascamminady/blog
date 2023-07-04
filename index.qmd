@@ -37,7 +37,7 @@ Reach out via this randomized, unique [email address](mailto:harbor-irony0h@iclo
 *September 2017 - March 2021*
 
 - Research in the field of kinetic theory, numerical mathematics, and machine learning. This encompasses the development of new algorithms to solve transport problems (e.g., the transport equation for radiation therapy), their implementation, and their analysis.
-- Using concepts from machine learning and optimization theory, to automatically generate near-optimal sets of problem- dependent numerical parameters for the solution of advection problems.
+- Using concepts from machine learning and optimization theory, to automatically generate near-optimal sets of problem-dependent numerical parameters for the solution of advection problems.
 - I optimized the performance of research software on the HPC cluster of the Karlsruhe Institute of Technology via parameter studies and OpenMP.
 - For modules in the mathematics M.Sc. program (including Kinetic Theory and Uncertainty Quantification) and modules in the Computational Engineering Science B.Sc. program, I was a teaching assistant and substituted lectures.
 
