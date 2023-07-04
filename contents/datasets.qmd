@@ -4,7 +4,7 @@ format: html
 page-layout: article
 ---
 
-**[World Athletics](https://thomascamminady.github.io/world-athletics-database/)**
+**[World Athletics](https://world-athletics-database.camminady.dev/)**
 
 Some 400k+ entries with performances of track and field athletes.
 
