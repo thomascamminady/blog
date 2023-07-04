@@ -17,6 +17,8 @@ website:
   navbar:
     right:
       - index.qmd
+      - text: "CV"
+        file: contents/cv.qmd
       - contents/blog.qmd
       - contents/datasets.qmd
       - icon: github
