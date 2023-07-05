@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.camminady.dev/contents/posts/gradeinflation/Abiturnoten.html</loc>
-    <lastmod>2023-07-04T12:05:38.497Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/logitech-issue/index.html</loc>
-    <lastmod>2023-07-04T12:05:39.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/verkehr/verkehr.html</loc>
-    <lastmod>2023-07-04T12:05:39.754Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/world-records/records.html</loc>
-    <lastmod>2023-07-04T12:05:40.492Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/polars-vs-pandas/index.html</loc>
-    <lastmod>2023-07-04T12:05:41.333Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/interactive-regression/interactive_regression.html</loc>
-    <lastmod>2023-07-04T12:05:42.942Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/nutri-score/main.html</loc>
-    <lastmod>2023-07-04T12:05:50.298Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/datasets.html</loc>
-    <lastmod>2023-07-04T12:05:50.625Z</lastmod>
+    <loc>https://www.camminady.dev/index.html</loc>
+    <lastmod>2023-07-05T19:38:05.081Z</lastmod>
   </url>
   <url>
     <loc>https://www.camminady.dev/contents/cv.html</loc>
-    <lastmod>2023-07-04T12:05:51.057Z</lastmod>
+    <lastmod>2023-07-05T19:38:04.319Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/posts/nutri-score/main.html</loc>
+    <lastmod>2023-07-05T19:38:03.610Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/posts/world-records/records.html</loc>
+    <lastmod>2023-07-05T19:37:54.171Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/posts/logitech-issue/index.html</loc>
+    <lastmod>2023-07-05T19:37:53.326Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/posts/gradeinflation/Abiturnoten.html</loc>
+    <lastmod>2023-07-05T19:37:52.997Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/posts/verkehr/verkehr.html</loc>
+    <lastmod>2023-07-05T19:37:53.683Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/posts/polars-vs-pandas/index.html</loc>
+    <lastmod>2023-07-05T19:37:54.724Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/posts/interactive-regression/interactive_regression.html</loc>
+    <lastmod>2023-07-05T19:37:56.332Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/datasets.html</loc>
+    <lastmod>2023-07-05T19:38:03.892Z</lastmod>
   </url>
   <url>
     <loc>https://www.camminady.dev/contents/blog.html</loc>
-    <lastmod>2023-07-04T12:05:51.567Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/index.html</loc>
-    <lastmod>2023-07-04T12:05:51.852Z</lastmod>
+    <lastmod>2023-07-05T19:38:04.809Z</lastmod>
   </url>
 </urlset>
