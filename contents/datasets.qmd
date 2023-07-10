@@ -1,24 +1,39 @@
 ---
-title: "Data sets"
+title: "Projects"
 format: html
 page-layout: article
 ---
 
-**[World Athletics](https://world-athletics-database.camminady.dev/)**
+## Data Sets
+
+### [World Athletics](https://world-athletics-database.camminady.dev/)
 
 Some 400k+ entries with performances of track and field athletes.
 
 
-**[Tour de France](https://thomascamminady.github.io/LeTourDataSet/)**
+### [Tour de France](https://thomascamminady.github.io/LeTourDataSet/)
 
 Every cyclist and stage of the Tour de France (up to including 2022) in two CSV files.
 
 
-**[Alltime Athletics](https://github.com/thomascamminady/alltime_athletics_python)**
+### [Alltime Athletics](https://github.com/thomascamminady/alltime_athletics_python)
 
 Scrapes Peter Larsson's website Alltime Athletics.
 
 
-**[Abiturnoten data set](https://github.com/thomascamminady/abiturnoten)**
+### [Abiturnoten data set](https://github.com/thomascamminady/abiturnoten)
 
 German Abitur: Grade distribution over time.
+
+
+## Code
+
+### [dicopal](https://thomascamminady.github.io/dicopal/)
+
+A collection of colors, an homage to the dicopal.js project. This website allows you to quickly browse a variety of color palettes and just copy their hex codes.
+
+
+
+### [coolors preview](https://coolors.streamlit.app)
+
+Preview color palettes from [coolors.co](https://coolors.co).

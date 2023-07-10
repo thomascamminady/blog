@@ -5,7 +5,7 @@ My name is Thomas, I'm a runner, mathematician, and currently working as a data 
 I studied Computational Engineering Science at RWTH Aachen University and then went ont to get a Ph.D. in applied mathematics from the Karlsruhe Institute of Technology.
 
 ::: {.column-margin}
-![Can't find a good image, ffs!](IMG_0776.jpeg){width=300}
+![ ](IMG_0776.jpeg){width=300}
 :::
 
 When I'm not using `pandas` (or [`polars`](https://www.pola.rs/)!) to turn wide dataframes into long ones or [spend too much time thinking about colors](https://thomascamminady.github.io/dicopal/#stop-talking-i-want-colors), I like to run through forests and around tracks.
