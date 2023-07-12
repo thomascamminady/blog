@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.camminady.dev/index.html</loc>
-    <lastmod>2023-07-10T08:15:54.976Z</lastmod>
+    <lastmod>2023-07-12T10:00:09.857Z</lastmod>
   </url>
   <url>
     <loc>https://www.camminady.dev/contents/cv.html</loc>
-    <lastmod>2023-07-10T08:15:54.153Z</lastmod>
+    <lastmod>2023-07-12T10:00:09.043Z</lastmod>
   </url>
   <url>
     <loc>https://www.camminady.dev/contents/posts/nutri-score/main.html</loc>
-    <lastmod>2023-07-10T08:15:53.423Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/world-records/records.html</loc>
-    <lastmod>2023-07-10T08:15:43.821Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/logitech-issue/index.html</loc>
-    <lastmod>2023-07-10T08:15:42.982Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/gradeinflation/Abiturnoten.html</loc>
-    <lastmod>2023-07-10T08:15:42.636Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/verkehr/verkehr.html</loc>
-    <lastmod>2023-07-10T08:15:43.335Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/polars-vs-pandas/index.html</loc>
-    <lastmod>2023-07-10T08:15:44.395Z</lastmod>
+    <lastmod>2023-07-12T10:00:08.271Z</lastmod>
   </url>
   <url>
     <loc>https://www.camminady.dev/contents/posts/interactive-regression/interactive_regression.html</loc>
-    <lastmod>2023-07-10T08:15:46.022Z</lastmod>
+    <lastmod>2023-07-12T10:00:00.463Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/posts/polars-vs-pandas/index.html</loc>
+    <lastmod>2023-07-12T09:59:58.793Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/posts/verkehr/verkehr.html</loc>
+    <lastmod>2023-07-12T09:59:57.796Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/posts/gradeinflation/Abiturnoten.html</loc>
+    <lastmod>2023-07-12T09:59:57.139Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/posts/logitech-issue/index.html</loc>
+    <lastmod>2023-07-12T09:59:57.467Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/posts/world-records/records.html</loc>
+    <lastmod>2023-07-12T09:59:58.253Z</lastmod>
   </url>
   <url>
     <loc>https://www.camminady.dev/contents/datasets.html</loc>
-    <lastmod>2023-07-10T08:15:53.726Z</lastmod>
+    <lastmod>2023-07-12T10:00:08.601Z</lastmod>
   </url>
   <url>
     <loc>https://www.camminady.dev/contents/blog.html</loc>
-    <lastmod>2023-07-10T08:15:54.683Z</lastmod>
+    <lastmod>2023-07-12T10:00:09.577Z</lastmod>
   </url>
 </urlset>
