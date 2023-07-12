@@ -37,3 +37,8 @@ A collection of colors, an homage to the dicopal.js project. This website allows
 ### [coolors preview](https://coolors.streamlit.app)
 
 Preview color palettes from [coolors.co](https://coolors.co).
+
+
+### [Kaleidoscopic](http://3.92.224.28)
+
+This will become a webapp to display color palettes.

@@ -291,6 +291,45 @@ files = [
 ]
 
 [[package]]
+name = "colorspacious"
+version = "1.1.2"
+description = "A powerful, accurate, and easy-to-use Python library for doing colorspace conversions"
+optional = false
+python-versions = "*"
+files = [
+    {file = "colorspacious-1.1.2-py2.py3-none-any.whl", hash = "sha256:c78befa603cea5dccb332464e7dd29e96469eebf6cd5133029153d1e69e3fd6f"},
+    {file = "colorspacious-1.1.2.tar.gz", hash = "sha256:5e9072e8cdca889dac445c35c9362a22ccf758e97b00b79ff0d5a7ba3e11b618"},
+]
+
+[package.dependencies]
+numpy = "*"
+
+[[package]]
+name = "colour-science"
+version = "0.4.2"
+description = "Colour Science for Python"
+optional = false
+python-versions = ">=3.9,<3.12"
+files = [
+    {file = "colour_science-0.4.2-py3-none-any.whl", hash = "sha256:48246aa3d17a9a07ac335b4a04a00f8d5c624b2d15c5bdef820836ef13e2762d"},
+    {file = "colour_science-0.4.2.tar.gz", hash = "sha256:29a8d4c67104dafeebcd7c942f31e0935e356527a265aa81c4164ab34dd69b66"},
+]
+
+[package.dependencies]
+imageio = ">=2,<3"
+numpy = ">=1.20,<2"
+scipy = ">=1.7,<2"
+typing-extensions = ">=4,<5"
+
+[package.extras]
+development = ["biblib-simple", "black", "blackdoc", "coverage (!=6.3)", "coveralls", "flake8", "flynt", "invoke", "jupyter", "mypy", "pre-commit", "pydata-sphinx-theme", "pydocstyle", "pytest", "pytest-cov", "pytest-xdist", "pyupgrade", "restructuredtext-lint", "sphinx (>=4,<5)", "sphinxcontrib-bibtex", "toml", "twine"]
+graphviz = ["pygraphviz (>=1,<2)"]
+meshing = ["trimesh (>=3,<4)"]
+optional = ["networkx (>=2.6,<3)", "pandas (>=1.3,<2)", "tqdm (>=4,<5)"]
+plotting = ["matplotlib (>=3.4,!=3.5.0,!=3.5.1)"]
+read-the-docs = ["matplotlib (>=3.4,!=3.5.0,!=3.5.1)", "networkx (>=2.6,<3)", "pydata-sphinx-theme", "pygraphviz (>=1,<2)", "sphinxcontrib-bibtex", "trimesh (>=3,<4)"]
+
+[[package]]
 name = "comm"
 version = "0.1.3"
 description = "Jupyter Python Comm implementation, for usage in ipykernel, xeus-python etc."
@@ -694,6 +733,37 @@ files = [
 
 [package.extras]
 license = ["ukkonen"]
+
+[[package]]
+name = "imageio"
+version = "2.31.1"
+description = "Library for reading and writing a wide range of image, video, scientific, and volumetric data formats."
+optional = false
+python-versions = ">=3.7"
+files = [
+    {file = "imageio-2.31.1-py3-none-any.whl", hash = "sha256:4106fb395ef7f8dc0262d6aa1bb03daba818445c381ca8b7d5dfc7a2089b04df"},
+    {file = "imageio-2.31.1.tar.gz", hash = "sha256:f8436a02af02fd63f272dab50f7d623547a38f0e04a4a73e2b02ae1b8b180f27"},
+]
+
+[package.dependencies]
+numpy = "*"
+pillow = ">=8.3.2"
+
+[package.extras]
+all-plugins = ["astropy", "av", "imageio-ffmpeg", "psutil", "tifffile"]
+all-plugins-pypy = ["av", "imageio-ffmpeg", "psutil", "tifffile"]
+build = ["wheel"]
+dev = ["black", "flake8", "fsspec[github]", "pytest", "pytest-cov"]
+docs = ["numpydoc", "pydata-sphinx-theme", "sphinx (<6)"]
+ffmpeg = ["imageio-ffmpeg", "psutil"]
+fits = ["astropy"]
+full = ["astropy", "av", "black", "flake8", "fsspec[github]", "gdal", "imageio-ffmpeg", "itk", "numpydoc", "psutil", "pydata-sphinx-theme", "pytest", "pytest-cov", "sphinx (<6)", "tifffile", "wheel"]
+gdal = ["gdal"]
+itk = ["itk"]
+linting = ["black", "flake8"]
+pyav = ["av"]
+test = ["fsspec[github]", "pytest", "pytest-cov"]
+tifffile = ["tifffile"]
 
 [[package]]
 name = "iniconfig"
@@ -2633,4 +2703,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.10,<3.11"
-content-hash = "f509836b74079c714e90d73813572c256489cd84ff5a6bdd0c4fcc55e344d5bc"
+content-hash = "d4dad22acab47d6143ab5490d42612e16b80160d5c837abc56722c20db46408f"
