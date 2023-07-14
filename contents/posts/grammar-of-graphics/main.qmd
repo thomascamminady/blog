@@ -1,0 +1,238 @@
+---
+title: "Grammar of Graphics in Mathematics"
+author: "Thomas Camminady"
+date: "2023-07-14"
+title-block-banner: false
+format:
+  html:
+    code-fold: false
+    code-line-numbers: true
+---
+
+## A gentle introduction
+
+Say you're a mathematician and you want to plot $sin(x)$ and $sin(x)$, how would you do that?
+You'd probably do something like this[^1]:
+
+
+```{python}
+import matplotlib.pyplot as plt
+import numpy as np
+
+fig, ax = plt.subplots()
+x = np.linspace(0, 10, 100)
+ax.plot(x, np.sin(x), label="sin(x)")
+ax.plot(x, np.cos(x), label="cos(x)")
+ax.legend()
+ax.set(title="Trigonometric functions")
+plt.show()
+```
+
+What I want to show you in this post is that it's worth do alter that approach slightly. Let me show you.
+
+```{python}
+import altair as alt
+import pandas as pd
+
+df = pd.concat(
+    [
+        pd.DataFrame({"x": x, "y": np.sin(x), "Function": "sin"}),
+        pd.DataFrame({"x": x, "y": np.cos(x), "Function": "cos"}),
+    ]
+)
+alt.Chart(df, title="Trigonometric functions").mark_line().encode(
+    x="x",
+    y="y",
+    color="Function",
+)
+
+```
+
+Let's unwrap what happens here. As a first note, we are using [`altair`](https://altair-viz.github.io) as our plotting library, but something like [`seaborn`](https://seaborn.pydata.org),[`ggplot2`](https://ggplot2.tidyverse.org/index.html), or [`Plot`](https://observablehq.com/plot/) would have been fine as well.
+
+Next, we are creating a `pandas.DataFrame` which is nothing but a table:
+```{python}
+# | code-fold: true
+df
+```
+
+The one special thing about this `dataframe` however, is also the reason for this post. This is a *long* `dataframe`, not a *wide* `dataframe`. A wide `dataframe` would look like this:
+```{python}
+# | code-fold: true
+(
+    df.pivot(index="x", columns="Function", values="y")
+    .reset_index()
+    .rename_axis(None, axis=1)
+)
+```
+
+This `dataframe` is *wide*, because instead of stacking the values for $sin$ and $cos$ on top of another, they are side by side.
+
+There are a couple of reasons why the *long* way is better than the *wide* way.
+
+- A lot of modern visualization tools make heavy use of the Grammar of Graphics[^2] , an approach that is based on the *long* format.
+- You can store time series of different lengths in the same `dataframe`.
+- A lot of data transformations (e.g. `groupby`) are much easier to use this way.
+
+Something I very much thought of as a potential downside, however, is the different storage that is needed.
+The *wide* `dataframe` needs to store $3\cdot N$ `double` values ($x$,$sin$, $cos$), whereas the *long* format requires storage for $4\cdot N$ `double` values and $2\cdot N$ `string` values.
+
+Another drawback is the added complexity when thinking about how the data should be stored.
+
+So before I try to justify why this extra memory usage and complexity might be justified, let's extend our example a little to make it slightly more complex.
+Let's say we want to compare different frequencies for $sin$ and $cos$.
+
+With our initial approach, this could look like this
+```{python}
+fig, ax = plt.subplots()
+x = np.linspace(0, 10, 100)
+for i in range(1, 4):
+    ax.plot(x, np.sin(i * x), label=f"sin({i}*x)")
+    ax.plot(x, np.cos(i * x), label=f"cos({i}*x)")
+ax.legend()
+ax.set(title="Trigonometric functions")
+plt.show()
+```
+
+Not pretty, but you get the idea.
+
+
+Here's the approach using `altair` and a *long* `dataframe`.
+First let's bring the data in the correct form.
+```{python}
+df = pd.concat(
+    [
+        pd.DataFrame(
+            {
+                "x": x,
+                "y": np.sin(i * x),
+                "Function": "sin",
+                "Frequency": i,
+            }
+        )
+        for i in range(1, 4)
+    ]
+    + [
+        pd.DataFrame(
+            {
+                "x": x,
+                "y": np.cos(i * x),
+                "Function": "cos",
+                "Frequency": i,
+            }
+        )
+        for i in range(1, 4)
+    ]
+)
+df
+```
+
+This is of course much more effort than before. However, the data creation is clearly separated from the visualization.
+Let's make use of this effort in the visualization.
+```{python}
+alt.Chart(df).mark_line().encode(
+    x="x", y="y", color="Frequency:N", strokeDash="Function", row="Function"
+).properties(width=500)
+```
+
+A couple of things are going on here. First we split up the plot into two subplots by
+specifying `row="Function"`, i.e. the  column of the `dataframe` that should be used
+as a row identifier. Then we said `color="Frequency:N"`. Note the `:N` here. Without
+specifying that our data is *nominal*, it would be considered *quantitative* (`:Q`, the default), and the color map used for plotting would be a sequential color map instead of qualitative one.
+
+Now the great thing is that we can simply change what we want to color or arrange our plot by.
+
+```{python}
+(
+    alt.Chart(df)
+    .mark_line()
+    .encode(
+        x="x",
+        y="y",
+        color="Function:N",
+        strokeDash="Frequency",
+        row="Frequency",
+    )
+    .properties(width=450, height=100)
+)
+
+
+```
+
+
+I think this is quite a powerful framework and libraries like [`altair`](https://altair-viz.github.io),[`seaborn`](https://seaborn.pydata.org),[`ggplot2`](https://ggplot2.tidyverse.org/index.html),[`Plot`](https://observablehq.com/plot/) fundamentally rely on this.
+
+
+## More complex examples
+Let's try to reproduce a figure from a paper I co-authored. The exact data does not really matter, but here's what we want to end up with.
+
+
+![A figure from a paper that I co-authored, https://arxiv.org/pdf/1808.05846.pdf](sn.jpeg){width=800}
+
+
+Now, because I don't have access to the real data anymore, we'll use some fake data instead.
+
+```{python}
+# | code-fold: true
+def get_fake_data(n, alpha) -> pd.DataFrame:
+    nx = 10
+    x = np.linspace(0, 1, nx)
+
+    return pd.DataFrame(
+        {
+            "x": np.hstack([x, x, x]),
+            "y": np.hstack(
+                [
+                    np.exp(-x * n) * np.sin(alpha * x),
+                    np.exp(-x * n) * np.cos(alpha * x),
+                    np.exp(-x * n) * np.cos(alpha * x) * np.sin(alpha * x),
+                ]
+            ),
+            "cut": ["hori"] * nx + ["diag"] * nx + ["verti"] * nx,
+            "alpha": [alpha] * (3 * nx),
+            "n": [n] * (3 * nx),
+        }
+    )
+
+
+N = [1, 2, 3, 4]
+ALPHA = [1, 2, 3, 4]
+df = pd.concat([get_fake_data(n, alpha) for n in N for alpha in ALPHA])
+```
+
+```{python}
+df
+```
+
+Let's plot this data to recreate the original figure.
+```{python}
+alt.Chart(df).mark_line().encode(
+    x="x",
+    y="y",
+    row="n",
+    column="alpha",
+    color="cut",
+).properties(width=100, height=100)
+
+
+```
+
+Not identical, but you get the idea. The main issue here is the lack of LaTeX support. However, this is `altair` specific.
+
+
+Lastly, not that there is nothing stopping us from having a nicer looking plot by simply changing the theme.
+```{python}
+from camminapy.plot import altair_theme
+
+altair_theme()
+alt.Chart(df).mark_line().encode(
+    x="x",
+    y="y",
+    row="n",
+    column="alpha",
+    color="cut",
+).properties(width=100, height=100)
+```
+
+[^1]: If you're using `matlab` instead of `python` or `julia` it might be worth considering a switch.
+[^2]: https://link.springer.com/book/10.1007/0-387-28695-0

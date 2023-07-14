@@ -11,5 +11,3 @@ I studied Computational Engineering Science at RWTH Aachen University and then w
 When I'm not using `pandas` (or [`polars`](https://www.pola.rs/)!) to turn wide dataframes into long ones or [spend too much time](http://3.92.224.28) [thinking about colors](https://thomascamminady.github.io/dicopal/#stop-talking-i-want-colors), I like to run through forests and around tracks.
 
 Reach out via [email](mailto:harbor-irony0h@icloud.com) if you want to contact me!
-
-

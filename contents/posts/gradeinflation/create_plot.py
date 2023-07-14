@@ -1,7 +1,6 @@
-import polars as pl
 import altair as alt
+import polars as pl
 from camminapy.plot import altair_theme
-from camminapy.plot import Footer
 
 altair_theme()
 alt.data_transformers.disable_max_rows()
@@ -106,7 +105,7 @@ def get_chart_time_series(df):
         )
     )
 
-    background_pre = (
+    (
         alt.Chart(pl.DataFrame({"from": [2006, 2019.5], "to": [2019.5, 2022]}))
         .mark_area(
             line={"color": "white"},
@@ -130,7 +129,7 @@ def get_chart_time_series(df):
             opacity=alt.value(0.1),
         )
     )
-    background_post = (
+    (
         alt.Chart(pl.DataFrame({"from": [2019.5, 2022], "to": [2022, 2022]}))
         .mark_area(
             line={"color": "white"},
@@ -154,7 +153,7 @@ def get_chart_time_series(df):
             opacity=alt.value(0.1),
         )
     )
-    text1 = (
+    (
         alt.Chart(
             pl.DataFrame(
                 {

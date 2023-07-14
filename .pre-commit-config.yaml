@@ -42,9 +42,9 @@ repos:
       - id: nbqa-pyupgrade
         args: ['--py39-plus']
         name: pyupgrade (.ipynb files)
-      - id: nbqa-isort
-        args: ['--float-to-top']
-        name: isort (.ipynb files)
+      # - id: nbqa-isort
+      #   args: ['--profile", "black", "--filter-files']
+        # name: isort (.ipynb files)
       - id: nbqa-black
         name: black (.ipynb files)
 
