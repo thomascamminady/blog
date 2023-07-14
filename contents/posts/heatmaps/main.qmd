@@ -1,0 +1,57 @@
+---
+title: "Quickly creating heatmaps with pandas"
+author: "Thomas Camminady"
+date: "2023-07-14"
+title-block-banner: false
+format:
+  html:
+    code-fold: false
+    code-line-numbers: true
+---
+`panda`'s `style` functionality is often a good enough replacement for a more sophisticated plotting library when all we want is a simple heatmap of two-dimensional data.
+
+Let's say we have this fake time series data, were for each year and month, multiple measurements are recorded.
+```{python}
+import pandas as pd
+import numpy as np
+
+n = 1_000
+df = pd.DataFrame(
+    {
+        "year": np.random.randint(2000, 2020, n),
+        "month": np.random.randint(1, 13, n),
+        "measurement": np.random.randn(n),
+    }
+)
+
+```
+
+We want to create a heatmap, showing the averages of each year-month-combination.
+
+Let's aggregate measurements from the same months and years and then create a pivot table.
+```{python}
+df_pivot = (
+    df.groupby(["year", "month"])
+    .sum()
+    .reset_index()
+    .pivot(index="year", columns="month", values="measurement")
+    .reset_index()
+)
+```
+
+Now, we can use `.style.background_gradient` to color the output. Additionally, let's use `.format` to only show one digit after the decimal point.
+
+```{python}
+df_pivot.style.format(
+    precision=1,
+).background_gradient(
+    cmap="RdBu",
+    vmin=-1,
+    vmax=1,
+    subset=[i for i in range(1, 13)],
+)
+
+```
+
+
+That's already good enough in a lot of cases :)
