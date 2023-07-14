@@ -3,6 +3,7 @@
     "listing": "/contents/blog.html",
     "items": [
       "/contents/posts/grammar-of-graphics/main.html",
+      "/contents/posts/heatmaps/main.html",
       "/contents/posts/nutri-score/main.html",
       "/contents/posts/verkehr/verkehr.html",
       "/contents/posts/interactive-regression/interactive_regression.html",

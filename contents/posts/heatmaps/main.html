@@ -1,0 +1,1169 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.433">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Thomas Camminady">
+<meta name="dcterms.date" content="2023-07-14">
+
+<title>Dr.&nbsp;Thomas Camminady - Quickly creating heatmaps with pandas</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<script src="../../../site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="../../../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0JJXC6PKGJ"></script>
+
+<script type="text/plain" cookie-consent="tracking">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-0JJXC6PKGJ', { 'anonymize_ip': true});
+</script>
+
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({
+  "notice_banner_type":"simple",
+  "consent_type":"implied",
+  "palette":"light",
+  "language":"en",
+  "page_load_consent_levels":["strictly-necessary","functionality","tracking","targeting"],
+  "notice_banner_reject_button_hide":false,
+  "preferences_center_close_button_hide":false,
+  "website_name":""
+  });
+});
+</script> 
+  
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
+
+
+<meta property="og:title" content="Dr.&nbsp;Thomas Camminady - Quickly creating heatmaps with pandas">
+<meta property="og:description" content="">
+<meta property="og:site-name" content="Dr. Thomas Camminady">
+</head>
+
+<body class="nav-fixed fullcontent">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../../../index.html">
+    <span class="navbar-title">Dr.&nbsp;Thomas Camminady</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../../index.html" rel="" target="">
+ <span class="menu-text">It’s me, hi!</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../contents/cv.html" rel="" target="">
+ <span class="menu-text">CV</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../contents/blog.html" rel="" target="">
+ <span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../contents/datasets.html" rel="" target="">
+ <span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/thomascamminady" rel="" target=""><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/camminady/" rel="" target=""><i class="bi bi-linkedin" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/camminady" rel="" target=""><i class="bi bi-twitter" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/thomascamminady/blog" rel="" target=""><i class="bi bi-code" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Quickly creating heatmaps with pandas</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Thomas Camminady </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">July 14, 2023</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+</header>
+
+<p><code>panda</code>’s <code>style</code> functionality is often a good enough replacement for a more sophisticated plotting library when all we want is a simple heatmap of two-dimensional data.</p>
+<p>Let’s say we have this fake time series data, were for each year and month, multiple measurements are recorded.</p>
+<div class="cell" data-execution_count="1">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
+<span id="cb1-2"><a href="#cb1-2"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
+<span id="cb1-3"><a href="#cb1-3"></a></span>
+<span id="cb1-4"><a href="#cb1-4"></a>n <span class="op">=</span> <span class="dv">1_000</span></span>
+<span id="cb1-5"><a href="#cb1-5"></a>df <span class="op">=</span> pd.DataFrame(</span>
+<span id="cb1-6"><a href="#cb1-6"></a>    {</span>
+<span id="cb1-7"><a href="#cb1-7"></a>        <span class="st">"year"</span>: np.random.randint(<span class="dv">2000</span>, <span class="dv">2020</span>, n),</span>
+<span id="cb1-8"><a href="#cb1-8"></a>        <span class="st">"month"</span>: np.random.randint(<span class="dv">1</span>, <span class="dv">13</span>, n),</span>
+<span id="cb1-9"><a href="#cb1-9"></a>        <span class="st">"measurement"</span>: np.random.randn(n),</span>
+<span id="cb1-10"><a href="#cb1-10"></a>    }</span>
+<span id="cb1-11"><a href="#cb1-11"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>We want to create a heatmap, showing the averages of each year-month-combination.</p>
+<p>Let’s aggregate measurements from the same months and years and then create a pivot table.</p>
+<div class="cell" data-execution_count="2">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1"></a>df_pivot <span class="op">=</span> (</span>
+<span id="cb2-2"><a href="#cb2-2"></a>    df.groupby([<span class="st">"year"</span>, <span class="st">"month"</span>])</span>
+<span id="cb2-3"><a href="#cb2-3"></a>    .<span class="bu">sum</span>()</span>
+<span id="cb2-4"><a href="#cb2-4"></a>    .reset_index()</span>
+<span id="cb2-5"><a href="#cb2-5"></a>    .pivot(index<span class="op">=</span><span class="st">"year"</span>, columns<span class="op">=</span><span class="st">"month"</span>, values<span class="op">=</span><span class="st">"measurement"</span>)</span>
+<span id="cb2-6"><a href="#cb2-6"></a>    .reset_index()</span>
+<span id="cb2-7"><a href="#cb2-7"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>Now, we can use <code>.style.background_gradient</code> to color the output. Additionally, let’s use <code>.format</code> to only show one digit after the decimal point.</p>
+<div class="cell" data-execution_count="3">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1"></a>df_pivot.style.<span class="bu">format</span>(</span>
+<span id="cb3-2"><a href="#cb3-2"></a>    precision<span class="op">=</span><span class="dv">1</span>,</span>
+<span id="cb3-3"><a href="#cb3-3"></a>).background_gradient(</span>
+<span id="cb3-4"><a href="#cb3-4"></a>    cmap<span class="op">=</span><span class="st">"RdBu"</span>,</span>
+<span id="cb3-5"><a href="#cb3-5"></a>    vmin<span class="op">=-</span><span class="dv">1</span>,</span>
+<span id="cb3-6"><a href="#cb3-6"></a>    vmax<span class="op">=</span><span class="dv">1</span>,</span>
+<span id="cb3-7"><a href="#cb3-7"></a>    subset<span class="op">=</span>[i <span class="cf">for</span> i <span class="kw">in</span> <span class="bu">range</span>(<span class="dv">1</span>, <span class="dv">13</span>)],</span>
+<span id="cb3-8"><a href="#cb3-8"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="3">
+<style type="text/css">
+#T_b7c9a_row0_col1, #T_b7c9a_row0_col2, #T_b7c9a_row0_col3, #T_b7c9a_row0_col8, #T_b7c9a_row1_col1, #T_b7c9a_row2_col3, #T_b7c9a_row2_col4, #T_b7c9a_row2_col11, #T_b7c9a_row2_col12, #T_b7c9a_row3_col2, #T_b7c9a_row3_col8, #T_b7c9a_row3_col9, #T_b7c9a_row3_col10, #T_b7c9a_row3_col11, #T_b7c9a_row4_col1, #T_b7c9a_row4_col10, #T_b7c9a_row5_col4, #T_b7c9a_row5_col5, #T_b7c9a_row5_col10, #T_b7c9a_row5_col11, #T_b7c9a_row5_col12, #T_b7c9a_row6_col2, #T_b7c9a_row6_col12, #T_b7c9a_row7_col1, #T_b7c9a_row7_col4, #T_b7c9a_row7_col9, #T_b7c9a_row8_col3, #T_b7c9a_row8_col5, #T_b7c9a_row8_col6, #T_b7c9a_row8_col9, #T_b7c9a_row9_col3, #T_b7c9a_row9_col4, #T_b7c9a_row9_col5, #T_b7c9a_row10_col3, #T_b7c9a_row10_col5, #T_b7c9a_row10_col11, #T_b7c9a_row11_col2, #T_b7c9a_row11_col5, #T_b7c9a_row11_col6, #T_b7c9a_row11_col10, #T_b7c9a_row11_col11, #T_b7c9a_row11_col12, #T_b7c9a_row12_col1, #T_b7c9a_row12_col4, #T_b7c9a_row12_col6, #T_b7c9a_row12_col10, #T_b7c9a_row12_col11, #T_b7c9a_row13_col2, #T_b7c9a_row13_col5, #T_b7c9a_row13_col6, #T_b7c9a_row13_col11, #T_b7c9a_row13_col12, #T_b7c9a_row14_col3, #T_b7c9a_row14_col8, #T_b7c9a_row14_col10, #T_b7c9a_row15_col6, #T_b7c9a_row15_col7, #T_b7c9a_row16_col2, #T_b7c9a_row16_col3, #T_b7c9a_row16_col5, #T_b7c9a_row17_col2, #T_b7c9a_row17_col5, #T_b7c9a_row17_col7, #T_b7c9a_row17_col8, #T_b7c9a_row17_col12, #T_b7c9a_row18_col3, #T_b7c9a_row18_col6, #T_b7c9a_row18_col7, #T_b7c9a_row18_col10, #T_b7c9a_row19_col4, #T_b7c9a_row19_col5, #T_b7c9a_row19_col6, #T_b7c9a_row19_col12 {
+  background-color: #67001f;
+  color: #f1f1f1;
+}
+#T_b7c9a_row0_col4, #T_b7c9a_row17_col1 {
+  background-color: #b72230;
+  color: #f1f1f1;
+}
+#T_b7c9a_row0_col5 {
+  background-color: #870a24;
+  color: #f1f1f1;
+}
+#T_b7c9a_row0_col6, #T_b7c9a_row17_col9 {
+  background-color: #deebf2;
+  color: #000000;
+}
+#T_b7c9a_row0_col7, #T_b7c9a_row0_col9, #T_b7c9a_row0_col12, #T_b7c9a_row1_col2, #T_b7c9a_row1_col5, #T_b7c9a_row1_col6, #T_b7c9a_row1_col7, #T_b7c9a_row1_col9, #T_b7c9a_row1_col11, #T_b7c9a_row2_col5, #T_b7c9a_row2_col6, #T_b7c9a_row2_col9, #T_b7c9a_row3_col1, #T_b7c9a_row3_col5, #T_b7c9a_row3_col7, #T_b7c9a_row3_col12, #T_b7c9a_row4_col4, #T_b7c9a_row4_col7, #T_b7c9a_row4_col8, #T_b7c9a_row4_col11, #T_b7c9a_row5_col1, #T_b7c9a_row5_col9, #T_b7c9a_row6_col1, #T_b7c9a_row6_col4, #T_b7c9a_row6_col5, #T_b7c9a_row6_col6, #T_b7c9a_row6_col7, #T_b7c9a_row6_col8, #T_b7c9a_row6_col9, #T_b7c9a_row6_col10, #T_b7c9a_row7_col2, #T_b7c9a_row7_col5, #T_b7c9a_row7_col6, #T_b7c9a_row7_col7, #T_b7c9a_row8_col1, #T_b7c9a_row8_col2, #T_b7c9a_row8_col12, #T_b7c9a_row9_col1, #T_b7c9a_row9_col6, #T_b7c9a_row9_col7, #T_b7c9a_row9_col10, #T_b7c9a_row10_col1, #T_b7c9a_row10_col4, #T_b7c9a_row10_col7, #T_b7c9a_row10_col8, #T_b7c9a_row10_col9, #T_b7c9a_row10_col12, #T_b7c9a_row11_col1, #T_b7c9a_row11_col3, #T_b7c9a_row11_col9, #T_b7c9a_row12_col2, #T_b7c9a_row12_col3, #T_b7c9a_row12_col7, #T_b7c9a_row12_col9, #T_b7c9a_row12_col12, #T_b7c9a_row13_col3, #T_b7c9a_row14_col4, #T_b7c9a_row14_col5, #T_b7c9a_row14_col6, #T_b7c9a_row14_col7, #T_b7c9a_row14_col9, #T_b7c9a_row15_col1, #T_b7c9a_row15_col9, #T_b7c9a_row15_col11, #T_b7c9a_row16_col1, #T_b7c9a_row16_col4, #T_b7c9a_row16_col8, #T_b7c9a_row16_col9, #T_b7c9a_row16_col10, #T_b7c9a_row16_col12, #T_b7c9a_row17_col3, #T_b7c9a_row17_col6, #T_b7c9a_row17_col10, #T_b7c9a_row18_col4, #T_b7c9a_row18_col8, #T_b7c9a_row18_col9, #T_b7c9a_row18_col11, #T_b7c9a_row18_col12, #T_b7c9a_row19_col2, #T_b7c9a_row19_col7 {
+  background-color: #053061;
+  color: #f1f1f1;
+}
+#T_b7c9a_row0_col10, #T_b7c9a_row6_col11 {
+  background-color: #f8bb9e;
+  color: #000000;
+}
+#T_b7c9a_row0_col11 {
+  background-color: #266caf;
+  color: #f1f1f1;
+}
+#T_b7c9a_row1_col3 {
+  background-color: #eaf1f5;
+  color: #000000;
+}
+#T_b7c9a_row1_col4, #T_b7c9a_row11_col8 {
+  background-color: #c2ddec;
+  color: #000000;
+}
+#T_b7c9a_row1_col8 {
+  background-color: #f5aa89;
+  color: #000000;
+}
+#T_b7c9a_row1_col10 {
+  background-color: #3a87bd;
+  color: #f1f1f1;
+}
+#T_b7c9a_row1_col12, #T_b7c9a_row8_col10, #T_b7c9a_row9_col9, #T_b7c9a_row10_col10, #T_b7c9a_row18_col1 {
+  background-color: #000000;
+  color: #f1f1f1;
+}
+#T_b7c9a_row2_col1 {
+  background-color: #327cb7;
+  color: #f1f1f1;
+}
+#T_b7c9a_row2_col2, #T_b7c9a_row13_col7 {
+  background-color: #8d0c25;
+  color: #f1f1f1;
+}
+#T_b7c9a_row2_col7 {
+  background-color: #1e61a5;
+  color: #f1f1f1;
+}
+#T_b7c9a_row2_col8 {
+  background-color: #f8f1ed;
+  color: #000000;
+}
+#T_b7c9a_row2_col10 {
+  background-color: #307ab6;
+  color: #f1f1f1;
+}
+#T_b7c9a_row3_col3 {
+  background-color: #f7f5f4;
+  color: #000000;
+}
+#T_b7c9a_row3_col4 {
+  background-color: #acd2e5;
+  color: #000000;
+}
+#T_b7c9a_row3_col6 {
+  background-color: #408fc1;
+  color: #f1f1f1;
+}
+#T_b7c9a_row4_col2 {
+  background-color: #f6f7f7;
+  color: #000000;
+}
+#T_b7c9a_row4_col3 {
+  background-color: #c5dfec;
+  color: #000000;
+}
+#T_b7c9a_row4_col5 {
+  background-color: #f2f5f6;
+  color: #000000;
+}
+#T_b7c9a_row4_col6 {
+  background-color: #b6d7e8;
+  color: #000000;
+}
+#T_b7c9a_row4_col9 {
+  background-color: #e4eef4;
+  color: #000000;
+}
+#T_b7c9a_row4_col12 {
+  background-color: #cae1ee;
+  color: #000000;
+}
+#T_b7c9a_row5_col2 {
+  background-color: #dbeaf2;
+  color: #000000;
+}
+#T_b7c9a_row5_col3 {
+  background-color: #a51429;
+  color: #f1f1f1;
+}
+#T_b7c9a_row5_col6 {
+  background-color: #0d3f76;
+  color: #f1f1f1;
+}
+#T_b7c9a_row5_col7 {
+  background-color: #fce0d0;
+  color: #000000;
+}
+#T_b7c9a_row5_col8 {
+  background-color: #90c4dd;
+  color: #000000;
+}
+#T_b7c9a_row6_col3 {
+  background-color: #bbdaea;
+  color: #000000;
+}
+#T_b7c9a_row7_col3 {
+  background-color: #cc4c44;
+  color: #f1f1f1;
+}
+#T_b7c9a_row7_col8 {
+  background-color: #3681ba;
+  color: #f1f1f1;
+}
+#T_b7c9a_row7_col10 {
+  background-color: #f7f6f6;
+  color: #000000;
+}
+#T_b7c9a_row7_col11, #T_b7c9a_row12_col5 {
+  background-color: #1f63a8;
+  color: #f1f1f1;
+}
+#T_b7c9a_row7_col12 {
+  background-color: #d6604d;
+  color: #f1f1f1;
+}
+#T_b7c9a_row8_col4 {
+  background-color: #1a5899;
+  color: #f1f1f1;
+}
+#T_b7c9a_row8_col7 {
+  background-color: #e9f0f4;
+  color: #000000;
+}
+#T_b7c9a_row8_col8 {
+  background-color: #e27b62;
+  color: #f1f1f1;
+}
+#T_b7c9a_row8_col11 {
+  background-color: #d05548;
+  color: #f1f1f1;
+}
+#T_b7c9a_row9_col2 {
+  background-color: #f7b799;
+  color: #000000;
+}
+#T_b7c9a_row9_col8 {
+  background-color: #a5cee3;
+  color: #000000;
+}
+#T_b7c9a_row9_col11 {
+  background-color: #de735c;
+  color: #f1f1f1;
+}
+#T_b7c9a_row9_col12, #T_b7c9a_row10_col2 {
+  background-color: #87beda;
+  color: #000000;
+}
+#T_b7c9a_row10_col6 {
+  background-color: #81bad8;
+  color: #000000;
+}
+#T_b7c9a_row11_col4 {
+  background-color: #0a3b70;
+  color: #f1f1f1;
+}
+#T_b7c9a_row11_col7 {
+  background-color: #bf3338;
+  color: #f1f1f1;
+}
+#T_b7c9a_row12_col8 {
+  background-color: #f5f6f7;
+  color: #000000;
+}
+#T_b7c9a_row13_col1 {
+  background-color: #f5ac8b;
+  color: #000000;
+}
+#T_b7c9a_row13_col4, #T_b7c9a_row15_col8 {
+  background-color: #063264;
+  color: #f1f1f1;
+}
+#T_b7c9a_row13_col8 {
+  background-color: #eb9172;
+  color: #f1f1f1;
+}
+#T_b7c9a_row13_col9 {
+  background-color: #75b2d4;
+  color: #f1f1f1;
+}
+#T_b7c9a_row13_col10 {
+  background-color: #f3a481;
+  color: #000000;
+}
+#T_b7c9a_row14_col1 {
+  background-color: #840924;
+  color: #f1f1f1;
+}
+#T_b7c9a_row14_col2 {
+  background-color: #cce2ef;
+  color: #000000;
+}
+#T_b7c9a_row14_col11 {
+  background-color: #0f437b;
+  color: #f1f1f1;
+}
+#T_b7c9a_row14_col12 {
+  background-color: #a2cde3;
+  color: #000000;
+}
+#T_b7c9a_row15_col2 {
+  background-color: #c6413e;
+  color: #f1f1f1;
+}
+#T_b7c9a_row15_col3 {
+  background-color: #f6b394;
+  color: #000000;
+}
+#T_b7c9a_row15_col4 {
+  background-color: #98c8e0;
+  color: #000000;
+}
+#T_b7c9a_row15_col5 {
+  background-color: #09386d;
+  color: #f1f1f1;
+}
+#T_b7c9a_row15_col10 {
+  background-color: #a7d0e4;
+  color: #000000;
+}
+#T_b7c9a_row15_col12 {
+  background-color: #d8e9f1;
+  color: #000000;
+}
+#T_b7c9a_row16_col6 {
+  background-color: #f2a17f;
+  color: #000000;
+}
+#T_b7c9a_row16_col7 {
+  background-color: #e37e64;
+  color: #f1f1f1;
+}
+#T_b7c9a_row16_col11 {
+  background-color: #fddcc9;
+  color: #000000;
+}
+#T_b7c9a_row17_col4 {
+  background-color: #f6b191;
+  color: #000000;
+}
+#T_b7c9a_row17_col11, #T_b7c9a_row19_col10 {
+  background-color: #facab1;
+  color: #000000;
+}
+#T_b7c9a_row18_col2 {
+  background-color: #fbe5d8;
+  color: #000000;
+}
+#T_b7c9a_row18_col5 {
+  background-color: #f9f0eb;
+  color: #000000;
+}
+#T_b7c9a_row19_col1, #T_b7c9a_row19_col8 {
+  background-color: #fbceb7;
+  color: #000000;
+}
+#T_b7c9a_row19_col3 {
+  background-color: #810823;
+  color: #f1f1f1;
+}
+#T_b7c9a_row19_col9 {
+  background-color: #5ca3cb;
+  color: #f1f1f1;
+}
+#T_b7c9a_row19_col11 {
+  background-color: #fbccb4;
+  color: #000000;
+}
+</style>
+
+<table id="T_b7c9a" data-quarto-postprocess="true" class="table table-sm table-striped small">
+<thead>
+<tr class="header">
+<th class="index_name level0" data-quarto-table-cell-role="th">month</th>
+<th id="T_b7c9a_level0_col0" class="col_heading level0 col0" data-quarto-table-cell-role="th">year</th>
+<th id="T_b7c9a_level0_col1" class="col_heading level0 col1" data-quarto-table-cell-role="th">1</th>
+<th id="T_b7c9a_level0_col2" class="col_heading level0 col2" data-quarto-table-cell-role="th">2</th>
+<th id="T_b7c9a_level0_col3" class="col_heading level0 col3" data-quarto-table-cell-role="th">3</th>
+<th id="T_b7c9a_level0_col4" class="col_heading level0 col4" data-quarto-table-cell-role="th">4</th>
+<th id="T_b7c9a_level0_col5" class="col_heading level0 col5" data-quarto-table-cell-role="th">5</th>
+<th id="T_b7c9a_level0_col6" class="col_heading level0 col6" data-quarto-table-cell-role="th">6</th>
+<th id="T_b7c9a_level0_col7" class="col_heading level0 col7" data-quarto-table-cell-role="th">7</th>
+<th id="T_b7c9a_level0_col8" class="col_heading level0 col8" data-quarto-table-cell-role="th">8</th>
+<th id="T_b7c9a_level0_col9" class="col_heading level0 col9" data-quarto-table-cell-role="th">9</th>
+<th id="T_b7c9a_level0_col10" class="col_heading level0 col10" data-quarto-table-cell-role="th">10</th>
+<th id="T_b7c9a_level0_col11" class="col_heading level0 col11" data-quarto-table-cell-role="th">11</th>
+<th id="T_b7c9a_level0_col12" class="col_heading level0 col12" data-quarto-table-cell-role="th">12</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td id="T_b7c9a_level0_row0" class="row_heading level0 row0" data-quarto-table-cell-role="th">0</td>
+<td id="T_b7c9a_row0_col0" class="data row0 col0">2000</td>
+<td id="T_b7c9a_row0_col1" class="data row0 col1">-3.1</td>
+<td id="T_b7c9a_row0_col2" class="data row0 col2">-1.4</td>
+<td id="T_b7c9a_row0_col3" class="data row0 col3">-2.0</td>
+<td id="T_b7c9a_row0_col4" class="data row0 col4">-0.8</td>
+<td id="T_b7c9a_row0_col5" class="data row0 col5">-0.9</td>
+<td id="T_b7c9a_row0_col6" class="data row0 col6">0.1</td>
+<td id="T_b7c9a_row0_col7" class="data row0 col7">3.6</td>
+<td id="T_b7c9a_row0_col8" class="data row0 col8">-2.8</td>
+<td id="T_b7c9a_row0_col9" class="data row0 col9">1.4</td>
+<td id="T_b7c9a_row0_col10" class="data row0 col10">-0.3</td>
+<td id="T_b7c9a_row0_col11" class="data row0 col11">0.8</td>
+<td id="T_b7c9a_row0_col12" class="data row0 col12">1.0</td>
+</tr>
+<tr class="even">
+<td id="T_b7c9a_level0_row1" class="row_heading level0 row1" data-quarto-table-cell-role="th">1</td>
+<td id="T_b7c9a_row1_col0" class="data row1 col0">2001</td>
+<td id="T_b7c9a_row1_col1" class="data row1 col1">-2.2</td>
+<td id="T_b7c9a_row1_col2" class="data row1 col2">1.5</td>
+<td id="T_b7c9a_row1_col3" class="data row1 col3">0.1</td>
+<td id="T_b7c9a_row1_col4" class="data row1 col4">0.2</td>
+<td id="T_b7c9a_row1_col5" class="data row1 col5">1.0</td>
+<td id="T_b7c9a_row1_col6" class="data row1 col6">1.5</td>
+<td id="T_b7c9a_row1_col7" class="data row1 col7">4.0</td>
+<td id="T_b7c9a_row1_col8" class="data row1 col8">-0.4</td>
+<td id="T_b7c9a_row1_col9" class="data row1 col9">3.5</td>
+<td id="T_b7c9a_row1_col10" class="data row1 col10">0.7</td>
+<td id="T_b7c9a_row1_col11" class="data row1 col11">2.6</td>
+<td id="T_b7c9a_row1_col12" class="data row1 col12">nan</td>
+</tr>
+<tr class="odd">
+<td id="T_b7c9a_level0_row2" class="row_heading level0 row2" data-quarto-table-cell-role="th">2</td>
+<td id="T_b7c9a_row2_col0" class="data row2 col0">2002</td>
+<td id="T_b7c9a_row2_col1" class="data row2 col1">0.7</td>
+<td id="T_b7c9a_row2_col2" class="data row2 col2">-0.9</td>
+<td id="T_b7c9a_row2_col3" class="data row2 col3">-1.4</td>
+<td id="T_b7c9a_row2_col4" class="data row2 col4">-2.3</td>
+<td id="T_b7c9a_row2_col5" class="data row2 col5">3.0</td>
+<td id="T_b7c9a_row2_col6" class="data row2 col6">2.5</td>
+<td id="T_b7c9a_row2_col7" class="data row2 col7">0.8</td>
+<td id="T_b7c9a_row2_col8" class="data row2 col8">-0.0</td>
+<td id="T_b7c9a_row2_col9" class="data row2 col9">3.5</td>
+<td id="T_b7c9a_row2_col10" class="data row2 col10">0.7</td>
+<td id="T_b7c9a_row2_col11" class="data row2 col11">-1.7</td>
+<td id="T_b7c9a_row2_col12" class="data row2 col12">-2.1</td>
+</tr>
+<tr class="even">
+<td id="T_b7c9a_level0_row3" class="row_heading level0 row3" data-quarto-table-cell-role="th">3</td>
+<td id="T_b7c9a_row3_col0" class="data row3 col0">2003</td>
+<td id="T_b7c9a_row3_col1" class="data row3 col1">3.7</td>
+<td id="T_b7c9a_row3_col2" class="data row3 col2">-1.4</td>
+<td id="T_b7c9a_row3_col3" class="data row3 col3">-0.0</td>
+<td id="T_b7c9a_row3_col4" class="data row3 col4">0.3</td>
+<td id="T_b7c9a_row3_col5" class="data row3 col5">1.2</td>
+<td id="T_b7c9a_row3_col6" class="data row3 col6">0.6</td>
+<td id="T_b7c9a_row3_col7" class="data row3 col7">3.2</td>
+<td id="T_b7c9a_row3_col8" class="data row3 col8">-2.7</td>
+<td id="T_b7c9a_row3_col9" class="data row3 col9">-1.1</td>
+<td id="T_b7c9a_row3_col10" class="data row3 col10">-3.1</td>
+<td id="T_b7c9a_row3_col11" class="data row3 col11">-1.4</td>
+<td id="T_b7c9a_row3_col12" class="data row3 col12">4.4</td>
+</tr>
+<tr class="odd">
+<td id="T_b7c9a_level0_row4" class="row_heading level0 row4" data-quarto-table-cell-role="th">4</td>
+<td id="T_b7c9a_row4_col0" class="data row4 col0">2004</td>
+<td id="T_b7c9a_row4_col1" class="data row4 col1">-1.9</td>
+<td id="T_b7c9a_row4_col2" class="data row4 col2">0.0</td>
+<td id="T_b7c9a_row4_col3" class="data row4 col3">0.2</td>
+<td id="T_b7c9a_row4_col4" class="data row4 col4">1.9</td>
+<td id="T_b7c9a_row4_col5" class="data row4 col5">0.0</td>
+<td id="T_b7c9a_row4_col6" class="data row4 col6">0.3</td>
+<td id="T_b7c9a_row4_col7" class="data row4 col7">3.8</td>
+<td id="T_b7c9a_row4_col8" class="data row4 col8">3.2</td>
+<td id="T_b7c9a_row4_col9" class="data row4 col9">0.1</td>
+<td id="T_b7c9a_row4_col10" class="data row4 col10">-1.6</td>
+<td id="T_b7c9a_row4_col11" class="data row4 col11">2.5</td>
+<td id="T_b7c9a_row4_col12" class="data row4 col12">0.2</td>
+</tr>
+<tr class="even">
+<td id="T_b7c9a_level0_row5" class="row_heading level0 row5" data-quarto-table-cell-role="th">5</td>
+<td id="T_b7c9a_row5_col0" class="data row5 col0">2005</td>
+<td id="T_b7c9a_row5_col1" class="data row5 col1">1.5</td>
+<td id="T_b7c9a_row5_col2" class="data row5 col2">0.1</td>
+<td id="T_b7c9a_row5_col3" class="data row5 col3">-0.8</td>
+<td id="T_b7c9a_row5_col4" class="data row5 col4">-2.6</td>
+<td id="T_b7c9a_row5_col5" class="data row5 col5">-1.4</td>
+<td id="T_b7c9a_row5_col6" class="data row5 col6">0.9</td>
+<td id="T_b7c9a_row5_col7" class="data row5 col7">-0.2</td>
+<td id="T_b7c9a_row5_col8" class="data row5 col8">0.4</td>
+<td id="T_b7c9a_row5_col9" class="data row5 col9">1.3</td>
+<td id="T_b7c9a_row5_col10" class="data row5 col10">-1.8</td>
+<td id="T_b7c9a_row5_col11" class="data row5 col11">-1.7</td>
+<td id="T_b7c9a_row5_col12" class="data row5 col12">-3.1</td>
+</tr>
+<tr class="odd">
+<td id="T_b7c9a_level0_row6" class="row_heading level0 row6" data-quarto-table-cell-role="th">6</td>
+<td id="T_b7c9a_row6_col0" class="data row6 col0">2006</td>
+<td id="T_b7c9a_row6_col1" class="data row6 col1">1.6</td>
+<td id="T_b7c9a_row6_col2" class="data row6 col2">-2.8</td>
+<td id="T_b7c9a_row6_col3" class="data row6 col3">0.3</td>
+<td id="T_b7c9a_row6_col4" class="data row6 col4">1.0</td>
+<td id="T_b7c9a_row6_col5" class="data row6 col5">5.1</td>
+<td id="T_b7c9a_row6_col6" class="data row6 col6">3.2</td>
+<td id="T_b7c9a_row6_col7" class="data row6 col7">2.7</td>
+<td id="T_b7c9a_row6_col8" class="data row6 col8">2.6</td>
+<td id="T_b7c9a_row6_col9" class="data row6 col9">1.9</td>
+<td id="T_b7c9a_row6_col10" class="data row6 col10">1.3</td>
+<td id="T_b7c9a_row6_col11" class="data row6 col11">-0.3</td>
+<td id="T_b7c9a_row6_col12" class="data row6 col12">-2.1</td>
+</tr>
+<tr class="even">
+<td id="T_b7c9a_level0_row7" class="row_heading level0 row7" data-quarto-table-cell-role="th">7</td>
+<td id="T_b7c9a_row7_col0" class="data row7 col0">2007</td>
+<td id="T_b7c9a_row7_col1" class="data row7 col1">-1.4</td>
+<td id="T_b7c9a_row7_col2" class="data row7 col2">3.0</td>
+<td id="T_b7c9a_row7_col3" class="data row7 col3">-0.6</td>
+<td id="T_b7c9a_row7_col4" class="data row7 col4">-1.2</td>
+<td id="T_b7c9a_row7_col5" class="data row7 col5">1.4</td>
+<td id="T_b7c9a_row7_col6" class="data row7 col6">1.3</td>
+<td id="T_b7c9a_row7_col7" class="data row7 col7">1.3</td>
+<td id="T_b7c9a_row7_col8" class="data row7 col8">0.7</td>
+<td id="T_b7c9a_row7_col9" class="data row7 col9">-1.7</td>
+<td id="T_b7c9a_row7_col10" class="data row7 col10">-0.0</td>
+<td id="T_b7c9a_row7_col11" class="data row7 col11">0.8</td>
+<td id="T_b7c9a_row7_col12" class="data row7 col12">-0.6</td>
+</tr>
+<tr class="odd">
+<td id="T_b7c9a_level0_row8" class="row_heading level0 row8" data-quarto-table-cell-role="th">8</td>
+<td id="T_b7c9a_row8_col0" class="data row8 col0">2008</td>
+<td id="T_b7c9a_row8_col1" class="data row8 col1">4.2</td>
+<td id="T_b7c9a_row8_col2" class="data row8 col2">1.7</td>
+<td id="T_b7c9a_row8_col3" class="data row8 col3">-2.8</td>
+<td id="T_b7c9a_row8_col4" class="data row8 col4">0.8</td>
+<td id="T_b7c9a_row8_col5" class="data row8 col5">-1.1</td>
+<td id="T_b7c9a_row8_col6" class="data row8 col6">-1.2</td>
+<td id="T_b7c9a_row8_col7" class="data row8 col7">0.1</td>
+<td id="T_b7c9a_row8_col8" class="data row8 col8">-0.5</td>
+<td id="T_b7c9a_row8_col9" class="data row8 col9">-2.3</td>
+<td id="T_b7c9a_row8_col10" class="data row8 col10">nan</td>
+<td id="T_b7c9a_row8_col11" class="data row8 col11">-0.6</td>
+<td id="T_b7c9a_row8_col12" class="data row8 col12">1.3</td>
+</tr>
+<tr class="even">
+<td id="T_b7c9a_level0_row9" class="row_heading level0 row9" data-quarto-table-cell-role="th">9</td>
+<td id="T_b7c9a_row9_col0" class="data row9 col0">2009</td>
+<td id="T_b7c9a_row9_col1" class="data row9 col1">2.2</td>
+<td id="T_b7c9a_row9_col2" class="data row9 col2">-0.3</td>
+<td id="T_b7c9a_row9_col3" class="data row9 col3">-3.2</td>
+<td id="T_b7c9a_row9_col4" class="data row9 col4">-4.9</td>
+<td id="T_b7c9a_row9_col5" class="data row9 col5">-3.3</td>
+<td id="T_b7c9a_row9_col6" class="data row9 col6">4.9</td>
+<td id="T_b7c9a_row9_col7" class="data row9 col7">4.7</td>
+<td id="T_b7c9a_row9_col8" class="data row9 col8">0.3</td>
+<td id="T_b7c9a_row9_col9" class="data row9 col9">nan</td>
+<td id="T_b7c9a_row9_col10" class="data row9 col10">1.4</td>
+<td id="T_b7c9a_row9_col11" class="data row9 col11">-0.5</td>
+<td id="T_b7c9a_row9_col12" class="data row9 col12">0.4</td>
+</tr>
+<tr class="odd">
+<td id="T_b7c9a_level0_row10" class="row_heading level0 row10" data-quarto-table-cell-role="th">10</td>
+<td id="T_b7c9a_row10_col0" class="data row10 col0">2010</td>
+<td id="T_b7c9a_row10_col1" class="data row10 col1">1.6</td>
+<td id="T_b7c9a_row10_col2" class="data row10 col2">0.4</td>
+<td id="T_b7c9a_row10_col3" class="data row10 col3">-2.9</td>
+<td id="T_b7c9a_row10_col4" class="data row10 col4">2.2</td>
+<td id="T_b7c9a_row10_col5" class="data row10 col5">-2.5</td>
+<td id="T_b7c9a_row10_col6" class="data row10 col6">0.4</td>
+<td id="T_b7c9a_row10_col7" class="data row10 col7">2.4</td>
+<td id="T_b7c9a_row10_col8" class="data row10 col8">2.0</td>
+<td id="T_b7c9a_row10_col9" class="data row10 col9">3.9</td>
+<td id="T_b7c9a_row10_col10" class="data row10 col10">nan</td>
+<td id="T_b7c9a_row10_col11" class="data row10 col11">-2.3</td>
+<td id="T_b7c9a_row10_col12" class="data row10 col12">1.3</td>
+</tr>
+<tr class="even">
+<td id="T_b7c9a_level0_row11" class="row_heading level0 row11" data-quarto-table-cell-role="th">11</td>
+<td id="T_b7c9a_row11_col0" class="data row11 col0">2011</td>
+<td id="T_b7c9a_row11_col1" class="data row11 col1">3.7</td>
+<td id="T_b7c9a_row11_col2" class="data row11 col2">-2.1</td>
+<td id="T_b7c9a_row11_col3" class="data row11 col3">2.2</td>
+<td id="T_b7c9a_row11_col4" class="data row11 col4">1.0</td>
+<td id="T_b7c9a_row11_col5" class="data row11 col5">-1.3</td>
+<td id="T_b7c9a_row11_col6" class="data row11 col6">-2.0</td>
+<td id="T_b7c9a_row11_col7" class="data row11 col7">-0.7</td>
+<td id="T_b7c9a_row11_col8" class="data row11 col8">0.2</td>
+<td id="T_b7c9a_row11_col9" class="data row11 col9">2.4</td>
+<td id="T_b7c9a_row11_col10" class="data row11 col10">-1.9</td>
+<td id="T_b7c9a_row11_col11" class="data row11 col11">-3.4</td>
+<td id="T_b7c9a_row11_col12" class="data row11 col12">-3.8</td>
+</tr>
+<tr class="odd">
+<td id="T_b7c9a_level0_row12" class="row_heading level0 row12" data-quarto-table-cell-role="th">12</td>
+<td id="T_b7c9a_row12_col0" class="data row12 col0">2012</td>
+<td id="T_b7c9a_row12_col1" class="data row12 col1">-1.2</td>
+<td id="T_b7c9a_row12_col2" class="data row12 col2">4.0</td>
+<td id="T_b7c9a_row12_col3" class="data row12 col3">1.2</td>
+<td id="T_b7c9a_row12_col4" class="data row12 col4">-3.7</td>
+<td id="T_b7c9a_row12_col5" class="data row12 col5">0.8</td>
+<td id="T_b7c9a_row12_col6" class="data row12 col6">-1.6</td>
+<td id="T_b7c9a_row12_col7" class="data row12 col7">4.9</td>
+<td id="T_b7c9a_row12_col8" class="data row12 col8">0.0</td>
+<td id="T_b7c9a_row12_col9" class="data row12 col9">2.6</td>
+<td id="T_b7c9a_row12_col10" class="data row12 col10">-1.1</td>
+<td id="T_b7c9a_row12_col11" class="data row12 col11">-1.5</td>
+<td id="T_b7c9a_row12_col12" class="data row12 col12">1.9</td>
+</tr>
+<tr class="even">
+<td id="T_b7c9a_level0_row13" class="row_heading level0 row13" data-quarto-table-cell-role="th">13</td>
+<td id="T_b7c9a_row13_col0" class="data row13 col0">2013</td>
+<td id="T_b7c9a_row13_col1" class="data row13 col1">-0.4</td>
+<td id="T_b7c9a_row13_col2" class="data row13 col2">-1.7</td>
+<td id="T_b7c9a_row13_col3" class="data row13 col3">1.1</td>
+<td id="T_b7c9a_row13_col4" class="data row13 col4">1.0</td>
+<td id="T_b7c9a_row13_col5" class="data row13 col5">-2.4</td>
+<td id="T_b7c9a_row13_col6" class="data row13 col6">-2.3</td>
+<td id="T_b7c9a_row13_col7" class="data row13 col7">-0.9</td>
+<td id="T_b7c9a_row13_col8" class="data row13 col8">-0.5</td>
+<td id="T_b7c9a_row13_col9" class="data row13 col9">0.5</td>
+<td id="T_b7c9a_row13_col10" class="data row13 col10">-0.4</td>
+<td id="T_b7c9a_row13_col11" class="data row13 col11">-2.6</td>
+<td id="T_b7c9a_row13_col12" class="data row13 col12">-2.2</td>
+</tr>
+<tr class="odd">
+<td id="T_b7c9a_level0_row14" class="row_heading level0 row14" data-quarto-table-cell-role="th">14</td>
+<td id="T_b7c9a_row14_col0" class="data row14 col0">2014</td>
+<td id="T_b7c9a_row14_col1" class="data row14 col1">-0.9</td>
+<td id="T_b7c9a_row14_col2" class="data row14 col2">0.2</td>
+<td id="T_b7c9a_row14_col3" class="data row14 col3">-2.8</td>
+<td id="T_b7c9a_row14_col4" class="data row14 col4">1.1</td>
+<td id="T_b7c9a_row14_col5" class="data row14 col5">1.6</td>
+<td id="T_b7c9a_row14_col6" class="data row14 col6">2.1</td>
+<td id="T_b7c9a_row14_col7" class="data row14 col7">1.9</td>
+<td id="T_b7c9a_row14_col8" class="data row14 col8">-1.9</td>
+<td id="T_b7c9a_row14_col9" class="data row14 col9">1.9</td>
+<td id="T_b7c9a_row14_col10" class="data row14 col10">-4.6</td>
+<td id="T_b7c9a_row14_col11" class="data row14 col11">0.9</td>
+<td id="T_b7c9a_row14_col12" class="data row14 col12">0.3</td>
+</tr>
+<tr class="even">
+<td id="T_b7c9a_level0_row15" class="row_heading level0 row15" data-quarto-table-cell-role="th">15</td>
+<td id="T_b7c9a_row15_col0" class="data row15 col0">2015</td>
+<td id="T_b7c9a_row15_col1" class="data row15 col1">2.6</td>
+<td id="T_b7c9a_row15_col2" class="data row15 col2">-0.7</td>
+<td id="T_b7c9a_row15_col3" class="data row15 col3">-0.3</td>
+<td id="T_b7c9a_row15_col4" class="data row15 col4">0.4</td>
+<td id="T_b7c9a_row15_col5" class="data row15 col5">1.0</td>
+<td id="T_b7c9a_row15_col6" class="data row15 col6">-1.3</td>
+<td id="T_b7c9a_row15_col7" class="data row15 col7">-2.4</td>
+<td id="T_b7c9a_row15_col8" class="data row15 col8">1.0</td>
+<td id="T_b7c9a_row15_col9" class="data row15 col9">1.1</td>
+<td id="T_b7c9a_row15_col10" class="data row15 col10">0.3</td>
+<td id="T_b7c9a_row15_col11" class="data row15 col11">3.3</td>
+<td id="T_b7c9a_row15_col12" class="data row15 col12">0.2</td>
+</tr>
+<tr class="odd">
+<td id="T_b7c9a_level0_row16" class="row_heading level0 row16" data-quarto-table-cell-role="th">16</td>
+<td id="T_b7c9a_row16_col0" class="data row16 col0">2016</td>
+<td id="T_b7c9a_row16_col1" class="data row16 col1">3.1</td>
+<td id="T_b7c9a_row16_col2" class="data row16 col2">-3.3</td>
+<td id="T_b7c9a_row16_col3" class="data row16 col3">-3.8</td>
+<td id="T_b7c9a_row16_col4" class="data row16 col4">1.2</td>
+<td id="T_b7c9a_row16_col5" class="data row16 col5">-1.8</td>
+<td id="T_b7c9a_row16_col6" class="data row16 col6">-0.4</td>
+<td id="T_b7c9a_row16_col7" class="data row16 col7">-0.5</td>
+<td id="T_b7c9a_row16_col8" class="data row16 col8">1.1</td>
+<td id="T_b7c9a_row16_col9" class="data row16 col9">1.9</td>
+<td id="T_b7c9a_row16_col10" class="data row16 col10">1.0</td>
+<td id="T_b7c9a_row16_col11" class="data row16 col11">-0.2</td>
+<td id="T_b7c9a_row16_col12" class="data row16 col12">1.9</td>
+</tr>
+<tr class="even">
+<td id="T_b7c9a_level0_row17" class="row_heading level0 row17" data-quarto-table-cell-role="th">17</td>
+<td id="T_b7c9a_row17_col0" class="data row17 col0">2017</td>
+<td id="T_b7c9a_row17_col1" class="data row17 col1">-0.8</td>
+<td id="T_b7c9a_row17_col2" class="data row17 col2">-2.6</td>
+<td id="T_b7c9a_row17_col3" class="data row17 col3">3.8</td>
+<td id="T_b7c9a_row17_col4" class="data row17 col4">-0.4</td>
+<td id="T_b7c9a_row17_col5" class="data row17 col5">-1.5</td>
+<td id="T_b7c9a_row17_col6" class="data row17 col6">3.2</td>
+<td id="T_b7c9a_row17_col7" class="data row17 col7">-2.4</td>
+<td id="T_b7c9a_row17_col8" class="data row17 col8">-1.3</td>
+<td id="T_b7c9a_row17_col9" class="data row17 col9">0.1</td>
+<td id="T_b7c9a_row17_col10" class="data row17 col10">1.0</td>
+<td id="T_b7c9a_row17_col11" class="data row17 col11">-0.3</td>
+<td id="T_b7c9a_row17_col12" class="data row17 col12">-1.7</td>
+</tr>
+<tr class="odd">
+<td id="T_b7c9a_level0_row18" class="row_heading level0 row18" data-quarto-table-cell-role="th">18</td>
+<td id="T_b7c9a_row18_col0" class="data row18 col0">2018</td>
+<td id="T_b7c9a_row18_col1" class="data row18 col1">nan</td>
+<td id="T_b7c9a_row18_col2" class="data row18 col2">-0.1</td>
+<td id="T_b7c9a_row18_col3" class="data row18 col3">-1.3</td>
+<td id="T_b7c9a_row18_col4" class="data row18 col4">2.7</td>
+<td id="T_b7c9a_row18_col5" class="data row18 col5">-0.1</td>
+<td id="T_b7c9a_row18_col6" class="data row18 col6">-1.1</td>
+<td id="T_b7c9a_row18_col7" class="data row18 col7">-1.3</td>
+<td id="T_b7c9a_row18_col8" class="data row18 col8">1.1</td>
+<td id="T_b7c9a_row18_col9" class="data row18 col9">1.5</td>
+<td id="T_b7c9a_row18_col10" class="data row18 col10">-1.3</td>
+<td id="T_b7c9a_row18_col11" class="data row18 col11">1.5</td>
+<td id="T_b7c9a_row18_col12" class="data row18 col12">1.9</td>
+</tr>
+<tr class="even">
+<td id="T_b7c9a_level0_row19" class="row_heading level0 row19" data-quarto-table-cell-role="th">19</td>
+<td id="T_b7c9a_row19_col0" class="data row19 col0">2019</td>
+<td id="T_b7c9a_row19_col1" class="data row19 col1">-0.2</td>
+<td id="T_b7c9a_row19_col2" class="data row19 col2">3.9</td>
+<td id="T_b7c9a_row19_col3" class="data row19 col3">-0.9</td>
+<td id="T_b7c9a_row19_col4" class="data row19 col4">-2.3</td>
+<td id="T_b7c9a_row19_col5" class="data row19 col5">-1.6</td>
+<td id="T_b7c9a_row19_col6" class="data row19 col6">-2.4</td>
+<td id="T_b7c9a_row19_col7" class="data row19 col7">1.5</td>
+<td id="T_b7c9a_row19_col8" class="data row19 col8">-0.2</td>
+<td id="T_b7c9a_row19_col9" class="data row19 col9">0.5</td>
+<td id="T_b7c9a_row19_col10" class="data row19 col10">-0.3</td>
+<td id="T_b7c9a_row19_col11" class="data row19 col11">-0.3</td>
+<td id="T_b7c9a_row19_col12" class="data row19 col12">-2.6</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p>That’s already good enough in a lot of cases :)</p>
+
+
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center"><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+</body></html>
