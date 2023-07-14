@@ -167,145 +167,98 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 
-<div class="cell" data-execution_count="2">
+<div class="cell">
 <details>
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1"></a><span class="im">import</span> scipy</span>
-<span id="cb1-2"><a href="#cb1-2"></a><span class="im">import</span> colour</span>
-<span id="cb1-3"><a href="#cb1-3"></a><span class="im">import</span> numpy <span class="im">as</span> np</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1"></a><span class="im">import</span> colour</span>
+<span id="cb1-2"><a href="#cb1-2"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
+<span id="cb1-3"><a href="#cb1-3"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
+<span id="cb1-4"><a href="#cb1-4"></a><span class="im">import</span> scipy</span>
+<span id="cb1-5"><a href="#cb1-5"></a><span class="im">from</span> colorspacious <span class="im">import</span> cspace_convert, deltaE</span>
+<span id="cb1-6"><a href="#cb1-6"></a><span class="im">from</span> colour.plotting <span class="im">import</span> ColourSwatch, plot_multi_colour_swatches</span>
+<span id="cb1-7"><a href="#cb1-7"></a><span class="im">from</span> scipy.optimize <span class="im">import</span> differential_evolution <span class="im">as</span> optimizer</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
-<div class="cell" data-execution_count="3">
+<div class="cell">
 <details>
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1"></a>lab1 <span class="op">=</span> np.array([<span class="fl">100.00000000</span>, <span class="fl">21.57210357</span>, <span class="fl">272.22819350</span>])</span>
 <span id="cb2-2"><a href="#cb2-2"></a>lab2 <span class="op">=</span> np.array([<span class="fl">100.00000000</span>, <span class="fl">426.67945353</span>, <span class="fl">72.39590835</span>])</span>
 <span id="cb2-3"><a href="#cb2-3"></a>colour.delta_E(lab1, lab2, method<span class="op">=</span><span class="st">"CAM02-UCS"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
-<div class="cell-output cell-output-display" data-execution_count="3">
-<pre><code>451.71330197359117</code></pre>
 </div>
-</div>
-<div class="cell" data-execution_count="6">
+<div class="cell">
 <details>
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1"></a><span class="im">from</span> colour.plotting <span class="im">import</span> plot_multi_colour_swatches</span>
-<span id="cb4-2"><a href="#cb4-2"></a><span class="im">from</span> colour.plotting <span class="im">import</span> ColourSwatch</span>
-<span id="cb4-3"><a href="#cb4-3"></a></span>
-<span id="cb4-4"><a href="#cb4-4"></a>RGB_1 <span class="op">=</span> ColourSwatch((<span class="fl">0.45293517</span>, <span class="fl">0.31732158</span>, <span class="fl">0.26414773</span>))</span>
-<span id="cb4-5"><a href="#cb4-5"></a>RGB_2 <span class="op">=</span> ColourSwatch((<span class="fl">0.77875824</span>, <span class="fl">0.57726450</span>, <span class="fl">0.50453169</span>))</span>
-<span id="cb4-6"><a href="#cb4-6"></a>plot_multi_colour_swatches([RGB_1, RGB_2])</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1"></a>RGB_1 <span class="op">=</span> ColourSwatch((<span class="fl">0.45293517</span>, <span class="fl">0.31732158</span>, <span class="fl">0.26414773</span>))</span>
+<span id="cb3-2"><a href="#cb3-2"></a>RGB_2 <span class="op">=</span> ColourSwatch((<span class="fl">0.77875824</span>, <span class="fl">0.57726450</span>, <span class="fl">0.50453169</span>))</span>
+<span id="cb3-3"><a href="#cb3-3"></a>plot_multi_colour_swatches([RGB_1, RGB_2])</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
-<div class="cell-output cell-output-display">
-<p><img src="distinct_colors_files/figure-html/cell-4-output-1.png" class="img-fluid"></p>
 </div>
-<div class="cell-output cell-output-display" data-execution_count="6">
-<pre><code>(&lt;Figure size 640x480 with 1 Axes&gt;, &lt;Axes: &gt;)</code></pre>
-</div>
-</div>
-<div class="cell" data-execution_count="7">
+<div class="cell">
 <details>
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1"></a><span class="im">from</span> colorspacious <span class="im">import</span> deltaE</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1"></a>deltaE([<span class="dv">255</span>, <span class="dv">127</span>, <span class="dv">127</span>], [<span class="dv">127</span>, <span class="dv">255</span>, <span class="dv">127</span>], input_space<span class="op">=</span><span class="st">"sRGB255"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
-<div class="cell" data-execution_count="8">
+<div class="cell">
 <details>
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1"></a>deltaE([<span class="dv">255</span>, <span class="dv">127</span>, <span class="dv">127</span>], [<span class="dv">127</span>, <span class="dv">255</span>, <span class="dv">127</span>], input_space<span class="op">=</span><span class="st">"sRGB255"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1"></a>cvd_space <span class="op">=</span> {<span class="st">"name"</span>: <span class="st">"sRGB1+CVD"</span>, <span class="st">"cvd_type"</span>: <span class="st">"protanomaly"</span>, <span class="st">"severity"</span>: <span class="dv">50</span>}</span>
+<span id="cb5-2"><a href="#cb5-2"></a></span>
+<span id="cb5-3"><a href="#cb5-3"></a>sRGB_1 <span class="op">=</span> [<span class="dv">255</span>, <span class="dv">127</span>, <span class="dv">127</span>]</span>
+<span id="cb5-4"><a href="#cb5-4"></a>sRGB_2 <span class="op">=</span> [<span class="dv">255</span>, <span class="dv">13</span>, <span class="dv">19</span>]</span>
+<span id="cb5-5"><a href="#cb5-5"></a></span>
+<span id="cb5-6"><a href="#cb5-6"></a>colors <span class="op">=</span> [sRGB_1, sRGB_2]</span>
+<span id="cb5-7"><a href="#cb5-7"></a></span>
+<span id="cb5-8"><a href="#cb5-8"></a></span>
+<span id="cb5-9"><a href="#cb5-9"></a>fig, ax <span class="op">=</span> plt.subplots(<span class="dv">1</span>, <span class="dv">1</span>)</span>
+<span id="cb5-10"><a href="#cb5-10"></a></span>
+<span id="cb5-11"><a href="#cb5-11"></a><span class="cf">for</span> i, color <span class="kw">in</span> <span class="bu">enumerate</span>(colors):</span>
+<span id="cb5-12"><a href="#cb5-12"></a>    ax.bar(i, <span class="dv">1</span>, color<span class="op">=</span>np.array(color) <span class="op">/</span> <span class="dv">255</span>)</span>
+<span id="cb5-13"><a href="#cb5-13"></a></span>
+<span id="cb5-14"><a href="#cb5-14"></a>plt.show()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
-<div class="cell-output cell-output-display" data-execution_count="8">
-<pre><code>55.490775265826436</code></pre>
 </div>
-</div>
-<div class="cell" data-execution_count="27">
+<div class="cell">
 <details>
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb9-1"><a href="#cb9-1"></a><span class="im">from</span> colorspacious <span class="im">import</span> cspace_convert</span>
-<span id="cb9-2"><a href="#cb9-2"></a></span>
-<span id="cb9-3"><a href="#cb9-3"></a>cvd_space <span class="op">=</span> {<span class="st">"name"</span>: <span class="st">"sRGB1+CVD"</span>, <span class="st">"cvd_type"</span>: <span class="st">"protanomaly"</span>, <span class="st">"severity"</span>: <span class="dv">50</span>}</span>
-<span id="cb9-4"><a href="#cb9-4"></a></span>
-<span id="cb9-5"><a href="#cb9-5"></a>sRGB_1 <span class="op">=</span> [<span class="dv">255</span>, <span class="dv">127</span>, <span class="dv">127</span>]</span>
-<span id="cb9-6"><a href="#cb9-6"></a>sRGB_2 <span class="op">=</span> [<span class="dv">255</span>, <span class="dv">13</span>, <span class="dv">19</span>]</span>
-<span id="cb9-7"><a href="#cb9-7"></a></span>
-<span id="cb9-8"><a href="#cb9-8"></a>colors <span class="op">=</span> [sRGB_1, sRGB_2]</span>
-<span id="cb9-9"><a href="#cb9-9"></a></span>
-<span id="cb9-10"><a href="#cb9-10"></a></span>
-<span id="cb9-11"><a href="#cb9-11"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
-<span id="cb9-12"><a href="#cb9-12"></a></span>
-<span id="cb9-13"><a href="#cb9-13"></a>fig, ax <span class="op">=</span> plt.subplots(<span class="dv">1</span>, <span class="dv">1</span>)</span>
-<span id="cb9-14"><a href="#cb9-14"></a></span>
-<span id="cb9-15"><a href="#cb9-15"></a><span class="cf">for</span> i, color <span class="kw">in</span> <span class="bu">enumerate</span>(colors):</span>
-<span id="cb9-16"><a href="#cb9-16"></a>    ax.bar(i, <span class="dv">1</span>, color<span class="op">=</span>np.array(color) <span class="op">/</span> <span class="dv">255</span>)</span>
-<span id="cb9-17"><a href="#cb9-17"></a></span>
-<span id="cb9-18"><a href="#cb9-18"></a>plt.show()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1"></a><span class="kw">def</span> functional(colors):</span>
+<span id="cb6-2"><a href="#cb6-2"></a>    n <span class="op">=</span> <span class="bu">len</span>(colors) <span class="op">//</span> <span class="dv">3</span></span>
+<span id="cb6-3"><a href="#cb6-3"></a>    rgbs <span class="op">=</span> [[colors[<span class="dv">3</span> <span class="op">*</span> i], colors[<span class="dv">3</span> <span class="op">*</span> i <span class="op">+</span> <span class="dv">1</span>], colors[<span class="dv">3</span> <span class="op">*</span> i <span class="op">+</span> <span class="dv">2</span>]] <span class="cf">for</span> i <span class="kw">in</span> <span class="bu">range</span>(n)]</span>
+<span id="cb6-4"><a href="#cb6-4"></a>    <span class="co"># compute pairwise distances</span></span>
+<span id="cb6-5"><a href="#cb6-5"></a></span>
+<span id="cb6-6"><a href="#cb6-6"></a>    rgbs <span class="op">=</span> [np.clip(cspace_convert(rgb, cvd_space, <span class="st">"sRGB1"</span>), <span class="dv">0</span>, <span class="dv">255</span>) <span class="cf">for</span> rgb <span class="kw">in</span> rgbs]</span>
+<span id="cb6-7"><a href="#cb6-7"></a></span>
+<span id="cb6-8"><a href="#cb6-8"></a>    min_delta <span class="op">=</span> <span class="fl">1e10</span></span>
+<span id="cb6-9"><a href="#cb6-9"></a>    <span class="cf">for</span> i <span class="kw">in</span> <span class="bu">range</span>(n):</span>
+<span id="cb6-10"><a href="#cb6-10"></a>        <span class="cf">for</span> j <span class="kw">in</span> <span class="bu">range</span>(i):</span>
+<span id="cb6-11"><a href="#cb6-11"></a>            deltaij <span class="op">=</span> deltaE(rgbs[i], rgbs[j], input_space<span class="op">=</span><span class="st">"sRGB255"</span>)</span>
+<span id="cb6-12"><a href="#cb6-12"></a>            <span class="co"># delta = min(delta, deltaij)</span></span>
+<span id="cb6-13"><a href="#cb6-13"></a>            <span class="co"># delta += deltaij</span></span>
+<span id="cb6-14"><a href="#cb6-14"></a>            <span class="co"># deltas.append(deltaij)</span></span>
+<span id="cb6-15"><a href="#cb6-15"></a>            min_delta <span class="op">=</span> <span class="bu">min</span>(min_delta, deltaij)</span>
+<span id="cb6-16"><a href="#cb6-16"></a></span>
+<span id="cb6-17"><a href="#cb6-17"></a>    <span class="cf">return</span> <span class="op">-</span>min_delta</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
-<div class="cell-output cell-output-display">
-<p><img src="distinct_colors_files/figure-html/cell-7-output-1.png" class="img-fluid"></p>
 </div>
-</div>
-<div class="cell" data-execution_count="97">
+<div class="cell">
 <details>
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb10-1"><a href="#cb10-1"></a><span class="kw">def</span> functional(colors):</span>
-<span id="cb10-2"><a href="#cb10-2"></a>    n <span class="op">=</span> <span class="bu">len</span>(colors) <span class="op">//</span> <span class="dv">3</span></span>
-<span id="cb10-3"><a href="#cb10-3"></a>    rgbs <span class="op">=</span> [[colors[<span class="dv">3</span> <span class="op">*</span> i], colors[<span class="dv">3</span> <span class="op">*</span> i <span class="op">+</span> <span class="dv">1</span>], colors[<span class="dv">3</span> <span class="op">*</span> i <span class="op">+</span> <span class="dv">2</span>]] <span class="cf">for</span> i <span class="kw">in</span> <span class="bu">range</span>(n)]</span>
-<span id="cb10-4"><a href="#cb10-4"></a>    <span class="co"># compute pairwise distances</span></span>
-<span id="cb10-5"><a href="#cb10-5"></a></span>
-<span id="cb10-6"><a href="#cb10-6"></a>    rgbs <span class="op">=</span> [np.clip(cspace_convert(rgb, cvd_space, <span class="st">"sRGB1"</span>), <span class="dv">0</span>, <span class="dv">255</span>) <span class="cf">for</span> rgb <span class="kw">in</span> rgbs]</span>
-<span id="cb10-7"><a href="#cb10-7"></a></span>
-<span id="cb10-8"><a href="#cb10-8"></a>    min_delta <span class="op">=</span> <span class="fl">1e10</span></span>
-<span id="cb10-9"><a href="#cb10-9"></a>    <span class="cf">for</span> i <span class="kw">in</span> <span class="bu">range</span>(n):</span>
-<span id="cb10-10"><a href="#cb10-10"></a>        <span class="cf">for</span> j <span class="kw">in</span> <span class="bu">range</span>(i):</span>
-<span id="cb10-11"><a href="#cb10-11"></a>            deltaij <span class="op">=</span> deltaE(rgbs[i], rgbs[j], input_space<span class="op">=</span><span class="st">"sRGB255"</span>)</span>
-<span id="cb10-12"><a href="#cb10-12"></a>            <span class="co"># delta = min(delta, deltaij)</span></span>
-<span id="cb10-13"><a href="#cb10-13"></a>            <span class="co"># delta += deltaij</span></span>
-<span id="cb10-14"><a href="#cb10-14"></a>            <span class="co"># deltas.append(deltaij)</span></span>
-<span id="cb10-15"><a href="#cb10-15"></a>            min_delta <span class="op">=</span> <span class="bu">min</span>(min_delta, deltaij)</span>
-<span id="cb10-16"><a href="#cb10-16"></a></span>
-<span id="cb10-17"><a href="#cb10-17"></a>    <span class="cf">return</span> <span class="op">-</span>min_delta</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1"></a>n <span class="op">=</span> <span class="dv">5</span></span>
+<span id="cb7-2"><a href="#cb7-2"></a>res <span class="op">=</span> optimizer(functional, bounds<span class="op">=</span>[(<span class="dv">0</span>, <span class="dv">255</span>) <span class="cf">for</span> _ <span class="kw">in</span> <span class="bu">range</span>(<span class="dv">3</span> <span class="op">*</span> n)])</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
-<div class="cell" data-execution_count="98">
+<div class="cell">
 <details>
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb11"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb11-1"><a href="#cb11-1"></a><span class="im">from</span> scipy.optimize <span class="im">import</span> differential_evolution <span class="im">as</span> optimizer</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb8-1"><a href="#cb8-1"></a>fig, axs <span class="op">=</span> plt.subplots(<span class="dv">2</span>, <span class="dv">1</span>)</span>
+<span id="cb8-2"><a href="#cb8-2"></a>rgbs <span class="op">=</span> [[res.x[<span class="dv">3</span> <span class="op">*</span> i], res.x[<span class="dv">3</span> <span class="op">*</span> i <span class="op">+</span> <span class="dv">1</span>], res.x[<span class="dv">3</span> <span class="op">*</span> i <span class="op">+</span> <span class="dv">2</span>]] <span class="cf">for</span> i <span class="kw">in</span> <span class="bu">range</span>(n)]</span>
+<span id="cb8-3"><a href="#cb8-3"></a><span class="cf">for</span> i, rgb <span class="kw">in</span> <span class="bu">enumerate</span>(rgbs):</span>
+<span id="cb8-4"><a href="#cb8-4"></a>    axs[<span class="dv">0</span>].bar(i, <span class="dv">1</span>, color<span class="op">=</span>np.array(rgb) <span class="op">/</span> <span class="dv">255</span>)</span>
+<span id="cb8-5"><a href="#cb8-5"></a>    axs[<span class="dv">1</span>].bar(i, <span class="dv">1</span>, color<span class="op">=</span>np.clip(cspace_convert(rgb, cvd_space, <span class="st">"sRGB1"</span>) <span class="op">/</span> <span class="dv">255</span>, <span class="dv">0</span>, <span class="dv">1</span>))</span>
+<span id="cb8-6"><a href="#cb8-6"></a>plt.show()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
-</div>
-<div class="cell" data-execution_count="102">
-<details>
-<summary>Code</summary>
-<div class="sourceCode cell-code" id="cb12"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb12-1"><a href="#cb12-1"></a>n <span class="op">=</span> <span class="dv">5</span></span>
-<span id="cb12-2"><a href="#cb12-2"></a>res <span class="op">=</span> optimizer(functional, bounds<span class="op">=</span>[(<span class="dv">0</span>, <span class="dv">255</span>) <span class="cf">for</span> _ <span class="kw">in</span> <span class="bu">range</span>(<span class="dv">3</span> <span class="op">*</span> n)])</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</details>
-<div class="cell-output cell-output-error">
-<pre><code>KeyboardInterrupt: </code></pre>
-</div>
-</div>
-<div class="cell" data-execution_count="101">
-<details>
-<summary>Code</summary>
-<div class="sourceCode cell-code" id="cb14"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb14-1"><a href="#cb14-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
-<span id="cb14-2"><a href="#cb14-2"></a></span>
-<span id="cb14-3"><a href="#cb14-3"></a>fig, axs <span class="op">=</span> plt.subplots(<span class="dv">2</span>, <span class="dv">1</span>)</span>
-<span id="cb14-4"><a href="#cb14-4"></a>rgbs <span class="op">=</span> [[res.x[<span class="dv">3</span> <span class="op">*</span> i], res.x[<span class="dv">3</span> <span class="op">*</span> i <span class="op">+</span> <span class="dv">1</span>], res.x[<span class="dv">3</span> <span class="op">*</span> i <span class="op">+</span> <span class="dv">2</span>]] <span class="cf">for</span> i <span class="kw">in</span> <span class="bu">range</span>(n)]</span>
-<span id="cb14-5"><a href="#cb14-5"></a><span class="cf">for</span> i, rgb <span class="kw">in</span> <span class="bu">enumerate</span>(rgbs):</span>
-<span id="cb14-6"><a href="#cb14-6"></a>    axs[<span class="dv">0</span>].bar(i, <span class="dv">1</span>, color<span class="op">=</span>np.array(rgb) <span class="op">/</span> <span class="dv">255</span>)</span>
-<span id="cb14-7"><a href="#cb14-7"></a>    axs[<span class="dv">1</span>].bar(i, <span class="dv">1</span>, color<span class="op">=</span>np.clip(cspace_convert(rgb, cvd_space, <span class="st">"sRGB1"</span>) <span class="op">/</span> <span class="dv">255</span>, <span class="dv">0</span>, <span class="dv">1</span>))</span>
-<span id="cb14-8"><a href="#cb14-8"></a>plt.show()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</details>
-<div class="cell-output cell-output-display">
-<p><img src="distinct_colors_files/figure-html/cell-11-output-1.png" class="img-fluid"></p>
-</div>
-</div>
-<div class="cell" data-execution_count="90">
-<details>
-<summary>Code</summary>
-<div class="sourceCode cell-code" id="cb15"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</details>
-<div class="cell-output cell-output-display" data-execution_count="90">
-<pre><code>array([ 0.89280259,  0.937296  ,  0.        ])</code></pre>
-</div>
 </div>
 
 
