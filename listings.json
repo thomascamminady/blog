@@ -2,8 +2,11 @@
   {
     "listing": "/contents/blog.html",
     "items": [
+      "/contents/posts/drafts/dashboard.html",
+      "/contents/posts/tdf2023/main.html",
       "/contents/posts/grammar-of-graphics/main.html",
       "/contents/posts/heatmaps/main.html",
+      "/contents/posts/playground.html",
       "/contents/posts/nutri-score/main.html",
       "/contents/posts/verkehr/verkehr.html",
       "/contents/posts/interactive-regression/interactive_regression.html",

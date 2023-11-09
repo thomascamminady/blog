@@ -1,0 +1,1323 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.446">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Dr. Thomas Camminady – main</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script><script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<script src="../../../site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="../../../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0JJXC6PKGJ"></script>
+
+<script type="text/plain" cookie-consent="tracking">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-0JJXC6PKGJ', { 'anonymize_ip': true});
+</script>
+
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({
+  "notice_banner_type":"simple",
+  "consent_type":"implied",
+  "palette":"light",
+  "language":"en",
+  "page_load_consent_levels":["strictly-necessary","functionality","tracking","targeting"],
+  "notice_banner_reject_button_hide":false,
+  "preferences_center_close_button_hide":false,
+  "website_name":""
+  ,
+"language":"en"
+  });
+});
+</script> 
+  
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
+
+
+</head>
+
+<body class="nav-fixed fullcontent">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../../index.html">
+    <span class="navbar-title">Dr.&nbsp;Thomas Camminady</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../../index.html"> 
+<span class="menu-text">It’s me, hi!</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../contents/CVen.pdf"> 
+<span class="menu-text">CV</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../contents/blog.html"> 
+<span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../contents/datasets.html"> 
+<span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/thomascamminady"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/camminady/"> <i class="bi bi-linkedin" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/camminady"> <i class="bi bi-twitter" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/thomascamminady/blog"> <i class="bi bi-code" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+<div id="cell-0" class="cell" data-execution_count="37">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
+<span id="cb1-2"><a href="#cb1-2"></a><span class="im">import</span> polars <span class="im">as</span> pl</span>
+<span id="cb1-3"><a href="#cb1-3"></a><span class="im">import</span> os</span>
+<span id="cb1-4"><a href="#cb1-4"></a><span class="im">import</span> altair <span class="im">as</span> alt</span>
+<span id="cb1-5"><a href="#cb1-5"></a><span class="im">import</span> polars.selectors <span class="im">as</span> cs</span>
+<span id="cb1-6"><a href="#cb1-6"></a><span class="im">from</span> camminapy.plot <span class="im">import</span> altair_theme</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+</div>
+<div id="cell-1" class="cell" data-execution_count="252">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1"></a>force <span class="op">=</span> <span class="va">True</span></span>
+<span id="cb2-2"><a href="#cb2-2"></a><span class="cf">if</span> os.path.exists(filename <span class="op">:=</span> <span class="st">"data.parquet"</span>) <span class="kw">and</span> <span class="kw">not</span> force:</span>
+<span id="cb2-3"><a href="#cb2-3"></a>    df <span class="op">=</span> pl.read_parquet(filename)</span>
+<span id="cb2-4"><a href="#cb2-4"></a><span class="cf">else</span>:</span>
+<span id="cb2-5"><a href="#cb2-5"></a>    df <span class="op">=</span> pl.DataFrame(</span>
+<span id="cb2-6"><a href="#cb2-6"></a>        pd.concat(</span>
+<span id="cb2-7"><a href="#cb2-7"></a>            [</span>
+<span id="cb2-8"><a href="#cb2-8"></a>                pd.read_html(<span class="ss">f"https://www.letour.fr/en/rankings/stage-</span><span class="sc">{</span>i<span class="sc">}</span><span class="ss">"</span>)[<span class="dv">0</span>].assign(</span>
+<span id="cb2-9"><a href="#cb2-9"></a>                    stage<span class="op">=</span>i</span>
+<span id="cb2-10"><a href="#cb2-10"></a>                )</span>
+<span id="cb2-11"><a href="#cb2-11"></a>                <span class="cf">for</span> i <span class="kw">in</span> <span class="bu">range</span>(<span class="dv">1</span>, <span class="dv">18</span>)</span>
+<span id="cb2-12"><a href="#cb2-12"></a>            ]</span>
+<span id="cb2-13"><a href="#cb2-13"></a>        )</span>
+<span id="cb2-14"><a href="#cb2-14"></a>    )</span>
+<span id="cb2-15"><a href="#cb2-15"></a>    df.write_parquet(filename)</span>
+<span id="cb2-16"><a href="#cb2-16"></a></span>
+<span id="cb2-17"><a href="#cb2-17"></a>df <span class="op">=</span> (</span>
+<span id="cb2-18"><a href="#cb2-18"></a>    df.with_columns(</span>
+<span id="cb2-19"><a href="#cb2-19"></a>        pl.col(<span class="st">"Times"</span>)</span>
+<span id="cb2-20"><a href="#cb2-20"></a>        .<span class="bu">str</span>.strptime(pl.Time, <span class="bu">format</span><span class="op">=</span><span class="st">"""%Hh %M' %S''"""</span>)</span>
+<span id="cb2-21"><a href="#cb2-21"></a>        .cast(pl.Duration)</span>
+<span id="cb2-22"><a href="#cb2-22"></a>    )</span>
+<span id="cb2-23"><a href="#cb2-23"></a>    .with_columns(</span>
+<span id="cb2-24"><a href="#cb2-24"></a>        pl.col(<span class="st">"Gap"</span>)</span>
+<span id="cb2-25"><a href="#cb2-25"></a>        .<span class="bu">apply</span>(<span class="kw">lambda</span> s: <span class="bu">str</span>(s).replace(<span class="st">"+ "</span>, <span class="st">""</span>).replace(<span class="st">"-"</span>, <span class="st">"0h 0' 0''"</span>))</span>
+<span id="cb2-26"><a href="#cb2-26"></a>        .<span class="bu">str</span>.strptime(pl.Time, <span class="bu">format</span><span class="op">=</span><span class="st">"""%Hh %M' %S''"""</span>, strict<span class="op">=</span><span class="va">True</span>)</span>
+<span id="cb2-27"><a href="#cb2-27"></a>        .cast(pl.Duration)</span>
+<span id="cb2-28"><a href="#cb2-28"></a>    )</span>
+<span id="cb2-29"><a href="#cb2-29"></a>    .rename(mapping<span class="op">=</span>{<span class="st">"stage"</span>: <span class="st">"Stage"</span>})</span>
+<span id="cb2-30"><a href="#cb2-30"></a>    .select(<span class="st">"Stage"</span>, <span class="st">"Rank"</span>, <span class="st">"Rider"</span>, <span class="st">"Team"</span>, <span class="st">"Rider No."</span>, <span class="st">"Times"</span>, <span class="st">"Gap"</span>)</span>
+<span id="cb2-31"><a href="#cb2-31"></a>    .with_columns(pl.col(<span class="st">"Times"</span>).rank().over(<span class="st">"Stage"</span>).alias(<span class="st">"Overall Rank"</span>))</span>
+<span id="cb2-32"><a href="#cb2-32"></a>    .with_columns(</span>
+<span id="cb2-33"><a href="#cb2-33"></a>        pl.col(<span class="st">"Rider"</span>).cast(pl.Categorical),</span>
+<span id="cb2-34"><a href="#cb2-34"></a>        pl.col(<span class="st">"Team"</span>).cast(pl.Categorical),</span>
+<span id="cb2-35"><a href="#cb2-35"></a>    )</span>
+<span id="cb2-36"><a href="#cb2-36"></a>    .sort(<span class="st">"Stage"</span>, <span class="st">"Times"</span>)</span>
+<span id="cb2-37"><a href="#cb2-37"></a>    .with_columns(pl.col(<span class="st">"Times"</span>).cumsum().over(<span class="st">"Rider"</span>).alias(<span class="st">"Overall Time"</span>))</span>
+<span id="cb2-38"><a href="#cb2-38"></a>    .with_columns(</span>
+<span id="cb2-39"><a href="#cb2-39"></a>        pl.col(<span class="st">"Overall Time"</span>).rank().over(<span class="st">"Stage"</span>).alias(<span class="st">"Overall Rank"</span>).cast(<span class="bu">int</span>)</span>
+<span id="cb2-40"><a href="#cb2-40"></a>    )</span>
+<span id="cb2-41"><a href="#cb2-41"></a>    .with_columns(</span>
+<span id="cb2-42"><a href="#cb2-42"></a>        (pl.col(<span class="st">"Overall Time"</span>) <span class="op">-</span> pl.col(<span class="st">"Overall Time"</span>).<span class="bu">min</span>())</span>
+<span id="cb2-43"><a href="#cb2-43"></a>        .over(<span class="st">"Stage"</span>)</span>
+<span id="cb2-44"><a href="#cb2-44"></a>        .alias(<span class="st">"Overall Gap"</span>)</span>
+<span id="cb2-45"><a href="#cb2-45"></a>    )</span>
+<span id="cb2-46"><a href="#cb2-46"></a>)</span>
+<span id="cb2-47"><a href="#cb2-47"></a></span>
+<span id="cb2-48"><a href="#cb2-48"></a>df</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-display" data-execution_count="252">
+<div><style>
+.dataframe > thead > tr > th,
+.dataframe > tbody > tr > td {
+  text-align: right;
+}
+</style>
+<small>shape: (2_847, 10)</small>
+<table class="dataframe table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th">Stage</th>
+<th data-quarto-table-cell-role="th">Rank</th>
+<th data-quarto-table-cell-role="th">Rider</th>
+<th data-quarto-table-cell-role="th">Team</th>
+<th data-quarto-table-cell-role="th">Rider No.</th>
+<th data-quarto-table-cell-role="th">Times</th>
+<th data-quarto-table-cell-role="th">Gap</th>
+<th data-quarto-table-cell-role="th">Overall Rank</th>
+<th data-quarto-table-cell-role="th">Overall Time</th>
+<th data-quarto-table-cell-role="th">Overall Gap</th>
+</tr>
+<tr class="odd">
+<th>i64</th>
+<th>i64</th>
+<th>cat</th>
+<th>cat</th>
+<th>i64</th>
+<th>duration[μs]</th>
+<th>duration[μs]</th>
+<th>i64</th>
+<th>duration[μs]</th>
+<th>duration[μs]</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>1</td>
+<td>"A. YATES"</td>
+<td>"UAE TEAM EMIRA…</td>
+<td>19</td>
+<td>4h 22m 49s</td>
+<td>0µs</td>
+<td>1</td>
+<td>4h 22m 49s</td>
+<td>0µs</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>2</td>
+<td>"S. YATES"</td>
+<td>"TEAM JAYCO ALU…</td>
+<td>161</td>
+<td>4h 22m 53s</td>
+<td>4s</td>
+<td>2</td>
+<td>4h 22m 53s</td>
+<td>4s</td>
+</tr>
+<tr class="odd">
+<td>1</td>
+<td>3</td>
+<td>"T. POGAČAR"</td>
+<td>"UAE TEAM EMIRA…</td>
+<td>11</td>
+<td>4h 23m 1s</td>
+<td>12s</td>
+<td>8</td>
+<td>4h 23m 1s</td>
+<td>12s</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>4</td>
+<td>"T. PINOT"</td>
+<td>"GROUPAMA - FDJ…</td>
+<td>37</td>
+<td>4h 23m 1s</td>
+<td>12s</td>
+<td>8</td>
+<td>4h 23m 1s</td>
+<td>12s</td>
+</tr>
+<tr class="odd">
+<td>1</td>
+<td>5</td>
+<td>"M. WOODS"</td>
+<td>"ISRAEL - PREMI…</td>
+<td>151</td>
+<td>4h 23m 1s</td>
+<td>12s</td>
+<td>8</td>
+<td>4h 23m 1s</td>
+<td>12s</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>6</td>
+<td>"V. LAFAY"</td>
+<td>"COFIDIS"</td>
+<td>125</td>
+<td>4h 23m 1s</td>
+<td>12s</td>
+<td>8</td>
+<td>4h 23m 1s</td>
+<td>12s</td>
+</tr>
+<tr class="odd">
+<td>1</td>
+<td>7</td>
+<td>"J. HINDLEY"</td>
+<td>"BORA - HANSGRO…</td>
+<td>71</td>
+<td>4h 23m 1s</td>
+<td>12s</td>
+<td>8</td>
+<td>4h 23m 1s</td>
+<td>12s</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>8</td>
+<td>"S. JENSEN"</td>
+<td>"LIDL - TREK"</td>
+<td>83</td>
+<td>4h 23m 1s</td>
+<td>12s</td>
+<td>8</td>
+<td>4h 23m 1s</td>
+<td>12s</td>
+</tr>
+<tr class="odd">
+<td>1</td>
+<td>9</td>
+<td>"J. VINGEGAARD"</td>
+<td>"JUMBO-VISMA"</td>
+<td>1</td>
+<td>4h 23m 1s</td>
+<td>12s</td>
+<td>8</td>
+<td>4h 23m 1s</td>
+<td>12s</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>10</td>
+<td>"D. GAUDU"</td>
+<td>"GROUPAMA - FDJ…</td>
+<td>31</td>
+<td>4h 23m 1s</td>
+<td>12s</td>
+<td>8</td>
+<td>4h 23m 1s</td>
+<td>12s</td>
+</tr>
+<tr class="odd">
+<td>1</td>
+<td>11</td>
+<td>"W. VAN AERT"</td>
+<td>"JUMBO-VISMA"</td>
+<td>6</td>
+<td>4h 23m 1s</td>
+<td>12s</td>
+<td>8</td>
+<td>4h 23m 1s</td>
+<td>12s</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>12</td>
+<td>"M. LANDA"</td>
+<td>"BAHRAIN VICTOR…</td>
+<td>62</td>
+<td>4h 23m 1s</td>
+<td>12s</td>
+<td>8</td>
+<td>4h 23m 1s</td>
+<td>12s</td>
+</tr>
+<tr class="odd">
+<td>…</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+</tr>
+<tr class="even">
+<td>17</td>
+<td>143</td>
+<td>"Y. FEDOROV"</td>
+<td>"ASTANA QAZAQST…</td>
+<td>194</td>
+<td>5h 30m 47s</td>
+<td>41m 39s</td>
+<td>151</td>
+<td>3d 1h 18m 30s</td>
+<td>5h 20m 14s</td>
+</tr>
+<tr class="odd">
+<td>17</td>
+<td>144</td>
+<td>"C. BOL"</td>
+<td>"ASTANA QAZAQST…</td>
+<td>192</td>
+<td>5h 30m 47s</td>
+<td>41m 39s</td>
+<td>153</td>
+<td>3d 1h 21m 4s</td>
+<td>5h 22m 48s</td>
+</tr>
+<tr class="even">
+<td>17</td>
+<td>145</td>
+<td>"M. MØRKØV"</td>
+<td>"SOUDAL QUICK-S…</td>
+<td>58</td>
+<td>5h 30m 57s</td>
+<td>41m 49s</td>
+<td>154</td>
+<td>3d 1h 30m 31s</td>
+<td>5h 32m 15s</td>
+</tr>
+<tr class="odd">
+<td>17</td>
+<td>146</td>
+<td>"M. PEDERSEN"</td>
+<td>"LIDL - TREK"</td>
+<td>86</td>
+<td>5h 30m 58s</td>
+<td>41m 50s</td>
+<td>114</td>
+<td>3d 23m 26s</td>
+<td>4h 25m 10s</td>
+</tr>
+<tr class="even">
+<td>17</td>
+<td>147</td>
+<td>"A. KIRSCH"</td>
+<td>"LIDL - TREK"</td>
+<td>84</td>
+<td>5h 30m 58s</td>
+<td>41m 50s</td>
+<td>115</td>
+<td>3d 23m 52s</td>
+<td>4h 25m 36s</td>
+</tr>
+<tr class="odd">
+<td>17</td>
+<td>148</td>
+<td>"A. PETIT"</td>
+<td>"INTERMARCHÉ - …</td>
+<td>115</td>
+<td>5h 31m 10s</td>
+<td>42m 2s</td>
+<td>144</td>
+<td>3d 1h 3m 44s</td>
+<td>5h 5m 28s</td>
+</tr>
+<tr class="even">
+<td>17</td>
+<td>149</td>
+<td>"S. WÆRENSKJOLD…</td>
+<td>"UNO-X PRO CYCL…</td>
+<td>207</td>
+<td>5h 31m 22s</td>
+<td>42m 14s</td>
+<td>143</td>
+<td>3d 1h 1m 37s</td>
+<td>5h 3m 21s</td>
+</tr>
+<tr class="odd">
+<td>17</td>
+<td>150</td>
+<td>"E. REINDERS"</td>
+<td>"TEAM JAYCO ALU…</td>
+<td>168</td>
+<td>5h 31m 28s</td>
+<td>42m 20s</td>
+<td>142</td>
+<td>3d 1h 49s</td>
+<td>5h 2m 33s</td>
+</tr>
+<tr class="even">
+<td>17</td>
+<td>151</td>
+<td>"D. GROENEWEGEN…</td>
+<td>"TEAM JAYCO ALU…</td>
+<td>164</td>
+<td>5h 31m 28s</td>
+<td>42m 20s</td>
+<td>146</td>
+<td>3d 1h 5m 49s</td>
+<td>5h 7m 33s</td>
+</tr>
+<tr class="odd">
+<td>17</td>
+<td>152</td>
+<td>"L. MEZGEC"</td>
+<td>"TEAM JAYCO ALU…</td>
+<td>167</td>
+<td>5h 31m 28s</td>
+<td>42m 20s</td>
+<td>124</td>
+<td>3d 35m 58s</td>
+<td>4h 37m 42s</td>
+</tr>
+<tr class="even">
+<td>17</td>
+<td>153</td>
+<td>"F. FRISON"</td>
+<td>"LOTTO DSTNY"</td>
+<td>185</td>
+<td>5h 31m 40s</td>
+<td>42m 32s</td>
+<td>152</td>
+<td>3d 1h 18m 35s</td>
+<td>5h 20m 19s</td>
+</tr>
+<tr class="odd">
+<td>17</td>
+<td>154</td>
+<td>"S. GESCHKE"</td>
+<td>"COFIDIS"</td>
+<td>123</td>
+<td>5h 34m 4s</td>
+<td>44m 56s</td>
+<td>67</td>
+<td>2d 23h 15m 45s</td>
+<td>3h 17m 29s</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div id="cell-2" class="cell" data-execution_count="253">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1"></a>altair_theme()</span>
+<span id="cb3-2"><a href="#cb3-2"></a>base <span class="op">=</span> (</span>
+<span id="cb3-3"><a href="#cb3-3"></a>    alt.Chart(</span>
+<span id="cb3-4"><a href="#cb3-4"></a>        df.select(<span class="op">~</span>cs.by_dtype(pl.Duration))</span>
+<span id="cb3-5"><a href="#cb3-5"></a>        .<span class="bu">filter</span>(pl.col(<span class="st">"Overall Rank"</span>) <span class="op">&lt;=</span> <span class="dv">10</span>)</span>
+<span id="cb3-6"><a href="#cb3-6"></a>        .pivot(</span>
+<span id="cb3-7"><a href="#cb3-7"></a>            index<span class="op">=</span>[<span class="st">"Rider"</span>, <span class="st">"Team"</span>, <span class="st">"Rider No."</span>],</span>
+<span id="cb3-8"><a href="#cb3-8"></a>            columns<span class="op">=</span><span class="st">"Stage"</span>,</span>
+<span id="cb3-9"><a href="#cb3-9"></a>            values<span class="op">=</span><span class="st">"Overall Rank"</span>,</span>
+<span id="cb3-10"><a href="#cb3-10"></a>            aggregate_function<span class="op">=</span><span class="va">None</span>,</span>
+<span id="cb3-11"><a href="#cb3-11"></a>        )</span>
+<span id="cb3-12"><a href="#cb3-12"></a>        .melt(</span>
+<span id="cb3-13"><a href="#cb3-13"></a>            id_vars<span class="op">=</span>[<span class="st">"Rider"</span>, <span class="st">"Team"</span>, <span class="st">"Rider No."</span>],</span>
+<span id="cb3-14"><a href="#cb3-14"></a>            value_vars<span class="op">=</span>[<span class="bu">str</span>(i) <span class="cf">for</span> i <span class="kw">in</span> <span class="bu">range</span>(<span class="dv">1</span>, <span class="dv">17</span>)],</span>
+<span id="cb3-15"><a href="#cb3-15"></a>            value_name<span class="op">=</span><span class="st">"Overall Rank"</span>,</span>
+<span id="cb3-16"><a href="#cb3-16"></a>            variable_name<span class="op">=</span><span class="st">"Stage"</span>,</span>
+<span id="cb3-17"><a href="#cb3-17"></a>        )</span>
+<span id="cb3-18"><a href="#cb3-18"></a>        .with_columns(pl.col(<span class="st">"Stage"</span>).cast(<span class="bu">int</span>))</span>
+<span id="cb3-19"><a href="#cb3-19"></a>        .sort(<span class="st">"Stage"</span>, <span class="st">"Overall Rank"</span>)</span>
+<span id="cb3-20"><a href="#cb3-20"></a>        .select(<span class="st">"Stage"</span>, <span class="st">"Rider"</span>, <span class="st">"Team"</span>, <span class="st">"Rider No."</span>, <span class="st">"Overall Rank"</span>)</span>
+<span id="cb3-21"><a href="#cb3-21"></a>        .fill_null(np.nan)</span>
+<span id="cb3-22"><a href="#cb3-22"></a>    )</span>
+<span id="cb3-23"><a href="#cb3-23"></a>    .encode(</span>
+<span id="cb3-24"><a href="#cb3-24"></a>        x<span class="op">=</span>alt.X(<span class="st">"Stage:O"</span>).axis(labelAlign<span class="op">=</span><span class="st">"center"</span>, titleAnchor<span class="op">=</span><span class="st">"middle"</span>),</span>
+<span id="cb3-25"><a href="#cb3-25"></a>        y<span class="op">=</span>alt.Y(<span class="st">"Overall Rank:O"</span>).axis(orient<span class="op">=</span><span class="st">"left"</span>).title(<span class="st">"Classement général"</span>),</span>
+<span id="cb3-26"><a href="#cb3-26"></a>        color<span class="op">=</span>alt.Color(</span>
+<span id="cb3-27"><a href="#cb3-27"></a>            <span class="st">"Team:N"</span>,</span>
+<span id="cb3-28"><a href="#cb3-28"></a>            legend<span class="op">=</span>alt.Legend(</span>
+<span id="cb3-29"><a href="#cb3-29"></a>                orient<span class="op">=</span><span class="st">"none"</span>,</span>
+<span id="cb3-30"><a href="#cb3-30"></a>                legendX<span class="op">=</span><span class="dv">100</span>,</span>
+<span id="cb3-31"><a href="#cb3-31"></a>                legendY<span class="op">=</span><span class="dv">100</span>,</span>
+<span id="cb3-32"><a href="#cb3-32"></a>                direction<span class="op">=</span><span class="st">"horizontal"</span>,</span>
+<span id="cb3-33"><a href="#cb3-33"></a>                titleAnchor<span class="op">=</span><span class="st">"middle"</span>,</span>
+<span id="cb3-34"><a href="#cb3-34"></a>                columns<span class="op">=</span><span class="dv">2</span>,</span>
+<span id="cb3-35"><a href="#cb3-35"></a>            ),</span>
+<span id="cb3-36"><a href="#cb3-36"></a>        ),</span>
+<span id="cb3-37"><a href="#cb3-37"></a>        detail<span class="op">=</span><span class="st">"Rider:N"</span>,</span>
+<span id="cb3-38"><a href="#cb3-38"></a>    )</span>
+<span id="cb3-39"><a href="#cb3-39"></a>    .properties(width<span class="op">=</span><span class="dv">2000</span>, height<span class="op">=</span><span class="dv">400</span>)</span>
+<span id="cb3-40"><a href="#cb3-40"></a>)</span>
+<span id="cb3-41"><a href="#cb3-41"></a></span>
+<span id="cb3-42"><a href="#cb3-42"></a>alt.layer(</span>
+<span id="cb3-43"><a href="#cb3-43"></a>    base.mark_line(strokeWidth<span class="op">=</span><span class="dv">3</span>, clip<span class="op">=</span><span class="va">True</span>),</span>
+<span id="cb3-44"><a href="#cb3-44"></a>    base.mark_point(size<span class="op">=</span><span class="dv">100</span>, filled<span class="op">=</span><span class="va">True</span>, opacity<span class="op">=</span><span class="dv">1</span>, clip<span class="op">=</span><span class="va">True</span>),</span>
+<span id="cb3-45"><a href="#cb3-45"></a>    <span class="co"># base.mark_text(dy=-10, align="right", clip=True)</span></span>
+<span id="cb3-46"><a href="#cb3-46"></a>    <span class="co"># .encode(text="Rider:N")</span></span>
+<span id="cb3-47"><a href="#cb3-47"></a>    <span class="co"># .transform_filter(alt.datum["Stage"] == 16),</span></span>
+<span id="cb3-48"><a href="#cb3-48"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-display" data-execution_count="253">
+
+<style>
+  #altair-viz-331e55a82f704ef89d5f9b269df7d718.vega-embed {
+    width: 100%;
+    display: flex;
+  }
+
+  #altair-viz-331e55a82f704ef89d5f9b269df7d718.vega-embed details,
+  #altair-viz-331e55a82f704ef89d5f9b269df7d718.vega-embed details summary {
+    position: relative;
+  }
+</style>
+<div id="altair-viz-331e55a82f704ef89d5f9b269df7d718"></div>
+<script type="text/javascript">
+  var VEGA_DEBUG = (typeof VEGA_DEBUG == "undefined") ? {} : VEGA_DEBUG;
+  (function(spec, embedOpt){
+    let outputDiv = document.currentScript.previousElementSibling;
+    if (outputDiv.id !== "altair-viz-331e55a82f704ef89d5f9b269df7d718") {
+      outputDiv = document.getElementById("altair-viz-331e55a82f704ef89d5f9b269df7d718");
+    }
+    const paths = {
+      "vega": "https://cdn.jsdelivr.net/npm/vega@5?noext",
+      "vega-lib": "https://cdn.jsdelivr.net/npm/vega-lib?noext",
+      "vega-lite": "https://cdn.jsdelivr.net/npm/vega-lite@5.8.0?noext",
+      "vega-embed": "https://cdn.jsdelivr.net/npm/vega-embed@6?noext",
+    };
+
+    function maybeLoadScript(lib, version) {
+      var key = `${lib.replace("-", "")}_version`;
+      return (VEGA_DEBUG[key] == version) ?
+        Promise.resolve(paths[lib]) :
+        new Promise(function(resolve, reject) {
+          var s = document.createElement('script');
+          document.getElementsByTagName("head")[0].appendChild(s);
+          s.async = true;
+          s.onload = () => {
+            VEGA_DEBUG[key] = version;
+            return resolve(paths[lib]);
+          };
+          s.onerror = () => reject(`Error loading script: ${paths[lib]}`);
+          s.src = paths[lib];
+        });
+    }
+
+    function showError(err) {
+      outputDiv.innerHTML = `<div class="error" style="color:red;">${err}</div>`;
+      throw err;
+    }
+
+    function displayChart(vegaEmbed) {
+      vegaEmbed(outputDiv, spec, embedOpt)
+        .catch(err => showError(`Javascript Error: ${err.message}<br>This usually means there's a typo in your chart specification. See the javascript console for the full traceback.`));
+    }
+
+    if(typeof define === "function" && define.amd) {
+      requirejs.config({paths});
+      require(["vega-embed"], displayChart, err => showError(`Error loading script: ${err.message}`));
+    } else {
+      maybeLoadScript("vega", "5")
+        .then(() => maybeLoadScript("vega-lite", "5.8.0"))
+        .then(() => maybeLoadScript("vega-embed", "6"))
+        .catch(showError)
+        .then(() => displayChart(vegaEmbed));
+    }
+  })({"config": {"text": {"color": "gray", "fontSize": 14}, "title": {"anchor": "middle", "fontWeight": "normal", "titleFontWeight": "normal", "labelFontWeight": "normal", "fontSize": 30, "titleFontSize": 16, "labelFontSize": 14, "color": "gray", "titleColor": "gray", "labelColor": "gray", "tickColor": "gray", "domainColor": "gray"}, "header": {"titleFontSize": 16, "labelFontSize": 16, "color": "gray", "titleColor": "gray", "labelColor": "gray", "titleFontWeight": "normal"}, "view": {"height": 350, "width": 1400, "strokeWidth": 0, "fill": "white"}, "axis": {"domain": true, "domainColor": "gray", "domainWidth": 1, "gridWidth": 1, "labelAngle": 0, "tickSize": 5, "gridCap": "round", "gridDash": [2, 4], "fontWeight": "normal", "titleFontWeight": "normal", "labelFontWeight": "normal", "fontSize": 30, "titleFontSize": 16, "labelFontSize": 14, "color": "gray", "titleColor": "gray", "labelColor": "gray", "tickColor": "gray"}, "axisX": {"titleAnchor": "end", "titleAlign": "center"}, "axisY": {"titleAnchor": "end", "titleAngle": 0, "titleAlign": "center", "titleY": -15, "titleX": 0}, "axisLeft": {"labelAlign": "right"}, "axisRight": {"titleAnchor": "end", "titleAngle": 0, "titleAlign": "center", "titleY": -15, "tickSize": 5, "tickColor": "gray", "labelPadding": 5, "labelAlign": "left"}, "facet": {"spacing": 50}, "legend": {"fontWeight": "normal", "titleFontWeight": "normal", "labelFontWeight": "normal", "fontSize": 30, "titleFontSize": 16, "labelFontSize": 14, "color": "gray", "titleColor": "gray", "labelColor": "gray", "tickColor": "gray", "domainColor": "gray"}}, "layer": [{"mark": {"type": "line", "clip": true, "strokeWidth": 3}, "encoding": {"color": {"field": "Team", "legend": {"columns": 2, "direction": "horizontal", "legendX": 100, "legendY": 100, "orient": "none", "titleAnchor": "middle"}, "type": "nominal"}, "detail": {"field": "Rider", "type": "nominal"}, "x": {"axis": {"labelAlign": "center", "titleAnchor": "middle"}, "field": "Stage", "type": "ordinal"}, "y": {"axis": {"orient": "left"}, "field": "Overall Rank", "title": "Classement g\u00e9n\u00e9ral", "type": "ordinal"}}}, {"mark": {"type": "point", "clip": true, "filled": true, "opacity": 1, "size": 100}, "encoding": {"color": {"field": "Team", "legend": {"columns": 2, "direction": "horizontal", "legendX": 100, "legendY": 100, "orient": "none", "titleAnchor": "middle"}, "type": "nominal"}, "detail": {"field": "Rider", "type": "nominal"}, "x": {"axis": {"labelAlign": "center", "titleAnchor": "middle"}, "field": "Stage", "type": "ordinal"}, "y": {"axis": {"orient": "left"}, "field": "Overall Rank", "title": "Classement g\u00e9n\u00e9ral", "type": "ordinal"}}}], "data": {"name": "data-029d232ad7e47cf930a4d408c9747354"}, "height": 400, "width": 2000, "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json", "datasets": {"data-029d232ad7e47cf930a4d408c9747354": [{"Stage": 1.0, "Rider": "G. CICCONE", "Team": "LIDL - TREK", "Rider No.": 81.0, "Overall Rank": NaN}, {"Stage": 1.0, "Rider": "E. BUCHMANN", "Team": "BORA - HANSGROHE", "Rider No.": 72.0, "Overall Rank": NaN}, {"Stage": 1.0, "Rider": "R. BARDET", "Team": "TEAM DSM - FIRMENICH", "Rider No.": 141.0, "Overall Rank": NaN}, {"Stage": 1.0, "Rider": "T. PIDCOCK", "Team": "INEOS GRENADIERS", "Rider No.": 26.0, "Overall Rank": NaN}, {"Stage": 1.0, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4.0, "Overall Rank": NaN}, {"Stage": 1.0, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65.0, "Overall Rank": NaN}, {"Stage": 1.0, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95.0, "Overall Rank": NaN}, {"Stage": 1.0, "Rider": "G. MARTIN", "Team": "COFIDIS", "Rider No.": 121.0, "Overall Rank": NaN}, {"Stage": 1.0, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19.0, "Overall Rank": 1.0}, {"Stage": 1.0, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161.0, "Overall Rank": 2.0}, {"Stage": 1.0, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11.0, "Overall Rank": 8.0}, {"Stage": 1.0, "Rider": "T. PINOT", "Team": "GROUPAMA - FDJ", "Rider No.": 37.0, "Overall Rank": 8.0}, {"Stage": 1.0, "Rider": "M. WOODS", "Team": "ISRAEL - PREMIER TECH", "Rider No.": 151.0, "Overall Rank": 8.0}, {"Stage": 1.0, "Rider": "V. LAFAY", "Team": "COFIDIS", "Rider No.": 125.0, "Overall Rank": 8.0}, {"Stage": 1.0, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71.0, "Overall Rank": 8.0}, {"Stage": 1.0, "Rider": "S. JENSEN", "Team": "LIDL - TREK", "Rider No.": 83.0, "Overall Rank": 8.0}, {"Stage": 1.0, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1.0, "Overall Rank": 8.0}, {"Stage": 1.0, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31.0, "Overall Rank": 8.0}, {"Stage": 1.0, "Rider": "W. VAN AERT", "Team": "JUMBO-VISMA", "Rider No.": 6.0, "Overall Rank": 8.0}, {"Stage": 1.0, "Rider": "M. LANDA", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 62.0, "Overall Rank": 8.0}, {"Stage": 1.0, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27.0, "Overall Rank": 8.0}, {"Stage": 1.0, "Rider": "W. KELDERMAN", "Team": "JUMBO-VISMA", "Rider No.": 3.0, "Overall Rank": 8.0}, {"Stage": 2.0, "Rider": "T. PINOT", "Team": "GROUPAMA - FDJ", "Rider No.": 37.0, "Overall Rank": NaN}, {"Stage": 2.0, "Rider": "G. CICCONE", "Team": "LIDL - TREK", "Rider No.": 81.0, "Overall Rank": NaN}, {"Stage": 2.0, "Rider": "E. BUCHMANN", "Team": "BORA - HANSGROHE", "Rider No.": 72.0, "Overall Rank": NaN}, {"Stage": 2.0, "Rider": "R. BARDET", "Team": "TEAM DSM - FIRMENICH", "Rider No.": 141.0, "Overall Rank": NaN}, {"Stage": 2.0, "Rider": "T. PIDCOCK", "Team": "INEOS GRENADIERS", "Rider No.": 26.0, "Overall Rank": NaN}, {"Stage": 2.0, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4.0, "Overall Rank": NaN}, {"Stage": 2.0, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65.0, "Overall Rank": NaN}, {"Stage": 2.0, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95.0, "Overall Rank": NaN}, {"Stage": 2.0, "Rider": "G. MARTIN", "Team": "COFIDIS", "Rider No.": 121.0, "Overall Rank": NaN}, {"Stage": 2.0, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19.0, "Overall Rank": 1.0}, {"Stage": 2.0, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161.0, "Overall Rank": 2.0}, {"Stage": 2.0, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11.0, "Overall Rank": 8.0}, {"Stage": 2.0, "Rider": "M. WOODS", "Team": "ISRAEL - PREMIER TECH", "Rider No.": 151.0, "Overall Rank": 8.0}, {"Stage": 2.0, "Rider": "V. LAFAY", "Team": "COFIDIS", "Rider No.": 125.0, "Overall Rank": 8.0}, {"Stage": 2.0, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71.0, "Overall Rank": 8.0}, {"Stage": 2.0, "Rider": "S. JENSEN", "Team": "LIDL - TREK", "Rider No.": 83.0, "Overall Rank": 8.0}, {"Stage": 2.0, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1.0, "Overall Rank": 8.0}, {"Stage": 2.0, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31.0, "Overall Rank": 8.0}, {"Stage": 2.0, "Rider": "W. VAN AERT", "Team": "JUMBO-VISMA", "Rider No.": 6.0, "Overall Rank": 8.0}, {"Stage": 2.0, "Rider": "M. LANDA", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 62.0, "Overall Rank": 8.0}, {"Stage": 2.0, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27.0, "Overall Rank": 8.0}, {"Stage": 2.0, "Rider": "W. KELDERMAN", "Team": "JUMBO-VISMA", "Rider No.": 3.0, "Overall Rank": 8.0}, {"Stage": 3.0, "Rider": "T. PINOT", "Team": "GROUPAMA - FDJ", "Rider No.": 37.0, "Overall Rank": NaN}, {"Stage": 3.0, "Rider": "G. CICCONE", "Team": "LIDL - TREK", "Rider No.": 81.0, "Overall Rank": NaN}, {"Stage": 3.0, "Rider": "E. BUCHMANN", "Team": "BORA - HANSGROHE", "Rider No.": 72.0, "Overall Rank": NaN}, {"Stage": 3.0, "Rider": "R. BARDET", "Team": "TEAM DSM - FIRMENICH", "Rider No.": 141.0, "Overall Rank": NaN}, {"Stage": 3.0, "Rider": "T. PIDCOCK", "Team": "INEOS GRENADIERS", "Rider No.": 26.0, "Overall Rank": NaN}, {"Stage": 3.0, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4.0, "Overall Rank": NaN}, {"Stage": 3.0, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65.0, "Overall Rank": NaN}, {"Stage": 3.0, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95.0, "Overall Rank": NaN}, {"Stage": 3.0, "Rider": "G. MARTIN", "Team": "COFIDIS", "Rider No.": 121.0, "Overall Rank": NaN}, {"Stage": 3.0, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19.0, "Overall Rank": 1.0}, {"Stage": 3.0, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161.0, "Overall Rank": 2.0}, {"Stage": 3.0, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11.0, "Overall Rank": 8.0}, {"Stage": 3.0, "Rider": "M. WOODS", "Team": "ISRAEL - PREMIER TECH", "Rider No.": 151.0, "Overall Rank": 8.0}, {"Stage": 3.0, "Rider": "V. LAFAY", "Team": "COFIDIS", "Rider No.": 125.0, "Overall Rank": 8.0}, {"Stage": 3.0, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71.0, "Overall Rank": 8.0}, {"Stage": 3.0, "Rider": "S. JENSEN", "Team": "LIDL - TREK", "Rider No.": 83.0, "Overall Rank": 8.0}, {"Stage": 3.0, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1.0, "Overall Rank": 8.0}, {"Stage": 3.0, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31.0, "Overall Rank": 8.0}, {"Stage": 3.0, "Rider": "W. VAN AERT", "Team": "JUMBO-VISMA", "Rider No.": 6.0, "Overall Rank": 8.0}, {"Stage": 3.0, "Rider": "M. LANDA", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 62.0, "Overall Rank": 8.0}, {"Stage": 3.0, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27.0, "Overall Rank": 8.0}, {"Stage": 3.0, "Rider": "W. KELDERMAN", "Team": "JUMBO-VISMA", "Rider No.": 3.0, "Overall Rank": 8.0}, {"Stage": 4.0, "Rider": "T. PINOT", "Team": "GROUPAMA - FDJ", "Rider No.": 37.0, "Overall Rank": NaN}, {"Stage": 4.0, "Rider": "G. CICCONE", "Team": "LIDL - TREK", "Rider No.": 81.0, "Overall Rank": NaN}, {"Stage": 4.0, "Rider": "E. BUCHMANN", "Team": "BORA - HANSGROHE", "Rider No.": 72.0, "Overall Rank": NaN}, {"Stage": 4.0, "Rider": "R. BARDET", "Team": "TEAM DSM - FIRMENICH", "Rider No.": 141.0, "Overall Rank": NaN}, {"Stage": 4.0, "Rider": "T. PIDCOCK", "Team": "INEOS GRENADIERS", "Rider No.": 26.0, "Overall Rank": NaN}, {"Stage": 4.0, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4.0, "Overall Rank": NaN}, {"Stage": 4.0, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65.0, "Overall Rank": NaN}, {"Stage": 4.0, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95.0, "Overall Rank": NaN}, {"Stage": 4.0, "Rider": "G. MARTIN", "Team": "COFIDIS", "Rider No.": 121.0, "Overall Rank": NaN}, {"Stage": 4.0, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19.0, "Overall Rank": 1.0}, {"Stage": 4.0, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161.0, "Overall Rank": 2.0}, {"Stage": 4.0, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11.0, "Overall Rank": 8.0}, {"Stage": 4.0, "Rider": "M. WOODS", "Team": "ISRAEL - PREMIER TECH", "Rider No.": 151.0, "Overall Rank": 8.0}, {"Stage": 4.0, "Rider": "V. LAFAY", "Team": "COFIDIS", "Rider No.": 125.0, "Overall Rank": 8.0}, {"Stage": 4.0, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71.0, "Overall Rank": 8.0}, {"Stage": 4.0, "Rider": "S. JENSEN", "Team": "LIDL - TREK", "Rider No.": 83.0, "Overall Rank": 8.0}, {"Stage": 4.0, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1.0, "Overall Rank": 8.0}, {"Stage": 4.0, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31.0, "Overall Rank": 8.0}, {"Stage": 4.0, "Rider": "W. VAN AERT", "Team": "JUMBO-VISMA", "Rider No.": 6.0, "Overall Rank": 8.0}, {"Stage": 4.0, "Rider": "M. LANDA", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 62.0, "Overall Rank": 8.0}, {"Stage": 4.0, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27.0, "Overall Rank": 8.0}, {"Stage": 4.0, "Rider": "W. KELDERMAN", "Team": "JUMBO-VISMA", "Rider No.": 3.0, "Overall Rank": 8.0}, {"Stage": 5.0, "Rider": "T. PINOT", "Team": "GROUPAMA - FDJ", "Rider No.": 37.0, "Overall Rank": NaN}, {"Stage": 5.0, "Rider": "M. WOODS", "Team": "ISRAEL - PREMIER TECH", "Rider No.": 151.0, "Overall Rank": NaN}, {"Stage": 5.0, "Rider": "V. LAFAY", "Team": "COFIDIS", "Rider No.": 125.0, "Overall Rank": NaN}, {"Stage": 5.0, "Rider": "W. VAN AERT", "Team": "JUMBO-VISMA", "Rider No.": 6.0, "Overall Rank": NaN}, {"Stage": 5.0, "Rider": "M. LANDA", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 62.0, "Overall Rank": NaN}, {"Stage": 5.0, "Rider": "W. KELDERMAN", "Team": "JUMBO-VISMA", "Rider No.": 3.0, "Overall Rank": NaN}, {"Stage": 5.0, "Rider": "R. BARDET", "Team": "TEAM DSM - FIRMENICH", "Rider No.": 141.0, "Overall Rank": NaN}, {"Stage": 5.0, "Rider": "T. PIDCOCK", "Team": "INEOS GRENADIERS", "Rider No.": 26.0, "Overall Rank": NaN}, {"Stage": 5.0, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4.0, "Overall Rank": NaN}, {"Stage": 5.0, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65.0, "Overall Rank": NaN}, {"Stage": 5.0, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95.0, "Overall Rank": NaN}, {"Stage": 5.0, "Rider": "G. MARTIN", "Team": "COFIDIS", "Rider No.": 121.0, "Overall Rank": NaN}, {"Stage": 5.0, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71.0, "Overall Rank": 1.0}, {"Stage": 5.0, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1.0, "Overall Rank": 2.0}, {"Stage": 5.0, "Rider": "G. CICCONE", "Team": "LIDL - TREK", "Rider No.": 81.0, "Overall Rank": 3.0}, {"Stage": 5.0, "Rider": "E. BUCHMANN", "Team": "BORA - HANSGROHE", "Rider No.": 72.0, "Overall Rank": 3.0}, {"Stage": 5.0, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19.0, "Overall Rank": 5.0}, {"Stage": 5.0, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161.0, "Overall Rank": 6.0}, {"Stage": 5.0, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11.0, "Overall Rank": 8.0}, {"Stage": 5.0, "Rider": "S. JENSEN", "Team": "LIDL - TREK", "Rider No.": 83.0, "Overall Rank": 8.0}, {"Stage": 5.0, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31.0, "Overall Rank": 8.0}, {"Stage": 5.0, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27.0, "Overall Rank": 8.0}, {"Stage": 6.0, "Rider": "T. PINOT", "Team": "GROUPAMA - FDJ", "Rider No.": 37.0, "Overall Rank": NaN}, {"Stage": 6.0, "Rider": "M. WOODS", "Team": "ISRAEL - PREMIER TECH", "Rider No.": 151.0, "Overall Rank": NaN}, {"Stage": 6.0, "Rider": "V. LAFAY", "Team": "COFIDIS", "Rider No.": 125.0, "Overall Rank": NaN}, {"Stage": 6.0, "Rider": "S. JENSEN", "Team": "LIDL - TREK", "Rider No.": 83.0, "Overall Rank": NaN}, {"Stage": 6.0, "Rider": "W. VAN AERT", "Team": "JUMBO-VISMA", "Rider No.": 6.0, "Overall Rank": NaN}, {"Stage": 6.0, "Rider": "M. LANDA", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 62.0, "Overall Rank": NaN}, {"Stage": 6.0, "Rider": "W. KELDERMAN", "Team": "JUMBO-VISMA", "Rider No.": 3.0, "Overall Rank": NaN}, {"Stage": 6.0, "Rider": "G. CICCONE", "Team": "LIDL - TREK", "Rider No.": 81.0, "Overall Rank": NaN}, {"Stage": 6.0, "Rider": "E. BUCHMANN", "Team": "BORA - HANSGROHE", "Rider No.": 72.0, "Overall Rank": NaN}, {"Stage": 6.0, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65.0, "Overall Rank": NaN}, {"Stage": 6.0, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95.0, "Overall Rank": NaN}, {"Stage": 6.0, "Rider": "G. MARTIN", "Team": "COFIDIS", "Rider No.": 121.0, "Overall Rank": NaN}, {"Stage": 6.0, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1.0, "Overall Rank": 1.0}, {"Stage": 6.0, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11.0, "Overall Rank": 2.0}, {"Stage": 6.0, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71.0, "Overall Rank": 3.0}, {"Stage": 6.0, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161.0, "Overall Rank": 4.0}, {"Stage": 6.0, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27.0, "Overall Rank": 5.0}, {"Stage": 6.0, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19.0, "Overall Rank": 6.0}, {"Stage": 6.0, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31.0, "Overall Rank": 7.0}, {"Stage": 6.0, "Rider": "R. BARDET", "Team": "TEAM DSM - FIRMENICH", "Rider No.": 141.0, "Overall Rank": 8.0}, {"Stage": 6.0, "Rider": "T. PIDCOCK", "Team": "INEOS GRENADIERS", "Rider No.": 26.0, "Overall Rank": 8.0}, {"Stage": 6.0, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4.0, "Overall Rank": 10.0}, {"Stage": 7.0, "Rider": "T. PINOT", "Team": "GROUPAMA - FDJ", "Rider No.": 37.0, "Overall Rank": NaN}, {"Stage": 7.0, "Rider": "M. WOODS", "Team": "ISRAEL - PREMIER TECH", "Rider No.": 151.0, "Overall Rank": NaN}, {"Stage": 7.0, "Rider": "V. LAFAY", "Team": "COFIDIS", "Rider No.": 125.0, "Overall Rank": NaN}, {"Stage": 7.0, "Rider": "S. JENSEN", "Team": "LIDL - TREK", "Rider No.": 83.0, "Overall Rank": NaN}, {"Stage": 7.0, "Rider": "W. VAN AERT", "Team": "JUMBO-VISMA", "Rider No.": 6.0, "Overall Rank": NaN}, {"Stage": 7.0, "Rider": "M. LANDA", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 62.0, "Overall Rank": NaN}, {"Stage": 7.0, "Rider": "W. KELDERMAN", "Team": "JUMBO-VISMA", "Rider No.": 3.0, "Overall Rank": NaN}, {"Stage": 7.0, "Rider": "G. CICCONE", "Team": "LIDL - TREK", "Rider No.": 81.0, "Overall Rank": NaN}, {"Stage": 7.0, "Rider": "E. BUCHMANN", "Team": "BORA - HANSGROHE", "Rider No.": 72.0, "Overall Rank": NaN}, {"Stage": 7.0, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65.0, "Overall Rank": NaN}, {"Stage": 7.0, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95.0, "Overall Rank": NaN}, {"Stage": 7.0, "Rider": "G. MARTIN", "Team": "COFIDIS", "Rider No.": 121.0, "Overall Rank": NaN}, {"Stage": 7.0, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1.0, "Overall Rank": 1.0}, {"Stage": 7.0, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11.0, "Overall Rank": 2.0}, {"Stage": 7.0, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71.0, "Overall Rank": 3.0}, {"Stage": 7.0, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161.0, "Overall Rank": 4.0}, {"Stage": 7.0, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27.0, "Overall Rank": 5.0}, {"Stage": 7.0, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19.0, "Overall Rank": 6.0}, {"Stage": 7.0, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31.0, "Overall Rank": 7.0}, {"Stage": 7.0, "Rider": "R. BARDET", "Team": "TEAM DSM - FIRMENICH", "Rider No.": 141.0, "Overall Rank": 8.0}, {"Stage": 7.0, "Rider": "T. PIDCOCK", "Team": "INEOS GRENADIERS", "Rider No.": 26.0, "Overall Rank": 8.0}, {"Stage": 7.0, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4.0, "Overall Rank": 10.0}, {"Stage": 8.0, "Rider": "T. PINOT", "Team": "GROUPAMA - FDJ", "Rider No.": 37.0, "Overall Rank": NaN}, {"Stage": 8.0, "Rider": "M. WOODS", "Team": "ISRAEL - PREMIER TECH", "Rider No.": 151.0, "Overall Rank": NaN}, {"Stage": 8.0, "Rider": "V. LAFAY", "Team": "COFIDIS", "Rider No.": 125.0, "Overall Rank": NaN}, {"Stage": 8.0, "Rider": "S. JENSEN", "Team": "LIDL - TREK", "Rider No.": 83.0, "Overall Rank": NaN}, {"Stage": 8.0, "Rider": "W. VAN AERT", "Team": "JUMBO-VISMA", "Rider No.": 6.0, "Overall Rank": NaN}, {"Stage": 8.0, "Rider": "M. LANDA", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 62.0, "Overall Rank": NaN}, {"Stage": 8.0, "Rider": "W. KELDERMAN", "Team": "JUMBO-VISMA", "Rider No.": 3.0, "Overall Rank": NaN}, {"Stage": 8.0, "Rider": "G. CICCONE", "Team": "LIDL - TREK", "Rider No.": 81.0, "Overall Rank": NaN}, {"Stage": 8.0, "Rider": "E. BUCHMANN", "Team": "BORA - HANSGROHE", "Rider No.": 72.0, "Overall Rank": NaN}, {"Stage": 8.0, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65.0, "Overall Rank": NaN}, {"Stage": 8.0, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95.0, "Overall Rank": NaN}, {"Stage": 8.0, "Rider": "G. MARTIN", "Team": "COFIDIS", "Rider No.": 121.0, "Overall Rank": NaN}, {"Stage": 8.0, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1.0, "Overall Rank": 1.0}, {"Stage": 8.0, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11.0, "Overall Rank": 2.0}, {"Stage": 8.0, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71.0, "Overall Rank": 3.0}, {"Stage": 8.0, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27.0, "Overall Rank": 4.0}, {"Stage": 8.0, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19.0, "Overall Rank": 5.0}, {"Stage": 8.0, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31.0, "Overall Rank": 6.0}, {"Stage": 8.0, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161.0, "Overall Rank": 7.0}, {"Stage": 8.0, "Rider": "R. BARDET", "Team": "TEAM DSM - FIRMENICH", "Rider No.": 141.0, "Overall Rank": 8.0}, {"Stage": 8.0, "Rider": "T. PIDCOCK", "Team": "INEOS GRENADIERS", "Rider No.": 26.0, "Overall Rank": 8.0}, {"Stage": 8.0, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4.0, "Overall Rank": 10.0}, {"Stage": 9.0, "Rider": "T. PINOT", "Team": "GROUPAMA - FDJ", "Rider No.": 37.0, "Overall Rank": NaN}, {"Stage": 9.0, "Rider": "M. WOODS", "Team": "ISRAEL - PREMIER TECH", "Rider No.": 151.0, "Overall Rank": NaN}, {"Stage": 9.0, "Rider": "V. LAFAY", "Team": "COFIDIS", "Rider No.": 125.0, "Overall Rank": NaN}, {"Stage": 9.0, "Rider": "S. JENSEN", "Team": "LIDL - TREK", "Rider No.": 83.0, "Overall Rank": NaN}, {"Stage": 9.0, "Rider": "W. VAN AERT", "Team": "JUMBO-VISMA", "Rider No.": 6.0, "Overall Rank": NaN}, {"Stage": 9.0, "Rider": "M. LANDA", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 62.0, "Overall Rank": NaN}, {"Stage": 9.0, "Rider": "W. KELDERMAN", "Team": "JUMBO-VISMA", "Rider No.": 3.0, "Overall Rank": NaN}, {"Stage": 9.0, "Rider": "G. CICCONE", "Team": "LIDL - TREK", "Rider No.": 81.0, "Overall Rank": NaN}, {"Stage": 9.0, "Rider": "E. BUCHMANN", "Team": "BORA - HANSGROHE", "Rider No.": 72.0, "Overall Rank": NaN}, {"Stage": 9.0, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65.0, "Overall Rank": NaN}, {"Stage": 9.0, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95.0, "Overall Rank": NaN}, {"Stage": 9.0, "Rider": "G. MARTIN", "Team": "COFIDIS", "Rider No.": 121.0, "Overall Rank": NaN}, {"Stage": 9.0, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1.0, "Overall Rank": 1.0}, {"Stage": 9.0, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11.0, "Overall Rank": 2.0}, {"Stage": 9.0, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71.0, "Overall Rank": 3.0}, {"Stage": 9.0, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27.0, "Overall Rank": 4.0}, {"Stage": 9.0, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19.0, "Overall Rank": 5.0}, {"Stage": 9.0, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161.0, "Overall Rank": 6.0}, {"Stage": 9.0, "Rider": "T. PIDCOCK", "Team": "INEOS GRENADIERS", "Rider No.": 26.0, "Overall Rank": 7.0}, {"Stage": 9.0, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31.0, "Overall Rank": 8.0}, {"Stage": 9.0, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4.0, "Overall Rank": 9.0}, {"Stage": 9.0, "Rider": "R. BARDET", "Team": "TEAM DSM - FIRMENICH", "Rider No.": 141.0, "Overall Rank": 10.0}, {"Stage": 10.0, "Rider": "T. PINOT", "Team": "GROUPAMA - FDJ", "Rider No.": 37.0, "Overall Rank": NaN}, {"Stage": 10.0, "Rider": "M. WOODS", "Team": "ISRAEL - PREMIER TECH", "Rider No.": 151.0, "Overall Rank": NaN}, {"Stage": 10.0, "Rider": "V. LAFAY", "Team": "COFIDIS", "Rider No.": 125.0, "Overall Rank": NaN}, {"Stage": 10.0, "Rider": "S. JENSEN", "Team": "LIDL - TREK", "Rider No.": 83.0, "Overall Rank": NaN}, {"Stage": 10.0, "Rider": "W. VAN AERT", "Team": "JUMBO-VISMA", "Rider No.": 6.0, "Overall Rank": NaN}, {"Stage": 10.0, "Rider": "M. LANDA", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 62.0, "Overall Rank": NaN}, {"Stage": 10.0, "Rider": "W. KELDERMAN", "Team": "JUMBO-VISMA", "Rider No.": 3.0, "Overall Rank": NaN}, {"Stage": 10.0, "Rider": "G. CICCONE", "Team": "LIDL - TREK", "Rider No.": 81.0, "Overall Rank": NaN}, {"Stage": 10.0, "Rider": "E. BUCHMANN", "Team": "BORA - HANSGROHE", "Rider No.": 72.0, "Overall Rank": NaN}, {"Stage": 10.0, "Rider": "R. BARDET", "Team": "TEAM DSM - FIRMENICH", "Rider No.": 141.0, "Overall Rank": NaN}, {"Stage": 10.0, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95.0, "Overall Rank": NaN}, {"Stage": 10.0, "Rider": "G. MARTIN", "Team": "COFIDIS", "Rider No.": 121.0, "Overall Rank": NaN}, {"Stage": 10.0, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1.0, "Overall Rank": 1.0}, {"Stage": 10.0, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11.0, "Overall Rank": 2.0}, {"Stage": 10.0, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71.0, "Overall Rank": 3.0}, {"Stage": 10.0, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27.0, "Overall Rank": 4.0}, {"Stage": 10.0, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65.0, "Overall Rank": 5.0}, {"Stage": 10.0, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19.0, "Overall Rank": 6.0}, {"Stage": 10.0, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161.0, "Overall Rank": 7.0}, {"Stage": 10.0, "Rider": "T. PIDCOCK", "Team": "INEOS GRENADIERS", "Rider No.": 26.0, "Overall Rank": 8.0}, {"Stage": 10.0, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31.0, "Overall Rank": 9.0}, {"Stage": 10.0, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4.0, "Overall Rank": 10.0}, {"Stage": 11.0, "Rider": "T. PINOT", "Team": "GROUPAMA - FDJ", "Rider No.": 37.0, "Overall Rank": NaN}, {"Stage": 11.0, "Rider": "M. WOODS", "Team": "ISRAEL - PREMIER TECH", "Rider No.": 151.0, "Overall Rank": NaN}, {"Stage": 11.0, "Rider": "V. LAFAY", "Team": "COFIDIS", "Rider No.": 125.0, "Overall Rank": NaN}, {"Stage": 11.0, "Rider": "S. JENSEN", "Team": "LIDL - TREK", "Rider No.": 83.0, "Overall Rank": NaN}, {"Stage": 11.0, "Rider": "W. VAN AERT", "Team": "JUMBO-VISMA", "Rider No.": 6.0, "Overall Rank": NaN}, {"Stage": 11.0, "Rider": "M. LANDA", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 62.0, "Overall Rank": NaN}, {"Stage": 11.0, "Rider": "W. KELDERMAN", "Team": "JUMBO-VISMA", "Rider No.": 3.0, "Overall Rank": NaN}, {"Stage": 11.0, "Rider": "G. CICCONE", "Team": "LIDL - TREK", "Rider No.": 81.0, "Overall Rank": NaN}, {"Stage": 11.0, "Rider": "E. BUCHMANN", "Team": "BORA - HANSGROHE", "Rider No.": 72.0, "Overall Rank": NaN}, {"Stage": 11.0, "Rider": "R. BARDET", "Team": "TEAM DSM - FIRMENICH", "Rider No.": 141.0, "Overall Rank": NaN}, {"Stage": 11.0, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95.0, "Overall Rank": NaN}, {"Stage": 11.0, "Rider": "G. MARTIN", "Team": "COFIDIS", "Rider No.": 121.0, "Overall Rank": NaN}, {"Stage": 11.0, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1.0, "Overall Rank": 1.0}, {"Stage": 11.0, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11.0, "Overall Rank": 2.0}, {"Stage": 11.0, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71.0, "Overall Rank": 3.0}, {"Stage": 11.0, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27.0, "Overall Rank": 4.0}, {"Stage": 11.0, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65.0, "Overall Rank": 5.0}, {"Stage": 11.0, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19.0, "Overall Rank": 6.0}, {"Stage": 11.0, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161.0, "Overall Rank": 7.0}, {"Stage": 11.0, "Rider": "T. PIDCOCK", "Team": "INEOS GRENADIERS", "Rider No.": 26.0, "Overall Rank": 8.0}, {"Stage": 11.0, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31.0, "Overall Rank": 9.0}, {"Stage": 11.0, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4.0, "Overall Rank": 10.0}, {"Stage": 12.0, "Rider": "M. WOODS", "Team": "ISRAEL - PREMIER TECH", "Rider No.": 151.0, "Overall Rank": NaN}, {"Stage": 12.0, "Rider": "V. LAFAY", "Team": "COFIDIS", "Rider No.": 125.0, "Overall Rank": NaN}, {"Stage": 12.0, "Rider": "S. JENSEN", "Team": "LIDL - TREK", "Rider No.": 83.0, "Overall Rank": NaN}, {"Stage": 12.0, "Rider": "W. VAN AERT", "Team": "JUMBO-VISMA", "Rider No.": 6.0, "Overall Rank": NaN}, {"Stage": 12.0, "Rider": "M. LANDA", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 62.0, "Overall Rank": NaN}, {"Stage": 12.0, "Rider": "W. KELDERMAN", "Team": "JUMBO-VISMA", "Rider No.": 3.0, "Overall Rank": NaN}, {"Stage": 12.0, "Rider": "G. CICCONE", "Team": "LIDL - TREK", "Rider No.": 81.0, "Overall Rank": NaN}, {"Stage": 12.0, "Rider": "E. BUCHMANN", "Team": "BORA - HANSGROHE", "Rider No.": 72.0, "Overall Rank": NaN}, {"Stage": 12.0, "Rider": "R. BARDET", "Team": "TEAM DSM - FIRMENICH", "Rider No.": 141.0, "Overall Rank": NaN}, {"Stage": 12.0, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4.0, "Overall Rank": NaN}, {"Stage": 12.0, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95.0, "Overall Rank": NaN}, {"Stage": 12.0, "Rider": "G. MARTIN", "Team": "COFIDIS", "Rider No.": 121.0, "Overall Rank": NaN}, {"Stage": 12.0, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1.0, "Overall Rank": 1.0}, {"Stage": 12.0, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11.0, "Overall Rank": 2.0}, {"Stage": 12.0, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71.0, "Overall Rank": 3.0}, {"Stage": 12.0, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27.0, "Overall Rank": 4.0}, {"Stage": 12.0, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65.0, "Overall Rank": 5.0}, {"Stage": 12.0, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19.0, "Overall Rank": 6.0}, {"Stage": 12.0, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161.0, "Overall Rank": 7.0}, {"Stage": 12.0, "Rider": "T. PIDCOCK", "Team": "INEOS GRENADIERS", "Rider No.": 26.0, "Overall Rank": 8.0}, {"Stage": 12.0, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31.0, "Overall Rank": 9.0}, {"Stage": 12.0, "Rider": "T. PINOT", "Team": "GROUPAMA - FDJ", "Rider No.": 37.0, "Overall Rank": 10.0}, {"Stage": 13.0, "Rider": "T. PINOT", "Team": "GROUPAMA - FDJ", "Rider No.": 37.0, "Overall Rank": NaN}, {"Stage": 13.0, "Rider": "M. WOODS", "Team": "ISRAEL - PREMIER TECH", "Rider No.": 151.0, "Overall Rank": NaN}, {"Stage": 13.0, "Rider": "V. LAFAY", "Team": "COFIDIS", "Rider No.": 125.0, "Overall Rank": NaN}, {"Stage": 13.0, "Rider": "S. JENSEN", "Team": "LIDL - TREK", "Rider No.": 83.0, "Overall Rank": NaN}, {"Stage": 13.0, "Rider": "W. VAN AERT", "Team": "JUMBO-VISMA", "Rider No.": 6.0, "Overall Rank": NaN}, {"Stage": 13.0, "Rider": "M. LANDA", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 62.0, "Overall Rank": NaN}, {"Stage": 13.0, "Rider": "W. KELDERMAN", "Team": "JUMBO-VISMA", "Rider No.": 3.0, "Overall Rank": NaN}, {"Stage": 13.0, "Rider": "G. CICCONE", "Team": "LIDL - TREK", "Rider No.": 81.0, "Overall Rank": NaN}, {"Stage": 13.0, "Rider": "E. BUCHMANN", "Team": "BORA - HANSGROHE", "Rider No.": 72.0, "Overall Rank": NaN}, {"Stage": 13.0, "Rider": "R. BARDET", "Team": "TEAM DSM - FIRMENICH", "Rider No.": 141.0, "Overall Rank": NaN}, {"Stage": 13.0, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95.0, "Overall Rank": NaN}, {"Stage": 13.0, "Rider": "G. MARTIN", "Team": "COFIDIS", "Rider No.": 121.0, "Overall Rank": NaN}, {"Stage": 13.0, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1.0, "Overall Rank": 1.0}, {"Stage": 13.0, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11.0, "Overall Rank": 2.0}, {"Stage": 13.0, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71.0, "Overall Rank": 3.0}, {"Stage": 13.0, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27.0, "Overall Rank": 4.0}, {"Stage": 13.0, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161.0, "Overall Rank": 5.0}, {"Stage": 13.0, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19.0, "Overall Rank": 6.0}, {"Stage": 13.0, "Rider": "T. PIDCOCK", "Team": "INEOS GRENADIERS", "Rider No.": 26.0, "Overall Rank": 7.0}, {"Stage": 13.0, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65.0, "Overall Rank": 7.0}, {"Stage": 13.0, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31.0, "Overall Rank": 9.0}, {"Stage": 13.0, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4.0, "Overall Rank": 10.0}, {"Stage": 14.0, "Rider": "T. PINOT", "Team": "GROUPAMA - FDJ", "Rider No.": 37.0, "Overall Rank": NaN}, {"Stage": 14.0, "Rider": "M. WOODS", "Team": "ISRAEL - PREMIER TECH", "Rider No.": 151.0, "Overall Rank": NaN}, {"Stage": 14.0, "Rider": "V. LAFAY", "Team": "COFIDIS", "Rider No.": 125.0, "Overall Rank": NaN}, {"Stage": 14.0, "Rider": "S. JENSEN", "Team": "LIDL - TREK", "Rider No.": 83.0, "Overall Rank": NaN}, {"Stage": 14.0, "Rider": "W. VAN AERT", "Team": "JUMBO-VISMA", "Rider No.": 6.0, "Overall Rank": NaN}, {"Stage": 14.0, "Rider": "M. LANDA", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 62.0, "Overall Rank": NaN}, {"Stage": 14.0, "Rider": "W. KELDERMAN", "Team": "JUMBO-VISMA", "Rider No.": 3.0, "Overall Rank": NaN}, {"Stage": 14.0, "Rider": "G. CICCONE", "Team": "LIDL - TREK", "Rider No.": 81.0, "Overall Rank": NaN}, {"Stage": 14.0, "Rider": "E. BUCHMANN", "Team": "BORA - HANSGROHE", "Rider No.": 72.0, "Overall Rank": NaN}, {"Stage": 14.0, "Rider": "R. BARDET", "Team": "TEAM DSM - FIRMENICH", "Rider No.": 141.0, "Overall Rank": NaN}, {"Stage": 14.0, "Rider": "T. PIDCOCK", "Team": "INEOS GRENADIERS", "Rider No.": 26.0, "Overall Rank": NaN}, {"Stage": 14.0, "Rider": "G. MARTIN", "Team": "COFIDIS", "Rider No.": 121.0, "Overall Rank": NaN}, {"Stage": 14.0, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1.0, "Overall Rank": 1.0}, {"Stage": 14.0, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11.0, "Overall Rank": 2.0}, {"Stage": 14.0, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27.0, "Overall Rank": 3.0}, {"Stage": 14.0, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71.0, "Overall Rank": 4.0}, {"Stage": 14.0, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19.0, "Overall Rank": 5.0}, {"Stage": 14.0, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4.0, "Overall Rank": 6.0}, {"Stage": 14.0, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161.0, "Overall Rank": 7.0}, {"Stage": 14.0, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65.0, "Overall Rank": 8.0}, {"Stage": 14.0, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95.0, "Overall Rank": 9.0}, {"Stage": 14.0, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31.0, "Overall Rank": 10.0}, {"Stage": 15.0, "Rider": "T. PINOT", "Team": "GROUPAMA - FDJ", "Rider No.": 37.0, "Overall Rank": NaN}, {"Stage": 15.0, "Rider": "M. WOODS", "Team": "ISRAEL - PREMIER TECH", "Rider No.": 151.0, "Overall Rank": NaN}, {"Stage": 15.0, "Rider": "V. LAFAY", "Team": "COFIDIS", "Rider No.": 125.0, "Overall Rank": NaN}, {"Stage": 15.0, "Rider": "S. JENSEN", "Team": "LIDL - TREK", "Rider No.": 83.0, "Overall Rank": NaN}, {"Stage": 15.0, "Rider": "W. VAN AERT", "Team": "JUMBO-VISMA", "Rider No.": 6.0, "Overall Rank": NaN}, {"Stage": 15.0, "Rider": "M. LANDA", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 62.0, "Overall Rank": NaN}, {"Stage": 15.0, "Rider": "W. KELDERMAN", "Team": "JUMBO-VISMA", "Rider No.": 3.0, "Overall Rank": NaN}, {"Stage": 15.0, "Rider": "G. CICCONE", "Team": "LIDL - TREK", "Rider No.": 81.0, "Overall Rank": NaN}, {"Stage": 15.0, "Rider": "E. BUCHMANN", "Team": "BORA - HANSGROHE", "Rider No.": 72.0, "Overall Rank": NaN}, {"Stage": 15.0, "Rider": "R. BARDET", "Team": "TEAM DSM - FIRMENICH", "Rider No.": 141.0, "Overall Rank": NaN}, {"Stage": 15.0, "Rider": "T. PIDCOCK", "Team": "INEOS GRENADIERS", "Rider No.": 26.0, "Overall Rank": NaN}, {"Stage": 15.0, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95.0, "Overall Rank": NaN}, {"Stage": 15.0, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1.0, "Overall Rank": 1.0}, {"Stage": 15.0, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11.0, "Overall Rank": 2.0}, {"Stage": 15.0, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27.0, "Overall Rank": 3.0}, {"Stage": 15.0, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19.0, "Overall Rank": 4.0}, {"Stage": 15.0, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71.0, "Overall Rank": 5.0}, {"Stage": 15.0, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4.0, "Overall Rank": 6.0}, {"Stage": 15.0, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65.0, "Overall Rank": 7.0}, {"Stage": 15.0, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161.0, "Overall Rank": 8.0}, {"Stage": 15.0, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31.0, "Overall Rank": 9.0}, {"Stage": 15.0, "Rider": "G. MARTIN", "Team": "COFIDIS", "Rider No.": 121.0, "Overall Rank": 10.0}, {"Stage": 16.0, "Rider": "T. PINOT", "Team": "GROUPAMA - FDJ", "Rider No.": 37.0, "Overall Rank": NaN}, {"Stage": 16.0, "Rider": "M. WOODS", "Team": "ISRAEL - PREMIER TECH", "Rider No.": 151.0, "Overall Rank": NaN}, {"Stage": 16.0, "Rider": "V. LAFAY", "Team": "COFIDIS", "Rider No.": 125.0, "Overall Rank": NaN}, {"Stage": 16.0, "Rider": "S. JENSEN", "Team": "LIDL - TREK", "Rider No.": 83.0, "Overall Rank": NaN}, {"Stage": 16.0, "Rider": "W. VAN AERT", "Team": "JUMBO-VISMA", "Rider No.": 6.0, "Overall Rank": NaN}, {"Stage": 16.0, "Rider": "M. LANDA", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 62.0, "Overall Rank": NaN}, {"Stage": 16.0, "Rider": "W. KELDERMAN", "Team": "JUMBO-VISMA", "Rider No.": 3.0, "Overall Rank": NaN}, {"Stage": 16.0, "Rider": "G. CICCONE", "Team": "LIDL - TREK", "Rider No.": 81.0, "Overall Rank": NaN}, {"Stage": 16.0, "Rider": "E. BUCHMANN", "Team": "BORA - HANSGROHE", "Rider No.": 72.0, "Overall Rank": NaN}, {"Stage": 16.0, "Rider": "R. BARDET", "Team": "TEAM DSM - FIRMENICH", "Rider No.": 141.0, "Overall Rank": NaN}, {"Stage": 16.0, "Rider": "T. PIDCOCK", "Team": "INEOS GRENADIERS", "Rider No.": 26.0, "Overall Rank": NaN}, {"Stage": 16.0, "Rider": "G. MARTIN", "Team": "COFIDIS", "Rider No.": 121.0, "Overall Rank": NaN}, {"Stage": 16.0, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1.0, "Overall Rank": 1.0}, {"Stage": 16.0, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11.0, "Overall Rank": 2.0}, {"Stage": 16.0, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19.0, "Overall Rank": 3.0}, {"Stage": 16.0, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27.0, "Overall Rank": 4.0}, {"Stage": 16.0, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71.0, "Overall Rank": 5.0}, {"Stage": 16.0, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4.0, "Overall Rank": 6.0}, {"Stage": 16.0, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65.0, "Overall Rank": 7.0}, {"Stage": 16.0, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161.0, "Overall Rank": 8.0}, {"Stage": 16.0, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31.0, "Overall Rank": 9.0}, {"Stage": 16.0, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95.0, "Overall Rank": 10.0}]}}, {"mode": "vega-lite"});
+</script>
+</div>
+</div>
+<div id="cell-3" class="cell" data-execution_count="368">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1"></a>laststage <span class="op">=</span> <span class="dv">17</span></span>
+<span id="cb4-2"><a href="#cb4-2"></a>base <span class="op">=</span> alt.Chart(</span>
+<span id="cb4-3"><a href="#cb4-3"></a>    df.drop(<span class="st">"Times"</span>, <span class="st">"Gap"</span>)</span>
+<span id="cb4-4"><a href="#cb4-4"></a>    .with_columns(</span>
+<span id="cb4-5"><a href="#cb4-5"></a>        pl.col(<span class="st">"Overall Time"</span>).dt.seconds(), pl.col(<span class="st">"Overall Gap"</span>).dt.seconds()</span>
+<span id="cb4-6"><a href="#cb4-6"></a>    )</span>
+<span id="cb4-7"><a href="#cb4-7"></a>    .<span class="bu">filter</span>(pl.col(<span class="st">"Overall Rank"</span>).last().over(<span class="st">"Rider"</span>) <span class="op">&lt;=</span> <span class="dv">10</span>)</span>
+<span id="cb4-8"><a href="#cb4-8"></a>    .with_columns(</span>
+<span id="cb4-9"><a href="#cb4-9"></a>        pl.when(pl.col(<span class="st">"Overall Gap"</span>) <span class="op">==</span> <span class="dv">984</span>)</span>
+<span id="cb4-10"><a href="#cb4-10"></a>        .then(pl.lit(<span class="dv">1010</span>))</span>
+<span id="cb4-11"><a href="#cb4-11"></a>        .otherwise(pl.col(<span class="st">"Overall Gap"</span>))</span>
+<span id="cb4-12"><a href="#cb4-12"></a>        .alias(<span class="st">"labelY"</span>)</span>
+<span id="cb4-13"><a href="#cb4-13"></a>    )</span>
+<span id="cb4-14"><a href="#cb4-14"></a>    .with_columns(</span>
+<span id="cb4-15"><a href="#cb4-15"></a>        pl.when(pl.col(<span class="st">"labelY"</span>) <span class="op">==</span> <span class="dv">708</span>)</span>
+<span id="cb4-16"><a href="#cb4-16"></a>        .then(pl.lit(<span class="dv">690</span>))</span>
+<span id="cb4-17"><a href="#cb4-17"></a>        .otherwise(pl.col(<span class="st">"labelY"</span>))</span>
+<span id="cb4-18"><a href="#cb4-18"></a>        .alias(<span class="st">"labelY"</span>)</span>
+<span id="cb4-19"><a href="#cb4-19"></a>    )</span>
+<span id="cb4-20"><a href="#cb4-20"></a>    .with_columns(</span>
+<span id="cb4-21"><a href="#cb4-21"></a>        pl.when(pl.col(<span class="st">"labelY"</span>) <span class="op">==</span> <span class="dv">759</span>)</span>
+<span id="cb4-22"><a href="#cb4-22"></a>        .then(pl.lit(<span class="dv">780</span>))</span>
+<span id="cb4-23"><a href="#cb4-23"></a>        .otherwise(pl.col(<span class="st">"labelY"</span>))</span>
+<span id="cb4-24"><a href="#cb4-24"></a>        .alias(<span class="st">"labelY"</span>)</span>
+<span id="cb4-25"><a href="#cb4-25"></a>    )</span>
+<span id="cb4-26"><a href="#cb4-26"></a>    .with_columns(pl.col(<span class="st">"labelY"</span>) <span class="op">/</span> <span class="dv">60</span>)</span>
+<span id="cb4-27"><a href="#cb4-27"></a>    .with_columns(</span>
+<span id="cb4-28"><a href="#cb4-28"></a>        pl.struct(pl.<span class="bu">all</span>())</span>
+<span id="cb4-29"><a href="#cb4-29"></a>        .<span class="bu">apply</span>(</span>
+<span id="cb4-30"><a href="#cb4-30"></a>            <span class="kw">lambda</span> s: <span class="ss">f"""</span><span class="sc">{</span>s[<span class="st">"Rider"</span>]<span class="sc">}</span><span class="ss"> </span><span class="sc">{</span><span class="st">""</span> <span class="cf">if</span> s[<span class="st">"Overall Gap"</span>]<span class="op">==</span><span class="dv">0</span> <span class="cf">else</span> <span class="ss">f' (+</span><span class="sc">{</span>s[<span class="st">"Overall Gap"</span>]<span class="op">//</span><span class="dv">60</span><span class="sc">}</span><span class="ss">min </span><span class="sc">{</span>s[<span class="st">"Overall Gap"</span>]<span class="op">%</span><span class="dv">60</span><span class="sc">}</span><span class="ss">s)'</span><span class="sc">}</span><span class="ss">"""</span></span>
+<span id="cb4-31"><a href="#cb4-31"></a>        )</span>
+<span id="cb4-32"><a href="#cb4-32"></a>        .alias(<span class="st">"labelText"</span>)</span>
+<span id="cb4-33"><a href="#cb4-33"></a>    )</span>
+<span id="cb4-34"><a href="#cb4-34"></a>    .with_columns(</span>
+<span id="cb4-35"><a href="#cb4-35"></a>        (pl.col(<span class="st">"Overall Gap"</span>) <span class="op">//</span> <span class="dv">60</span>)</span>
+<span id="cb4-36"><a href="#cb4-36"></a>        <span class="co"># .apply(lambda s: str(s) + "min")</span></span>
+<span id="cb4-37"><a href="#cb4-37"></a>        .alias(<span class="st">"Overall Gap Min"</span>)</span>
+<span id="cb4-38"><a href="#cb4-38"></a>    )</span>
+<span id="cb4-39"><a href="#cb4-39"></a>    .with_columns((pl.col(<span class="st">"Overall Rank"</span>)).last().over(<span class="st">"Rider"</span>).alias(<span class="st">"Final Rank"</span>))</span>
+<span id="cb4-40"><a href="#cb4-40"></a>    .to_pandas()</span>
+<span id="cb4-41"><a href="#cb4-41"></a>).encode(</span>
+<span id="cb4-42"><a href="#cb4-42"></a>    x<span class="op">=</span>alt.X(<span class="st">"Stage:N"</span>).axis(</span>
+<span id="cb4-43"><a href="#cb4-43"></a>        titleAnchor<span class="op">=</span><span class="st">"end"</span>,</span>
+<span id="cb4-44"><a href="#cb4-44"></a>        titleAlign<span class="op">=</span><span class="st">"left"</span>,</span>
+<span id="cb4-45"><a href="#cb4-45"></a>        titleBaseline<span class="op">=</span><span class="st">"bottom"</span>,</span>
+<span id="cb4-46"><a href="#cb4-46"></a>        labelBaseline<span class="op">=</span><span class="st">"top"</span>,</span>
+<span id="cb4-47"><a href="#cb4-47"></a>        <span class="co"># titleX=-30,</span></span>
+<span id="cb4-48"><a href="#cb4-48"></a>        <span class="co"># titleFontSize=20,</span></span>
+<span id="cb4-49"><a href="#cb4-49"></a>    ),</span>
+<span id="cb4-50"><a href="#cb4-50"></a>    y<span class="op">=</span>alt.Y(<span class="st">"Overall Gap Min:Q"</span>)</span>
+<span id="cb4-51"><a href="#cb4-51"></a>    .scale(domain<span class="op">=</span>(<span class="op">-</span><span class="fl">0.5</span>, <span class="dv">20</span>), reverse<span class="op">=</span><span class="va">True</span>)</span>
+<span id="cb4-52"><a href="#cb4-52"></a>    .axis(values<span class="op">=</span><span class="bu">list</span>(<span class="bu">range</span>(<span class="dv">20</span>)), <span class="bu">format</span><span class="op">=</span><span class="st">".0d"</span>)</span>
+<span id="cb4-53"><a href="#cb4-53"></a>    .title(</span>
+<span id="cb4-54"><a href="#cb4-54"></a>        <span class="st">"Gap to yellow jersey"</span>,</span>
+<span id="cb4-55"><a href="#cb4-55"></a>    ),</span>
+<span id="cb4-56"><a href="#cb4-56"></a>    <span class="co"># .title(""),</span></span>
+<span id="cb4-57"><a href="#cb4-57"></a>    <span class="co"># .axis(None),</span></span>
+<span id="cb4-58"><a href="#cb4-58"></a>    <span class="co"># .scale(reverse=False),</span></span>
+<span id="cb4-59"><a href="#cb4-59"></a>    detail<span class="op">=</span>alt.Detail(<span class="st">"Rider"</span>),</span>
+<span id="cb4-60"><a href="#cb4-60"></a>    order<span class="op">=</span>alt.Order(<span class="st">"Final Rank"</span>),</span>
+<span id="cb4-61"><a href="#cb4-61"></a>    color<span class="op">=</span>alt.Color(<span class="st">"Team:N"</span>).legend(<span class="va">None</span>),</span>
+<span id="cb4-62"><a href="#cb4-62"></a>)</span>
+<span id="cb4-63"><a href="#cb4-63"></a></span>
+<span id="cb4-64"><a href="#cb4-64"></a></span>
+<span id="cb4-65"><a href="#cb4-65"></a>(</span>
+<span id="cb4-66"><a href="#cb4-66"></a>    base.mark_line(clip<span class="op">=</span><span class="va">True</span>, strokeWidth<span class="op">=</span><span class="dv">3</span>)</span>
+<span id="cb4-67"><a href="#cb4-67"></a>    <span class="op">+</span> base.mark_point(clip<span class="op">=</span><span class="va">True</span>, size<span class="op">=</span><span class="dv">100</span>, filled<span class="op">=</span><span class="va">True</span>, opacity<span class="op">=</span><span class="dv">1</span>)</span>
+<span id="cb4-68"><a href="#cb4-68"></a>    <span class="op">+</span> base.mark_line(clip<span class="op">=</span><span class="va">True</span>, strokeWidth<span class="op">=</span><span class="dv">3</span>).transform_filter(</span>
+<span id="cb4-69"><a href="#cb4-69"></a>        alt.datum[<span class="st">"Rider"</span>] <span class="op">==</span> <span class="st">"J. VINGEGAARD"</span></span>
+<span id="cb4-70"><a href="#cb4-70"></a>    )</span>
+<span id="cb4-71"><a href="#cb4-71"></a>    <span class="op">+</span> base.mark_point(clip<span class="op">=</span><span class="va">True</span>, size<span class="op">=</span><span class="dv">100</span>, filled<span class="op">=</span><span class="va">True</span>, opacity<span class="op">=</span><span class="dv">1</span>).transform_filter(</span>
+<span id="cb4-72"><a href="#cb4-72"></a>        alt.datum[<span class="st">"Rider"</span>] <span class="op">==</span> <span class="st">"J. VINGEGAARD"</span></span>
+<span id="cb4-73"><a href="#cb4-73"></a>    )</span>
+<span id="cb4-74"><a href="#cb4-74"></a>    <span class="op">+</span> base.mark_text(clip<span class="op">=</span><span class="va">False</span>, align<span class="op">=</span><span class="st">"left"</span>, dx<span class="op">=</span><span class="dv">20</span>, fontSize<span class="op">=</span><span class="dv">14</span>)</span>
+<span id="cb4-75"><a href="#cb4-75"></a>    .encode(text<span class="op">=</span><span class="st">"labelText:N"</span>, y<span class="op">=</span><span class="st">"labelY"</span>)</span>
+<span id="cb4-76"><a href="#cb4-76"></a>    .transform_filter(alt.datum[<span class="st">"Stage"</span>] <span class="op">==</span> laststage)</span>
+<span id="cb4-77"><a href="#cb4-77"></a>).properties(</span>
+<span id="cb4-78"><a href="#cb4-78"></a>    title<span class="op">=</span>{</span>
+<span id="cb4-79"><a href="#cb4-79"></a>        <span class="st">"text"</span>: <span class="st">"Classement Général Tour de France 2023"</span>,</span>
+<span id="cb4-80"><a href="#cb4-80"></a>        <span class="st">"dy"</span>: <span class="dv">00</span>,</span>
+<span id="cb4-81"><a href="#cb4-81"></a>        <span class="st">"anchor"</span>: <span class="st">"middle"</span>,</span>
+<span id="cb4-82"><a href="#cb4-82"></a>        <span class="st">"subtitle"</span>: <span class="st">"Graphic by Thomas Camminady"</span>,</span>
+<span id="cb4-83"><a href="#cb4-83"></a>        <span class="st">"subtitleColor"</span>: <span class="st">"gray"</span>,</span>
+<span id="cb4-84"><a href="#cb4-84"></a>    },</span>
+<span id="cb4-85"><a href="#cb4-85"></a>    height<span class="op">=</span><span class="dv">600</span>,</span>
+<span id="cb4-86"><a href="#cb4-86"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-display" data-execution_count="368">
+
+<style>
+  #altair-viz-53a0f68e80614e1691c8aaac866d4cb5.vega-embed {
+    width: 100%;
+    display: flex;
+  }
+
+  #altair-viz-53a0f68e80614e1691c8aaac866d4cb5.vega-embed details,
+  #altair-viz-53a0f68e80614e1691c8aaac866d4cb5.vega-embed details summary {
+    position: relative;
+  }
+</style>
+<div id="altair-viz-53a0f68e80614e1691c8aaac866d4cb5"></div>
+<script type="text/javascript">
+  var VEGA_DEBUG = (typeof VEGA_DEBUG == "undefined") ? {} : VEGA_DEBUG;
+  (function(spec, embedOpt){
+    let outputDiv = document.currentScript.previousElementSibling;
+    if (outputDiv.id !== "altair-viz-53a0f68e80614e1691c8aaac866d4cb5") {
+      outputDiv = document.getElementById("altair-viz-53a0f68e80614e1691c8aaac866d4cb5");
+    }
+    const paths = {
+      "vega": "https://cdn.jsdelivr.net/npm/vega@5?noext",
+      "vega-lib": "https://cdn.jsdelivr.net/npm/vega-lib?noext",
+      "vega-lite": "https://cdn.jsdelivr.net/npm/vega-lite@5.8.0?noext",
+      "vega-embed": "https://cdn.jsdelivr.net/npm/vega-embed@6?noext",
+    };
+
+    function maybeLoadScript(lib, version) {
+      var key = `${lib.replace("-", "")}_version`;
+      return (VEGA_DEBUG[key] == version) ?
+        Promise.resolve(paths[lib]) :
+        new Promise(function(resolve, reject) {
+          var s = document.createElement('script');
+          document.getElementsByTagName("head")[0].appendChild(s);
+          s.async = true;
+          s.onload = () => {
+            VEGA_DEBUG[key] = version;
+            return resolve(paths[lib]);
+          };
+          s.onerror = () => reject(`Error loading script: ${paths[lib]}`);
+          s.src = paths[lib];
+        });
+    }
+
+    function showError(err) {
+      outputDiv.innerHTML = `<div class="error" style="color:red;">${err}</div>`;
+      throw err;
+    }
+
+    function displayChart(vegaEmbed) {
+      vegaEmbed(outputDiv, spec, embedOpt)
+        .catch(err => showError(`Javascript Error: ${err.message}<br>This usually means there's a typo in your chart specification. See the javascript console for the full traceback.`));
+    }
+
+    if(typeof define === "function" && define.amd) {
+      requirejs.config({paths});
+      require(["vega-embed"], displayChart, err => showError(`Error loading script: ${err.message}`));
+    } else {
+      maybeLoadScript("vega", "5")
+        .then(() => maybeLoadScript("vega-lite", "5.8.0"))
+        .then(() => maybeLoadScript("vega-embed", "6"))
+        .catch(showError)
+        .then(() => displayChart(vegaEmbed));
+    }
+  })({"config": {"text": {"color": "gray", "fontSize": 14}, "title": {"anchor": "middle", "fontWeight": "normal", "titleFontWeight": "normal", "labelFontWeight": "normal", "fontSize": 30, "titleFontSize": 16, "labelFontSize": 14, "color": "gray", "titleColor": "gray", "labelColor": "gray", "tickColor": "gray", "domainColor": "gray"}, "header": {"titleFontSize": 16, "labelFontSize": 16, "color": "gray", "titleColor": "gray", "labelColor": "gray", "titleFontWeight": "normal"}, "view": {"height": 350, "width": 1400, "strokeWidth": 0, "fill": "white"}, "axis": {"domain": true, "domainColor": "gray", "domainWidth": 1, "gridWidth": 1, "labelAngle": 0, "tickSize": 5, "gridCap": "round", "gridDash": [2, 4], "fontWeight": "normal", "titleFontWeight": "normal", "labelFontWeight": "normal", "fontSize": 30, "titleFontSize": 16, "labelFontSize": 14, "color": "gray", "titleColor": "gray", "labelColor": "gray", "tickColor": "gray"}, "axisX": {"titleAnchor": "end", "titleAlign": "center"}, "axisY": {"titleAnchor": "end", "titleAngle": 0, "titleAlign": "center", "titleY": -15, "titleX": 0}, "axisLeft": {"labelAlign": "right"}, "axisRight": {"titleAnchor": "end", "titleAngle": 0, "titleAlign": "center", "titleY": -15, "tickSize": 5, "tickColor": "gray", "labelPadding": 5, "labelAlign": "left"}, "facet": {"spacing": 50}, "legend": {"fontWeight": "normal", "titleFontWeight": "normal", "labelFontWeight": "normal", "fontSize": 30, "titleFontSize": 16, "labelFontSize": 14, "color": "gray", "titleColor": "gray", "labelColor": "gray", "tickColor": "gray", "domainColor": "gray"}}, "layer": [{"mark": {"type": "line", "clip": true, "strokeWidth": 3}, "encoding": {"color": {"field": "Team", "legend": null, "type": "nominal"}, "detail": {"field": "Rider", "type": "nominal"}, "order": {"field": "Final Rank", "type": "quantitative"}, "x": {"axis": {"titleAnchor": "end", "titleAlign": "left", "titleBaseline": "bottom", "labelBaseline": "top"}, "field": "Stage", "type": "nominal"}, "y": {"axis": {"values": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19], "format": ".0d"}, "field": "Overall Gap Min", "scale": {"domain": [-0.5, 20], "reverse": true}, "title": "Gap to yellow jersey", "type": "quantitative"}}}, {"mark": {"type": "point", "clip": true, "filled": true, "opacity": 1, "size": 100}, "encoding": {"color": {"field": "Team", "legend": null, "type": "nominal"}, "detail": {"field": "Rider", "type": "nominal"}, "order": {"field": "Final Rank", "type": "quantitative"}, "x": {"axis": {"titleAnchor": "end", "titleAlign": "left", "titleBaseline": "bottom", "labelBaseline": "top"}, "field": "Stage", "type": "nominal"}, "y": {"axis": {"values": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19], "format": ".0d"}, "field": "Overall Gap Min", "scale": {"domain": [-0.5, 20], "reverse": true}, "title": "Gap to yellow jersey", "type": "quantitative"}}}, {"mark": {"type": "line", "clip": true, "strokeWidth": 3}, "encoding": {"color": {"field": "Team", "legend": null, "type": "nominal"}, "detail": {"field": "Rider", "type": "nominal"}, "order": {"field": "Final Rank", "type": "quantitative"}, "x": {"axis": {"titleAnchor": "end", "titleAlign": "left", "titleBaseline": "bottom", "labelBaseline": "top"}, "field": "Stage", "type": "nominal"}, "y": {"axis": {"values": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19], "format": ".0d"}, "field": "Overall Gap Min", "scale": {"domain": [-0.5, 20], "reverse": true}, "title": "Gap to yellow jersey", "type": "quantitative"}}, "transform": [{"filter": "(datum['Rider'] === 'J. VINGEGAARD')"}]}, {"mark": {"type": "point", "clip": true, "filled": true, "opacity": 1, "size": 100}, "encoding": {"color": {"field": "Team", "legend": null, "type": "nominal"}, "detail": {"field": "Rider", "type": "nominal"}, "order": {"field": "Final Rank", "type": "quantitative"}, "x": {"axis": {"titleAnchor": "end", "titleAlign": "left", "titleBaseline": "bottom", "labelBaseline": "top"}, "field": "Stage", "type": "nominal"}, "y": {"axis": {"values": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19], "format": ".0d"}, "field": "Overall Gap Min", "scale": {"domain": [-0.5, 20], "reverse": true}, "title": "Gap to yellow jersey", "type": "quantitative"}}, "transform": [{"filter": "(datum['Rider'] === 'J. VINGEGAARD')"}]}, {"mark": {"type": "text", "align": "left", "clip": false, "dx": 20, "fontSize": 14}, "encoding": {"color": {"field": "Team", "legend": null, "type": "nominal"}, "detail": {"field": "Rider", "type": "nominal"}, "order": {"field": "Final Rank", "type": "quantitative"}, "text": {"field": "labelText", "type": "nominal"}, "x": {"axis": {"titleAnchor": "end", "titleAlign": "left", "titleBaseline": "bottom", "labelBaseline": "top"}, "field": "Stage", "type": "nominal"}, "y": {"field": "labelY", "type": "quantitative"}}, "transform": [{"filter": "(datum['Stage'] === 17)"}]}], "data": {"name": "data-fef7502c4f6a37c9b7f92334928e7a9d"}, "height": 600, "title": {"text": "Classement G\u00e9n\u00e9ral Tour de France 2023", "dy": 0, "anchor": "middle", "subtitle": "Graphic by Thomas Camminady", "subtitleColor": "gray"}, "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json", "datasets": {"data-fef7502c4f6a37c9b7f92334928e7a9d": [{"Stage": 1, "Rank": 1, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19, "Overall Rank": 1, "Overall Time": 15769, "Overall Gap": 0, "labelY": 0.0, "labelText": "A. YATES ", "Overall Gap Min": 0, "Final Rank": 3}, {"Stage": 1, "Rank": 2, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161, "Overall Rank": 2, "Overall Time": 15773, "Overall Gap": 4, "labelY": 0.06666666666666667, "labelText": "S. YATES  (+0min 4s)", "Overall Gap Min": 0, "Final Rank": 5}, {"Stage": 1, "Rank": 3, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11, "Overall Rank": 8, "Overall Time": 15781, "Overall Gap": 12, "labelY": 0.2, "labelText": "T. POGA\u010cAR  (+0min 12s)", "Overall Gap Min": 0, "Final Rank": 2}, {"Stage": 1, "Rank": 7, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71, "Overall Rank": 8, "Overall Time": 15781, "Overall Gap": 12, "labelY": 0.2, "labelText": "J. HINDLEY  (+0min 12s)", "Overall Gap Min": 0, "Final Rank": 7}, {"Stage": 1, "Rank": 9, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1, "Overall Rank": 8, "Overall Time": 15781, "Overall Gap": 12, "labelY": 0.2, "labelText": "J. VINGEGAARD  (+0min 12s)", "Overall Gap Min": 0, "Final Rank": 1}, {"Stage": 1, "Rank": 10, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31, "Overall Rank": 8, "Overall Time": 15781, "Overall Gap": 12, "labelY": 0.2, "labelText": "D. GAUDU  (+0min 12s)", "Overall Gap Min": 0, "Final Rank": 10}, {"Stage": 1, "Rank": 13, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27, "Overall Rank": 8, "Overall Time": 15781, "Overall Gap": 12, "labelY": 0.2, "labelText": "C. RODRIGUEZ CANO  (+0min 12s)", "Overall Gap Min": 0, "Final Rank": 4}, {"Stage": 1, "Rank": 31, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4, "Overall Rank": 28, "Overall Time": 15802, "Overall Gap": 33, "labelY": 0.55, "labelText": "S. KUSS  (+0min 33s)", "Overall Gap Min": 0, "Final Rank": 9}, {"Stage": 1, "Rank": 36, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95, "Overall Rank": 28, "Overall Time": 15802, "Overall Gap": 33, "labelY": 0.55, "labelText": "F. GALL  (+0min 33s)", "Overall Gap Min": 0, "Final Rank": 8}, {"Stage": 1, "Rank": 40, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65, "Overall Rank": 28, "Overall Time": 15802, "Overall Gap": 33, "labelY": 0.55, "labelText": "P. BILBAO LOPEZ  (+0min 33s)", "Overall Gap Min": 0, "Final Rank": 6}, {"Stage": 2, "Rank": 3, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11, "Overall Rank": 8, "Overall Time": 32980, "Overall Gap": 12, "labelY": 0.2, "labelText": "T. POGA\u010cAR  (+0min 12s)", "Overall Gap Min": 0, "Final Rank": 2}, {"Stage": 2, "Rank": 5, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65, "Overall Rank": 18, "Overall Time": 33001, "Overall Gap": 33, "labelY": 0.55, "labelText": "P. BILBAO LOPEZ  (+0min 33s)", "Overall Gap Min": 0, "Final Rank": 6}, {"Stage": 2, "Rank": 9, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71, "Overall Rank": 8, "Overall Time": 32980, "Overall Gap": 12, "labelY": 0.2, "labelText": "J. HINDLEY  (+0min 12s)", "Overall Gap Min": 0, "Final Rank": 7}, {"Stage": 2, "Rank": 16, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1, "Overall Rank": 8, "Overall Time": 32980, "Overall Gap": 12, "labelY": 0.2, "labelText": "J. VINGEGAARD  (+0min 12s)", "Overall Gap Min": 0, "Final Rank": 1}, {"Stage": 2, "Rank": 17, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27, "Overall Rank": 8, "Overall Time": 32980, "Overall Gap": 12, "labelY": 0.2, "labelText": "C. RODRIGUEZ CANO  (+0min 12s)", "Overall Gap Min": 0, "Final Rank": 4}, {"Stage": 2, "Rank": 18, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161, "Overall Rank": 2, "Overall Time": 32972, "Overall Gap": 4, "labelY": 0.06666666666666667, "labelText": "S. YATES  (+0min 4s)", "Overall Gap Min": 0, "Final Rank": 5}, {"Stage": 2, "Rank": 19, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19, "Overall Rank": 1, "Overall Time": 32968, "Overall Gap": 0, "labelY": 0.0, "labelText": "A. YATES ", "Overall Gap Min": 0, "Final Rank": 3}, {"Stage": 2, "Rank": 22, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31, "Overall Rank": 8, "Overall Time": 32980, "Overall Gap": 12, "labelY": 0.2, "labelText": "D. GAUDU  (+0min 12s)", "Overall Gap Min": 0, "Final Rank": 10}, {"Stage": 2, "Rank": 30, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4, "Overall Rank": 26, "Overall Time": 33059, "Overall Gap": 91, "labelY": 1.5166666666666666, "labelText": "S. KUSS  (+1min 31s)", "Overall Gap Min": 1, "Final Rank": 9}, {"Stage": 2, "Rank": 46, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95, "Overall Rank": 41, "Overall Time": 33301, "Overall Gap": 333, "labelY": 5.55, "labelText": "F. GALL  (+5min 33s)", "Overall Gap Min": 5, "Final Rank": 8}, {"Stage": 3, "Rank": 34, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27, "Overall Rank": 8, "Overall Time": 49975, "Overall Gap": 12, "labelY": 0.2, "labelText": "C. RODRIGUEZ CANO  (+0min 12s)", "Overall Gap Min": 0, "Final Rank": 4}, {"Stage": 3, "Rank": 43, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1, "Overall Rank": 8, "Overall Time": 49975, "Overall Gap": 12, "labelY": 0.2, "labelText": "J. VINGEGAARD  (+0min 12s)", "Overall Gap Min": 0, "Final Rank": 1}, {"Stage": 3, "Rank": 44, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71, "Overall Rank": 8, "Overall Time": 49975, "Overall Gap": 12, "labelY": 0.2, "labelText": "J. HINDLEY  (+0min 12s)", "Overall Gap Min": 0, "Final Rank": 7}, {"Stage": 3, "Rank": 55, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65, "Overall Rank": 17, "Overall Time": 49996, "Overall Gap": 33, "labelY": 0.55, "labelText": "P. BILBAO LOPEZ  (+0min 33s)", "Overall Gap Min": 0, "Final Rank": 6}, {"Stage": 3, "Rank": 58, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11, "Overall Rank": 8, "Overall Time": 49975, "Overall Gap": 12, "labelY": 0.2, "labelText": "T. POGA\u010cAR  (+0min 12s)", "Overall Gap Min": 0, "Final Rank": 2}, {"Stage": 3, "Rank": 63, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161, "Overall Rank": 2, "Overall Time": 49967, "Overall Gap": 4, "labelY": 0.06666666666666667, "labelText": "S. YATES  (+0min 4s)", "Overall Gap Min": 0, "Final Rank": 5}, {"Stage": 3, "Rank": 66, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19, "Overall Rank": 1, "Overall Time": 49963, "Overall Gap": 0, "labelY": 0.0, "labelText": "A. YATES ", "Overall Gap Min": 0, "Final Rank": 3}, {"Stage": 3, "Rank": 72, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31, "Overall Rank": 8, "Overall Time": 49975, "Overall Gap": 12, "labelY": 0.2, "labelText": "D. GAUDU  (+0min 12s)", "Overall Gap Min": 0, "Final Rank": 10}, {"Stage": 3, "Rank": 95, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4, "Overall Rank": 24, "Overall Time": 50054, "Overall Gap": 91, "labelY": 1.5166666666666666, "labelText": "S. KUSS  (+1min 31s)", "Overall Gap Min": 1, "Final Rank": 9}, {"Stage": 3, "Rank": 99, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95, "Overall Rank": 41, "Overall Time": 50296, "Overall Gap": 333, "labelY": 5.55, "labelText": "F. GALL  (+5min 33s)", "Overall Gap Min": 5, "Final Rank": 8}, {"Stage": 4, "Rank": 24, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11, "Overall Rank": 8, "Overall Time": 65903, "Overall Gap": 12, "labelY": 0.2, "labelText": "T. POGA\u010cAR  (+0min 12s)", "Overall Gap Min": 0, "Final Rank": 2}, {"Stage": 4, "Rank": 25, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1, "Overall Rank": 8, "Overall Time": 65903, "Overall Gap": 12, "labelY": 0.2, "labelText": "J. VINGEGAARD  (+0min 12s)", "Overall Gap Min": 0, "Final Rank": 1}, {"Stage": 4, "Rank": 28, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71, "Overall Rank": 8, "Overall Time": 65903, "Overall Gap": 12, "labelY": 0.2, "labelText": "J. HINDLEY  (+0min 12s)", "Overall Gap Min": 0, "Final Rank": 7}, {"Stage": 4, "Rank": 45, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161, "Overall Rank": 2, "Overall Time": 65895, "Overall Gap": 4, "labelY": 0.06666666666666667, "labelText": "S. YATES  (+0min 4s)", "Overall Gap Min": 0, "Final Rank": 5}, {"Stage": 4, "Rank": 46, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19, "Overall Rank": 1, "Overall Time": 65891, "Overall Gap": 0, "labelY": 0.0, "labelText": "A. YATES ", "Overall Gap Min": 0, "Final Rank": 3}, {"Stage": 4, "Rank": 48, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31, "Overall Rank": 8, "Overall Time": 65903, "Overall Gap": 12, "labelY": 0.2, "labelText": "D. GAUDU  (+0min 12s)", "Overall Gap Min": 0, "Final Rank": 10}, {"Stage": 4, "Rank": 55, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27, "Overall Rank": 8, "Overall Time": 65903, "Overall Gap": 12, "labelY": 0.2, "labelText": "C. RODRIGUEZ CANO  (+0min 12s)", "Overall Gap Min": 0, "Final Rank": 4}, {"Stage": 4, "Rank": 62, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4, "Overall Rank": 24, "Overall Time": 65982, "Overall Gap": 91, "labelY": 1.5166666666666666, "labelText": "S. KUSS  (+1min 31s)", "Overall Gap Min": 1, "Final Rank": 9}, {"Stage": 4, "Rank": 71, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65, "Overall Rank": 17, "Overall Time": 65924, "Overall Gap": 33, "labelY": 0.55, "labelText": "P. BILBAO LOPEZ  (+0min 33s)", "Overall Gap Min": 0, "Final Rank": 6}, {"Stage": 4, "Rank": 86, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95, "Overall Rank": 38, "Overall Time": 66224, "Overall Gap": 333, "labelY": 5.55, "labelText": "F. GALL  (+5min 33s)", "Overall Gap Min": 5, "Final Rank": 8}, {"Stage": 5, "Rank": 1, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71, "Overall Rank": 1, "Overall Time": 80130, "Overall Gap": 0, "labelY": 0.0, "labelText": "J. HINDLEY ", "Overall Gap Min": 0, "Final Rank": 7}, {"Stage": 5, "Rank": 3, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95, "Overall Rank": 29, "Overall Time": 80483, "Overall Gap": 353, "labelY": 5.883333333333334, "labelText": "F. GALL  (+5min 53s)", "Overall Gap Min": 5, "Final Rank": 8}, {"Stage": 5, "Rank": 5, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1, "Overall Rank": 2, "Overall Time": 80164, "Overall Gap": 34, "labelY": 0.5666666666666667, "labelText": "J. VINGEGAARD  (+0min 34s)", "Overall Gap Min": 0, "Final Rank": 1}, {"Stage": 5, "Rank": 8, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11, "Overall Rank": 8, "Overall Time": 80228, "Overall Gap": 98, "labelY": 1.6333333333333333, "labelText": "T. POGA\u010cAR  (+1min 38s)", "Overall Gap Min": 1, "Final Rank": 2}, {"Stage": 5, "Rank": 9, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31, "Overall Rank": 8, "Overall Time": 80228, "Overall Gap": 98, "labelY": 1.6333333333333333, "labelText": "D. GAUDU  (+1min 38s)", "Overall Gap Min": 1, "Final Rank": 10}, {"Stage": 5, "Rank": 10, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27, "Overall Rank": 8, "Overall Time": 80228, "Overall Gap": 98, "labelY": 1.6333333333333333, "labelText": "C. RODRIGUEZ CANO  (+1min 38s)", "Overall Gap Min": 1, "Final Rank": 4}, {"Stage": 5, "Rank": 12, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4, "Overall Rank": 16, "Overall Time": 80307, "Overall Gap": 177, "labelY": 2.95, "labelText": "S. KUSS  (+2min 57s)", "Overall Gap Min": 2, "Final Rank": 9}, {"Stage": 5, "Rank": 13, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161, "Overall Rank": 6, "Overall Time": 80220, "Overall Gap": 90, "labelY": 1.5, "labelText": "S. YATES  (+1min 30s)", "Overall Gap Min": 1, "Final Rank": 5}, {"Stage": 5, "Rank": 15, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19, "Overall Rank": 5, "Overall Time": 80216, "Overall Gap": 86, "labelY": 1.4333333333333333, "labelText": "A. YATES  (+1min 26s)", "Overall Gap Min": 1, "Final Rank": 3}, {"Stage": 5, "Rank": 27, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65, "Overall Rank": 18, "Overall Time": 80326, "Overall Gap": 196, "labelY": 3.2666666666666666, "labelText": "P. BILBAO LOPEZ  (+3min 16s)", "Overall Gap Min": 3, "Final Rank": 6}, {"Stage": 6, "Rank": 1, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11, "Overall Rank": 2, "Overall Time": 94295, "Overall Gap": 40, "labelY": 0.6666666666666666, "labelText": "T. POGA\u010cAR  (+0min 40s)", "Overall Gap Min": 0, "Final Rank": 2}, {"Stage": 6, "Rank": 2, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1, "Overall Rank": 1, "Overall Time": 94255, "Overall Gap": 0, "labelY": 0.0, "labelText": "J. VINGEGAARD ", "Overall Gap Min": 0, "Final Rank": 1}, {"Stage": 6, "Rank": 6, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71, "Overall Rank": 3, "Overall Time": 94356, "Overall Gap": 101, "labelY": 1.6833333333333333, "labelText": "J. HINDLEY  (+1min 41s)", "Overall Gap Min": 1, "Final Rank": 7}, {"Stage": 6, "Rank": 7, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27, "Overall Rank": 5, "Overall Time": 94454, "Overall Gap": 199, "labelY": 3.316666666666667, "labelText": "C. RODRIGUEZ CANO  (+3min 19s)", "Overall Gap Min": 3, "Final Rank": 4}, {"Stage": 6, "Rank": 8, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161, "Overall Rank": 4, "Overall Time": 94446, "Overall Gap": 191, "labelY": 3.183333333333333, "labelText": "S. YATES  (+3min 11s)", "Overall Gap Min": 3, "Final Rank": 5}, {"Stage": 6, "Rank": 9, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19, "Overall Rank": 6, "Overall Time": 94474, "Overall Gap": 219, "labelY": 3.65, "labelText": "A. YATES  (+3min 39s)", "Overall Gap Min": 3, "Final Rank": 3}, {"Stage": 6, "Rank": 13, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31, "Overall Rank": 7, "Overall Time": 94487, "Overall Gap": 232, "labelY": 3.8666666666666667, "labelText": "D. GAUDU  (+3min 52s)", "Overall Gap Min": 3, "Final Rank": 10}, {"Stage": 6, "Rank": 14, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4, "Overall Rank": 10, "Overall Time": 94572, "Overall Gap": 317, "labelY": 5.283333333333333, "labelText": "S. KUSS  (+5min 17s)", "Overall Gap Min": 5, "Final Rank": 9}, {"Stage": 6, "Rank": 15, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95, "Overall Rank": 20, "Overall Time": 94752, "Overall Gap": 497, "labelY": 8.283333333333333, "labelText": "F. GALL  (+8min 17s)", "Overall Gap Min": 8, "Final Rank": 8}, {"Stage": 6, "Rank": 22, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65, "Overall Rank": 13, "Overall Time": 94614, "Overall Gap": 359, "labelY": 5.983333333333333, "labelText": "P. BILBAO LOPEZ  (+5min 59s)", "Overall Gap Min": 5, "Final Rank": 6}, {"Stage": 7, "Rank": 20, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27, "Overall Rank": 5, "Overall Time": 108042, "Overall Gap": 199, "labelY": 3.316666666666667, "labelText": "C. RODRIGUEZ CANO  (+3min 19s)", "Overall Gap Min": 3, "Final Rank": 4}, {"Stage": 7, "Rank": 21, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71, "Overall Rank": 3, "Overall Time": 107944, "Overall Gap": 101, "labelY": 1.6833333333333333, "labelText": "J. HINDLEY  (+1min 41s)", "Overall Gap Min": 1, "Final Rank": 7}, {"Stage": 7, "Rank": 22, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1, "Overall Rank": 1, "Overall Time": 107843, "Overall Gap": 0, "labelY": 0.0, "labelText": "J. VINGEGAARD ", "Overall Gap Min": 0, "Final Rank": 1}, {"Stage": 7, "Rank": 25, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11, "Overall Rank": 2, "Overall Time": 107883, "Overall Gap": 40, "labelY": 0.6666666666666666, "labelText": "T. POGA\u010cAR  (+0min 40s)", "Overall Gap Min": 0, "Final Rank": 2}, {"Stage": 7, "Rank": 33, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19, "Overall Rank": 6, "Overall Time": 108062, "Overall Gap": 219, "labelY": 3.65, "labelText": "A. YATES  (+3min 39s)", "Overall Gap Min": 3, "Final Rank": 3}, {"Stage": 7, "Rank": 40, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31, "Overall Rank": 7, "Overall Time": 108075, "Overall Gap": 232, "labelY": 3.8666666666666667, "labelText": "D. GAUDU  (+3min 52s)", "Overall Gap Min": 3, "Final Rank": 10}, {"Stage": 7, "Rank": 50, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4, "Overall Rank": 10, "Overall Time": 108160, "Overall Gap": 317, "labelY": 5.283333333333333, "labelText": "S. KUSS  (+5min 17s)", "Overall Gap Min": 5, "Final Rank": 9}, {"Stage": 7, "Rank": 56, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95, "Overall Rank": 20, "Overall Time": 108340, "Overall Gap": 497, "labelY": 8.283333333333333, "labelText": "F. GALL  (+8min 17s)", "Overall Gap Min": 8, "Final Rank": 8}, {"Stage": 7, "Rank": 58, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161, "Overall Rank": 4, "Overall Time": 108034, "Overall Gap": 191, "labelY": 3.183333333333333, "labelText": "S. YATES  (+3min 11s)", "Overall Gap Min": 3, "Final Rank": 5}, {"Stage": 7, "Rank": 65, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65, "Overall Rank": 13, "Overall Time": 108202, "Overall Gap": 359, "labelY": 5.983333333333333, "labelText": "P. BILBAO LOPEZ  (+5min 59s)", "Overall Gap Min": 5, "Final Rank": 6}, {"Stage": 8, "Rank": 10, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11, "Overall Rank": 2, "Overall Time": 123029, "Overall Gap": 40, "labelY": 0.6666666666666666, "labelText": "T. POGA\u010cAR  (+0min 40s)", "Overall Gap Min": 0, "Final Rank": 2}, {"Stage": 8, "Rank": 18, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1, "Overall Rank": 1, "Overall Time": 122989, "Overall Gap": 0, "labelY": 0.0, "labelText": "J. VINGEGAARD ", "Overall Gap Min": 0, "Final Rank": 1}, {"Stage": 8, "Rank": 20, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31, "Overall Rank": 6, "Overall Time": 123221, "Overall Gap": 232, "labelY": 3.8666666666666667, "labelText": "D. GAUDU  (+3min 52s)", "Overall Gap Min": 3, "Final Rank": 10}, {"Stage": 8, "Rank": 21, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71, "Overall Rank": 3, "Overall Time": 123090, "Overall Gap": 101, "labelY": 1.6833333333333333, "labelText": "J. HINDLEY  (+1min 41s)", "Overall Gap Min": 1, "Final Rank": 7}, {"Stage": 8, "Rank": 27, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27, "Overall Rank": 4, "Overall Time": 123188, "Overall Gap": 199, "labelY": 3.316666666666667, "labelText": "C. RODRIGUEZ CANO  (+3min 19s)", "Overall Gap Min": 3, "Final Rank": 4}, {"Stage": 8, "Rank": 31, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19, "Overall Rank": 5, "Overall Time": 123208, "Overall Gap": 219, "labelY": 3.65, "labelText": "A. YATES  (+3min 39s)", "Overall Gap Min": 3, "Final Rank": 3}, {"Stage": 8, "Rank": 33, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4, "Overall Rank": 10, "Overall Time": 123306, "Overall Gap": 317, "labelY": 5.283333333333333, "labelText": "S. KUSS  (+5min 17s)", "Overall Gap Min": 5, "Final Rank": 9}, {"Stage": 8, "Rank": 39, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65, "Overall Rank": 11, "Overall Time": 123348, "Overall Gap": 359, "labelY": 5.983333333333333, "labelText": "P. BILBAO LOPEZ  (+5min 59s)", "Overall Gap Min": 5, "Final Rank": 6}, {"Stage": 8, "Rank": 43, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95, "Overall Rank": 18, "Overall Time": 123486, "Overall Gap": 497, "labelY": 8.283333333333333, "labelText": "F. GALL  (+8min 17s)", "Overall Gap Min": 8, "Final Rank": 8}, {"Stage": 8, "Rank": 61, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161, "Overall Rank": 7, "Overall Time": 123227, "Overall Gap": 238, "labelY": 3.966666666666667, "labelText": "S. YATES  (+3min 58s)", "Overall Gap Min": 3, "Final Rank": 5}, {"Stage": 9, "Rank": 13, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11, "Overall Rank": 2, "Overall Time": 139109, "Overall Gap": 32, "labelY": 0.5333333333333333, "labelText": "T. POGA\u010cAR  (+0min 32s)", "Overall Gap Min": 0, "Final Rank": 2}, {"Stage": 9, "Rank": 14, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1, "Overall Rank": 1, "Overall Time": 139077, "Overall Gap": 0, "labelY": 0.0, "labelText": "J. VINGEGAARD ", "Overall Gap Min": 0, "Final Rank": 1}, {"Stage": 9, "Rank": 15, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161, "Overall Rank": 6, "Overall Time": 139358, "Overall Gap": 281, "labelY": 4.683333333333334, "labelText": "S. YATES  (+4min 41s)", "Overall Gap Min": 4, "Final Rank": 5}, {"Stage": 9, "Rank": 17, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27, "Overall Rank": 4, "Overall Time": 139328, "Overall Gap": 251, "labelY": 4.183333333333334, "labelText": "C. RODRIGUEZ CANO  (+4min 11s)", "Overall Gap Min": 4, "Final Rank": 4}, {"Stage": 9, "Rank": 18, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19, "Overall Rank": 5, "Overall Time": 139355, "Overall Gap": 278, "labelY": 4.633333333333334, "labelText": "A. YATES  (+4min 38s)", "Overall Gap Min": 4, "Final Rank": 3}, {"Stage": 9, "Rank": 19, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71, "Overall Rank": 3, "Overall Time": 139244, "Overall Gap": 167, "labelY": 2.783333333333333, "labelText": "J. HINDLEY  (+2min 47s)", "Overall Gap Min": 2, "Final Rank": 7}, {"Stage": 9, "Rank": 20, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4, "Overall Rank": 9, "Overall Time": 139471, "Overall Gap": 394, "labelY": 6.566666666666666, "labelText": "S. KUSS  (+6min 34s)", "Overall Gap Min": 6, "Final Rank": 9}, {"Stage": 9, "Rank": 21, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95, "Overall Rank": 16, "Overall Time": 139661, "Overall Gap": 584, "labelY": 9.733333333333333, "labelText": "F. GALL  (+9min 44s)", "Overall Gap Min": 9, "Final Rank": 8}, {"Stage": 9, "Rank": 22, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65, "Overall Rank": 11, "Overall Time": 139523, "Overall Gap": 446, "labelY": 7.433333333333334, "labelText": "P. BILBAO LOPEZ  (+7min 26s)", "Overall Gap Min": 7, "Final Rank": 6}, {"Stage": 9, "Rank": 25, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31, "Overall Rank": 8, "Overall Time": 139427, "Overall Gap": 350, "labelY": 5.833333333333333, "labelText": "D. GAUDU  (+5min 50s)", "Overall Gap Min": 5, "Final Rank": 10}, {"Stage": 10, "Rank": 1, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65, "Overall Rank": 5, "Overall Time": 153477, "Overall Gap": 273, "labelY": 4.55, "labelText": "P. BILBAO LOPEZ  (+4min 33s)", "Overall Gap Min": 4, "Final Rank": 6}, {"Stage": 10, "Rank": 21, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1, "Overall Rank": 1, "Overall Time": 153204, "Overall Gap": 0, "labelY": 0.0, "labelText": "J. VINGEGAARD ", "Overall Gap Min": 0, "Final Rank": 1}, {"Stage": 10, "Rank": 22, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71, "Overall Rank": 3, "Overall Time": 153371, "Overall Gap": 167, "labelY": 2.783333333333333, "labelText": "J. HINDLEY  (+2min 47s)", "Overall Gap Min": 2, "Final Rank": 7}, {"Stage": 10, "Rank": 27, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11, "Overall Rank": 2, "Overall Time": 153236, "Overall Gap": 32, "labelY": 0.5333333333333333, "labelText": "T. POGA\u010cAR  (+0min 32s)", "Overall Gap Min": 0, "Final Rank": 2}, {"Stage": 10, "Rank": 30, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4, "Overall Rank": 10, "Overall Time": 153598, "Overall Gap": 394, "labelY": 6.566666666666666, "labelText": "S. KUSS  (+6min 34s)", "Overall Gap Min": 6, "Final Rank": 9}, {"Stage": 10, "Rank": 31, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31, "Overall Rank": 9, "Overall Time": 153554, "Overall Gap": 350, "labelY": 5.833333333333333, "labelText": "D. GAUDU  (+5min 50s)", "Overall Gap Min": 5, "Final Rank": 10}, {"Stage": 10, "Rank": 32, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27, "Overall Rank": 4, "Overall Time": 153455, "Overall Gap": 251, "labelY": 4.183333333333334, "labelText": "C. RODRIGUEZ CANO  (+4min 11s)", "Overall Gap Min": 4, "Final Rank": 4}, {"Stage": 10, "Rank": 36, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19, "Overall Rank": 6, "Overall Time": 153482, "Overall Gap": 278, "labelY": 4.633333333333334, "labelText": "A. YATES  (+4min 38s)", "Overall Gap Min": 4, "Final Rank": 3}, {"Stage": 10, "Rank": 44, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161, "Overall Rank": 7, "Overall Time": 153485, "Overall Gap": 281, "labelY": 4.683333333333334, "labelText": "S. YATES  (+4min 41s)", "Overall Gap Min": 4, "Final Rank": 5}, {"Stage": 10, "Rank": 54, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95, "Overall Rank": 16, "Overall Time": 153788, "Overall Gap": 584, "labelY": 9.733333333333333, "labelText": "F. GALL  (+9min 44s)", "Overall Gap Min": 9, "Final Rank": 8}, {"Stage": 11, "Rank": 18, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1, "Overall Rank": 1, "Overall Time": 167678, "Overall Gap": 0, "labelY": 0.0, "labelText": "J. VINGEGAARD ", "Overall Gap Min": 0, "Final Rank": 1}, {"Stage": 11, "Rank": 20, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11, "Overall Rank": 2, "Overall Time": 167710, "Overall Gap": 32, "labelY": 0.5333333333333333, "labelText": "T. POGA\u010cAR  (+0min 32s)", "Overall Gap Min": 0, "Final Rank": 2}, {"Stage": 11, "Rank": 23, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31, "Overall Rank": 9, "Overall Time": 168028, "Overall Gap": 350, "labelY": 5.833333333333333, "labelText": "D. GAUDU  (+5min 50s)", "Overall Gap Min": 5, "Final Rank": 10}, {"Stage": 11, "Rank": 24, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71, "Overall Rank": 3, "Overall Time": 167845, "Overall Gap": 167, "labelY": 2.783333333333333, "labelText": "J. HINDLEY  (+2min 47s)", "Overall Gap Min": 2, "Final Rank": 7}, {"Stage": 11, "Rank": 36, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95, "Overall Rank": 16, "Overall Time": 168262, "Overall Gap": 584, "labelY": 9.733333333333333, "labelText": "F. GALL  (+9min 44s)", "Overall Gap Min": 9, "Final Rank": 8}, {"Stage": 11, "Rank": 38, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65, "Overall Rank": 5, "Overall Time": 167951, "Overall Gap": 273, "labelY": 4.55, "labelText": "P. BILBAO LOPEZ  (+4min 33s)", "Overall Gap Min": 4, "Final Rank": 6}, {"Stage": 11, "Rank": 44, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27, "Overall Rank": 4, "Overall Time": 167929, "Overall Gap": 251, "labelY": 4.183333333333334, "labelText": "C. RODRIGUEZ CANO  (+4min 11s)", "Overall Gap Min": 4, "Final Rank": 4}, {"Stage": 11, "Rank": 46, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4, "Overall Rank": 10, "Overall Time": 168072, "Overall Gap": 394, "labelY": 6.566666666666666, "labelText": "S. KUSS  (+6min 34s)", "Overall Gap Min": 6, "Final Rank": 9}, {"Stage": 11, "Rank": 47, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19, "Overall Rank": 6, "Overall Time": 167956, "Overall Gap": 278, "labelY": 4.633333333333334, "labelText": "A. YATES  (+4min 38s)", "Overall Gap Min": 4, "Final Rank": 3}, {"Stage": 11, "Rank": 48, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161, "Overall Rank": 7, "Overall Time": 167959, "Overall Gap": 281, "labelY": 4.683333333333334, "labelText": "S. YATES  (+4min 41s)", "Overall Gap Min": 4, "Final Rank": 5}, {"Stage": 12, "Rank": 12, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11, "Overall Rank": 2, "Overall Time": 181866, "Overall Gap": 32, "labelY": 0.5333333333333333, "labelText": "T. POGA\u010cAR  (+0min 32s)", "Overall Gap Min": 0, "Final Rank": 2}, {"Stage": 12, "Rank": 16, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1, "Overall Rank": 1, "Overall Time": 181834, "Overall Gap": 0, "labelY": 0.0, "labelText": "J. VINGEGAARD ", "Overall Gap Min": 0, "Final Rank": 1}, {"Stage": 12, "Rank": 18, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19, "Overall Rank": 6, "Overall Time": 182112, "Overall Gap": 278, "labelY": 4.633333333333334, "labelText": "A. YATES  (+4min 38s)", "Overall Gap Min": 4, "Final Rank": 3}, {"Stage": 12, "Rank": 22, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4, "Overall Rank": 11, "Overall Time": 182228, "Overall Gap": 394, "labelY": 6.566666666666666, "labelText": "S. KUSS  (+6min 34s)", "Overall Gap Min": 6, "Final Rank": 9}, {"Stage": 12, "Rank": 23, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27, "Overall Rank": 4, "Overall Time": 182085, "Overall Gap": 251, "labelY": 4.183333333333334, "labelText": "C. RODRIGUEZ CANO  (+4min 11s)", "Overall Gap Min": 4, "Final Rank": 4}, {"Stage": 12, "Rank": 24, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31, "Overall Rank": 9, "Overall Time": 182184, "Overall Gap": 350, "labelY": 5.833333333333333, "labelText": "D. GAUDU  (+5min 50s)", "Overall Gap Min": 5, "Final Rank": 10}, {"Stage": 12, "Rank": 26, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71, "Overall Rank": 3, "Overall Time": 182001, "Overall Gap": 167, "labelY": 2.783333333333333, "labelText": "J. HINDLEY  (+2min 47s)", "Overall Gap Min": 2, "Final Rank": 7}, {"Stage": 12, "Rank": 34, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95, "Overall Rank": 17, "Overall Time": 182418, "Overall Gap": 584, "labelY": 9.733333333333333, "labelText": "F. GALL  (+9min 44s)", "Overall Gap Min": 9, "Final Rank": 8}, {"Stage": 12, "Rank": 35, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161, "Overall Rank": 7, "Overall Time": 182115, "Overall Gap": 281, "labelY": 4.683333333333334, "labelText": "S. YATES  (+4min 41s)", "Overall Gap Min": 4, "Final Rank": 5}, {"Stage": 12, "Rank": 47, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65, "Overall Rank": 5, "Overall Time": 182107, "Overall Gap": 273, "labelY": 4.55, "labelText": "P. BILBAO LOPEZ  (+4min 33s)", "Overall Gap Min": 4, "Final Rank": 6}, {"Stage": 13, "Rank": 3, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11, "Overall Rank": 2, "Overall Time": 193769, "Overall Gap": 28, "labelY": 0.4666666666666667, "labelText": "T. POGA\u010cAR  (+0min 28s)", "Overall Gap Min": 0, "Final Rank": 2}, {"Stage": 13, "Rank": 4, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1, "Overall Rank": 1, "Overall Time": 193741, "Overall Gap": 0, "labelY": 0.0, "labelText": "J. VINGEGAARD ", "Overall Gap Min": 0, "Final Rank": 1}, {"Stage": 13, "Rank": 6, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71, "Overall Rank": 3, "Overall Time": 193919, "Overall Gap": 178, "labelY": 2.966666666666667, "labelText": "J. HINDLEY  (+2min 58s)", "Overall Gap Min": 2, "Final Rank": 7}, {"Stage": 13, "Rank": 9, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161, "Overall Rank": 5, "Overall Time": 194042, "Overall Gap": 301, "labelY": 5.016666666666667, "labelText": "S. YATES  (+5min 1s)", "Overall Gap Min": 5, "Final Rank": 5}, {"Stage": 13, "Rank": 10, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19, "Overall Rank": 6, "Overall Time": 194043, "Overall Gap": 302, "labelY": 5.033333333333333, "labelText": "A. YATES  (+5min 2s)", "Overall Gap Min": 5, "Final Rank": 3}, {"Stage": 13, "Rank": 11, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27, "Overall Rank": 4, "Overall Time": 194018, "Overall Gap": 277, "labelY": 4.616666666666666, "labelText": "C. RODRIGUEZ CANO  (+4min 37s)", "Overall Gap Min": 4, "Final Rank": 4}, {"Stage": 13, "Rank": 12, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4, "Overall Rank": 10, "Overall Time": 194161, "Overall Gap": 420, "labelY": 7.0, "labelText": "S. KUSS  (+7min 0s)", "Overall Gap Min": 7, "Final Rank": 9}, {"Stage": 13, "Rank": 14, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95, "Overall Rank": 14, "Overall Time": 194372, "Overall Gap": 631, "labelY": 10.516666666666667, "labelText": "F. GALL  (+10min 31s)", "Overall Gap Min": 10, "Final Rank": 8}, {"Stage": 13, "Rank": 16, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31, "Overall Rank": 9, "Overall Time": 194142, "Overall Gap": 401, "labelY": 6.683333333333334, "labelText": "D. GAUDU  (+6min 41s)", "Overall Gap Min": 6, "Final Rank": 10}, {"Stage": 13, "Rank": 17, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65, "Overall Rank": 7, "Overall Time": 194065, "Overall Gap": 324, "labelY": 5.4, "labelText": "P. BILBAO LOPEZ  (+5min 24s)", "Overall Gap Min": 5, "Final Rank": 6}, {"Stage": 14, "Rank": 1, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27, "Overall Rank": 3, "Overall Time": 208343, "Overall Gap": 272, "labelY": 4.533333333333333, "labelText": "C. RODRIGUEZ CANO  (+4min 32s)", "Overall Gap Min": 4, "Final Rank": 4}, {"Stage": 14, "Rank": 2, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11, "Overall Rank": 2, "Overall Time": 208099, "Overall Gap": 28, "labelY": 0.4666666666666667, "labelText": "T. POGA\u010cAR  (+0min 28s)", "Overall Gap Min": 0, "Final Rank": 2}, {"Stage": 14, "Rank": 3, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1, "Overall Rank": 1, "Overall Time": 208071, "Overall Gap": 0, "labelY": 0.0, "labelText": "J. VINGEGAARD ", "Overall Gap Min": 0, "Final Rank": 1}, {"Stage": 14, "Rank": 4, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19, "Overall Rank": 5, "Overall Time": 208378, "Overall Gap": 307, "labelY": 5.116666666666666, "labelText": "A. YATES  (+5min 7s)", "Overall Gap Min": 5, "Final Rank": 3}, {"Stage": 14, "Rank": 5, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4, "Overall Rank": 6, "Overall Time": 208543, "Overall Gap": 472, "labelY": 7.866666666666666, "labelText": "S. KUSS  (+7min 52s)", "Overall Gap Min": 7, "Final Rank": 9}, {"Stage": 14, "Rank": 6, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71, "Overall Rank": 4, "Overall Time": 208350, "Overall Gap": 279, "labelY": 4.65, "labelText": "J. HINDLEY  (+4min 39s)", "Overall Gap Min": 4, "Final Rank": 7}, {"Stage": 14, "Rank": 7, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95, "Overall Rank": 9, "Overall Time": 208803, "Overall Gap": 732, "labelY": 12.2, "labelText": "F. GALL  (+12min 12s)", "Overall Gap Min": 12, "Final Rank": 8}, {"Stage": 14, "Rank": 8, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65, "Overall Rank": 8, "Overall Time": 208589, "Overall Gap": 518, "labelY": 8.633333333333333, "labelText": "P. BILBAO LOPEZ  (+8min 38s)", "Overall Gap Min": 8, "Final Rank": 6}, {"Stage": 14, "Rank": 9, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161, "Overall Rank": 7, "Overall Time": 208568, "Overall Gap": 497, "labelY": 8.283333333333333, "labelText": "S. YATES  (+8min 17s)", "Overall Gap Min": 8, "Final Rank": 5}, {"Stage": 14, "Rank": 11, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31, "Overall Rank": 10, "Overall Time": 208824, "Overall Gap": 753, "labelY": 12.55, "labelText": "D. GAUDU  (+12min 33s)", "Overall Gap Min": 12, "Final Rank": 10}, {"Stage": 15, "Rank": 16, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11, "Overall Rank": 2, "Overall Time": 225308, "Overall Gap": 28, "labelY": 0.4666666666666667, "labelText": "T. POGA\u010cAR  (+0min 28s)", "Overall Gap Min": 0, "Final Rank": 2}, {"Stage": 15, "Rank": 17, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1, "Overall Rank": 1, "Overall Time": 225280, "Overall Gap": 0, "labelY": 0.0, "labelText": "J. VINGEGAARD ", "Overall Gap Min": 0, "Final Rank": 1}, {"Stage": 15, "Rank": 18, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19, "Overall Rank": 4, "Overall Time": 225607, "Overall Gap": 327, "labelY": 5.45, "labelText": "A. YATES  (+5min 27s)", "Overall Gap Min": 5, "Final Rank": 3}, {"Stage": 15, "Rank": 19, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27, "Overall Rank": 3, "Overall Time": 225590, "Overall Gap": 310, "labelY": 5.166666666666667, "labelText": "C. RODRIGUEZ CANO  (+5min 10s)", "Overall Gap Min": 5, "Final Rank": 4}, {"Stage": 15, "Rank": 20, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4, "Overall Rank": 6, "Overall Time": 225813, "Overall Gap": 533, "labelY": 8.883333333333333, "labelText": "S. KUSS  (+8min 53s)", "Overall Gap Min": 8, "Final Rank": 9}, {"Stage": 15, "Rank": 22, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31, "Overall Rank": 9, "Overall Time": 226104, "Overall Gap": 824, "labelY": 13.733333333333333, "labelText": "D. GAUDU  (+13min 44s)", "Overall Gap Min": 13, "Final Rank": 10}, {"Stage": 15, "Rank": 23, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65, "Overall Rank": 7, "Overall Time": 225878, "Overall Gap": 598, "labelY": 9.966666666666667, "labelText": "P. BILBAO LOPEZ  (+9min 58s)", "Overall Gap Min": 9, "Final Rank": 6}, {"Stage": 15, "Rank": 25, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71, "Overall Rank": 5, "Overall Time": 225673, "Overall Gap": 393, "labelY": 6.55, "labelText": "J. HINDLEY  (+6min 33s)", "Overall Gap Min": 6, "Final Rank": 7}, {"Stage": 15, "Rank": 26, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95, "Overall Rank": 11, "Overall Time": 226145, "Overall Gap": 865, "labelY": 14.416666666666666, "labelText": "F. GALL  (+14min 25s)", "Overall Gap Min": 14, "Final Rank": 8}, {"Stage": 15, "Rank": 27, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161, "Overall Rank": 8, "Overall Time": 225913, "Overall Gap": 633, "labelY": 10.55, "labelText": "S. YATES  (+10min 33s)", "Overall Gap Min": 10, "Final Rank": 5}, {"Stage": 16, "Rank": 1, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1, "Overall Rank": 1, "Overall Time": 227236, "Overall Gap": 0, "labelY": 0.0, "labelText": "J. VINGEGAARD ", "Overall Gap Min": 0, "Final Rank": 1}, {"Stage": 16, "Rank": 2, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11, "Overall Rank": 2, "Overall Time": 227362, "Overall Gap": 126, "labelY": 2.1, "labelText": "T. POGA\u010cAR  (+2min 6s)", "Overall Gap Min": 2, "Final Rank": 2}, {"Stage": 16, "Rank": 4, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65, "Overall Rank": 7, "Overall Time": 228009, "Overall Gap": 773, "labelY": 12.883333333333333, "labelText": "P. BILBAO LOPEZ  (+12min 53s)", "Overall Gap Min": 12, "Final Rank": 6}, {"Stage": 16, "Rank": 5, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161, "Overall Rank": 8, "Overall Time": 228047, "Overall Gap": 811, "labelY": 13.516666666666667, "labelText": "S. YATES  (+13min 31s)", "Overall Gap Min": 13, "Final Rank": 5}, {"Stage": 16, "Rank": 7, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19, "Overall Rank": 3, "Overall Time": 227755, "Overall Gap": 519, "labelY": 8.65, "labelText": "A. YATES  (+8min 39s)", "Overall Gap Min": 8, "Final Rank": 3}, {"Stage": 16, "Rank": 10, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31, "Overall Rank": 9, "Overall Time": 228271, "Overall Gap": 1035, "labelY": 17.25, "labelText": "D. GAUDU  (+17min 15s)", "Overall Gap Min": 17, "Final Rank": 10}, {"Stage": 16, "Rank": 12, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27, "Overall Rank": 4, "Overall Time": 227762, "Overall Gap": 526, "labelY": 8.766666666666667, "labelText": "C. RODRIGUEZ CANO  (+8min 46s)", "Overall Gap Min": 8, "Final Rank": 4}, {"Stage": 16, "Rank": 13, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95, "Overall Rank": 10, "Overall Time": 228321, "Overall Gap": 1085, "labelY": 18.083333333333332, "labelText": "F. GALL  (+18min 5s)", "Overall Gap Min": 18, "Final Rank": 8}, {"Stage": 16, "Rank": 14, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4, "Overall Rank": 6, "Overall Time": 227989, "Overall Gap": 753, "labelY": 12.55, "labelText": "S. KUSS  (+12min 33s)", "Overall Gap Min": 12, "Final Rank": 9}, {"Stage": 16, "Rank": 24, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71, "Overall Rank": 5, "Overall Time": 227906, "Overall Gap": 670, "labelY": 11.166666666666666, "labelText": "J. HINDLEY  (+11min 10s)", "Overall Gap Min": 11, "Final Rank": 7}, {"Stage": 17, "Rank": 1, "Rider": "F. GALL", "Team": "AG2R CITROEN TEAM", "Rider No.": 95, "Overall Rank": 8, "Overall Time": 245669, "Overall Gap": 973, "labelY": 16.216666666666665, "labelText": "F. GALL  (+16min 13s)", "Overall Gap Min": 16, "Final Rank": 8}, {"Stage": 17, "Rank": 2, "Rider": "S. YATES", "Team": "TEAM JAYCO ALULA", "Rider No.": 161, "Overall Rank": 5, "Overall Time": 245429, "Overall Gap": 733, "labelY": 12.216666666666667, "labelText": "S. YATES  (+12min 13s)", "Overall Gap Min": 12, "Final Rank": 5}, {"Stage": 17, "Rank": 3, "Rider": "P. BILBAO LOPEZ", "Team": "BAHRAIN VICTORIOUS", "Rider No.": 65, "Overall Rank": 6, "Overall Time": 245455, "Overall Gap": 759, "labelY": 13.0, "labelText": "P. BILBAO LOPEZ  (+12min 39s)", "Overall Gap Min": 12, "Final Rank": 6}, {"Stage": 17, "Rank": 4, "Rider": "J. VINGEGAARD", "Team": "JUMBO-VISMA", "Rider No.": 1, "Overall Rank": 1, "Overall Time": 244696, "Overall Gap": 0, "labelY": 0.0, "labelText": "J. VINGEGAARD ", "Overall Gap Min": 0, "Final Rank": 1}, {"Stage": 17, "Rank": 5, "Rider": "D. GAUDU", "Team": "GROUPAMA - FDJ", "Rider No.": 31, "Overall Rank": 10, "Overall Time": 245748, "Overall Gap": 1052, "labelY": 17.533333333333335, "labelText": "D. GAUDU  (+17min 32s)", "Overall Gap Min": 17, "Final Rank": 10}, {"Stage": 17, "Rank": 9, "Rider": "A. YATES", "Team": "UAE TEAM EMIRATES", "Rider No.": 19, "Overall Rank": 3, "Overall Time": 245326, "Overall Gap": 630, "labelY": 10.5, "labelText": "A. YATES  (+10min 30s)", "Overall Gap Min": 10, "Final Rank": 3}, {"Stage": 17, "Rank": 12, "Rider": "J. HINDLEY", "Team": "BORA - HANSGROHE", "Rider No.": 71, "Overall Rank": 7, "Overall Time": 245519, "Overall Gap": 823, "labelY": 13.716666666666667, "labelText": "J. HINDLEY  (+13min 43s)", "Overall Gap Min": 13, "Final Rank": 7}, {"Stage": 17, "Rank": 15, "Rider": "C. RODRIGUEZ CANO", "Team": "INEOS GRENADIERS", "Rider No.": 27, "Overall Rank": 4, "Overall Time": 245404, "Overall Gap": 708, "labelY": 11.5, "labelText": "C. RODRIGUEZ CANO  (+11min 48s)", "Overall Gap Min": 11, "Final Rank": 4}, {"Stage": 17, "Rank": 16, "Rider": "S. KUSS", "Team": "JUMBO-VISMA", "Rider No.": 4, "Overall Rank": 9, "Overall Time": 245680, "Overall Gap": 984, "labelY": 16.833333333333332, "labelText": "S. KUSS  (+16min 24s)", "Overall Gap Min": 16, "Final Rank": 9}, {"Stage": 17, "Rank": 22, "Rider": "T. POGA\u010cAR", "Team": "UAE TEAM EMIRATES", "Rider No.": 11, "Overall Rank": 2, "Overall Time": 245167, "Overall Gap": 471, "labelY": 7.85, "labelText": "T. POGA\u010cAR  (+7min 51s)", "Overall Gap Min": 7, "Final Rank": 2}]}}, {"theme": "default", "mode": "vega-lite"});
+</script>
+</div>
+</div>
+<div id="cell-4" class="cell" data-execution_count="343">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-display" data-execution_count="343">
+<pre><code>['J. VINGEGAARD',
+ 'T. POGAČAR',
+ 'A. YATES',
+ 'C. RODRIGUEZ CANO',
+ 'S. YATES',
+ 'P. BILBAO LOPEZ',
+ 'J. HINDLEY',
+ 'F. GALL',
+ 'S. KUSS',
+ 'D. GAUDU']</code></pre>
+</div>
+</div>
+
+
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    const typesetMath = (el) => {
+      if (window.MathJax) {
+        // MathJax Typeset
+        window.MathJax.typeset([el]);
+      } else if (window.katex) {
+        // KaTeX Render
+        var mathElements = el.getElementsByClassName("math");
+        var macros = [];
+        for (var i = 0; i < mathElements.length; i++) {
+          var texText = mathElements[i].firstChild;
+          if (mathElements[i].tagName == "SPAN") {
+            window.katex.render(texText.data, mathElements[i], {
+              displayMode: mathElements[i].classList.contains('display'),
+              throwOnError: false,
+              macros: macros,
+              fleqn: false
+            });
+          }
+        }
+      }
+    }
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        for (let i = 0; i < 2; i++) {
+          container.appendChild(note.children[i].cloneNode(true));
+        }
+        typesetMath(container);
+        return container.innerHTML
+      } else {
+        typesetMath(note);
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      typesetMath(note);
+      return note.innerHTML;
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+
+<div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

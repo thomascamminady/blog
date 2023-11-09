@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.433">
+<meta name="generator" content="quarto-1.4.446">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -24,7 +24,7 @@ ul.task-list li input[type="checkbox"] {
 }
 /* CSS for syntax highlighting */
 pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span { line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
 .sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
@@ -83,7 +83,13 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -118,6 +124,8 @@ cookieconsent.run({
   "notice_banner_reject_button_hide":false,
   "preferences_center_close_button_hide":false,
   "website_name":""
+  ,
+"language":"en"
   });
 });
 </script> 
@@ -126,19 +134,16 @@ cookieconsent.run({
 
 <meta property="og:title" content="Dr.&nbsp;Thomas Camminady - Nutriscore analysis">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://www.camminady.dev/contents/posts/nutri-score/main_files/figure-html/b12fce7a-1-image.png">
-<meta property="og:site-name" content="Dr. Thomas Camminady">
-<meta property="og:image:height" content="758">
-<meta property="og:image:width" content="1516">
+<meta property="og:site_name" content="Dr. Thomas Camminady">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../../../index.html">
     <span class="navbar-title">Dr.&nbsp;Thomas Camminady</span>
     </a>
@@ -150,45 +155,45 @@ cookieconsent.run({
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../../index.html" rel="" target="">
- <span class="menu-text">It’s me, hi!</span></a>
+    <a class="nav-link" href="../../../index.html"> 
+<span class="menu-text">It’s me, hi!</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../contents/cv.html" rel="" target="">
- <span class="menu-text">CV</span></a>
+    <a class="nav-link" href="../../../contents/CVen.pdf"> 
+<span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../contents/blog.html" rel="" target="">
- <span class="menu-text">Blog</span></a>
+    <a class="nav-link" href="../../../contents/blog.html"> 
+<span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../contents/datasets.html" rel="" target="">
- <span class="menu-text">Projects</span></a>
+    <a class="nav-link" href="../../../contents/datasets.html"> 
+<span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/thomascamminady" rel="" target=""><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/thomascamminady"> <i class="bi bi-github" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/in/camminady/" rel="" target=""><i class="bi bi-linkedin" role="img">
+    <a class="nav-link" href="https://www.linkedin.com/in/camminady/"> <i class="bi bi-linkedin" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/camminady" rel="" target=""><i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="https://twitter.com/camminady"> <i class="bi bi-twitter" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/thomascamminady/blog" rel="" target=""><i class="bi bi-code" role="img">
+    <a class="nav-link" href="https://github.com/thomascamminady/blog"> <i class="bi bi-code" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -211,7 +216,7 @@ cookieconsent.run({
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page">
 
     <div>
     <div class="quarto-title-meta-heading">Author</div>
@@ -231,10 +236,12 @@ cookieconsent.run({
   </div>
   
 
+
 </header>
 
-<div class="cell">
-<details>
+
+<div id="cell-1" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1"></a><span class="co"># %load_ext autoreload</span></span>
 <span id="cb1-2"><a href="#cb1-2"></a><span class="co"># %autoreload 2</span></span>
@@ -317,15 +324,15 @@ cookieconsent.run({
 </ul>
 <p>Executing all these steps, we are left with around 73k products and 175 columns corresponding to different data fields. Out of those 175 columns, 118 contain information about the nutrients (per 100g).</p>
 <p>Here’s how the number of products split up across the different Nutriscores.</p>
-<div class="cell">
-<details>
+<div id="cell-3" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1"></a>df.groupby(<span class="st">"nutriscore_grade"</span>, maintain_order<span class="op">=</span><span class="va">True</span>).count().sort(<span class="st">"nutriscore_grade"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
 <p>It is important to note, that products are listed in the data base multiple times, often because they occur in different portion sizes. For example, here are all products that are named “Snickers”.</p>
-<div class="cell">
-<details>
+<div id="cell-5" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb3"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1"></a>df.<span class="bu">filter</span>(pl.col(<span class="st">"product_name"</span>) <span class="op">==</span> <span class="st">"Snickers"</span>).select(<span class="st">"product_name"</span>, <span class="st">"quantity"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
@@ -336,8 +343,8 @@ cookieconsent.run({
 <p>The <a href="https://www.bmel.de/DE/themen/ernaehrung/lebensmittel-kennzeichnung/freiwillige-angaben-und-label/nutri-score/nutri-score_node.html">Nutriscore</a> shall serve as a tool that allows to quickly compare products. The score can be one of “A”, “B”, “C”, “D”, or “E”. However, there is also an actual numeric score underpinning the grade.</p>
 <p>(Note that while the official Nutriscore has a green-to-red scale, we are using a blue-to-red scale to ensure better readability for people with colorblindness.)</p>
 <p>This is shown in the next graph which presents the histogram of these numeric scores, colored by their Nutriscore grade.</p>
-<div class="cell">
-<details>
+<div id="cell-7" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb4"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1"></a>c <span class="op">=</span> <span class="st">"nutriscore_grade"</span></span>
 <span id="cb4-2"><a href="#cb4-2"></a>color <span class="op">=</span> (</span>
@@ -368,13 +375,13 @@ cookieconsent.run({
 <p>This mostly agrees with what I could find <a href="https://www.eurofins.de/food-analysis/food-news/food-testing-news/nutri-score/#">online</a></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="main_files/figure-html/b12fce7a-1-image.png" class="img-fluid figure-img" width="600"></p>
-<figcaption class="figure-caption">Nutriscore.jpeg</figcaption>
+<p><img src="main_files/figure-html/cell-8-1-image.png" class="img-fluid figure-img" width="600"></p>
+<figcaption>Nutriscore.jpeg</figcaption>
 </figure>
 </div>
 <p>Interestingly, there are a number of products that have an “E” grade but a lower numeric Nutriscore. Looking at a random selection of those, it seems that these are mostly beverages containing sugar.</p>
-<div class="cell">
-<details>
+<div id="cell-9" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb5"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1"></a><span class="bu">print</span>(</span>
 <span id="cb5-2"><a href="#cb5-2"></a>    df.<span class="bu">filter</span>(pl.col(<span class="st">"nutriscore_grade"</span>) <span class="op">==</span> <span class="st">"E"</span>)</span>
@@ -387,8 +394,8 @@ cookieconsent.run({
 </details>
 </div>
 <p>Next, we can have a look at some of the nutrients. Let’s plot fat per 100g against sugar per 100g and group everything by Nutriscore.</p>
-<div class="cell" data-page-layout="full">
-<details>
+<div id="cell-11" class="cell" data-page-layout="full">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb6"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1"></a>x <span class="op">=</span> <span class="st">"sugars_100g"</span></span>
 <span id="cb6-2"><a href="#cb6-2"></a>y <span class="op">=</span> <span class="st">"fat_100g"</span></span>
@@ -415,8 +422,8 @@ cookieconsent.run({
 </div>
 <p>Unsuprisingly, “D” and “E” grade products seem to contain more sugar and fat.</p>
 <p>Let’s look at a histogram of the contained calories (per 100g) next.</p>
-<div class="cell">
-<details>
+<div id="cell-14" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb7"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1"></a>alt.Chart(</span>
 <span id="cb7-2"><a href="#cb7-2"></a>    df.select(<span class="st">"nutriscore_grade"</span>, <span class="st">"nutriscore_score"</span>, <span class="st">"energy-kcal_100g"</span>).<span class="bu">filter</span>(</span>
@@ -435,8 +442,8 @@ cookieconsent.run({
 </details>
 </div>
 <p>Interestingly, there is a spike at around 300kcal for the “A” grade foods, let’s look at what they are.</p>
-<div class="cell">
-<details>
+<div id="cell-16" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb8"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb8-1"><a href="#cb8-1"></a>df.<span class="bu">filter</span>(pl.col(<span class="st">"nutriscore_grade"</span>) <span class="op">==</span> <span class="st">"A"</span>).<span class="bu">filter</span>(</span>
 <span id="cb8-2"><a href="#cb8-2"></a>    pl.col(<span class="st">"energy-kcal_100g"</span>).is_between(<span class="dv">300</span>, <span class="dv">350</span>)</span>
@@ -445,15 +452,15 @@ cookieconsent.run({
 </div>
 <p>This is containing a lot of pasta, cereal and rice, but also flour.</p>
 <p>Let’s have a look at the top ten healthiest foods, according to their Nutriscore.</p>
-<div class="cell">
-<details>
+<div id="cell-19" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb9"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb9-1"><a href="#cb9-1"></a>df.sort(<span class="st">"nutriscore_score"</span>).head(<span class="dv">10</span>)[<span class="st">"product_name"</span>].to_list()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
 <p>And of course the ten least healthy foods.</p>
-<div class="cell">
-<details>
+<div id="cell-21" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb10"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb10-1"><a href="#cb10-1"></a>df.sort(<span class="st">"nutriscore_score"</span>).tail(<span class="dv">10</span>)[<span class="st">"product_name"</span>].to_list()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
@@ -464,8 +471,8 @@ cookieconsent.run({
 <h1>Greenwashing?</h1>
 <p>Very frequently I can’t believe how a specific product got an “A” grade, like how does some chocolate get an “A” grade even though it is high of sugar. Is there any way that companies are cheating the system?</p>
 <p>Let’s have a look at all the products that contain the word “choco” and see if we find something.</p>
-<div class="cell">
-<details>
+<div id="cell-26" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb11"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb11-1"><a href="#cb11-1"></a>x <span class="op">=</span> <span class="st">"sugars_100g"</span></span>
 <span id="cb11-2"><a href="#cb11-2"></a>y <span class="op">=</span> <span class="st">"fat_100g"</span></span>
@@ -486,8 +493,8 @@ cookieconsent.run({
 </details>
 </div>
 <p>Hmm so this seems to suggest that “A” grades are actually properly assigned when sugar and fat content is low.</p>
-<div class="cell">
-<details>
+<div id="cell-28" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb12"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb12-1"><a href="#cb12-1"></a>x <span class="op">=</span> <span class="st">"sugars_100g"</span></span>
 <span id="cb12-2"><a href="#cb12-2"></a>y <span class="op">=</span> <span class="st">"fat_100g"</span></span>
@@ -508,8 +515,8 @@ cookieconsent.run({
 </details>
 </div>
 <p>How about “sweet snacks” (a label in the data frame) in general?</p>
-<div class="cell">
-<details>
+<div id="cell-30" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb13"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb13-1"><a href="#cb13-1"></a>x <span class="op">=</span> <span class="st">"sugars_100g"</span></span>
 <span id="cb13-2"><a href="#cb13-2"></a>y <span class="op">=</span> <span class="st">"fat_100g"</span></span>
@@ -532,8 +539,8 @@ cookieconsent.run({
 </details>
 </div>
 <p>What about vegan labels?</p>
-<div class="cell">
-<details>
+<div id="cell-32" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb14"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb14-1"><a href="#cb14-1"></a>x <span class="op">=</span> <span class="st">"sugars_100g"</span></span>
 <span id="cb14-2"><a href="#cb14-2"></a>y <span class="op">=</span> <span class="st">"fat_100g"</span></span>
@@ -557,8 +564,8 @@ cookieconsent.run({
 </details>
 </div>
 <p>Next is protein vs.&nbsp;sugar.</p>
-<div class="cell">
-<details>
+<div id="cell-34" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb15"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb15-1"><a href="#cb15-1"></a>x <span class="op">=</span> <span class="st">"sugars_100g"</span></span>
 <span id="cb15-2"><a href="#cb15-2"></a>y <span class="op">=</span> <span class="st">"proteins_100g"</span></span>
@@ -585,8 +592,8 @@ cookieconsent.run({
 <h1>Correlations</h1>
 <p>Let’s see which of the nutrients correlate with the Nutriscore.</p>
 <p>To do that, we pick all columns that contain ingredients about the nutrients and where at most 10% of the entries are null.</p>
-<div class="cell">
-<details>
+<div id="cell-38" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb16"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb16-1"><a href="#cb16-1"></a>d <span class="op">=</span> (</span>
 <span id="cb16-2"><a href="#cb16-2"></a>    (</span>
@@ -610,8 +617,8 @@ cookieconsent.run({
 </div>
 <p>So (saturated) fat is the best indicator for a Nutriscore.</p>
 <p>The obvious next question is, how well can we predict this. We’ll use simple <a href="https://scikit-learn.org/stable/modules/tree.html#decision-trees">Decision Trees</a>.</p>
-<div class="cell">
-<details>
+<div id="cell-40" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb17"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb17-1"><a href="#cb17-1"></a>columns_for_fitting <span class="op">=</span> [</span>
 <span id="cb17-2"><a href="#cb17-2"></a>    <span class="st">"energy-kcal_100g"</span>,</span>
@@ -629,8 +636,8 @@ cookieconsent.run({
 <span id="cb17-14"><a href="#cb17-14"></a><span class="co"># columns_for_fitting =columns</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
-<div class="cell">
-<details>
+<div id="cell-41" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb18"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb18-1"><a href="#cb18-1"></a>y <span class="op">=</span> df.select(<span class="st">"nutriscore_score"</span>).to_numpy().flatten()</span>
 <span id="cb18-2"><a href="#cb18-2"></a>logger.info(y.shape)</span>
@@ -702,8 +709,8 @@ cookieconsent.run({
 </details>
 </div>
 <p>A little underwhelming. Maybe adding information on the categories helps. Let’s find the top 20 labels and one-hot-encode them.</p>
-<div class="cell">
-<details>
+<div id="cell-43" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb19"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb19-1"><a href="#cb19-1"></a>lol_categories <span class="op">=</span> (</span>
 <span id="cb19-2"><a href="#cb19-2"></a>    df.select(<span class="st">"categories_en"</span>)</span>
@@ -733,8 +740,8 @@ cookieconsent.run({
 </details>
 </div>
 <p>Alright so we can now one-hot-encode these. Let’s run the classifier again, but now we add these labels. We can also check the correlation again.</p>
-<div class="cell">
-<details>
+<div id="cell-45" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb20"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb20-1"><a href="#cb20-1"></a>df_one_hot <span class="op">=</span> df.with_columns(</span>
 <span id="cb20-2"><a href="#cb20-2"></a>    (pl.col(<span class="st">"categories_en"</span>).<span class="bu">str</span>.to_lowercase().<span class="bu">str</span>.contains(x.lower()))</span>
@@ -841,8 +848,8 @@ cookieconsent.run({
 <span id="cb20-103"><a href="#cb20-103"></a>chart_v1 <span class="op">&amp;</span> new_chart</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
-<div class="cell">
-<details>
+<div id="cell-46" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb21"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb21-1"><a href="#cb21-1"></a>df_tree_full <span class="op">=</span> pl.concat(</span>
 <span id="cb21-2"><a href="#cb21-2"></a>    [</span>
@@ -852,8 +859,8 @@ cookieconsent.run({
 <span id="cb21-6"><a href="#cb21-6"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
-<div class="cell">
-<details>
+<div id="cell-47" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb22"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb22-1"><a href="#cb22-1"></a>alt.Chart(df_tree_full).mark_bar().encode(</span>
 <span id="cb22-2"><a href="#cb22-2"></a>    x<span class="op">=</span>alt.X(<span class="st">"err:Q"</span>).<span class="bu">bin</span>(step<span class="op">=</span><span class="dv">2</span>).axis(values<span class="op">=</span>np.arange(<span class="op">-</span><span class="dv">30</span>, <span class="dv">35</span>, <span class="dv">5</span>)),</span>
@@ -864,8 +871,8 @@ cookieconsent.run({
 <span id="cb22-7"><a href="#cb22-7"></a>).properties(width<span class="op">=</span><span class="dv">300</span>, height<span class="op">=</span><span class="dv">200</span>).resolve_scale(y<span class="op">=</span><span class="st">"independent"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
-<div class="cell">
-<details>
+<div id="cell-48" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb23"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb23-1"><a href="#cb23-1"></a>df_tree_full.groupby(<span class="st">"label"</span>, <span class="st">"model"</span>).agg(</span>
 <span id="cb23-2"><a href="#cb23-2"></a>    err_min<span class="op">=</span>pl.col(<span class="st">"err"</span>).<span class="bu">min</span>(),</span>
@@ -878,8 +885,8 @@ cookieconsent.run({
 </div>
 <p>This looks fine for now, with the one-hot-encoded model, the error is mostly acceptable.</p>
 <p>However, let’s try one more time, this time with classification instead of regression.</p>
-<div class="cell">
-<details>
+<div id="cell-50" class="cell">
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb24"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb24-1"><a href="#cb24-1"></a>df_one_hot <span class="op">=</span> df.with_columns(</span>
 <span id="cb24-2"><a href="#cb24-2"></a>    (pl.col(<span class="st">"categories_en"</span>).<span class="bu">str</span>.to_lowercase().<span class="bu">str</span>.contains(x.lower()))</span>
@@ -1071,10 +1078,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -1084,8 +1090,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -1098,6 +1113,128 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    const typesetMath = (el) => {
+      if (window.MathJax) {
+        // MathJax Typeset
+        window.MathJax.typeset([el]);
+      } else if (window.katex) {
+        // KaTeX Render
+        var mathElements = el.getElementsByClassName("math");
+        var macros = [];
+        for (var i = 0; i < mathElements.length; i++) {
+          var texText = mathElements[i].firstChild;
+          if (mathElements[i].tagName == "SPAN") {
+            window.katex.render(texText.data, mathElements[i], {
+              displayMode: mathElements[i].classList.contains('display'),
+              throwOnError: false,
+              macros: macros,
+              fleqn: false
+            });
+          }
+        }
+      }
+    }
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        for (let i = 0; i < 2; i++) {
+          container.appendChild(note.children[i].cloneNode(true));
+        }
+        typesetMath(container);
+        return container.innerHTML
+      } else {
+        typesetMath(note);
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      typesetMath(note);
+      return note.innerHTML;
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -1141,6 +1278,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -1166,6 +1304,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -1231,12 +1395,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">
       &nbsp;
     </div>   
-    <div class="nav-footer-center"><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="nav-footer-center">
+
+<div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
   </div>
 </footer>
+
 
 
 
