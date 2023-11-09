@@ -19,7 +19,8 @@ website:
     right:
       - index.qmd
       - text: "CV"
-        file: contents/cv.qmd
+        # file: contents/cv.qmd
+        file: contents/CVen.pdf
       - contents/blog.qmd
       - contents/datasets.qmd
       - icon: github
