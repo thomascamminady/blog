@@ -1,11 +1,12 @@
 ---
-title: "Traffic"
+title: ""
 format:
   html:
     page-layout: full
+    body-height: 1900px
 ---
 
 
 ```{=html}
-<iframe width="100%" height="150%" src="https://thomascamminady.github.io/traffic-balve-vis/" ></iframe>
+<iframe width="100%" height="1700px" src="https://thomascamminady.github.io/traffic-balve-vis/" ></iframe>
 ```
