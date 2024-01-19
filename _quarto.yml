@@ -23,6 +23,7 @@ website:
         file: contents/CVen.pdf
       - contents/blog.qmd
       - contents/datasets.qmd
+      - contents/traffic.qmd
       - icon: github
         href: https://github.com/thomascamminady
       - icon: linkedin

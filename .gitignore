@@ -174,3 +174,5 @@ contents/posts/nutri-score/.temporary_altair_data/
 /.quarto/
 /_site/
 /docs/
+.venv/
+logs/

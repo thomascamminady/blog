@@ -17,9 +17,9 @@ def one_hot_encode(
     )
 
     categories = []
-    for l in lol_categories:
-        if l is not None:
-            categories.extend(l)
+    for _l in lol_categories:
+        if _l is not None:
+            categories.extend(_l)
 
     hist = dict(collections.Counter(categories))
 
