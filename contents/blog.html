@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.446">
+<meta name="generator" content="quarto-1.4.545">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -64,6 +64,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -129,6 +130,33 @@ cookieconsent.run({
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
 <meta property="og:title" content="Dr.&nbsp;Thomas Camminady - Blog">
 <meta property="og:site_name" content="Dr. Thomas Camminady">
 </head>
@@ -165,6 +193,10 @@ cookieconsent.run({
   <li class="nav-item">
     <a class="nav-link" href="../contents/datasets.html"> 
 <span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../contents/traffic.html"> 
+<span class="menu-text">Traffic</span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/thomascamminady"> <i class="bi bi-github" role="img">
@@ -232,82 +264,25 @@ cookieconsent.run({
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1698238126981" data-listing-reading-time-sort="1" data-listing-word-count-sort="48">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1689285600000" data-listing-file-modified-sort="1705667459392" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1351">
 <div class="thumbnail">
-<p><a href="../contents/posts/drafts/dashboard.html"></a></p><a href="../contents/posts/drafts/dashboard.html">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="../contents/posts/drafts/dashboard.html"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../contents/posts/drafts/dashboard.html">Row</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../contents/posts/drafts/dashboard.html"></a>
-</div>
-<div class="listing-description">
-<a href="../contents/posts/drafts/dashboard.html"></a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="../contents/posts/drafts/dashboard.html"></a></p><a href="../contents/posts/drafts/dashboard.html">
-<div class="listing-author">
-Gapminder Analytics Group
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1689838788153">
-<div class="thumbnail">
-<p><a href="../contents/posts/tdf2023/main.html"></a></p><a href="../contents/posts/tdf2023/main.html">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="../contents/posts/tdf2023/main.html"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../contents/posts/tdf2023/main.html"></a>
-</h3>
-<div class="listing-subtitle">
-<a href="../contents/posts/tdf2023/main.html"></a>
-</div>
-<div class="listing-description">
-<a href="../contents/posts/tdf2023/main.html">
-<details class="code-fold">
-<summary>Code</summary>
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="im">import</span> pandas <span class="im">as</span> pd</span>
-<span id="cb1-2"><span class="im">import</span> polars <span class="im">as</span> pl</span>
-<span id="cb1-3"><span class="im">import</span> os</span>
-<span id="cb1-4"><span class="im">import</span> altair <span class="im">as</span> alt</span>
-<span id="cb1-5"><span class="im">import</span> polars.selectors <span class="im">as</span> cs</span>
-<span id="cb1-6"><span class="im">from</span> camminapy.plot <span class="im">import</span> altair_theme</span></code></pre></div>
-</details>
-</a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="../contents/posts/tdf2023/main.html"></a></p><a href="../contents/posts/tdf2023/main.html">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1689285600000" data-listing-file-modified-sort="1689324123879" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1351">
-<div class="thumbnail">
-<p><a href="../contents/posts/grammar-of-graphics/main.html"></a></p><a href="../contents/posts/grammar-of-graphics/main.html">
+<p><a href="../contents/posts/grammar-of-graphics/main.html" class="no-external"></a></p><a href="../contents/posts/grammar-of-graphics/main.html" class="no-external">
 <p class="card-img-top"><img src="posts/grammar-of-graphics/main_files/figure-html/cell-2-output-1.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="../contents/posts/grammar-of-graphics/main.html"></a></p>
+</a><p><a href="../contents/posts/grammar-of-graphics/main.html" class="no-external"></a></p>
 </div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../contents/posts/grammar-of-graphics/main.html">Grammar of Graphics in Mathematics</a>
+<a href="../contents/posts/grammar-of-graphics/main.html" class="no-external">Grammar of Graphics in Mathematics</a>
 </h3>
 <div class="listing-subtitle">
-<a href="../contents/posts/grammar-of-graphics/main.html"></a>
+<a href="../contents/posts/grammar-of-graphics/main.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-<a href="../contents/posts/grammar-of-graphics/main.html">Say you’re a mathematician and you want to plot <span class="math inline">\(sin(x)\)</span> and <span class="math inline">\(sin(x)\)</span>, how would you do that? You’d probably do something like this<sup>1</sup>:</a>
+<a href="../contents/posts/grammar-of-graphics/main.html" class="no-external">Say you’re a mathematician and you want to plot <span class="math inline">\(sin(x)\)</span> and <span class="math inline">\(sin(x)\)</span>, how would you do that? You’d probably do something like this<sup>1</sup>:</a>
 </div>
 </div>
 <div class="metadata">
-<a href="../contents/posts/grammar-of-graphics/main.html">
+<a href="../contents/posts/grammar-of-graphics/main.html" class="no-external">
 <div class="listing-date">
 Jul 14, 2023
 </div>
@@ -317,25 +292,25 @@ Thomas Camminady
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1689285600000" data-listing-file-modified-sort="1689327744853" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="198">
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1689285600000" data-listing-file-modified-sort="1705667459393" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="198">
 <div class="thumbnail">
-<p><a href="../contents/posts/heatmaps/main.html"></a></p><a href="../contents/posts/heatmaps/main.html">
+<p><a href="../contents/posts/heatmaps/main.html" class="no-external"></a></p><a href="../contents/posts/heatmaps/main.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="../contents/posts/heatmaps/main.html"></a></p>
+</a><p><a href="../contents/posts/heatmaps/main.html" class="no-external"></a></p>
 </div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../contents/posts/heatmaps/main.html">Quickly creating heatmaps with pandas</a>
+<a href="../contents/posts/heatmaps/main.html" class="no-external">Quickly creating heatmaps with pandas</a>
 </h3>
 <div class="listing-subtitle">
-<a href="../contents/posts/heatmaps/main.html"></a>
+<a href="../contents/posts/heatmaps/main.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-<a href="../contents/posts/heatmaps/main.html"><code>panda</code>’s <code>style</code> functionality is often a good enough replacement for a more sophisticated plotting library when all we want is a simple heatmap of two-dimensional data.</a>
+<a href="../contents/posts/heatmaps/main.html" class="no-external"><code>panda</code>’s <code>style</code> functionality is often a good enough replacement for a more sophisticated plotting library when all we want is a simple heatmap of two-dimensional data.</a>
 </div>
 </div>
 <div class="metadata">
-<a href="../contents/posts/heatmaps/main.html">
+<a href="../contents/posts/heatmaps/main.html" class="no-external">
 <div class="listing-date">
 Jul 14, 2023
 </div>
@@ -345,60 +320,25 @@ Thomas Camminady
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1689285600000" data-listing-file-modified-sort="1691135763747" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="78">
+<div class="quarto-post image-right" data-index="2" data-categories="analysis,nutriscore" data-listing-date-sort="1687989600000" data-listing-file-modified-sort="1705667676338" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="730">
 <div class="thumbnail">
-<p><a href="../contents/posts/playground.html"></a></p><a href="../contents/posts/playground.html">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="../contents/posts/playground.html"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../contents/posts/playground.html">Quickly creating heatmaps with pandas</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../contents/posts/playground.html"></a>
-</div>
-<div class="listing-description">
-<a href="../contents/posts/playground.html">
-<div class="sourceCode cell-code" id="cb1" data-startfrom="14" data-source-offset="-0"><pre class="sourceCode numberSource js number-lines code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 13;"><span id="cb1-14">data <span class="op">=</span> <span class="fu">FileAttachment</span>(<span class="st">"seattle-weather.csv"</span>)</span>
-<span id="cb1-15">  <span class="op">.</span><span class="fu">csv</span>({<span class="dt">typed</span><span class="op">:</span> <span class="kw">true</span>})</span>
-<span id="cb1-16"></span>
-<span id="cb1-17">Plot<span class="op">.</span><span class="fu">plot</span>({</span>
-<span id="cb1-18">  <span class="dt">width</span><span class="op">:</span> <span class="dv">800</span><span class="op">,</span> <span class="dt">height</span><span class="op">:</span> <span class="dv">500</span><span class="op">,</span> <span class="dt">padding</span><span class="op">:</span> <span class="dv">0</span><span class="op">,</span></span>
-<span id="cb1-19">  <span class="dt">color</span><span class="op">:</span> { <span class="dt">scheme</span><span class="op">:</span> <span class="st">"blues"</span><span class="op">,</span> <span class="dt">type</span><span class="op">:</span> <span class="st">"sqrt"</span>}<span class="op">,</span></span>
-<span id="cb1-20">  <span class="dt">y</span><span class="op">:</span> { <span class="dt">tick…</span><span class="op"></span><span class="kw"></span><span class="st"></span><span class="op"></span></span><span id="cb1-21"><span class="dt"></span><span class="op"></span></span><span id="cb1-22"><span class="op"></span><span class="fu"></span><span class="op"></span><span class="op"></span><span class="fu"></span><span class="dt"></span><span class="op"></span><span class="st"></span><span class="op"></span></span><span id="cb1-23"><span class="dt"></span><span class="op"></span><span class="kw"></span><span class="kw"></span><span class="bu"></span><span class="op"></span><span class="at"></span><span class="op"></span><span class="fu"></span><span class="op"></span></span><span id="cb1-24"><span class="dt"></span><span class="op"></span><span class="kw"></span><span class="kw"></span><span class="bu"></span><span class="op"></span><span class="at"></span><span class="op"></span><span class="fu"></span><span class="op"></span></span><span id="cb1-25"><span class="dt"></span><span class="op"></span><span class="st"></span><span class="op"></span></span><span id="cb1-26"><span class="dt"></span><span class="op"></span><span class="fl"></span></span><span id="cb1-27"></span><span id="cb1-28"></span><span id="cb1-29"></span></code></pre></div><div class="cell-output cell-output-display"><div><div id="ojs-cell-1-1" data-nodetype="declaration"></div></div></div><div class="cell-output cell-output-display"><div><div id="ojs-cell-1-2" data-nodetype="expression"></div></div></div></a>
-</div>
-</div>
-<div class="metadata">
-<a href="../contents/posts/playground.html">
-<div class="listing-date">
-Jul 14, 2023
-</div>
-<div class="listing-author">
-Thomas Camminady
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="analysis,nutriscore" data-listing-date-sort="1687989600000" data-listing-file-modified-sort="1689324236502" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="730">
-<div class="thumbnail">
-<p><a href="../contents/posts/nutri-score/main.html"></a></p><a href="../contents/posts/nutri-score/main.html">
+<p><a href="../contents/posts/nutri-score/main.html" class="no-external"></a></p><a href="../contents/posts/nutri-score/main.html" class="no-external">
 <p class="card-img-top"><img src="posts/nutri-score/main_files/figure-html/cell-8-1-image.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="../contents/posts/nutri-score/main.html"></a></p>
+</a><p><a href="../contents/posts/nutri-score/main.html" class="no-external"></a></p>
 </div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../contents/posts/nutri-score/main.html">Nutriscore analysis</a>
+<a href="../contents/posts/nutri-score/main.html" class="no-external">Nutriscore analysis</a>
 </h3>
 <div class="listing-subtitle">
-<a href="../contents/posts/nutri-score/main.html"></a>
+<a href="../contents/posts/nutri-score/main.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-<a href="../contents/posts/nutri-score/main.html">The data is taken from Open Food Facts where it is available for download under the Open Database License.</a>
+<a href="../contents/posts/nutri-score/main.html" class="no-external">The data is taken from Open Food Facts where it is available for download under the Open Database License.</a>
 </div>
 </div>
 <div class="metadata">
-<a href="../contents/posts/nutri-score/main.html">
+<a href="../contents/posts/nutri-score/main.html" class="no-external">
 <div class="listing-date">
 Jun 29, 2023
 </div>
@@ -408,25 +348,25 @@ Thomas Camminady
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="balve" data-listing-date-sort="1687903200000" data-listing-file-modified-sort="1689322702794" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="279">
+<div class="quarto-post image-right" data-index="3" data-categories="balve" data-listing-date-sort="1687903200000" data-listing-file-modified-sort="1705667459468" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="279">
 <div class="thumbnail">
-<p><a href="../contents/posts/verkehr/verkehr.html"></a></p><a href="../contents/posts/verkehr/verkehr.html">
+<p><a href="../contents/posts/verkehr/verkehr.html" class="no-external"></a></p><a href="../contents/posts/verkehr/verkehr.html" class="no-external">
 <p class="card-img-top"><img src="posts/verkehr/umleitung.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="../contents/posts/verkehr/verkehr.html"></a></p>
+</a><p><a href="../contents/posts/verkehr/verkehr.html" class="no-external"></a></p>
 </div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../contents/posts/verkehr/verkehr.html">Das Verkehrsproblem in Balve lösen</a>
+<a href="../contents/posts/verkehr/verkehr.html" class="no-external">Das Verkehrsproblem in Balve lösen</a>
 </h3>
 <div class="listing-subtitle">
-<a href="../contents/posts/verkehr/verkehr.html"></a>
+<a href="../contents/posts/verkehr/verkehr.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-<a href="../contents/posts/verkehr/verkehr.html">Einfache und günstige Maßnahmen können die Lebensqualität der Bürger:innen drastisch verbessern.</a>
+<a href="../contents/posts/verkehr/verkehr.html" class="no-external">Einfache und günstige Maßnahmen können die Lebensqualität der Bürger:innen drastisch verbessern.</a>
 </div>
 </div>
 <div class="metadata">
-<a href="../contents/posts/verkehr/verkehr.html">
+<a href="../contents/posts/verkehr/verkehr.html" class="no-external">
 <div class="listing-date">
 Jun 28, 2023
 </div>
@@ -436,25 +376,25 @@ Thomas Camminady
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1687903200000" data-listing-file-modified-sort="1688453695420" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="412">
+<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1687903200000" data-listing-file-modified-sort="1705667459393" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="412">
 <div class="thumbnail">
-<p><a href="../contents/posts/interactive-regression/interactive_regression.html"></a></p><a href="../contents/posts/interactive-regression/interactive_regression.html">
+<p><a href="../contents/posts/interactive-regression/interactive_regression.html" class="no-external"></a></p><a href="../contents/posts/interactive-regression/interactive_regression.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="../contents/posts/interactive-regression/interactive_regression.html"></a></p>
+</a><p><a href="../contents/posts/interactive-regression/interactive_regression.html" class="no-external"></a></p>
 </div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../contents/posts/interactive-regression/interactive_regression.html">Interactive regression</a>
+<a href="../contents/posts/interactive-regression/interactive_regression.html" class="no-external">Interactive regression</a>
 </h3>
 <div class="listing-subtitle">
-<a href="../contents/posts/interactive-regression/interactive_regression.html"></a>
+<a href="../contents/posts/interactive-regression/interactive_regression.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-<a href="../contents/posts/interactive-regression/interactive_regression.html">This example shows how to create an interactive plot with regression lines using <code>altair</code>. The regression lines will be computed over the window that is selected and update…</a>
+<a href="../contents/posts/interactive-regression/interactive_regression.html" class="no-external">This example shows how to create an interactive plot with regression lines using <code>altair</code>. The regression lines will be computed over the window that is selected and update…</a>
 </div>
 </div>
 <div class="metadata">
-<a href="../contents/posts/interactive-regression/interactive_regression.html">
+<a href="../contents/posts/interactive-regression/interactive_regression.html" class="no-external">
 <div class="listing-date">
 Jun 28, 2023
 </div>
@@ -464,25 +404,25 @@ Thomas Camminady
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="viz,education" data-listing-date-sort="1687298400000" data-listing-file-modified-sort="1688453695376" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="516">
+<div class="quarto-post image-right" data-index="5" data-categories="viz,education" data-listing-date-sort="1687298400000" data-listing-file-modified-sort="1705667459369" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="516">
 <div class="thumbnail">
-<p><a href="../contents/posts/gradeinflation/Abiturnoten.html"></a></p><a href="../contents/posts/gradeinflation/Abiturnoten.html">
+<p><a href="../contents/posts/gradeinflation/Abiturnoten.html" class="no-external"></a></p><a href="../contents/posts/gradeinflation/Abiturnoten.html" class="no-external">
 <p class="card-img-top"><img src="posts/gradeinflation/timeseries.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="../contents/posts/gradeinflation/Abiturnoten.html"></a></p>
+</a><p><a href="../contents/posts/gradeinflation/Abiturnoten.html" class="no-external"></a></p>
 </div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../contents/posts/gradeinflation/Abiturnoten.html">Abiturnoten inflation in Germany</a>
+<a href="../contents/posts/gradeinflation/Abiturnoten.html" class="no-external">Abiturnoten inflation in Germany</a>
 </h3>
 <div class="listing-subtitle">
-<a href="../contents/posts/gradeinflation/Abiturnoten.html"></a>
+<a href="../contents/posts/gradeinflation/Abiturnoten.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-<a href="../contents/posts/gradeinflation/Abiturnoten.html">The German Abitur - colloquially known as the ‘Abitur’ - represents the culmination of a student’s secondary education. This advanced level of high school education…</a>
+<a href="../contents/posts/gradeinflation/Abiturnoten.html" class="no-external">The German Abitur - colloquially known as the ‘Abitur’ - represents the culmination of a student’s secondary education. This advanced level of high school education…</a>
 </div>
 </div>
 <div class="metadata">
-<a href="../contents/posts/gradeinflation/Abiturnoten.html">
+<a href="../contents/posts/gradeinflation/Abiturnoten.html" class="no-external">
 <div class="listing-date">
 Jun 21, 2023
 </div>
@@ -492,25 +432,25 @@ Thomas Camminady
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="viz,sports" data-listing-date-sort="1686088800000" data-listing-file-modified-sort="1688453696232" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="639">
+<div class="quarto-post image-right" data-index="6" data-categories="viz,sports" data-listing-date-sort="1686088800000" data-listing-file-modified-sort="1705667459598" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="639">
 <div class="thumbnail">
-<p><a href="../contents/posts/world-records/records.html"></a></p><a href="../contents/posts/world-records/records.html">
+<p><a href="../contents/posts/world-records/records.html" class="no-external"></a></p><a href="../contents/posts/world-records/records.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="../contents/posts/world-records/records.html"></a></p>
+</a><p><a href="../contents/posts/world-records/records.html" class="no-external"></a></p>
 </div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../contents/posts/world-records/records.html">Track and Field World Record Progression</a>
+<a href="../contents/posts/world-records/records.html" class="no-external">Track and Field World Record Progression</a>
 </h3>
 <div class="listing-subtitle">
-<a href="../contents/posts/world-records/records.html"></a>
+<a href="../contents/posts/world-records/records.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-<a href="../contents/posts/world-records/records.html">The figure below show how the track and field world records have progressed over time.</a>
+<a href="../contents/posts/world-records/records.html" class="no-external">The figure below show how the track and field world records have progressed over time.</a>
 </div>
 </div>
 <div class="metadata">
-<a href="../contents/posts/world-records/records.html">
+<a href="../contents/posts/world-records/records.html" class="no-external">
 <div class="listing-date">
 Jun 7, 2023
 </div>
@@ -520,25 +460,25 @@ Thomas Camminady
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="data science" data-listing-date-sort="1677970800000" data-listing-file-modified-sort="1688453695643" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1862">
+<div class="quarto-post image-right" data-index="7" data-categories="data science" data-listing-date-sort="1677970800000" data-listing-file-modified-sort="1705667459466" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1862">
 <div class="thumbnail">
-<p><a href="../contents/posts/polars-vs-pandas/index.html"></a></p><a href="../contents/posts/polars-vs-pandas/index.html">
+<p><a href="../contents/posts/polars-vs-pandas/index.html" class="no-external"></a></p><a href="../contents/posts/polars-vs-pandas/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="../contents/posts/polars-vs-pandas/index.html"></a></p>
+</a><p><a href="../contents/posts/polars-vs-pandas/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../contents/posts/polars-vs-pandas/index.html">Comparing polars with pandas; my personal case study</a>
+<a href="../contents/posts/polars-vs-pandas/index.html" class="no-external">Comparing polars with pandas; my personal case study</a>
 </h3>
 <div class="listing-subtitle">
-<a href="../contents/posts/polars-vs-pandas/index.html"></a>
+<a href="../contents/posts/polars-vs-pandas/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-<a href="../contents/posts/polars-vs-pandas/index.html">A couple of weeks ago I came across <code>polars</code>, a “Lightning-fast DataFrame library for Rust and Python.” Since then, I have been playing around with it, trying to do some of my…<code></code><code></code></a>
+<a href="../contents/posts/polars-vs-pandas/index.html" class="no-external">A couple of weeks ago I came across <code>polars</code>, a “Lightning-fast DataFrame library for Rust and Python.” Since then, I have been playing around with it, trying to do some of my…<code></code><code></code></a>
 </div>
 </div>
 <div class="metadata">
-<a href="../contents/posts/polars-vs-pandas/index.html">
+<a href="../contents/posts/polars-vs-pandas/index.html" class="no-external">
 <div class="listing-date">
 Mar 5, 2023
 </div>
@@ -548,25 +488,25 @@ Thomas Camminady
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="tech" data-listing-date-sort="1677020400000" data-listing-file-modified-sort="1688453695420" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="289">
+<div class="quarto-post image-right" data-index="8" data-categories="tech" data-listing-date-sort="1677020400000" data-listing-file-modified-sort="1705667459394" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="289">
 <div class="thumbnail">
-<p><a href="../contents/posts/logitech-issue/index.html"></a></p><a href="../contents/posts/logitech-issue/index.html">
+<p><a href="../contents/posts/logitech-issue/index.html" class="no-external"></a></p><a href="../contents/posts/logitech-issue/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="../contents/posts/logitech-issue/index.html"></a></p>
+</a><p><a href="../contents/posts/logitech-issue/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../contents/posts/logitech-issue/index.html">Logitech MX Mechanical Mini for Mac: Issues with M1 Mac</a>
+<a href="../contents/posts/logitech-issue/index.html" class="no-external">Logitech MX Mechanical Mini for Mac: Issues with M1 Mac</a>
 </h3>
 <div class="listing-subtitle">
-<a href="../contents/posts/logitech-issue/index.html"></a>
+<a href="../contents/posts/logitech-issue/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-<a href="../contents/posts/logitech-issue/index.html">About two month ago, I bought a Logitech MX Mechanical Mini for Mac and it worked like a charm with my previous Intel Macbook Pro (2019). Last week I received a new work…</a>
+<a href="../contents/posts/logitech-issue/index.html" class="no-external">About two month ago, I bought a Logitech MX Mechanical Mini for Mac and it worked like a charm with my previous Intel Macbook Pro (2019). Last week I received a new work…</a>
 </div>
 </div>
 <div class="metadata">
-<a href="../contents/posts/logitech-issue/index.html">
+<a href="../contents/posts/logitech-issue/index.html" class="no-external">
 <div class="listing-date">
 Feb 22, 2023
 </div>
@@ -709,38 +649,28 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       }
     }
     stripColumnClz(note)
-    const typesetMath = (el) => {
-      if (window.MathJax) {
-        // MathJax Typeset
-        window.MathJax.typeset([el]);
-      } else if (window.katex) {
-        // KaTeX Render
-        var mathElements = el.getElementsByClassName("math");
-        var macros = [];
-        for (var i = 0; i < mathElements.length; i++) {
-          var texText = mathElements[i].firstChild;
-          if (mathElements[i].tagName == "SPAN") {
-            window.katex.render(texText.data, mathElements[i], {
-              displayMode: mathElements[i].classList.contains('display'),
-              throwOnError: false,
-              macros: macros,
-              fleqn: false
-            });
-          }
-        }
-      }
-    }
     if (id === null || id.startsWith('sec-')) {
       // Special case sections, only their first couple elements
       const container = document.createElement("div");
       if (note.children && note.children.length > 2) {
-        for (let i = 0; i < 2; i++) {
-          container.appendChild(note.children[i].cloneNode(true));
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
         }
-        typesetMath(container);
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
         return container.innerHTML
       } else {
-        typesetMath(note);
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
         return note.innerHTML;
       }
     } else {
@@ -749,8 +679,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (anchorLink) {
         anchorLink.remove();
       }
-      typesetMath(note);
-      return note.innerHTML;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {

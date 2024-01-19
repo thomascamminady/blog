@@ -2,66 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.camminady.dev/index.html</loc>
-    <lastmod>2023-11-09T09:51:59.405Z</lastmod>
+    <lastmod>2024-01-19T12:30:59.598Z</lastmod>
   </url>
   <url>
-    <loc>https://www.camminady.dev/contents/cv.html</loc>
-    <lastmod>2023-07-04T07:37:55.368Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/playground.html</loc>
-    <lastmod>2023-08-04T07:56:03.747Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/heatmaps/main.html</loc>
-    <lastmod>2023-07-14T09:42:24.853Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/tdf2023/main.html</loc>
-    <lastmod>2023-07-20T07:39:48.153Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/polars-vs-pandas/index.html</loc>
-    <lastmod>2023-07-04T06:54:55.643Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/world-records/records.html</loc>
-    <lastmod>2023-07-04T06:54:56.232Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/gradeinflation/Abiturnoten.html</loc>
-    <lastmod>2023-07-04T06:54:55.376Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/drafts/dashboard.html</loc>
-    <lastmod>2023-10-25T12:48:46.981Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/logitech-issue/index.html</loc>
-    <lastmod>2023-07-04T06:54:55.420Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/verkehr/verkehr.html</loc>
-    <lastmod>2023-07-14T08:18:22.794Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/grammar-of-graphics/main.html</loc>
-    <lastmod>2023-07-14T08:42:03.879Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/interactive-regression/interactive_regression.html</loc>
-    <lastmod>2023-07-04T06:54:55.420Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.camminady.dev/contents/posts/nutri-score/main.html</loc>
-    <lastmod>2023-07-14T08:43:56.502Z</lastmod>
+    <loc>https://www.camminady.dev/contents/traffic.html</loc>
+    <lastmod>2024-01-19T12:44:31.983Z</lastmod>
   </url>
   <url>
     <loc>https://www.camminady.dev/contents/datasets.html</loc>
-    <lastmod>2023-07-12T09:58:56.311Z</lastmod>
+    <lastmod>2024-01-19T12:30:59.368Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/posts/heatmaps/main.html</loc>
+    <lastmod>2024-01-19T12:30:59.393Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/posts/polars-vs-pandas/index.html</loc>
+    <lastmod>2024-01-19T12:30:59.466Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/posts/world-records/records.html</loc>
+    <lastmod>2024-01-19T12:30:59.598Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/posts/logitech-issue/index.html</loc>
+    <lastmod>2024-01-19T12:30:59.394Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/posts/gradeinflation/Abiturnoten.html</loc>
+    <lastmod>2024-01-19T12:30:59.369Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/posts/verkehr/verkehr.html</loc>
+    <lastmod>2024-01-19T12:30:59.468Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/posts/grammar-of-graphics/main.html</loc>
+    <lastmod>2024-01-19T12:30:59.392Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/posts/interactive-regression/interactive_regression.html</loc>
+    <lastmod>2024-01-19T12:30:59.393Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/posts/nutri-score/main.html</loc>
+    <lastmod>2024-01-19T12:34:36.338Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.camminady.dev/contents/cv.html</loc>
+    <lastmod>2024-01-19T12:30:59.368Z</lastmod>
   </url>
   <url>
     <loc>https://www.camminady.dev/contents/blog.html</loc>
-    <lastmod>2023-07-14T08:18:22.789Z</lastmod>
+    <lastmod>2024-01-19T12:30:59.368Z</lastmod>
   </url>
 </urlset>
